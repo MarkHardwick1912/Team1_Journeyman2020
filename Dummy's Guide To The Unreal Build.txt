@@ -2,7 +2,8 @@ Dummy's Guide To The Unreal Build
 
 WHICH VERSION TO USE
 Firstly, When testing any new Mechanics/Systems in the build do it in a copied version of the BUILD VERSION
-from the GitHub.
+from the GitHub. This version is in the DESIGN branch, if you copy a version without most of the content make sure you change your branch to
+DESIGN.
 
 LOADING IN
 The Project loads into a base Motion Controller Test Level, this contains the VR controller Pawn which can be moved to 
