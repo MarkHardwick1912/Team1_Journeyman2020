@@ -1,0 +1,48 @@
+Dummy's Guide To The Unreal Build
+
+WHICH VERSION TO USE
+Firstly, When testing any new Mechanics/Systems in the build do it in a copied version of the BUILD VERSION
+from the GitHub.
+
+LOADING IN
+The Project loads into a base Motion Controller Test Level, this contains the VR controller Pawn which can be moved to 
+other created levels in the future.
+
+FILE SYSTEM
+The files in the CONTENT folder are colour coded:
+
+	YELLOW: These are the VR template files, they house the VR Pawn and Motion Controller Blueprints as well as the 
+	meshes and animations required for them
+
+	BLUE: Designer Files
+
+	RED: Artist Files
+
+	PURPLE: Files from the Character Team
+
+	GREEN: Files from the Animation Team
+
+The file system can be expanded upon when files are being uploaded to the master build
+
+IMPORTING FILES
+When importing files into the unreal editor go through this checklist:
+
+	1. If a folder suitable for the type of file you are uploading does not exist in the file system create
+	   one for your file type
+
+	2. If uploading multiple files for the same item i.e textures for an asset, place all of these into a single folder
+           you create
+
+	3. Follow the same naming convention that is layed out below
+
+NAMING CONVENTION
+The naming convention of all files should follow this layout:
+
+	1. A prefix for the type of file you are uploading e.g. BP (Blueprint), SM (Static Mesh)
+           
+	2. A name for the file you have imported e.g. VRController
+
+	3. Finally, end the name with your initials
+
+All three of these should have an underscore between them leading the a title such as:
+BP_VRController_MH
