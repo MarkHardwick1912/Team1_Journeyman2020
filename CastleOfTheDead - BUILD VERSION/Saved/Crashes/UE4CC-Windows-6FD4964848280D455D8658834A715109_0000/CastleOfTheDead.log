@@ -1,0 +1,943 @@
+﻿Log file open, 02/24/20 10:08:14
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CastleOfTheDead
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.469129
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.367s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Xeon(R) CPU E5-1650 v3 @ 3.50GHz, GPU: NVIDIA GeForce GTX 980 Ti
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.012s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.24-10.08.15:472][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.24-10.08.15:472][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.24-10.08.15:472][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/Saved/Config/Windows/Engine.ini]
+[2020.02.24-10.08.15:472][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.24-10.08.15:472][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.02.24-10.08.15:472][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2020.02.24-10.08.15:472][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2020.02.24-10.08.15:473][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.02.24-10.08.15:473][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2020.02.24-10.08.15:473][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2020.02.24-10.08.15:473][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2020.02.24-10.08.15:473][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/Saved/Config/Windows/Engine.ini]
+[2020.02.24-10.08.15:473][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/Saved/Config/Windows/Engine.ini]
+[2020.02.24-10.08.15:473][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.24-10.08.15:473][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.24-10.08.15:473][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.24-10.08.15:473][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.24-10.08.15:473][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.24-10.08.15:473][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.24-10.08.15:473][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.24-10.08.15:473][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.24-10.08.15:473][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.24-10.08.15:473][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.24-10.08.15:473][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.24-10.08.15:473][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.24-10.08.15:473][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.24-10.08.15:473][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/Saved/Config/Windows/Engine.ini]
+[2020.02.24-10.08.15:473][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.24-10.08.15:473][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.24-10.08.15:473][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.24-10.08.15:473][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.24-10.08.15:473][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.24-10.08.15:473][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.24-10.08.15:473][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2020.02.24-10.08.15:473][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.24-10.08.15:473][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.24-10.08.15:474][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2020.02.24-10.08.15:474][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.24-10.08.15:474][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.24-10.08.15:474][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.24-10.08.15:474][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.24-10.08.15:474][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/Saved/Config/Windows/Engine.ini]
+[2020.02.24-10.08.15:474][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/Saved/Config/Windows/Engine.ini]
+[2020.02.24-10.08.15:488][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/Saved/Config/Windows/Scalability.ini]
+[2020.02.24-10.08.15:488][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.24-10.08.15:488][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.24-10.08.15:488][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/Saved/Config/Windows/Scalability.ini]
+[2020.02.24-10.08.15:488][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.02.24-10.08.15:488][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/Saved/Config/Windows/Scalability.ini]
+[2020.02.24-10.08.15:488][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.24-10.08.15:488][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.24-10.08.15:488][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.24-10.08.15:488][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.24-10.08.15:488][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.24-10.08.15:488][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.24-10.08.15:488][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.24-10.08.15:488][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.24-10.08.15:488][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.24-10.08.15:488][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.24-10.08.15:489][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.24-10.08.15:489][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.24-10.08.15:489][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.24-10.08.15:489][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.24-10.08.15:489][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.24-10.08.15:489][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.24-10.08.15:489][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.24-10.08.15:489][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.24-10.08.15:489][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/Saved/Config/Windows/Scalability.ini]
+[2020.02.24-10.08.15:489][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.02.24-10.08.15:489][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.24-10.08.15:489][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.24-10.08.15:489][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.02.24-10.08.15:489][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.24-10.08.15:489][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.02.24-10.08.15:489][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.24-10.08.15:489][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.02.24-10.08.15:489][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.02.24-10.08.15:489][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.24-10.08.15:489][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.02.24-10.08.15:489][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.02.24-10.08.15:489][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.24-10.08.15:489][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.24-10.08.15:489][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.24-10.08.15:489][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.24-10.08.15:489][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.24-10.08.15:489][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.24-10.08.15:489][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.24-10.08.15:489][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.24-10.08.15:489][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.24-10.08.15:489][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.24-10.08.15:489][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.24-10.08.15:489][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.24-10.08.15:489][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.24-10.08.15:489][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.24-10.08.15:489][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.24-10.08.15:489][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.24-10.08.15:489][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.24-10.08.15:489][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.24-10.08.15:489][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/Saved/Config/Windows/Scalability.ini]
+[2020.02.24-10.08.15:489][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.24-10.08.15:489][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.24-10.08.15:489][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.24-10.08.15:489][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.24-10.08.15:489][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.24-10.08.15:489][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.24-10.08.15:489][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.24-10.08.15:489][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.24-10.08.15:489][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/Saved/Config/Windows/Scalability.ini]
+[2020.02.24-10.08.15:489][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.02.24-10.08.15:489][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.24-10.08.15:490][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.02.24-10.08.15:490][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.02.24-10.08.15:490][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.24-10.08.15:490][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.02.24-10.08.15:490][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.24-10.08.15:490][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.24-10.08.15:490][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.24-10.08.15:490][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.24-10.08.15:490][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.24-10.08.15:490][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.24-10.08.15:490][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.24-10.08.15:490][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/Saved/Config/Windows/Scalability.ini]
+[2020.02.24-10.08.15:490][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.24-10.08.15:490][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.24-10.08.15:490][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.24-10.08.15:490][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.24-10.08.15:544][  0]LogHAL: Display: Platform has ~ 32 GB [34271838208 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2020.02.24-10.08.15:544][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.24-10.08.15:544][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/Saved/Config/Windows/Scalability.ini]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/Saved/Config/Windows/Scalability.ini]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/Saved/Config/Windows/Scalability.ini]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/Saved/Config/Windows/Scalability.ini]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/Saved/Config/Windows/Scalability.ini]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.24-10.08.15:544][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.24-10.08.15:545][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.24-10.08.15:545][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.24-10.08.15:545][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.24-10.08.15:545][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/Saved/Config/Windows/Scalability.ini]
+[2020.02.24-10.08.15:545][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.02.24-10.08.15:545][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.24-10.08.15:545][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.02.24-10.08.15:545][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.02.24-10.08.15:545][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.24-10.08.15:545][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.02.24-10.08.15:545][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.24-10.08.15:545][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.24-10.08.15:545][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.24-10.08.15:545][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.24-10.08.15:545][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.24-10.08.15:545][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.24-10.08.15:545][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.24-10.08.15:545][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/Saved/Config/Windows/Scalability.ini]
+[2020.02.24-10.08.15:545][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.24-10.08.15:545][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.24-10.08.15:545][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.24-10.08.15:556][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.24-10.08.15:556][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/Saved/Config/Windows/Engine.ini]
+[2020.02.24-10.08.15:557][  0]LogInit: Computer: TU45018
+[2020.02.24-10.08.15:557][  0]LogInit: User: T7015697
+[2020.02.24-10.08.15:557][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.02.24-10.08.15:557][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.24-10.08.15:557][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.02.24-10.08.15:557][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.24-10.08.15:557][  0]LogMemory: Process Physical Memory: 106.23 MB used, 106.24 MB peak
+[2020.02.24-10.08.15:557][  0]LogMemory: Process Virtual Memory: 97.11 MB used, 97.11 MB peak
+[2020.02.24-10.08.15:557][  0]LogMemory: Physical Memory: 4453.02 MB used,  28231.16 MB free, 32684.17 MB total
+[2020.02.24-10.08.15:557][  0]LogMemory: Virtual Memory: 4674.45 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2020.02.24-10.08.15:697][  0]LogInit: Using OS detected language (en-GB).
+[2020.02.24-10.08.15:697][  0]LogInit: Using OS detected locale (en-GB).
+[2020.02.24-10.08.15:698][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.02.24-10.08.16:165][  0]LogStreaming: Display: Took  0.468s to InitEngineTextLocalization.
+[2020.02.24-10.08.16:165][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.24-10.08.16:276][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.24-10.08.16:276][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.24-10.08.18:290][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.24-10.08.18:290][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.24-10.08.18:348][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980 Ti' (Feature Level 11_0)
+[2020.02.24-10.08.18:348][  0]LogD3D11RHI:       6097/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.02.24-10.08.18:352][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.24-10.08.18:352][  0]LogD3D11RHI:       0/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.24-10.08.18:352][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.24-10.08.18:357][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.24-10.08.18:357][  0]LogD3D11RHI:     GPU DeviceId: 0x17c8 (for the marketing name, search the web for "GPU Device Id")
+[2020.02.24-10.08.18:357][  0]LogWindows: EnumDisplayDevices:
+[2020.02.24-10.08.18:357][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980 Ti' (P:1 D:1)
+[2020.02.24-10.08.18:358][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:1)
+[2020.02.24-10.08.18:358][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2020.02.24-10.08.18:359][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2020.02.24-10.08.18:359][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.02.24-10.08.18:359][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980 Ti
+[2020.02.24-10.08.18:359][  0]LogD3D11RHI:   Driver Version: 391.35 (internal:23.21.13.9135, unified:391.35)
+[2020.02.24-10.08.18:359][  0]LogD3D11RHI:      Driver Date: 3-23-2018
+[2020.02.24-10.08.18:359][  0]LogRHI: Texture pool is 4268 MB (70% of 6097 MB)
+[2020.02.24-10.08.18:391][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.24-10.08.18:406][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.02.24-10.08.19:024][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.02.24-10.08.19:038][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.02.24-10.08.19:052][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.02.24-10.08.19:067][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.02.24-10.08.19:099][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.02.24-10.08.19:118][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.02.24-10.08.19:132][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.02.24-10.08.19:147][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.02.24-10.08.19:153][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.02.24-10.08.19:246][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.24-10.08.19:246][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.24-10.08.19:246][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.24-10.08.19:246][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.24-10.08.19:246][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.24-10.08.19:246][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.24-10.08.19:246][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.24-10.08.19:246][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.24-10.08.19:246][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.24-10.08.19:246][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.24-10.08.19:246][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.24-10.08.19:246][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.24-10.08.19:246][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.24-10.08.19:246][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.24-10.08.19:246][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.24-10.08.19:246][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.24-10.08.19:246][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.24-10.08.19:246][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.02.24-10.08.19:248][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.02.24-10.08.19:344][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.02.24-10.08.19:344][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.02.24-10.08.19:370][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.02.24-10.08.19:370][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.02.24-10.08.19:383][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.02.24-10.08.19:414][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.02.24-10.08.19:430][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.02.24-10.08.19:466][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.02.24-10.08.19:555][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.02.24-10.08.19:555][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.02.24-10.08.19:555][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.24-10.08.19:701][  0]LogShaderCompilers: Guid format shader working directory is -36 characters bigger than the processId version (F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/Intermediate/Shaders/WorkingDirectory/14260/).
+[2020.02.24-10.08.19:701][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/T7015697/AppData/Local/Temp/UnrealShaderWorkingDir/35FFF5144298CE000E4F3BB14419A345/'.
+[2020.02.24-10.08.19:704][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.24-10.08.19:704][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.24-10.08.19:704][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.24-10.08.21:523][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.24-10.08.21:593][  0]LogDerivedDataCache: Loaded boot cache 0.07s 85MB C:/Users/T7015697/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.02.24-10.08.21:593][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/T7015697/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2020.02.24-10.08.21:593][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.24-10.08.21:593][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.24-10.08.21:593][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.24-10.08.21:593][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.24-10.08.21:638][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.24-10.08.21:639][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.24-10.08.21:639][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.24-10.08.21:651][  0]LogDerivedDataCache: Using Local data cache path C:/Users/T7015697/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.24-10.08.21:651][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.24-10.08.21:651][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.24-10.08.21:674][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.24-10.08.21:675][  0]LogSlate: Using FreeType 2.6.0
+[2020.02.24-10.08.21:684][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.24-10.08.21:908][  0]LogAssetRegistry: FAssetRegistry took 0.0341 seconds to start up
+[2020.02.24-10.08.22:232][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.24-10.08.22:508][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.02.24-10.08.22:511][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.02.24-10.08.22:511][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.24-10.08.22:511][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.24-10.08.22:511][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.02.24-10.08.22:538][  0]LogNetVersion: CastleOfTheDead 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 192157307)
+[2020.02.24-10.08.24:051][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.406484 seconds
+[2020.02.24-10.08.24:063][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2020.02.24-10.08.24:063][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2020.02.24-10.08.24:063][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.24-10.08.26:818][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.24-10.08.26:832][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.24-10.08.27:836][  0]SourceControl: Source control is disabled
+[2020.02.24-10.08.27:836][  0]SourceControl: Source control is disabled
+[2020.02.24-10.08.27:837][  0]SourceControl: Source control is disabled
+[2020.02.24-10.08.27:838][  0]SourceControl: Source control is disabled
+[2020.02.24-10.08.28:081][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.24-10.08.28:213][  0]LogOcInput: OculusInput pre-init called
+[2020.02.24-10.08.28:424][  0]LogEngine: Initializing Engine...
+[2020.02.24-10.08.28:427][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.24-10.08.28:431][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.02.24-10.08.28:431][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.02.24-10.08.28:431][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.001 s
+[2020.02.24-10.08.28:431][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.02.24-10.08.28:955][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.24-10.08.28:973][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.24-10.08.29:012][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.24-10.08.29:181][  0]LogInit: FAudioDevice initialized.
+[2020.02.24-10.08.29:181][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.24-10.08.29:514][  0]LogDerivedDataCache: Saved boot cache 0.33s 85MB C:/Users/T7015697/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.02.24-10.08.29:547][  0]LogInit: Texture streaming: Enabled
+[2020.02.24-10.08.29:584][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.24-10.08.29:608][  0]LogInit: Transaction tracking system initialized
+[2020.02.24-10.08.29:638][  0]BlueprintLog: New page: Editor Load
+[2020.02.24-10.08.29:743][  0]LocalizationService: Localization service is disabled
+[2020.02.24-10.08.31:126][  0]LogFileCache: Scanning file cache for directory 'F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/Content/' took 0.02s
+[2020.02.24-10.08.31:126][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.24-10.08.31:126][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.24-10.08.31:127][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.02.24-10.08.31:127][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.02.24-10.08.31:127][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.02.24-10.08.31:127][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.02.24-10.08.31:127][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.02.24-10.08.31:347][  0]SourceControl: Source control is disabled
+[2020.02.24-10.08.31:347][  0]Cmd: MAP LOAD FILE="F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.24-10.08.31:347][  0]LightingResults: New page: Lighting Build
+[2020.02.24-10.08.31:350][  0]MapCheck: New page: Map Check
+[2020.02.24-10.08.31:350][  0]LightingResults: New page: Lighting Build
+[2020.02.24-10.08.31:888][  0]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Texture/Textures/T_BasicGrid_M'
+[2020.02.24-10.08.31:888][  0]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Texture/Textures/T_BasicGrid_M' while loading F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/Content/Geometry/LevelGeometry/Materials/MaterialFunctions/Texture/Tex_SimpleGrid.uasset.
+[2020.02.24-10.08.31:888][  0]LoadErrors: Error: /Game/Geometry/LevelGeometry/Materials/MaterialFunctions/Texture/Tex_SimpleGrid : Can't find file for asset. /Game/LevelGeometry/Texture/Textures/T_BasicGrid_M
+[2020.02.24-10.08.31:889][  0]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Texture/Textures/T_BasicGrid_M'
+[2020.02.24-10.08.31:889][  0]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Texture/Textures/T_BasicGrid_M' while loading F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/Content/Geometry/LevelGeometry/Materials/MaterialFunctions/Texture/Tex_SimpleGrid.uasset.
+[2020.02.24-10.08.31:889][  0]LoadErrors: Error: /Game/Geometry/LevelGeometry/Materials/MaterialFunctions/Texture/Tex_SimpleGrid : Can't find file for asset. /Game/LevelGeometry/Texture/Textures/T_BasicGrid_M
+[2020.02.24-10.08.31:948][  0]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Texture/Textures/T_BasicGrid_M'
+[2020.02.24-10.08.31:949][  0]LoadErrors: Failed to load /Game/LevelGeometry/Texture/Textures/T_BasicGrid_M.T_BasicGrid_M Referenced by MaterialExpressionTextureObject_0
+[2020.02.24-10.08.31:949][  0]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Texture/Textures/T_BasicGrid_M' while loading NULL.
+[2020.02.24-10.08.31:949][  0]LoadErrors: Failed to load /Game/LevelGeometry/Texture/Textures/T_BasicGrid_M.T_BasicGrid_M Referenced by MaterialExpressionTextureObject_0
+[2020.02.24-10.08.32:304][  0]LogAIModule: Creating AISystem for world MotionControllerMap
+[2020.02.24-10.08.32:326][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.24-10.08.32:362][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.24-10.08.32:363][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.111ms to complete.
+[2020.02.24-10.08.32:363][  0]LogFileHelpers: Loading map 'MotionControllerMap' took 1.016
+[2020.02.24-10.08.32:547][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.24-10.08.32:555][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.24-10.08.32:562][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.24-10.08.32:569][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.24-10.08.32:585][  0]LogCollectionManager: Loaded 0 collections in 0.001645 seconds
+[2020.02.24-10.08.32:634][  0]LogFileCache: Scanning file cache for directory 'F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/Saved/Collections/' took 0.01s
+[2020.02.24-10.08.32:634][  0]LogFileCache: Scanning file cache for directory 'F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/Content/Developers/T7015697/Collections/' took 0.01s
+[2020.02.24-10.08.32:634][  0]LogFileCache: Scanning file cache for directory 'F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/Content/Collections/' took 0.00s
+[2020.02.24-10.08.32:634][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.02.24-10.08.32:654][  0]LogContentBrowser: Native class hierarchy populated in 0.0197 seconds. Added 2651 classes and 620 folders.
+[2020.02.24-10.08.32:674][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.24-10.08.32:690][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.24-10.08.32:705][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.24-10.08.32:728][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.24-10.08.32:737][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.24-10.08.32:745][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.24-10.08.32:753][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.24-10.08.32:760][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.24-10.08.32:768][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.24-10.08.32:777][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.24-10.08.32:789][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.24-10.08.32:798][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.24-10.08.32:806][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.24-10.08.32:818][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.24-10.08.32:826][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.24-10.08.32:833][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.24-10.08.32:840][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.24-10.08.32:866][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.24-10.08.32:874][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.24-10.08.32:881][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.24-10.08.32:889][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.24-10.08.32:916][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.24-10.08.32:923][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.24-10.08.32:937][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.24-10.08.32:946][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.24-10.08.32:953][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.24-10.08.32:960][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.24-10.08.33:150][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.24-10.08.33:165][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2020.02.24-10.08.34:821][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.02.24-10.08.34:863][  0]LogSlate: Took 0.005611 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.24-10.08.34:874][  0]LogSlate: Took 0.007556 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.24-10.08.34:888][  0]LogSlate: Took 0.007389 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.24-10.08.35:071][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.CastleOfTheDead
+[2020.02.24-10.08.35:071][  0]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2020.02.24-10.08.35:071][  0]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.21
+[2020.02.24-10.08.35:071][  0]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2020.02.24-10.08.35:071][  0]LogTemp: BranchPath = TU45018/C/Program Files/Epic Games/UE_4.21/Engine/Binaries --- GameBranchPath = TU45018/C/Program Files/Epic Games/UE_4.21/Engine/Binaries
+[2020.02.24-10.08.35:071][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\T7015697\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2020.02.24-10.08.35:071][  0]LogRenderer: Reallocating scene render targets to support 1208x652 Format 26 NumSamples 1 (Frame:1).
+[2020.02.24-10.08.35:224][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.24-10.08.35:275][  0]LogSlate: Window 'Tutorials' being destroyed
+[2020.02.24-10.08.35:308][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.24-10.08.35:308][  0]LogLoad: (Engine Initialization) Total time: 24.33 seconds
+[2020.02.24-10.08.35:308][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.24-10.08.35:398][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.24-10.08.35:402][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.24-10.08.35:683][  2]LogAssetRegistry: Asset discovery search completed in 13.7992 seconds
+[2020.02.24-10.08.35:684][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.02.24-10.08.35:684][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000040 seconds (updated 0 objects)
+[2020.02.24-10.08.36:854][ 73]LogSlate: Took 0.008496 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.24-10.08.39:484][365]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.24-10.08.43:574][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.24-10.09.29:168][957]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.24-10.13.34:416][294]LogSlate: Window 'Message Log' being destroyed
+[2020.02.24-10.13.34:420][294]LogSlate: Window 'Message Log' being destroyed
+[2020.02.24-10.13.49:307][ 30]LogLinker: Warning: Can't find file '/Game/Designers/Level_Maps/Harri/MP_Level_One_Point_Two_HCWS_BuiltData'
+[2020.02.24-10.13.49:307][ 30]LogLinker: Warning: Can't find file for asset '/Game/Designers/Level_Maps/Harri/MP_Level_One_Point_Two_HCWS_BuiltData' while loading F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/Content/Designers/Level_Maps/Harri/MP_Level_One_Point_Two_HCWS.umap.
+[2020.02.24-10.13.49:307][ 30]LoadErrors: Error: /Game/Designers/Level_Maps/Harri/MP_Level_One_Point_Two_HCWS : Can't find file for asset. /Game/Designers/Level_Maps/Harri/MP_Level_One_Point_Two_HCWS_BuiltData
+[2020.02.24-10.13.49:464][ 30]LogLinker: Warning: Can't find file '/Game/Designers/Level_Maps/Harri/MP_Level_One_Point_Two_HCWS_BuiltData'
+[2020.02.24-10.13.49:464][ 30]LogLinker: Warning: Can't find file for asset '/Game/Designers/Level_Maps/Harri/MP_Level_One_Point_Two_HCWS_BuiltData' while loading F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/Content/Designers/Level_Maps/Harri/MP_Level_One_Point_Two_HCWS.umap.
+[2020.02.24-10.13.49:482][ 30]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.02.24-10.13.49:482][ 30]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/Content/Geometry/LevelGeometry/SM_Arch.uasset.
+[2020.02.24-10.13.49:482][ 30]LoadErrors: Error: /Game/Geometry/LevelGeometry/SM_Arch : Can't find file for asset. /Game/LevelGeometry/Materials/Mat_LevelArchitecture
+[2020.02.24-10.13.49:483][ 30]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.02.24-10.13.49:483][ 30]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/Content/Geometry/LevelGeometry/SM_Arch.uasset.
+[2020.02.24-10.13.49:485][ 30]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.02.24-10.13.49:486][ 30]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/Content/Geometry/LevelGeometry/SM_ArchStyle2.uasset.
+[2020.02.24-10.13.49:486][ 30]LoadErrors: Error: /Game/Geometry/LevelGeometry/SM_ArchStyle2 : Can't find file for asset. /Game/LevelGeometry/Materials/Mat_LevelArchitecture
+[2020.02.24-10.13.49:486][ 30]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.02.24-10.13.49:486][ 30]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/Content/Geometry/LevelGeometry/SM_ArchStyle2.uasset.
+[2020.02.24-10.13.49:488][ 30]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.02.24-10.13.49:489][ 30]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/Content/Geometry/LevelGeometry/SM_Box.uasset.
+[2020.02.24-10.13.49:489][ 30]LoadErrors: Error: /Game/Geometry/LevelGeometry/SM_Box : Can't find file for asset. /Game/LevelGeometry/Materials/Mat_LevelArchitecture
+[2020.02.24-10.13.49:489][ 30]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.02.24-10.13.49:489][ 30]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/Content/Geometry/LevelGeometry/SM_Box.uasset.
+[2020.02.24-10.13.49:491][ 30]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.02.24-10.13.49:491][ 30]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/Content/Geometry/LevelGeometry/SM_CornerPiece1.uasset.
+[2020.02.24-10.13.49:491][ 30]LoadErrors: Error: /Game/Geometry/LevelGeometry/SM_CornerPiece1 : Can't find file for asset. /Game/LevelGeometry/Materials/Mat_LevelArchitecture
+[2020.02.24-10.13.49:492][ 30]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.02.24-10.13.49:492][ 30]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/Content/Geometry/LevelGeometry/SM_CornerPiece1.uasset.
+[2020.02.24-10.13.49:493][ 30]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.02.24-10.13.49:493][ 30]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/Content/Geometry/LevelGeometry/SM_CylinderCorner.uasset.
+[2020.02.24-10.13.49:493][ 30]LoadErrors: Error: /Game/Geometry/LevelGeometry/SM_CylinderCorner : Can't find file for asset. /Game/LevelGeometry/Materials/Mat_LevelArchitecture
+[2020.02.24-10.13.49:493][ 30]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.02.24-10.13.49:493][ 30]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/Content/Geometry/LevelGeometry/SM_CylinderCorner.uasset.
+[2020.02.24-10.13.49:495][ 30]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.02.24-10.13.49:495][ 30]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/Content/Geometry/LevelGeometry/SM_CylinderSplit.uasset.
+[2020.02.24-10.13.49:495][ 30]LoadErrors: Error: /Game/Geometry/LevelGeometry/SM_CylinderSplit : Can't find file for asset. /Game/LevelGeometry/Materials/Mat_LevelArchitecture
+[2020.02.24-10.13.49:495][ 30]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.02.24-10.13.49:495][ 30]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/Content/Geometry/LevelGeometry/SM_CylinderSplit.uasset.
+[2020.02.24-10.13.49:498][ 30]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.02.24-10.13.49:498][ 30]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/Content/Geometry/LevelGeometry/SM_Slope.uasset.
+[2020.02.24-10.13.49:498][ 30]LoadErrors: Error: /Game/Geometry/LevelGeometry/SM_Slope : Can't find file for asset. /Game/LevelGeometry/Materials/Mat_LevelArchitecture
+[2020.02.24-10.13.49:499][ 30]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.02.24-10.13.49:499][ 30]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/Content/Geometry/LevelGeometry/SM_Slope.uasset.
+[2020.02.24-10.13.49:503][ 30]LogLinker: Warning: Can't find file '/Game/Designers/Level_Maps/Harri/MP_Level_One_Point_Two_HCWS_BuiltData'
+[2020.02.24-10.13.49:503][ 30]LogLinker: Warning: Can't find file for asset '/Game/Designers/Level_Maps/Harri/MP_Level_One_Point_Two_HCWS_BuiltData' while loading NULL.
+[2020.02.24-10.13.49:504][ 30]LogLinker: Warning: Can't find file '/Game/Designers/Level_Maps/Harri/MP_Level_One_Point_Two_HCWS_BuiltData'
+[2020.02.24-10.13.49:504][ 30]LogLinker: Warning: Can't find file for asset '/Game/Designers/Level_Maps/Harri/MP_Level_One_Point_Two_HCWS_BuiltData' while loading NULL.
+[2020.02.24-10.13.49:551][ 30]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.02.24-10.13.49:551][ 30]LoadErrors: Failed to load /Game/LevelGeometry/Materials/Mat_LevelArchitecture.Mat_LevelArchitecture Referenced by SM_Slope
+[2020.02.24-10.13.49:551][ 30]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading NULL.
+[2020.02.24-10.13.49:552][ 30]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.02.24-10.13.49:552][ 30]LoadErrors: Failed to load /Game/LevelGeometry/Materials/Mat_LevelArchitecture.Mat_LevelArchitecture Referenced by SM_CylinderSplit
+[2020.02.24-10.13.49:552][ 30]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading NULL.
+[2020.02.24-10.13.49:553][ 30]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.02.24-10.13.49:553][ 30]LoadErrors: Failed to load /Game/LevelGeometry/Materials/Mat_LevelArchitecture.Mat_LevelArchitecture Referenced by SM_CylinderCorner
+[2020.02.24-10.13.49:553][ 30]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading NULL.
+[2020.02.24-10.13.49:553][ 30]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.02.24-10.13.49:553][ 30]LoadErrors: Failed to load /Game/LevelGeometry/Materials/Mat_LevelArchitecture.Mat_LevelArchitecture Referenced by SM_CornerPiece1
+[2020.02.24-10.13.49:553][ 30]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading NULL.
+[2020.02.24-10.13.49:554][ 30]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.02.24-10.13.49:554][ 30]LoadErrors: Failed to load /Game/LevelGeometry/Materials/Mat_LevelArchitecture.Mat_LevelArchitecture Referenced by SM_Box
+[2020.02.24-10.13.49:554][ 30]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading NULL.
+[2020.02.24-10.13.49:554][ 30]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.02.24-10.13.49:554][ 30]LoadErrors: Failed to load /Game/LevelGeometry/Materials/Mat_LevelArchitecture.Mat_LevelArchitecture Referenced by SM_ArchStyle2
+[2020.02.24-10.13.49:554][ 30]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading NULL.
+[2020.02.24-10.13.49:555][ 30]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.02.24-10.13.49:555][ 30]LoadErrors: Failed to load /Game/LevelGeometry/Materials/Mat_LevelArchitecture.Mat_LevelArchitecture Referenced by SM_Arch
+[2020.02.24-10.13.49:555][ 30]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading NULL.
+[2020.02.24-10.13.49:864][ 30]LogTexture: Display: Building textures: brick_lumpy_basecolor (AutoDXT, 2048X2048)
+[2020.02.24-10.13.49:864][ 30]LogTexture: Display: Building textures: Texture (AutoDXT, 1024X768)
+[2020.02.24-10.13.49:865][ 30]LogLinker: Warning: Can't find file '/Game/Designers/Level_Maps/Harri/MP_Level_One_Point_Two_HCWS_BuiltData'
+[2020.02.24-10.13.49:865][ 30]LoadErrors: Failed to load /Game/Designers/Level_Maps/Harri/MP_Level_One_Point_Two_HCWS_BuiltData.MP_Level_One_Point_Two_HCWS_BuiltData Referenced by PersistentLevel
+[2020.02.24-10.13.49:865][ 30]LogLinker: Warning: Can't find file for asset '/Game/Designers/Level_Maps/Harri/MP_Level_One_Point_Two_HCWS_BuiltData' while loading NULL.
+[2020.02.24-10.13.49:902][ 30]LogStaticMesh: Building static mesh SM_TorchHoldersHB...
+[2020.02.24-10.13.49:948][ 30]LogTexture: Display: Building textures: IronCage_lambert1_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.02.24-10.13.49:948][ 30]LogStaticMesh: Built static mesh [0.05s] /Game/Artists/Assets/SM_TorchHoldersHB.SM_TorchHoldersHB
+[2020.02.24-10.13.52:047][ 30]LogTexture: Display: Building textures: IronCage_lambert1_Normal (BC5, 2048X2048)
+[2020.02.24-10.13.52:047][ 30]LogTexture: Display: Building textures: brick_lumpy_roughness (AutoDXT, 2048X2048)
+[2020.02.24-10.13.52:047][ 30]LogTexture: Display: Building textures: IronCage_lambert1_BaseColor (AutoDXT, 2048X2048)
+[2020.02.24-10.13.52:047][ 30]LogTexture: Display: Building textures: brick_lumpy_height (AutoDXT, 2048X2048)
+[2020.02.24-10.13.52:713][ 30]LogMaterial: Display: Missing cached shader map for material M_Dungeon_Wall, compiling. 
+[2020.02.24-10.13.52:845][ 30]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave WAV_Wind_1_H...
+[2020.02.24-10.13.53:154][ 30]LogShaderCompilers: Display: Shaders left to compile 31
+[2020.02.24-10.13.53:154][ 30]LogShaderCompilers: Display: Shaders left to compile 21
+[2020.02.24-10.13.53:154][ 30]LogShaderCompilers: Display: Shaders left to compile 11
+[2020.02.24-10.13.53:154][ 30]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.02.24-10.13.53:154][ 30]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 2467740 while cooking SoundWave /Game/Designers/Audio/WAV_Wind_1_H.WAV_Wind_1_H.
+[2020.02.24-10.13.53:160][ 30]LogMaterial: Display: Missing cached shader map for material M_Fire_SubUV, compiling. 
+[2020.02.24-10.13.53:188][ 30]LogShaderCompilers: Display: Shaders left to compile 27
+[2020.02.24-10.13.53:188][ 30]LogShaderCompilers: Display: Shaders left to compile 17
+[2020.02.24-10.13.53:188][ 30]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.02.24-10.13.53:188][ 30]LogMaterial: Display: Missing cached shader map for material greyflat, compiling. 
+[2020.02.24-10.13.53:222][ 30]LogStaticMesh: Building static mesh SM_CylinderSplit...
+[2020.02.24-10.13.53:246][ 30]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/LevelGeometry/SM_CylinderSplit.SM_CylinderSplit
+[2020.02.24-10.13.53:361][ 30]LogShaderCompilers: Display: Shaders left to compile 31
+[2020.02.24-10.13.53:361][ 30]LogMaterial: Display: Missing cached shader map for material LocalFog, compiling. 
+[2020.02.24-10.13.53:490][ 30]LogStaticMesh: Building static mesh Wooden_Horse_LP...
+[2020.02.24-10.13.53:508][ 30]LogStaticMesh: Built static mesh [0.02s] /Game/Artists/Assets/Wooden_Horse_LP.Wooden_Horse_LP
+[2020.02.24-10.13.53:581][ 30]LogShaderCompilers: Display: Shaders left to compile 126
+[2020.02.24-10.13.53:581][ 30]LogStaticMesh: Building static mesh SM_Shackles_Blockout_SA...
+[2020.02.24-10.13.53:705][ 30]LogStaticMesh: Built static mesh [0.12s] /Game/Artists/Assets/SM_Shackles_Blockout_SA.SM_Shackles_Blockout_SA
+[2020.02.24-10.13.53:723][ 30]LogStaticMesh: Building static mesh SM_RightDoor1_AS...
+[2020.02.24-10.13.53:746][ 30]LogStaticMesh: Built static mesh [0.02s] /Game/Artists/Assets/SM_RightDoor1_AS.SM_RightDoor1_AS
+[2020.02.24-10.13.53:782][ 30]LogStaticMesh: Building static mesh SM_PilloryBlockout_LM...
+[2020.02.24-10.13.53:822][ 30]LogStaticMesh: Built static mesh [0.04s] /Game/Artists/Assets/SM_PilloryBlockout_LM.SM_PilloryBlockout_LM
+[2020.02.24-10.13.53:834][ 30]LogStaticMesh: Building static mesh SM_LeftDoor1_AS...
+[2020.02.24-10.13.53:859][ 30]LogStaticMesh: Built static mesh [0.03s] /Game/Artists/Assets/SM_LeftDoor1_AS.SM_LeftDoor1_AS
+[2020.02.24-10.13.53:915][ 30]LogStaticMesh: Building static mesh SM_Cabinet_Blockout_SA...
+[2020.02.24-10.13.53:967][ 30]LogStaticMesh: Built static mesh [0.05s] /Game/Artists/Assets/SM_Cabinet_Blockout_SA.SM_Cabinet_Blockout_SA
+[2020.02.24-10.13.54:044][ 30]LogStaticMesh: Building static mesh IronCage...
+[2020.02.24-10.13.54:392][ 30]LogStaticMesh: Built static mesh [0.35s] /Game/Artists/Assets/IronCage.IronCage
+[2020.02.24-10.13.54:529][ 30]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.02.24-10.13.54:637][ 30]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.02.24-10.13.54:715][ 30]LogStaticMesh: Building static mesh Crossbow_Sword_Pieces_Centered_magazeen...
+[2020.02.24-10.13.54:716][ 30]LogStaticMesh: Built static mesh [0.00s] /Game/Designers/Blueprints/CrossBow/CrossBow_Centered/Crossbow_Sword_Pieces_Centered_magazeen.Crossbow_Sword_Pieces_Centered_magazeen
+[2020.02.24-10.13.54:718][ 30]LogStaticMesh: Building static mesh Crossbow_Sword_Pieces_Centered_group5_arms...
+[2020.02.24-10.13.54:723][ 30]LogStaticMesh: Built static mesh [0.01s] /Game/Designers/Blueprints/CrossBow/CrossBow_Centered/Crossbow_Sword_Pieces_Centered_group5_arms.Crossbow_Sword_Pieces_Centered_group5_arms
+[2020.02.24-10.13.54:764][ 30]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Designers/Mannequin/Animations/ThirdPersonJump_End.ThirdPersonJump_End
+[2020.02.24-10.13.54:765][ 30]LogAnimationCompression: Recompressing (AnimSequence /Game/Designers/Mannequin/Animations/ThirdPersonJump_End.ThirdPersonJump_End) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.24-10.13.54:781][ 30]LogStaticMesh: Building static mesh Crossbow_Sword_Pieces_Centered_blade_base...
+[2020.02.24-10.13.54:783][ 30]LogStaticMesh: Built static mesh [0.00s] /Game/Designers/Blueprints/CrossBow/CrossBow_Centered/Crossbow_Sword_Pieces_Centered_blade_base.Crossbow_Sword_Pieces_Centered_blade_base
+[2020.02.24-10.13.54:785][ 30]LogStaticMesh: Building static mesh Crossbow_Handle...
+[2020.02.24-10.13.54:791][ 30]LogStaticMesh: Built static mesh [0.01s] /Game/Designers/Blueprints/CrossBow/CrossBow_Centered/Crossbow_Handle.Crossbow_Handle
+[2020.02.24-10.13.54:793][ 30]LogStaticMesh: Building static mesh Crossbow_Blade...
+[2020.02.24-10.13.54:799][ 30]LogStaticMesh: Built static mesh [0.01s] /Game/Designers/Blueprints/CrossBow/CrossBow_Centered/Crossbow_Blade.Crossbow_Blade
+[2020.02.24-10.13.54:842][ 30]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.02.24-10.13.54:953][ 30]LogAIModule: Creating AISystem for world MP_Level_One_Point_Two_HCWS
+[2020.02.24-10.13.55:040][ 30]LogAssetEditorManager: Opening Asset editor for World /Game/Designers/Level_Maps/Harri/MP_Level_One_Point_Two_HCWS.MP_Level_One_Point_Two_HCWS
+[2020.02.24-10.13.55:087][ 30]LightingResults: New page: Lighting Build
+[2020.02.24-10.13.55:088][ 30]LoadErrors: New page: Loading map: MP_Level_One_Point_Two_HCWS.umap
+[2020.02.24-10.13.55:089][ 30]MapCheck: New page: Map Check
+[2020.02.24-10.13.55:089][ 30]LightingResults: New page: Lighting Build
+[2020.02.24-10.13.55:367][ 30]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.24-10.13.55:472][ 30]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.24-10.13.55:473][ 30]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.223ms to complete.
+[2020.02.24-10.13.55:473][ 30]LogFileHelpers: Loading map 'MP_Level_One_Point_Two_HCWS' took 0.387
+[2020.02.24-10.13.55:643][ 31]LogShaderCompilers: Display: Shaders left to compile 394
+[2020.02.24-10.13.55:714][ 31]LogShaderCompilers: Display: Shaders left to compile 384
+[2020.02.24-10.13.56:140][ 53]LogShaderCompilers: Display: Shaders left to compile 374
+[2020.02.24-10.13.56:945][ 96]LogShaderCompilers: Display: Shaders left to compile 364
+[2020.02.24-10.13.57:210][111]LogShaderCompilers: Display: Shaders left to compile 354
+[2020.02.24-10.13.57:628][134]LogShaderCompilers: Display: Shaders left to compile 344
+[2020.02.24-10.13.57:904][150]LogShaderCompilers: Display: Shaders left to compile 334
+[2020.02.24-10.13.57:969][152]LogShaderCompilers: Display: Shaders left to compile 324
+[2020.02.24-10.13.58:052][157]LogShaderCompilers: Display: Shaders left to compile 314
+[2020.02.24-10.13.59:729][256]LogShaderCompilers: Display: Shaders left to compile 304
+[2020.02.24-10.14.00:075][275]LogShaderCompilers: Display: Shaders left to compile 294
+[2020.02.24-10.14.01:392][351]LogShaderCompilers: Display: Shaders left to compile 284
+[2020.02.24-10.14.01:631][365]LogShaderCompilers: Display: Shaders left to compile 274
+[2020.02.24-10.14.01:647][366]LogShaderCompilers: Display: Shaders left to compile 264
+[2020.02.24-10.14.03:335][460]LogShaderCompilers: Display: Shaders left to compile 254
+[2020.02.24-10.14.03:489][469]LogShaderCompilers: Display: Shaders left to compile 244
+[2020.02.24-10.14.03:644][478]LogShaderCompilers: Display: Shaders left to compile 234
+[2020.02.24-10.14.03:662][479]LogShaderCompilers: Display: Shaders left to compile 224
+[2020.02.24-10.14.04:300][515]LogShaderCompilers: Display: Shaders left to compile 214
+[2020.02.24-10.14.04:726][539]LogShaderCompilers: Display: Shaders left to compile 204
+[2020.02.24-10.14.05:041][557]LogShaderCompilers: Display: Shaders left to compile 194
+[2020.02.24-10.14.05:792][599]LogShaderCompilers: Display: Shaders left to compile 184
+[2020.02.24-10.14.05:974][609]LogShaderCompilers: Display: Shaders left to compile 174
+[2020.02.24-10.14.06:010][611]LogShaderCompilers: Display: Shaders left to compile 164
+[2020.02.24-10.14.06:198][618]LogShaderCompilers: Display: Shaders left to compile 154
+[2020.02.24-10.14.07:038][650]LogShaderCompilers: Display: Shaders left to compile 144
+[2020.02.24-10.14.07:482][670]LogShaderCompilers: Display: Shaders left to compile 134
+[2020.02.24-10.14.07:545][674]LogShaderCompilers: Display: Shaders left to compile 124
+[2020.02.24-10.14.07:951][697]LogShaderCompilers: Display: Shaders left to compile 114
+[2020.02.24-10.14.08:687][737]LogShaderCompilers: Display: Shaders left to compile 104
+[2020.02.24-10.14.08:827][745]LogShaderCompilers: Display: Shaders left to compile 94
+[2020.02.24-10.14.08:953][752]LogShaderCompilers: Display: Shaders left to compile 84
+[2020.02.24-10.14.09:489][782]LogShaderCompilers: Display: Shaders left to compile 74
+[2020.02.24-10.14.09:542][785]LogShaderCompilers: Display: Shaders left to compile 64
+[2020.02.24-10.14.10:147][819]LogShaderCompilers: Display: Shaders left to compile 54
+[2020.02.24-10.14.10:767][846]LogShaderCompilers: Display: Shaders left to compile 44
+[2020.02.24-10.14.10:819][849]LogShaderCompilers: Display: Shaders left to compile 34
+[2020.02.24-10.14.11:085][863]LogShaderCompilers: Display: Shaders left to compile 24
+[2020.02.24-10.14.11:526][887]LogShaderCompilers: Display: Shaders left to compile 14
+[2020.02.24-10.14.12:048][917]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.02.24-10.14.37:060][343]LogEditorViewport: Clicking on Actor (LMB): BP_Crossbow_Functioning_Centered_MHa_C (BP_Crossbow_Functioning_Centered_MHa)
+[2020.02.24-10.15.04:359][105]LogRenderer: Reallocating scene render targets to support 1352x756 Format 26 NumSamples 1 (Frame:6304).
+[2020.02.24-10.15.04:415][106]LogRenderer: Reallocating scene render targets to support 1920x1160 Format 26 NumSamples 1 (Frame:6306).
+[2020.02.24-10.15.04:415][106]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.24-10.16.48:917][615]Cmd: SELECT NONE
+[2020.02.24-10.16.51:332][883]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.24-10.16.54:559][208]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.24-10.16.58:522][629]LogAIModule: Creating AISystem for world MotionControllerMap
+[2020.02.24-10.16.58:528][629]LogAssetEditorManager: Opening Asset editor for World /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap
+[2020.02.24-10.16.58:552][629]Cmd: MAP LOAD FILE="F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.24-10.16.58:552][629]LightingResults: New page: Lighting Build
+[2020.02.24-10.16.58:552][629]LoadErrors: New page: Loading map: MotionControllerMap.umap
+[2020.02.24-10.16.58:556][629]MapCheck: New page: Map Check
+[2020.02.24-10.16.58:556][629]LightingResults: New page: Lighting Build
+[2020.02.24-10.16.58:649][629]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.24-10.16.58:723][629]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.24-10.16.58:723][629]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.102ms to complete.
+[2020.02.24-10.16.58:723][629]LogFileHelpers: Loading map 'MotionControllerMap' took 0.172
+[2020.02.24-10.17.04:961][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.24-10.24.49:538][367]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.24-10.24.52:058][626]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.HMDLocomotionPawn
+[2020.02.24-10.24.52:592][626]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 117 classes and 0 folders.
+[2020.02.24-10.24.53:534][626]LogSlate: Took 0.000250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.24-10.24.53:810][627]LogSlate: Took 0.000260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.24-10.25.01:298][125]LogSlate: Window 'HMDLocomotionPawn' being destroyed
+[2020.02.24-10.25.25:116][949]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Designers/Blueprints/CrossBow/BP_Crossbow_Functioning_Centered_MHa.BP_Crossbow_Functioning_Centered_MHa
+[2020.02.24-10.25.37:641][219]LogEditorTransaction: Undo Modify Component(s)
+[2020.02.24-10.26.53:368][281]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.24-10.26.54:018][359]BlueprintLog: New page: Compile BP_Crossbow_Functioning_Centered_MHa
+[2020.02.24-10.26.58:303][808]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.032
+[2020.02.24-10.31.45:731][762]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2020.02.24-10.32.18:258][313]LogSlate: Took 0.005563 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.02.24-10.32.25:170][416]LogSlate: Window 'Change Variable Type' being destroyed
+[2020.02.24-10.32.30:047][915]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.02.24-10.32.30:051][915]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.02.24-10.32.55:676][139]LogLinker: Can't find file '/Game/Designers/Movement_System/Movement_Target'
+[2020.02.24-10.32.55:676][139]LogLinker: Can't find file '/Game/Designers/Movement_System/Movement_Target'
+[2020.02.24-10.32.55:676][139]LogProperty: Warning: ClassProperty /Script/BlueprintGraph.K2Node_DynamicCast:TargetType: unresolved reference to 'BlueprintGeneratedClass'"/Game/Designers/Movement_System/Movement_Target.Movement_Target_C"''
+[2020.02.24-10.32.55:677][139]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/Designers/Movement_System/Movement_Target.Movement_Target_C"',MemberName="Hit Cylinder")'
+[2020.02.24-10.32.55:677][139]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/Designers/Movement_System/Movement_Target.Movement_Target_C"',MemberName="Movement Text")'
+[2020.02.24-10.32.55:677][139]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/Designers/Movement_System/Movement_Target.Movement_Target_C"',MemberName="Movement Text 2")'
+[2020.02.24-10.33.12:622][102]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.24-10.33.12:680][109]BlueprintLog: New page: Compile MotionControllerPawn
+[2020.02.24-10.33.12:830][109]LogBlueprint: Error: [Compiler MotionControllerPawn] Can't connect pins  Hit Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.02.24-10.33.12:830][109]LogBlueprint: Error: [Compiler MotionControllerPawn] Can't connect pins  Object  and  Hit Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.02.24-10.33.12:830][109]LogBlueprint: Error: [Compiler MotionControllerPawn] In use pin  As Movement Target  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2020.02.24-10.33.12:831][109]LogBlueprint: Warning: [Compiler MotionControllerPawn] Could not find a variable named "Hit Cylinder" in 'MotionControllerPawn'.
+Make sure 'MotionControllerPawn' has been compiled for  Get Hit Cylinder
+[2020.02.24-10.33.13:036][109]LogBlueprint: Warning: [Compiler MotionControllerPawn] [1502.07] Compile of MotionControllerPawn failed. 3 Fatal Issue(s) 1 Warning(s) [in 356 ms] (/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn)
+[2020.02.24-10.33.18:834][743]BlueprintLog: New page: Compile MotionControllerPawn
+[2020.02.24-10.33.19:002][743]LogBlueprint: Error: [Compiler MotionControllerPawn] Can't connect pins  Hit Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.02.24-10.33.19:002][743]LogBlueprint: Error: [Compiler MotionControllerPawn] Can't connect pins  Object  and  Hit Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.02.24-10.33.19:002][743]LogBlueprint: Error: [Compiler MotionControllerPawn] In use pin  As Movement Target  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2020.02.24-10.33.19:002][743]LogBlueprint: Warning: [Compiler MotionControllerPawn] Could not find a variable named "Hit Cylinder" in 'MotionControllerPawn'.
+Make sure 'MotionControllerPawn' has been compiled for  Get Hit Cylinder
+[2020.02.24-10.33.19:211][743]LogBlueprint: Warning: [Compiler MotionControllerPawn] [1508.24] Compile of MotionControllerPawn failed. 3 Fatal Issue(s) 1 Warning(s) [in 376 ms] (/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn)
+[2020.02.24-10.34.08:286][599]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.02.24-10.34.15:728][481]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Designers/Movement_System/Movement_Target.Movement_Target
+[2020.02.24-10.34.20:142][834]LogSlate: Window 'Movement_Target*' being destroyed
+[2020.02.24-10.35.16:002][926]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.24-10.35.45:861][958]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.24-10.36.14:205][284]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.24-10.36.14:255][290]BlueprintLog: New page: Compile Movement_Target
+[2020.02.24-10.36.34:994][670]BlueprintLog: New page: Compile MotionControllerPawn
+[2020.02.24-10.36.35:115][670]LogBlueprint: Error: [Compiler MotionControllerPawn] Can't connect pins  Hit Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.02.24-10.36.35:115][670]LogBlueprint: Error: [Compiler MotionControllerPawn] Can't connect pins  Object  and  Hit Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2020.02.24-10.36.35:116][670]LogBlueprint: Error: [Compiler MotionControllerPawn] In use pin  As Movement Target  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2020.02.24-10.36.35:116][670]LogBlueprint: Warning: [Compiler MotionControllerPawn] Could not find a variable named "Hit Cylinder" in 'MotionControllerPawn'.
+Make sure 'MotionControllerPawn' has been compiled for  Get Hit Cylinder
+[2020.02.24-10.36.35:344][670]LogBlueprint: Warning: [Compiler MotionControllerPawn] [1704.38] Compile of MotionControllerPawn failed. 3 Fatal Issue(s) 1 Warning(s) [in 349 ms] (/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn)
+[2020.02.24-10.37.23:107][232]BlueprintLog: New page: Compile MotionControllerPawn
+[2020.02.24-10.38.08:601][221]BlueprintLog: New page: Compile MotionControllerPawn
+[2020.02.24-10.38.16:173][993]BlueprintLog: New page: Compile MotionControllerPawn
+[2020.02.24-10.38.57:532][  3]BlueprintLog: New page: Compile Movement_Target
+[2020.02.24-10.39.01:566][449]BlueprintLog: New page: Compile MotionControllerPawn
+[2020.02.24-10.39.02:596][497]LogSavePackage: Moving 'F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/Saved/MotionControllerPawn09D92AFD4D1180E0C6961993F1C80F0D.tmp' to 'F:/Journeyman/GitHub Repository/Team1_Journeyman2020/CastleOfTheDead - BUILD VERSION/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2020.02.24-10.39.36:715][516]BlueprintLog: New page: Compile Movement_Target
+[2020.02.24-10.40.11:680][478]BlueprintLog: New page: Compile MotionControllerPawn
+[2020.02.24-10.40.12:952][534]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.24-10.40.17:799][ 91]BlueprintLog: New page: Compile MotionControllerPawn
+[2020.02.24-10.40.29:651][398]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Designers/Blueprints/CrossBow/BP_Crossbow_Functioning_Centered_MHa.BP_Crossbow_Functioning_Centered_MHa
+[2020.02.24-10.41.01:016][ 70]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\Journeyman\Models\sword bow.fbx)
+[2020.02.24-10.41.01:047][ 70]LogFbx: Loading FBX Scene from F:\Journeyman\Models\sword bow.fbx
+[2020.02.24-10.41.01:061][ 70]LogFbx: FBX Scene Loaded Succesfully
+[2020.02.24-10.41.06:835][ 70]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.02.24-10.41.07:741][ 70]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.02.24-10.41.07:771][ 70]LogShaderCompilers: Display: Shaders left to compile 22
+[2020.02.24-10.41.07:771][ 70]LogShaderCompilers: Display: Shaders left to compile 12
+[2020.02.24-10.41.07:771][ 70]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.02.24-10.41.07:771][ 70]LogFbx: Warning: Triangulating static mesh pCube10
+[2020.02.24-10.41.07:847][ 70]LogStaticMesh: Building static mesh sword_bow_pCube10...
+[2020.02.24-10.41.07:867][ 70]LogStaticMesh: Built static mesh [0.02s] /Game/Designers/Blueprints/CrossBow/Crossbow_MK2/sword_bow_pCube10.sword_bow_pCube10
+[2020.02.24-10.41.07:900][ 70]LogFbx: Warning: Triangulating static mesh polySurface3
+[2020.02.24-10.41.07:936][ 70]LogStaticMesh: Building static mesh sword_bow_polySurface3...
+[2020.02.24-10.41.07:947][ 70]LogStaticMesh: Built static mesh [0.01s] /Game/Designers/Blueprints/CrossBow/Crossbow_MK2/sword_bow_polySurface3.sword_bow_polySurface3
+[2020.02.24-10.41.07:949][ 70]LogStaticMesh: Warning: sword_bow_polySurface3 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.02.24-10.41.07:949][ 70]LogStaticMesh: Warning: sword_bow_polySurface3 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.02.24-10.41.08:072][ 70]LogFbx: Warning: Triangulating static mesh polySurface4
+[2020.02.24-10.41.08:079][ 70]LogStaticMesh: Building static mesh sword_bow_polySurface4...
+[2020.02.24-10.41.08:080][ 70]LogStaticMesh: Built static mesh [0.00s] /Game/Designers/Blueprints/CrossBow/Crossbow_MK2/sword_bow_polySurface4.sword_bow_polySurface4
+[2020.02.24-10.41.08:081][ 70]LogStaticMesh: Warning: sword_bow_polySurface4 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.02.24-10.41.08:081][ 70]LogStaticMesh: Warning: sword_bow_polySurface4 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.02.24-10.41.08:156][ 70]LogFbx: Warning: Triangulating static mesh polySurface5
+[2020.02.24-10.41.08:161][ 70]LogStaticMesh: Building static mesh sword_bow_polySurface5...
+[2020.02.24-10.41.08:163][ 70]LogStaticMesh: Built static mesh [0.00s] /Game/Designers/Blueprints/CrossBow/Crossbow_MK2/sword_bow_polySurface5.sword_bow_polySurface5
+[2020.02.24-10.41.08:164][ 70]LogStaticMesh: Warning: sword_bow_polySurface5 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.02.24-10.41.08:164][ 70]LogStaticMesh: Warning: sword_bow_polySurface5 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.02.24-10.41.08:179][ 70]LogFbx: Warning: Triangulating static mesh pCube12
+[2020.02.24-10.41.08:203][ 70]LogStaticMesh: Building static mesh sword_bow_pCube12...
+[2020.02.24-10.41.08:211][ 70]LogStaticMesh: Built static mesh [0.01s] /Game/Designers/Blueprints/CrossBow/Crossbow_MK2/sword_bow_pCube12.sword_bow_pCube12
+[2020.02.24-10.41.08:212][ 70]LogStaticMesh: Warning: sword_bow_pCube12 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.02.24-10.41.08:212][ 70]LogStaticMesh: Warning: sword_bow_pCube12 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.02.24-10.41.08:263][ 70]LogFbx: Warning: Triangulating static mesh pCylinder1
+[2020.02.24-10.41.08:269][ 70]LogStaticMesh: Building static mesh sword_bow_pCylinder1...
+[2020.02.24-10.41.08:273][ 70]LogStaticMesh: Built static mesh [0.00s] /Game/Designers/Blueprints/CrossBow/Crossbow_MK2/sword_bow_pCylinder1.sword_bow_pCylinder1
+[2020.02.24-10.41.08:345][ 70]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.02.24-10.41.08:345][ 70]FBXImport: Warning: sword_bow_polySurface3 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.02.24-10.41.08:345][ 70]FBXImport: Warning: sword_bow_polySurface3 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.02.24-10.41.08:345][ 70]FBXImport: Warning: sword_bow_polySurface4 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.02.24-10.41.08:345][ 70]FBXImport: Warning: sword_bow_polySurface4 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.02.24-10.41.08:345][ 70]FBXImport: Warning: sword_bow_polySurface5 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.02.24-10.41.08:345][ 70]FBXImport: Warning: sword_bow_polySurface5 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.02.24-10.41.08:345][ 70]FBXImport: Warning: sword_bow_pCube12 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.02.24-10.41.08:345][ 70]FBXImport: Warning: sword_bow_pCube12 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.02.24-10.41.25:791][861]LogSlate: Window 'Message Log' being destroyed
+[2020.02.24-10.41.25:795][861]LogSlate: Window 'Message Log' being destroyed
+[2020.02.24-10.41.41:563][975]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.24-10.42.32:430][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.24-10.42.46:553][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.24-10.42.46:623][455]Cmd: MODE GRID=0
+[2020.02.24-10.42.53:414][887]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.24-10.43.07:095][817]LogEditorTransaction: Undo Modify Component(s)
+[2020.02.24-10.43.07:107][817]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.02.24-10.43.08:152][817]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.046 s
+[2020.02.24-10.43.08:153][817]LogOutputDevice: Error: === Handled ensure: ===
+[2020.02.24-10.43.08:153][817]LogOutputDevice: Error: 
+[2020.02.24-10.43.08:153][817]LogOutputDevice: Error: Ensure condition failed: PinHelpers::UnresolvedPins.Num() == 0 [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 2105]
+[2020.02.24-10.43.08:153][817]LogOutputDevice: Error: 
+[2020.02.24-10.43.08:153][817]LogOutputDevice: Error: Stack: 
+[2020.02.24-10.43.08:153][817]LogOutputDevice: Error: [Callstack] 0x00007ffef61a85e8 UE4Editor-Engine.dll!UnknownFunction []
+[2020.02.24-10.43.08:153][817]LogOutputDevice: Error: [Callstack] 0x00007ffef25dfe32 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.24-10.43.08:153][817]LogOutputDevice: Error: [Callstack] 0x00007ffef260acf6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.24-10.43.08:153][817]LogOutputDevice: Error: [Callstack] 0x00007ffef25f140c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.24-10.43.08:153][817]LogOutputDevice: Error: [Callstack] 0x00007ffef265b427 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.24-10.43.08:153][817]LogOutputDevice: Error: [Callstack] 0x00007ffef269f72f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.24-10.43.08:153][817]LogOutputDevice: Error: [Callstack] 0x00007ffef263726f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.24-10.43.08:153][817]LogOutputDevice: Error: [Callstack] 0x00007ffef50e1168 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.02.24-10.43.08:153][817]LogOutputDevice: Error: [Callstack] 0x00007fff0fc0206f UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.24-10.43.08:153][817]LogOutputDevice: Error: [Callstack] 0x00007fff0fc44c8e UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.24-10.43.08:153][817]LogOutputDevice: Error: [Callstack] 0x00007ffef2c94b88 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.02.24-10.43.08:153][817]LogOutputDevice: Error: [Callstack] 0x00007fff0fbc694c UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.24-10.43.08:153][817]LogOutputDevice: Error: [Callstack] 0x00007fff0fc4697c UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.24-10.43.08:153][817]LogOutputDevice: Error: [Callstack] 0x00007fff0fc39a36 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.24-10.43.08:153][817]LogOutputDevice: Error: [Callstack] 0x00007fff1323daa4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.24-10.43.08:153][817]LogOutputDevice: Error: [Callstack] 0x00007fff13230de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.24-10.43.08:153][817]LogOutputDevice: Error: [Callstack] 0x00007fff132401eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.24-10.43.08:153][817]LogOutputDevice: Error: [Callstack] 0x00007fff1322ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.24-10.43.08:153][817]LogOutputDevice: Error: [Callstack] 0x00007fff4f06c906 USER32.dll!UnknownFunction []
+[2020.02.24-10.43.08:153][817]LogOutputDevice: Error: [Callstack] 0x00007fff4f06c422 USER32.dll!UnknownFunction []
+[2020.02.24-10.43.08:153][817]LogOutputDevice: Error: [Callstack] 0x00007fff13241746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.02.24-10.43.08:153][817]LogOutputDevice: Error: [Callstack] 0x00007ff63e105546 UE4Editor.exe!UnknownFunction []
+[2020.02.24-10.43.08:154][817]LogOutputDevice: Error: [Callstack] 0x00007ff63e11596c UE4Editor.exe!UnknownFunction []
+[2020.02.24-10.43.08:154][817]LogOutputDevice: Error: [Callstack] 0x00007ff63e1159ea UE4Editor.exe!UnknownFunction []
+[2020.02.24-10.43.08:154][817]LogOutputDevice: Error: [Callstack] 0x00007ff63e1248da UE4Editor.exe!UnknownFunction []
+[2020.02.24-10.43.08:154][817]LogOutputDevice: Error: [Callstack] 0x00007ff63e12659a UE4Editor.exe!UnknownFunction []
+[2020.02.24-10.43.08:154][817]LogOutputDevice: Error: [Callstack] 0x00007fff4d097974 KERNEL32.DLL!UnknownFunction []
+[2020.02.24-10.43.08:154][817]LogOutputDevice: Error: [Callstack] 0x00007fff4f2fa271 ntdll.dll!UnknownFunction []
+[2020.02.24-10.43.08:154][817]LogOutputDevice: Error: 
+[2020.02.24-10.43.08:158][817]LogStats:                SubmitErrorReport -  0.000 s
