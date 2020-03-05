@@ -36,7 +36,7 @@
 		<CallStack />
 		<PCallStack>UE4Editor-UnrealEd 0x000000001a150000 + 8d8304 UE4Editor-UnrealEd 0x000000001a150000 + 8e81ce UE4Editor-BlueprintGraph 0x0000000004e60000 + dbcba UE4Editor-GraphEditor 0x0000000004160000 + 16769a UE4Editor-GraphEditor 0x0000000004160000 + 120917 UE4Editor-Slate 0x000000001b8f0000 + 67c74 UE4Editor-Slate 0x000000001b8f0000 + 2b4393 UE4Editor-Slate 0x000000001b8f0000 + c2d7a UE4Editor-Slate 0x000000001b8f0000 + 98a70 UE4Editor-Slate 0x000000001b8f0000 + 8b263 UE4Editor-ApplicationCore 0x0000000043820000 + 1dc66 UE4Editor-ApplicationCore 0x0000000043820000 + 10de0 UE4Editor-ApplicationCore 0x0000000043820000 + 201eb UE4Editor-ApplicationCore 0x0000000043820000 + ca19 USER32 0x000000005f5a0000 + 17446 USER32 0x000000005f5a0000 + 16f62 UE4Editor-ApplicationCore 0x0000000043820000 + 21746 UE4Editor 0x0000000038a80000 + 5546 UE4Editor 0x0000000038a80000 + 1596c UE4Editor 0x0000000038a80000 + 159ea UE4Editor 0x0000000038a80000 + 248da UE4Editor 0x0000000038a80000 + 2659a KERNEL32 0x000000005f740000 + 17974 ntdll 0x0000000061eb0000 + 6a261</PCallStack>
 		<SourceContext />
-		<UserDescription />
+		<UserDescription>Sent in the unattended mode</UserDescription>
 		<UserActivityHint>Layout=&quot;Document : 1&quot; Label=&quot;Event Graph&quot; Content=SGraphEditor</UserActivityHint>
 		<ErrorMessage>Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1154] Error: Invalid (but non-null) property associated with pin; cannot get variable value</ErrorMessage>
 		<CrashDumpMode>0</CrashDumpMode>
