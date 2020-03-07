@@ -1,0 +1,1406 @@
+﻿Log file open, 03/07/20 17:02:59
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CastleOfTheDead
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.273936
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.178s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.091s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.07-17.02.59:992][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.07-17.02.59:992][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.07-17.02.59:992][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Engine.ini]
+[2020.03.07-17.02.59:992][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.07-17.02.59:992][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.03.07-17.02.59:992][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2020.03.07-17.02.59:992][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2020.03.07-17.02.59:992][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.03.07-17.02.59:992][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2020.03.07-17.02.59:992][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2020.03.07-17.02.59:992][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2020.03.07-17.02.59:992][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Engine.ini]
+[2020.03.07-17.02.59:993][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Engine.ini]
+[2020.03.07-17.02.59:993][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.07-17.02.59:993][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.07-17.02.59:993][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.07-17.02.59:993][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.07-17.02.59:993][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.07-17.02.59:993][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.07-17.02.59:993][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.07-17.02.59:993][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.07-17.02.59:993][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.07-17.02.59:993][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.07-17.02.59:993][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.07-17.02.59:993][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.07-17.02.59:993][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.07-17.02.59:993][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Engine.ini]
+[2020.03.07-17.02.59:993][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.07-17.02.59:993][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.07-17.02.59:993][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.07-17.02.59:993][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.07-17.02.59:993][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.07-17.02.59:993][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.07-17.02.59:993][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2020.03.07-17.02.59:993][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.07-17.02.59:993][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.07-17.02.59:993][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2020.03.07-17.02.59:993][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.07-17.02.59:993][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.07-17.02.59:993][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.07-17.02.59:993][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.07-17.02.59:993][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Engine.ini]
+[2020.03.07-17.02.59:993][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Engine.ini]
+[2020.03.07-17.03.00:002][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Scalability.ini]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Scalability.ini]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Scalability.ini]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Scalability.ini]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Scalability.ini]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Scalability.ini]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.07-17.03.00:003][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Scalability.ini]
+[2020.03.07-17.03.00:004][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.07-17.03.00:004][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.07-17.03.00:004][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.07-17.03.00:004][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.07-17.03.00:049][  0]LogHAL: Display: Platform has ~ 16 GB [17130110976 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.07-17.03.00:049][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2020.03.07-17.03.00:049][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.07-17.03.00:049][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Scalability.ini]
+[2020.03.07-17.03.00:049][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.07-17.03.00:049][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.07-17.03.00:049][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Scalability.ini]
+[2020.03.07-17.03.00:049][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.03.07-17.03.00:049][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Scalability.ini]
+[2020.03.07-17.03.00:049][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.07-17.03.00:049][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.07-17.03.00:049][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.07-17.03.00:049][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.07-17.03.00:049][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.07-17.03.00:049][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.07-17.03.00:049][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Scalability.ini]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Scalability.ini]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Scalability.ini]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Scalability.ini]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.07-17.03.00:050][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.07-17.03.00:051][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.07-17.03.00:051][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Engine.ini]
+[2020.03.07-17.03.00:051][  0]LogInit: Computer: DESKTOP-PQ2HA22
+[2020.03.07-17.03.00:051][  0]LogInit: User: HCWS
+[2020.03.07-17.03.00:051][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.03.07-17.03.00:051][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.07-17.03.00:051][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.03.07-17.03.00:051][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.07-17.03.00:051][  0]LogMemory: Process Physical Memory: 105.65 MB used, 105.66 MB peak
+[2020.03.07-17.03.00:051][  0]LogMemory: Process Virtual Memory: 98.01 MB used, 98.01 MB peak
+[2020.03.07-17.03.00:051][  0]LogMemory: Physical Memory: 9036.94 MB used,  7299.61 MB free, 16336.55 MB total
+[2020.03.07-17.03.00:051][  0]LogMemory: Virtual Memory: 4642.44 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2020.03.07-17.03.00:070][  0]LogInit: Using OS detected language (en-GB).
+[2020.03.07-17.03.00:070][  0]LogInit: Using OS detected locale (en-GB).
+[2020.03.07-17.03.00:071][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.03.07-17.03.00:411][  0]LogStreaming: Display: Took  0.341s to InitEngineTextLocalization.
+[2020.03.07-17.03.00:412][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.07-17.03.00:457][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.07-17.03.00:457][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.07-17.03.00:638][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.07-17.03.00:638][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.07-17.03.00:732][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2020.03.07-17.03.00:732][  0]LogD3D11RHI:       6052/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2020.03.07-17.03.00:734][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.07-17.03.00:734][  0]LogD3D11RHI:       0/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.07-17.03.00:734][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.07-17.03.00:742][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.07-17.03.00:742][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2020.03.07-17.03.00:742][  0]LogWindows: EnumDisplayDevices:
+[2020.03.07-17.03.00:743][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2020.03.07-17.03.00:743][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2020.03.07-17.03.00:743][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2020.03.07-17.03.00:743][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.03.07-17.03.00:743][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.03.07-17.03.00:743][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2020.03.07-17.03.00:744][  0]LogD3D11RHI:   Driver Version: 432.00 (internal:26.21.14.3200, unified:432.00)
+[2020.03.07-17.03.00:744][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2020.03.07-17.03.00:744][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.03.07-17.03.00:781][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.07-17.03.00:794][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.03.07-17.03.01:202][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.03.07-17.03.01:214][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.03.07-17.03.01:226][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.03.07-17.03.01:238][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.03.07-17.03.01:251][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.03.07-17.03.01:262][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.03.07-17.03.01:274][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.03.07-17.03.01:289][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.03.07-17.03.01:294][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.03.07-17.03.01:361][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.07-17.03.01:361][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.07-17.03.01:361][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.07-17.03.01:361][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.07-17.03.01:361][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.07-17.03.01:361][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.07-17.03.01:361][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.07-17.03.01:361][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.07-17.03.01:361][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.07-17.03.01:361][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.07-17.03.01:361][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.07-17.03.01:361][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.07-17.03.01:361][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.07-17.03.01:361][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.07-17.03.01:361][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.07-17.03.01:361][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.07-17.03.01:361][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.07-17.03.01:361][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.07-17.03.01:362][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.03.07-17.03.01:419][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.03.07-17.03.01:419][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.03.07-17.03.01:439][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.03.07-17.03.01:439][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.03.07-17.03.01:450][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.03.07-17.03.01:461][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.03.07-17.03.01:471][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.03.07-17.03.01:483][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.03.07-17.03.01:521][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.03.07-17.03.01:521][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.03.07-17.03.01:522][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.07-17.03.01:573][  0]LogShaderCompilers: Guid format shader working directory is -46 characters bigger than the processId version (../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Intermediate/Shaders/WorkingDirectory/15428/).
+[2020.03.07-17.03.01:573][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/HCWS/AppData/Local/Temp/UnrealShaderWorkingDir/38DF7C914E372DCC9115119C77A45153/'.
+[2020.03.07-17.03.01:576][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.07-17.03.01:576][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.07-17.03.01:576][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.07-17.03.02:035][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.07-17.03.02:088][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/HCWS/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.03.07-17.03.02:088][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/HCWS/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2020.03.07-17.03.02:089][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.07-17.03.02:089][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.07-17.03.02:089][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.07-17.03.02:089][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.07-17.03.02:102][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.07-17.03.02:102][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.07-17.03.02:102][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.07-17.03.02:115][  0]LogDerivedDataCache: Using Local data cache path C:/Users/HCWS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.07-17.03.02:115][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.07-17.03.02:115][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.07-17.03.02:940][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.07-17.03.02:941][  0]LogSlate: Using FreeType 2.6.0
+[2020.03.07-17.03.02:942][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.07-17.03.03:019][  0]LogAssetRegistry: FAssetRegistry took 0.0323 seconds to start up
+[2020.03.07-17.03.03:372][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.07-17.03.04:204][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.03.07-17.03.04:208][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.03.07-17.03.04:208][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.07-17.03.04:208][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.07-17.03.04:208][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.03.07-17.03.04:226][  0]LogNetVersion: CastleOfTheDead 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 192157307)
+[2020.03.07-17.03.06:983][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.238451 seconds
+[2020.03.07-17.03.06:990][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2020.03.07-17.03.06:990][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2020.03.07-17.03.06:990][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.07-17.03.09:997][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.07-17.03.10:011][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.07-17.03.10:797][  0]SourceControl: Source control is disabled
+[2020.03.07-17.03.10:797][  0]SourceControl: Source control is disabled
+[2020.03.07-17.03.10:799][  0]SourceControl: Source control is disabled
+[2020.03.07-17.03.10:800][  0]SourceControl: Source control is disabled
+[2020.03.07-17.03.10:977][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.07-17.03.11:168][  0]LogOcInput: OculusInput pre-init called
+[2020.03.07-17.03.11:818][  0]LogEngine: Initializing Engine...
+[2020.03.07-17.03.11:819][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.07-17.03.11:821][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.03.07-17.03.11:821][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.03.07-17.03.11:822][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.03.07-17.03.11:822][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.03.07-17.03.14:313][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.07-17.03.14:327][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.07-17.03.14:471][  0]LogInit: XAudio2 using 'CVTE TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.03.07-17.03.14:515][  0]LogInit: FAudioDevice initialized.
+[2020.03.07-17.03.14:515][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.07-17.03.16:660][  0]LogDerivedDataCache: Saved boot cache 2.14s 85MB C:/Users/HCWS/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.03.07-17.03.16:678][  0]LogInit: Texture streaming: Enabled
+[2020.03.07-17.03.16:705][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.07-17.03.16:880][  0]LogInit: Transaction tracking system initialized
+[2020.03.07-17.03.16:913][  0]BlueprintLog: New page: Editor Load
+[2020.03.07-17.03.17:009][  0]LocalizationService: Localization service is disabled
+[2020.03.07-17.03.17:303][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2020.03.07-17.03.17:303][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2020.03.07-17.03.17:303][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2020.03.07-17.03.22:354][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.07-17.03.22:354][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.07-17.03.22:354][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.03.07-17.03.22:354][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.03.07-17.03.22:354][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.03.07-17.03.22:354][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.03.07-17.03.22:354][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.03.07-17.03.22:696][  0]LogFileCache: Scanning file cache for directory 'C:/Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/' took 0.43s
+[2020.03.07-17.03.22:696][  0]SourceControl: Source control is disabled
+[2020.03.07-17.03.22:700][  0]LightingResults: New page: Lighting Build
+[2020.03.07-17.03.22:703][  0]MapCheck: New page: Map Check
+[2020.03.07-17.03.22:703][  0]LightingResults: New page: Lighting Build
+[2020.03.07-17.03.43:982][  0]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Texture/Textures/T_BasicGrid_M'
+[2020.03.07-17.03.43:983][  0]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Texture/Textures/T_BasicGrid_M' while loading ../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Geometry/LevelGeometry/Materials/MaterialFunctions/Texture/Tex_SimpleGrid.uasset.
+[2020.03.07-17.03.43:983][  0]LoadErrors: Error: /Game/Geometry/LevelGeometry/Materials/MaterialFunctions/Texture/Tex_SimpleGrid : Can't find file for asset. /Game/LevelGeometry/Texture/Textures/T_BasicGrid_M
+[2020.03.07-17.03.43:983][  0]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Texture/Textures/T_BasicGrid_M'
+[2020.03.07-17.03.43:983][  0]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Texture/Textures/T_BasicGrid_M' while loading ../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Geometry/LevelGeometry/Materials/MaterialFunctions/Texture/Tex_SimpleGrid.uasset.
+[2020.03.07-17.03.43:983][  0]LoadErrors: Error: /Game/Geometry/LevelGeometry/Materials/MaterialFunctions/Texture/Tex_SimpleGrid : Can't find file for asset. /Game/LevelGeometry/Texture/Textures/T_BasicGrid_M
+[2020.03.07-17.03.44:776][  0]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.03.07-17.03.44:777][  0]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading ../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Geometry/LevelGeometry/SM_Arch.uasset.
+[2020.03.07-17.03.44:777][  0]LoadErrors: Error: /Game/Geometry/LevelGeometry/SM_Arch : Can't find file for asset. /Game/LevelGeometry/Materials/Mat_LevelArchitecture
+[2020.03.07-17.03.44:777][  0]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.03.07-17.03.44:777][  0]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading ../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Geometry/LevelGeometry/SM_Arch.uasset.
+[2020.03.07-17.03.44:777][  0]LoadErrors: Error: /Game/Geometry/LevelGeometry/SM_Arch : Can't find file for asset. /Game/LevelGeometry/Materials/Mat_LevelArchitecture
+[2020.03.07-17.03.44:837][  0]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.03.07-17.03.44:837][  0]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading ../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Geometry/LevelGeometry/SM_ArchStyle2.uasset.
+[2020.03.07-17.03.44:838][  0]LoadErrors: Error: /Game/Geometry/LevelGeometry/SM_ArchStyle2 : Can't find file for asset. /Game/LevelGeometry/Materials/Mat_LevelArchitecture
+[2020.03.07-17.03.44:838][  0]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.03.07-17.03.44:838][  0]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading ../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Geometry/LevelGeometry/SM_ArchStyle2.uasset.
+[2020.03.07-17.03.44:838][  0]LoadErrors: Error: /Game/Geometry/LevelGeometry/SM_ArchStyle2 : Can't find file for asset. /Game/LevelGeometry/Materials/Mat_LevelArchitecture
+[2020.03.07-17.03.44:862][  0]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.03.07-17.03.44:862][  0]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading ../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Geometry/LevelGeometry/SM_Box.uasset.
+[2020.03.07-17.03.44:862][  0]LoadErrors: Error: /Game/Geometry/LevelGeometry/SM_Box : Can't find file for asset. /Game/LevelGeometry/Materials/Mat_LevelArchitecture
+[2020.03.07-17.03.44:863][  0]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.03.07-17.03.44:863][  0]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading ../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Geometry/LevelGeometry/SM_Box.uasset.
+[2020.03.07-17.03.44:863][  0]LoadErrors: Error: /Game/Geometry/LevelGeometry/SM_Box : Can't find file for asset. /Game/LevelGeometry/Materials/Mat_LevelArchitecture
+[2020.03.07-17.03.44:927][  0]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.03.07-17.03.44:928][  0]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading ../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Geometry/LevelGeometry/SM_CornerPiece1.uasset.
+[2020.03.07-17.03.44:928][  0]LoadErrors: Error: /Game/Geometry/LevelGeometry/SM_CornerPiece1 : Can't find file for asset. /Game/LevelGeometry/Materials/Mat_LevelArchitecture
+[2020.03.07-17.03.44:928][  0]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.03.07-17.03.44:928][  0]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading ../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Geometry/LevelGeometry/SM_CornerPiece1.uasset.
+[2020.03.07-17.03.44:928][  0]LoadErrors: Error: /Game/Geometry/LevelGeometry/SM_CornerPiece1 : Can't find file for asset. /Game/LevelGeometry/Materials/Mat_LevelArchitecture
+[2020.03.07-17.03.44:946][  0]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.03.07-17.03.44:947][  0]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading ../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Geometry/LevelGeometry/SM_CylinderCorner.uasset.
+[2020.03.07-17.03.44:947][  0]LoadErrors: Error: /Game/Geometry/LevelGeometry/SM_CylinderCorner : Can't find file for asset. /Game/LevelGeometry/Materials/Mat_LevelArchitecture
+[2020.03.07-17.03.44:947][  0]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.03.07-17.03.44:947][  0]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading ../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Geometry/LevelGeometry/SM_CylinderCorner.uasset.
+[2020.03.07-17.03.44:947][  0]LoadErrors: Error: /Game/Geometry/LevelGeometry/SM_CylinderCorner : Can't find file for asset. /Game/LevelGeometry/Materials/Mat_LevelArchitecture
+[2020.03.07-17.03.44:984][  0]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.03.07-17.03.44:984][  0]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading ../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Geometry/LevelGeometry/SM_CylinderSplit.uasset.
+[2020.03.07-17.03.44:984][  0]LoadErrors: Error: /Game/Geometry/LevelGeometry/SM_CylinderSplit : Can't find file for asset. /Game/LevelGeometry/Materials/Mat_LevelArchitecture
+[2020.03.07-17.03.44:985][  0]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.03.07-17.03.44:985][  0]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading ../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Geometry/LevelGeometry/SM_CylinderSplit.uasset.
+[2020.03.07-17.03.44:985][  0]LoadErrors: Error: /Game/Geometry/LevelGeometry/SM_CylinderSplit : Can't find file for asset. /Game/LevelGeometry/Materials/Mat_LevelArchitecture
+[2020.03.07-17.03.45:046][  0]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.03.07-17.03.45:046][  0]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading ../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Geometry/LevelGeometry/SM_Slope.uasset.
+[2020.03.07-17.03.45:046][  0]LoadErrors: Error: /Game/Geometry/LevelGeometry/SM_Slope : Can't find file for asset. /Game/LevelGeometry/Materials/Mat_LevelArchitecture
+[2020.03.07-17.03.45:046][  0]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.03.07-17.03.45:046][  0]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading ../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Geometry/LevelGeometry/SM_Slope.uasset.
+[2020.03.07-17.03.45:046][  0]LoadErrors: Error: /Game/Geometry/LevelGeometry/SM_Slope : Can't find file for asset. /Game/LevelGeometry/Materials/Mat_LevelArchitecture
+[2020.03.07-17.03.45:865][  0]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.03.07-17.03.45:866][  0]LoadErrors: Failed to load /Game/LevelGeometry/Materials/Mat_LevelArchitecture.Mat_LevelArchitecture Referenced by SM_Box
+[2020.03.07-17.03.45:866][  0]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading NULL.
+[2020.03.07-17.03.45:866][  0]LoadErrors: Failed to load /Game/LevelGeometry/Materials/Mat_LevelArchitecture.Mat_LevelArchitecture Referenced by SM_Box
+[2020.03.07-17.03.45:866][  0]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.03.07-17.03.45:866][  0]LoadErrors: Failed to load /Game/LevelGeometry/Materials/Mat_LevelArchitecture.Mat_LevelArchitecture Referenced by SM_ArchStyle2
+[2020.03.07-17.03.45:866][  0]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading NULL.
+[2020.03.07-17.03.45:866][  0]LoadErrors: Failed to load /Game/LevelGeometry/Materials/Mat_LevelArchitecture.Mat_LevelArchitecture Referenced by SM_ArchStyle2
+[2020.03.07-17.03.45:867][  0]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.03.07-17.03.45:867][  0]LoadErrors: Failed to load /Game/LevelGeometry/Materials/Mat_LevelArchitecture.Mat_LevelArchitecture Referenced by SM_Arch
+[2020.03.07-17.03.45:867][  0]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading NULL.
+[2020.03.07-17.03.45:867][  0]LoadErrors: Failed to load /Game/LevelGeometry/Materials/Mat_LevelArchitecture.Mat_LevelArchitecture Referenced by SM_Arch
+[2020.03.07-17.03.46:950][  0]LogTexture: Display: Building textures: T_Gauntlet_ORM (AutoDXT, 2048X2048)
+[2020.03.07-17.03.46:950][  0]LogTexture: Display: Building textures: T_Gauntlet_Normal (BC5, 2048X2048)
+[2020.03.07-17.03.46:950][  0]LogTexture: Display: Building textures: T_Gauntlet_Diffuse (AutoDXT, 2048X2048)
+[2020.03.07-17.03.46:950][  0]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Texture/Textures/T_BasicGrid_M'
+[2020.03.07-17.03.46:950][  0]LoadErrors: Failed to load /Game/LevelGeometry/Texture/Textures/T_BasicGrid_M.T_BasicGrid_M Referenced by MaterialExpressionTextureObject_0
+[2020.03.07-17.03.46:950][  0]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Texture/Textures/T_BasicGrid_M' while loading NULL.
+[2020.03.07-17.03.46:950][  0]LoadErrors: Failed to load /Game/LevelGeometry/Texture/Textures/T_BasicGrid_M.T_BasicGrid_M Referenced by MaterialExpressionTextureObject_0
+[2020.03.07-17.03.48:356][  0]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.03.07-17.03.48:356][  0]LoadErrors: Failed to load /Game/LevelGeometry/Materials/Mat_LevelArchitecture.Mat_LevelArchitecture Referenced by SM_CylinderSplit
+[2020.03.07-17.03.48:356][  0]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading NULL.
+[2020.03.07-17.03.48:356][  0]LoadErrors: Failed to load /Game/LevelGeometry/Materials/Mat_LevelArchitecture.Mat_LevelArchitecture Referenced by SM_CylinderSplit
+[2020.03.07-17.03.48:356][  0]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.03.07-17.03.48:356][  0]LoadErrors: Failed to load /Game/LevelGeometry/Materials/Mat_LevelArchitecture.Mat_LevelArchitecture Referenced by SM_CylinderCorner
+[2020.03.07-17.03.48:356][  0]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading NULL.
+[2020.03.07-17.03.48:356][  0]LoadErrors: Failed to load /Game/LevelGeometry/Materials/Mat_LevelArchitecture.Mat_LevelArchitecture Referenced by SM_CylinderCorner
+[2020.03.07-17.03.48:357][  0]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.03.07-17.03.48:357][  0]LoadErrors: Failed to load /Game/LevelGeometry/Materials/Mat_LevelArchitecture.Mat_LevelArchitecture Referenced by SM_CornerPiece1
+[2020.03.07-17.03.48:357][  0]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading NULL.
+[2020.03.07-17.03.48:357][  0]LoadErrors: Failed to load /Game/LevelGeometry/Materials/Mat_LevelArchitecture.Mat_LevelArchitecture Referenced by SM_CornerPiece1
+[2020.03.07-17.03.48:360][  0]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.03.07-17.03.48:360][  0]LoadErrors: Failed to load /Game/LevelGeometry/Materials/Mat_LevelArchitecture.Mat_LevelArchitecture Referenced by SM_Slope
+[2020.03.07-17.03.48:360][  0]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading NULL.
+[2020.03.07-17.03.48:360][  0]LoadErrors: Failed to load /Game/LevelGeometry/Materials/Mat_LevelArchitecture.Mat_LevelArchitecture Referenced by SM_Slope
+[2020.03.07-17.03.49:164][  0]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.03.07-17.03.50:450][  0]LogShaderCompilers: Display: Shaders left to compile 22
+[2020.03.07-17.03.50:450][  0]LogShaderCompilers: Display: Shaders left to compile 12
+[2020.03.07-17.03.50:450][  0]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.07-17.03.50:450][  0]LogStaticMesh: Building static mesh SM_GatlingCrossbow_Blockout_SA...
+[2020.03.07-17.03.50:969][  0]LogStaticMesh: Built static mesh [0.66s] /Game/Designers/Blueprints/GatlingCrossbow/SM_GatlingCrossbow_Blockout_SA.SM_GatlingCrossbow_Blockout_SA
+[2020.03.07-17.03.52:382][  0]LogTexture: Display: Building textures: HowToPlayBoard (AutoDXT, 764X644)
+[2020.03.07-17.03.52:395][  0]LogMaterial: Display: Missing cached shader map for material M_MovePoint_1, compiling. 
+[2020.03.07-17.03.52:622][  0]LogTexture: Display: Building textures: SM_HandCannon_L_lambert1_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.03.07-17.03.52:622][  0]LogShaderCompilers: Display: Shaders left to compile 31
+[2020.03.07-17.03.52:622][  0]LogShaderCompilers: Display: Shaders left to compile 21
+[2020.03.07-17.03.52:622][  0]LogTexture: Display: Building textures: SM_HandCannon_L_lambert1_Normal (BC5, 2048X2048)
+[2020.03.07-17.03.52:622][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave WAV_Zombie_Growl_2_H...
+[2020.03.07-17.03.53:078][  0]LogTexture: Display: Building textures: SM_HandCannon_L_lambert1_BaseColor (AutoDXT, 2048X2048)
+[2020.03.07-17.03.53:078][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1108448 while cooking SoundWave /Game/Designers/Audio/WAV_Zombie_Growl_2_H.WAV_Zombie_Growl_2_H.
+[2020.03.07-17.03.54:295][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Designers/Gauntlet/VR_Gauntlet_Open_Postion_anim.VR_Gauntlet_Open_Postion_anim
+[2020.03.07-17.03.54:477][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Designers/Gauntlet/VR_Gauntlet_Open_Postion_anim.VR_Gauntlet_Open_Postion_anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.03.07-17.03.54:487][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Designers/Gauntlet/VR_Gauntlet_AboutToGrab_Postion_anim.VR_Gauntlet_AboutToGrab_Postion_anim
+[2020.03.07-17.03.54:487][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Designers/Gauntlet/VR_Gauntlet_AboutToGrab_Postion_anim.VR_Gauntlet_AboutToGrab_Postion_anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.03.07-17.03.56:479][  0]LogMaterial: Display: Missing cached shader map for material lambert5, compiling. 
+[2020.03.07-17.03.57:077][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave 64346__robinhood76__00672-gunshot-1...
+[2020.03.07-17.03.57:123][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 377592 while cooking SoundWave /Game/Designers/Audio/64346__robinhood76__00672-gunshot-1.64346__robinhood76__00672-gunshot-1.
+[2020.03.07-17.04.03:761][  0]LogShaderCompilers: Display: Shaders left to compile 71
+[2020.03.07-17.04.04:267][  0]LogMaterial: Display: Missing cached shader map for material M_MovePoint_2, compiling. 
+[2020.03.07-17.04.05:107][  0]LogShaderCompilers: Display: Shaders left to compile 92
+[2020.03.07-17.04.06:312][  0]LogShaderCompilers: Display: Shaders left to compile 82
+[2020.03.07-17.04.06:343][  0]LogMaterial: Display: Missing cached shader map for material M_HTP_Board, compiling. 
+[2020.03.07-17.04.07:370][  0]LogShaderCompilers: Display: Shaders left to compile 94
+[2020.03.07-17.04.07:370][  0]LogShaderCompilers: Display: Shaders left to compile 84
+[2020.03.07-17.04.07:810][  0]LogShaderCompilers: Display: Shaders left to compile 74
+[2020.03.07-17.04.07:810][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave WAV_Torch_Fire_1_H...
+[2020.03.07-17.04.10:388][  0]LogShaderCompilers: Display: Shaders left to compile 64
+[2020.03.07-17.04.10:388][  0]LogShaderCompilers: Display: Shaders left to compile 54
+[2020.03.07-17.04.10:388][  0]LogShaderCompilers: Display: Shaders left to compile 44
+[2020.03.07-17.04.10:388][  0]LogShaderCompilers: Display: Shaders left to compile 34
+[2020.03.07-17.04.10:388][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 22109340 while cooking SoundWave /Game/Designers/Audio/WAV_Torch_Fire_1_H.WAV_Torch_Fire_1_H.
+[2020.03.07-17.04.11:516][  0]LogShaderCompilers: Display: Shaders left to compile 24
+[2020.03.07-17.04.11:516][  0]LogShaderCompilers: Display: Shaders left to compile 14
+[2020.03.07-17.04.12:633][  0]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.07-17.04.13:933][  0]LogSkeletalMesh: Building Skeletal Mesh VR_Gauntlet_MasterRig...
+[2020.03.07-17.04.13:942][  0]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Designers/Gauntlet/VR_Gauntlet_MasterRig.VR_Gauntlet_MasterRig
+[2020.03.07-17.04.13:973][  0]LogMaterial: Display: Missing cached shader map for material Menu, compiling. 
+[2020.03.07-17.04.14:049][  0]LogShaderCompilers: Display: Shaders left to compile 31
+[2020.03.07-17.04.14:049][  0]LogShaderCompilers: Display: Shaders left to compile 21
+[2020.03.07-17.04.14:049][  0]LogShaderCompilers: Display: Shaders left to compile 11
+[2020.03.07-17.04.14:049][  0]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.03.07-17.04.14:049][  0]LogMaterial: Display: Missing cached shader map for material M_smoke_subUV, compiling. 
+[2020.03.07-17.04.14:117][  0]LogShaderCompilers: Display: Shaders left to compile 87
+[2020.03.07-17.04.14:117][  0]LogMaterial: Display: Missing cached shader map for material M_radial_ramp, compiling. 
+[2020.03.07-17.04.14:145][  0]LogMaterial: Display: Missing cached shader map for material m_flare_01, compiling. 
+[2020.03.07-17.04.14:175][  0]LogShaderCompilers: Display: Shaders left to compile 112
+[2020.03.07-17.04.14:175][  0]LogMaterial: Display: Missing cached shader map for material M_explosion_subUV, compiling. 
+[2020.03.07-17.04.14:231][  0]LogMaterial: Display: Missing cached shader map for material M_Burst, compiling. 
+[2020.03.07-17.04.14:322][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Damage_Right.Damage_Right
+[2020.03.07-17.04.14:322][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/Damage_Right.Damage_Right) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.03.07-17.04.14:358][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Damage_lEft.Damage_Left
+[2020.03.07-17.04.14:358][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/Damage_lEft.Damage_Left) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.03.07-17.04.14:366][  0]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.03.07-17.04.14:465][  0]LogStaticMesh: Building static mesh Assembled_Flintlock...
+[2020.03.07-17.04.14:678][  0]LogStaticMesh: Built static mesh [0.24s] /Game/Designers/Blueprints/Flintlock/Updated/Assembled_Flintlock.Assembled_Flintlock
+[2020.03.07-17.04.14:904][  0]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.03.07-17.04.14:960][  0]LogStaticMesh: Building static mesh SM_Rifle_Blockout_SA...
+[2020.03.07-17.04.15:082][  0]LogStaticMesh: Built static mesh [0.12s] /Game/Designers/Blueprints/MusketRifle/SM_Rifle_Blockout_SA.SM_Rifle_Blockout_SA
+[2020.03.07-17.04.16:508][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Designers/Gauntlet/VR_Gauntlet_Grabbing_Position_anim.VR_Gauntlet_Grabbing_Position_anim
+[2020.03.07-17.04.16:508][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Designers/Gauntlet/VR_Gauntlet_Grabbing_Position_anim.VR_Gauntlet_Grabbing_Position_anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.03.07-17.04.17:103][  0]LogShaderCompilers: Display: Shaders left to compile 241
+[2020.03.07-17.04.17:857][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave WAV_Crossbow_Draw_Fire_HCWS_V2...
+[2020.03.07-17.04.17:885][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 116052 while cooking SoundWave /Game/Designers/Audio/WAV_Crossbow_Draw_Fire_HCWS_V2.WAV_Crossbow_Draw_Fire_HCWS_V2.
+[2020.03.07-17.04.17:959][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Crossbow_Draw...
+[2020.03.07-17.04.17:981][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 109936 while cooking SoundWave /Game/Designers/Audio/Crossbow_Draw.Crossbow_Draw.
+[2020.03.07-17.04.18:467][  0]LogShaderCompilers: Display: Shaders left to compile 231
+[2020.03.07-17.04.18:477][  0]LogAIModule: Creating AISystem for world MP_Level_One_Point_Two_HCWS
+[2020.03.07-17.04.19:263][  0]LogShaderCompilers: Display: Shaders left to compile 221
+[2020.03.07-17.04.19:263][  0]LogShaderCompilers: Display: Shaders left to compile 211
+[2020.03.07-17.04.19:264][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.07-17.04.19:336][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.07-17.04.19:336][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.324ms to complete.
+[2020.03.07-17.04.19:336][  0]LogFileHelpers: Loading map 'MP_Level_One_Point_Two_HCWS' took 56.640
+[2020.03.07-17.04.20:425][  0]LogShaderCompilers: Display: Shaders left to compile 201
+[2020.03.07-17.04.20:425][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-17.04.20:450][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-17.04.20:461][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-17.04.20:473][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.07-17.04.20:641][  0]LogCollectionManager: Loaded 0 collections in 0.002575 seconds
+[2020.03.07-17.04.20:941][  0]LogFileCache: Scanning file cache for directory 'C:/Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Collections/' took 0.01s
+[2020.03.07-17.04.20:941][  0]LogFileCache: Scanning file cache for directory 'C:/Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Developers/HCWS/Collections/' took 0.01s
+[2020.03.07-17.04.20:941][  0]LogFileCache: Scanning file cache for directory 'C:/Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Collections/' took 0.00s
+[2020.03.07-17.04.20:941][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.03.07-17.04.20:955][  0]LogContentBrowser: Native class hierarchy populated in 0.0133 seconds. Added 2651 classes and 620 folders.
+[2020.03.07-17.04.21:562][  0]LogShaderCompilers: Display: Shaders left to compile 191
+[2020.03.07-17.04.21:562][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.03.07-17.04.21:670][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-17.04.21:734][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-17.04.21:778][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-17.04.21:828][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-17.04.21:861][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-17.04.21:885][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-17.04.21:911][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-17.04.21:943][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-17.04.21:968][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-17.04.22:029][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-17.04.22:055][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-17.04.22:091][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-17.04.22:120][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-17.04.22:145][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-17.04.22:170][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-17.04.22:192][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-17.04.22:243][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-17.04.22:313][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-17.04.22:351][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-17.04.22:674][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-17.04.22:812][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-17.04.22:911][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-17.04.22:967][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-17.04.23:144][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-17.04.23:507][  0]LogShaderCompilers: Display: Shaders left to compile 181
+[2020.03.07-17.04.23:507][  0]LogShaderCompilers: Display: Shaders left to compile 171
+[2020.03.07-17.04.23:507][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-17.04.23:602][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.07-17.04.25:825][  0]LogShaderCompilers: Display: Shaders left to compile 161
+[2020.03.07-17.04.25:825][  0]LogShaderCompilers: Display: Shaders left to compile 151
+[2020.03.07-17.04.25:825][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.03.07-17.04.25:879][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.03.07-17.04.27:311][  0]LogShaderCompilers: Display: Shaders left to compile 141
+[2020.03.07-17.04.27:311][  0]LogShaderCompilers: Display: Shaders left to compile 131
+[2020.03.07-17.04.27:311][  0]LogShaderCompilers: Display: Shaders left to compile 121
+[2020.03.07-17.04.27:311][  0]LogShaderCompilers: Display: Shaders left to compile 111
+[2020.03.07-17.04.27:311][  0]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.07-17.04.27:352][  0]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.07-17.04.27:566][  0]LogSlate: Took 0.099208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.07-17.04.28:496][  0]LogShaderCompilers: Display: Shaders left to compile 101
+[2020.03.07-17.04.28:497][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 26 NumSamples 1 (Frame:1).
+[2020.03.07-17.04.29:822][  0]LogShaderCompilers: Display: Shaders left to compile 91
+[2020.03.07-17.04.29:822][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.07-17.04.29:995][  0]LogShaderCompilers: Display: Shaders left to compile 81
+[2020.03.07-17.04.29:995][  0]LogShaderCompilers: Display: Shaders left to compile 71
+[2020.03.07-17.04.29:995][  0]LogShaderCompilers: Display: Shaders left to compile 61
+[2020.03.07-17.04.29:995][  0]LogSlate: Window 'Tutorials' being destroyed
+[2020.03.07-17.04.30:214][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.03.07-17.04.30:214][  0]LogLoad: (Engine Initialization) Total time: 92.75 seconds
+[2020.03.07-17.04.30:214][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.07-17.04.30:307][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.03.07-17.04.30:337][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.07-17.04.31:203][  3]LogShaderCompilers: Display: Shaders left to compile 51
+[2020.03.07-17.04.33:051][124]LogShaderCompilers: Display: Shaders left to compile 41
+[2020.03.07-17.04.33:327][146]LogShaderCompilers: Display: Shaders left to compile 31
+[2020.03.07-17.04.33:523][162]LogShaderCompilers: Display: Shaders left to compile 21
+[2020.03.07-17.04.34:492][241]LogShaderCompilers: Display: Shaders left to compile 11
+[2020.03.07-17.04.35:570][327]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/' took 5.33s
+[2020.03.07-17.04.35:943][355]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.03.07-17.04.38:732][605]LogSlate: Took 0.067309 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.07-17.04.48:730][691]LogAssetRegistry: Asset discovery search completed in 105.7339 seconds
+[2020.03.07-17.04.48:732][691]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.03.07-17.04.48:732][691]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000051 seconds (updated 0 objects)
+[2020.03.07-17.06.19:534][217]LogSlate: Took 0.000270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.07-17.06.19:595][217]LogAIModule: Creating AISystem for world MP_Loading_Screen
+[2020.03.07-17.06.19:604][217]LogAssetEditorManager: Opening Asset editor for World /Game/UI/MP_Loading_Screen.MP_Loading_Screen
+[2020.03.07-17.06.19:647][217]Cmd: MAP LOAD FILE="../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/UI/MP_Loading_Screen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.07-17.06.19:647][217]LightingResults: New page: Lighting Build
+[2020.03.07-17.06.19:648][217]LoadErrors: New page: Loading map: MP_Loading_Screen.umap
+[2020.03.07-17.06.19:675][217]MapCheck: New page: Map Check
+[2020.03.07-17.06.19:676][217]LightingResults: New page: Lighting Build
+[2020.03.07-17.06.19:727][217]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.07-17.06.19:788][217]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.07-17.06.19:788][217]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.119ms to complete.
+[2020.03.07-17.06.19:788][217]LogFileHelpers: Loading map 'MP_Loading_Screen' took 0.142
+[2020.03.07-17.06.26:021][898]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.07-17.06.26:269][911]LogSkeletalMesh: Building Skeletal Mesh damage...
+[2020.03.07-17.06.26:313][911]LogSkeletalMesh: Built Skeletal Mesh [0.07s] /Game/Animations/damage.damage
+[2020.03.07-17.08.31:191][144]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.03.07-17.08.31:191][144]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading ../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Geometry/LevelGeometry/SM_Cyclinder2.uasset.
+[2020.03.07-17.08.31:191][144]LoadErrors: Error: /Game/Geometry/LevelGeometry/SM_Cyclinder2 : Can't find file for asset. /Game/LevelGeometry/Materials/Mat_LevelArchitecture
+[2020.03.07-17.08.31:191][144]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.03.07-17.08.31:191][144]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading ../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Geometry/LevelGeometry/SM_Cyclinder2.uasset.
+[2020.03.07-17.08.31:207][144]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.03.07-17.08.31:208][144]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading ../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Geometry/LevelGeometry/SM_RingPiece1.uasset.
+[2020.03.07-17.08.31:208][144]LoadErrors: Error: /Game/Geometry/LevelGeometry/SM_RingPiece1 : Can't find file for asset. /Game/LevelGeometry/Materials/Mat_LevelArchitecture
+[2020.03.07-17.08.31:208][144]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.03.07-17.08.31:208][144]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading ../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Geometry/LevelGeometry/SM_RingPiece1.uasset.
+[2020.03.07-17.08.31:218][144]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.03.07-17.08.31:218][144]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading ../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Geometry/LevelGeometry/SM_Stairs.uasset.
+[2020.03.07-17.08.31:218][144]LoadErrors: Error: /Game/Geometry/LevelGeometry/SM_Stairs : Can't find file for asset. /Game/LevelGeometry/Materials/Mat_LevelArchitecture
+[2020.03.07-17.08.31:219][144]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.03.07-17.08.31:219][144]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading ../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Geometry/LevelGeometry/SM_Stairs.uasset.
+[2020.03.07-17.08.31:231][144]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.03.07-17.08.31:231][144]LoadErrors: Failed to load /Game/LevelGeometry/Materials/Mat_LevelArchitecture.Mat_LevelArchitecture Referenced by SM_Stairs
+[2020.03.07-17.08.31:232][144]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading NULL.
+[2020.03.07-17.08.31:232][144]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.03.07-17.08.31:232][144]LoadErrors: Failed to load /Game/LevelGeometry/Materials/Mat_LevelArchitecture.Mat_LevelArchitecture Referenced by SM_Cyclinder2
+[2020.03.07-17.08.31:232][144]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading NULL.
+[2020.03.07-17.08.31:233][144]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.03.07-17.08.31:233][144]LoadErrors: Failed to load /Game/LevelGeometry/Materials/Mat_LevelArchitecture.Mat_LevelArchitecture Referenced by SM_RingPiece1
+[2020.03.07-17.08.31:233][144]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading NULL.
+[2020.03.07-17.08.31:321][144]LogStaticMesh: Building static mesh SM_RingPiece1...
+[2020.03.07-17.08.31:343][144]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/LevelGeometry/SM_RingPiece1.SM_RingPiece1
+[2020.03.07-17.08.31:392][144]LogStaticMesh: Building static mesh SM_Stairs...
+[2020.03.07-17.08.31:406][144]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/LevelGeometry/SM_Stairs.SM_Stairs
+[2020.03.07-17.08.31:432][144]LogAIModule: Creating AISystem for world MP_Level_Two_EAP
+[2020.03.07-17.08.31:471][144]LogAIModule: Creating AISystem for world MP_Placeholder
+[2020.03.07-17.08.33:666][328]LogMetaData: Removing '/Game/Designers/Level_Maps/Old/MP_Level_Two_EAP.MP_Level_Two_EAP_C' ref from Metadata '/Game/Designers/Level_Maps/MP_Level_Two_EAP.PackageMetaData'
+[2020.03.07-17.08.33:666][328]LogMetaData: Removing '/Game/Designers/Level_Maps/Old/MP_Level_Two_EAP.MP_Level_Two_EAP:PersistentLevel.MP_Level_Two_EAP.EventGraph.K2Node_Event_0' ref from Metadata '/Game/Designers/Level_Maps/MP_Level_Two_EAP.PackageMetaData'
+[2020.03.07-17.08.33:666][328]LogMetaData: Removing '/Game/Designers/Level_Maps/Old/MP_Level_Two_EAP.MP_Level_Two_EAP:PersistentLevel.MP_Level_Two_EAP.EventGraph.K2Node_Event_1' ref from Metadata '/Game/Designers/Level_Maps/MP_Level_Two_EAP.PackageMetaData'
+[2020.03.07-17.08.33:666][328]LogMetaData: Removing '/Game/Designers/Level_Maps/Old/MP_Level_Two_EAP.SKEL_MP_Level_Two_EAP_C' ref from Metadata '/Game/Designers/Level_Maps/MP_Level_Two_EAP.PackageMetaData'
+[2020.03.07-17.08.33:816][328]LogMetaData: Removing '/Game/Designers/Level_Maps/Old/MP_Placeholder.MP_Placeholder_C' ref from Metadata '/Game/Designers/Level_Maps/MP_Placeholder.PackageMetaData'
+[2020.03.07-17.08.33:816][328]LogMetaData: Removing '/Game/Designers/Level_Maps/Old/MP_Placeholder.MP_Placeholder:PersistentLevel.MP_Placeholder.EventGraph.K2Node_Event_0' ref from Metadata '/Game/Designers/Level_Maps/MP_Placeholder.PackageMetaData'
+[2020.03.07-17.08.33:816][328]LogMetaData: Removing '/Game/Designers/Level_Maps/Old/MP_Placeholder.MP_Placeholder:PersistentLevel.MP_Placeholder.EventGraph.K2Node_Event_1' ref from Metadata '/Game/Designers/Level_Maps/MP_Placeholder.PackageMetaData'
+[2020.03.07-17.08.33:816][328]LogMetaData: Removing '/Game/Designers/Level_Maps/Old/MP_Placeholder.SKEL_MP_Placeholder_C' ref from Metadata '/Game/Designers/Level_Maps/MP_Placeholder.PackageMetaData'
+[2020.03.07-17.08.34:078][328]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/MP_Level_Two_EAP3C2517814A3918A7A5FEC7B1D5F78BD2.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Old/MP_Level_Two_EAP.umap'
+[2020.03.07-17.08.34:097][328]LogFileHelpers: Saving map 'MP_Level_Two_EAP' took 0.258
+[2020.03.07-17.08.34:220][328]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/MP_PlaceholderB0AFDDF848834C5B09BDE2A659783769.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Old/MP_Placeholder.umap'
+[2020.03.07-17.08.34:226][328]LogFileHelpers: Saving map 'MP_Placeholder' took 0.125
+[2020.03.07-17.08.37:020][542]LogStaticMesh: Building static mesh SM_PillerBlockout_LM...
+[2020.03.07-17.08.37:022][542]LogStaticMesh: Built static mesh [0.05s] /Game/Artists/Assets/Castle_Level/Doors_Walls_Floors/SM_PillerBlockout_LM.SM_PillerBlockout_LM
+[2020.03.07-17.08.37:056][542]LogStaticMesh: Building static mesh SM_Bench_Wood_Blockout_SA...
+[2020.03.07-17.08.37:067][542]LogStaticMesh: Built static mesh [0.01s] /Game/Artists/Assets/Castle_Level/Special_Assets/SM_Bench_Wood_Blockout_SA.SM_Bench_Wood_Blockout_SA
+[2020.03.07-17.08.37:696][542]LogStaticMesh: Building static mesh Shrew_Fiddle...
+[2020.03.07-17.08.37:830][542]LogStaticMesh: Built static mesh [0.17s] /Game/Artists/Assets/Dungeon/Touture_Deveices/Shrew_Fiddle.Shrew_Fiddle
+[2020.03.07-17.08.37:883][542]LogStaticMesh: Building static mesh SM_ThorneWall_BL...
+[2020.03.07-17.08.37:883][542]LogStaticMesh: Built static mesh [0.00s] /Game/Artists/Assets/Throne_Room/Doors_Walls_Floors/SM_ThorneWall_BL.SM_ThorneWall_BL
+[2020.03.07-17.08.38:085][542]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/greyflat8E9DB39541AE310C3AC23E979D9E880C.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Old/greyflat.uasset'
+[2020.03.07-17.08.38:188][542]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/greyflatD2ACC8D0427D6D1FADDB03977FE4373C.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/greyflat.uasset'
+[2020.03.07-17.08.39:625][684]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.03.07-17.08.39:959][684]LogShaderCompilers: Display: Shaders left to compile 31
+[2020.03.07-17.08.39:959][684]LogShaderCompilers: Display: Shaders left to compile 21
+[2020.03.07-17.08.39:960][684]LogShaderCompilers: Display: Shaders left to compile 11
+[2020.03.07-17.08.39:960][684]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.03.07-17.08.39:960][684]LogStaticMesh: Building static mesh SM_Test...
+[2020.03.07-17.08.40:290][684]LogStaticMesh: Built static mesh [0.33s] /Game/Designers/Level_Maps/SM_Test.SM_Test
+[2020.03.07-17.08.41:696][822]LogMetaData: Removing '/Game/Designers/Level_Maps/Old/Ruleset.Ruleset:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Designers/Level_Maps/Ruleset.PackageMetaData'
+[2020.03.07-17.08.41:696][822]LogMetaData: Removing '/Game/Designers/Level_Maps/Old/Ruleset.Ruleset_C' ref from Metadata '/Game/Designers/Level_Maps/Ruleset.PackageMetaData'
+[2020.03.07-17.08.41:696][822]LogMetaData: Removing '/Game/Designers/Level_Maps/Old/Ruleset.Ruleset:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Designers/Level_Maps/Ruleset.PackageMetaData'
+[2020.03.07-17.08.41:696][822]LogMetaData: Removing '/Game/Designers/Level_Maps/Old/Ruleset.Ruleset:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Designers/Level_Maps/Ruleset.PackageMetaData'
+[2020.03.07-17.08.41:696][822]LogMetaData: Removing '/Game/Designers/Level_Maps/Old/Ruleset.Ruleset:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Designers/Level_Maps/Ruleset.PackageMetaData'
+[2020.03.07-17.08.41:696][822]LogMetaData: Removing '/Game/Designers/Level_Maps/Old/Ruleset.SKEL_Ruleset_C:ReceiveBeginPlay' ref from Metadata '/Game/Designers/Level_Maps/Ruleset.PackageMetaData'
+[2020.03.07-17.08.41:696][822]LogMetaData: Removing '/Game/Designers/Level_Maps/Old/Ruleset.SKEL_Ruleset_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Designers/Level_Maps/Ruleset.PackageMetaData'
+[2020.03.07-17.08.41:696][822]LogMetaData: Removing '/Game/Designers/Level_Maps/Old/Ruleset.SKEL_Ruleset_C:ReceiveTick' ref from Metadata '/Game/Designers/Level_Maps/Ruleset.PackageMetaData'
+[2020.03.07-17.08.41:696][822]LogMetaData: Removing '/Game/Designers/Level_Maps/Old/Ruleset.SKEL_Ruleset_C:DefaultSceneRoot' ref from Metadata '/Game/Designers/Level_Maps/Ruleset.PackageMetaData'
+[2020.03.07-17.08.41:696][822]LogMetaData: Removing '/Game/Designers/Level_Maps/Old/Ruleset.SKEL_Ruleset_C:UserConstructionScript' ref from Metadata '/Game/Designers/Level_Maps/Ruleset.PackageMetaData'
+[2020.03.07-17.08.41:696][822]LogMetaData: Removing '/Game/Designers/Level_Maps/Old/Ruleset.SKEL_Ruleset_C' ref from Metadata '/Game/Designers/Level_Maps/Ruleset.PackageMetaData'
+[2020.03.07-17.08.41:696][822]LogMetaData: Removing '/Game/Designers/Level_Maps/Old/Ruleset.Ruleset_C:DefaultSceneRoot' ref from Metadata '/Game/Designers/Level_Maps/Ruleset.PackageMetaData'
+[2020.03.07-17.08.41:696][822]LogMetaData: Removing '/Game/Designers/Level_Maps/Old/Ruleset.Ruleset_C:UserConstructionScript' ref from Metadata '/Game/Designers/Level_Maps/Ruleset.PackageMetaData'
+[2020.03.07-17.08.43:451][822]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/NewMaterialBB0BF79246E2D06A70DD0890CA3D9DA2.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Old/NewMaterial.uasset'
+[2020.03.07-17.08.43:490][822]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/NewMaterial8C35024C4B8C2B69286E6893992628CC.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/NewMaterial.uasset'
+[2020.03.07-17.08.43:526][822]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Ruleset52414BB44AF2E85B939D41BD149A976E.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Old/Ruleset.uasset'
+[2020.03.07-17.08.43:586][822]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/SM_Test05EF4A734AE14D7A239112991A27ECCE.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Old/SM_Test.uasset'
+[2020.03.07-17.08.57:954][469]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelBase'
+[2020.03.07-17.08.57:954][469]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelBase' while loading ../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Geometry/LevelGeometry/SM_LevelBaseBlock.uasset.
+[2020.03.07-17.08.57:954][469]LoadErrors: Error: /Game/Geometry/LevelGeometry/SM_LevelBaseBlock : Can't find file for asset. /Game/LevelGeometry/Materials/Mat_LevelBase
+[2020.03.07-17.08.57:954][469]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelBase'
+[2020.03.07-17.08.57:955][469]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelBase' while loading ../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Geometry/LevelGeometry/SM_LevelBaseBlock.uasset.
+[2020.03.07-17.08.57:966][469]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelBase'
+[2020.03.07-17.08.57:966][469]LoadErrors: Failed to load /Game/LevelGeometry/Materials/Mat_LevelBase.Mat_LevelBase Referenced by SM_LevelBaseBlock
+[2020.03.07-17.08.57:966][469]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelBase' while loading NULL.
+[2020.03.07-17.08.57:995][469]LogStaticMesh: Building static mesh SM_LevelBaseBlock...
+[2020.03.07-17.08.57:997][469]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/LevelGeometry/SM_LevelBaseBlock.SM_LevelBaseBlock
+[2020.03.07-17.08.58:010][469]LogAIModule: Creating AISystem for world MP_Level_Four_SJAR_Corridor
+[2020.03.07-17.08.58:069][469]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.03.07-17.08.58:069][469]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading ../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Geometry/LevelGeometry/SM_Cone.uasset.
+[2020.03.07-17.08.58:069][469]LoadErrors: Error: /Game/Geometry/LevelGeometry/SM_Cone : Can't find file for asset. /Game/LevelGeometry/Materials/Mat_LevelArchitecture
+[2020.03.07-17.08.58:070][469]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.03.07-17.08.58:070][469]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading ../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Geometry/LevelGeometry/SM_Cone.uasset.
+[2020.03.07-17.08.58:086][469]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.03.07-17.08.58:086][469]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading ../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Geometry/LevelGeometry/SM_Hexagon.uasset.
+[2020.03.07-17.08.58:086][469]LoadErrors: Error: /Game/Geometry/LevelGeometry/SM_Hexagon : Can't find file for asset. /Game/LevelGeometry/Materials/Mat_LevelArchitecture
+[2020.03.07-17.08.58:086][469]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.03.07-17.08.58:086][469]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading ../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Geometry/LevelGeometry/SM_Hexagon.uasset.
+[2020.03.07-17.08.58:103][469]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.03.07-17.08.58:103][469]LoadErrors: Failed to load /Game/LevelGeometry/Materials/Mat_LevelArchitecture.Mat_LevelArchitecture Referenced by SM_Cone
+[2020.03.07-17.08.58:103][469]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading NULL.
+[2020.03.07-17.08.58:104][469]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.03.07-17.08.58:104][469]LoadErrors: Failed to load /Game/LevelGeometry/Materials/Mat_LevelArchitecture.Mat_LevelArchitecture Referenced by SM_Hexagon
+[2020.03.07-17.08.58:104][469]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading NULL.
+[2020.03.07-17.08.58:108][469]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/run_Anim.run_Anim
+[2020.03.07-17.08.58:108][469]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/run_Anim.run_Anim) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.03.07-17.08.58:112][469]LogStaticMesh: Building static mesh SM_Cone...
+[2020.03.07-17.08.58:120][469]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/LevelGeometry/SM_Cone.SM_Cone
+[2020.03.07-17.08.58:162][469]LogStaticMesh: Building static mesh SM_Hexagon...
+[2020.03.07-17.08.58:165][469]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/LevelGeometry/SM_Hexagon.SM_Hexagon
+[2020.03.07-17.08.58:206][469]LogAIModule: Creating AISystem for world MP_Level_Four_SJAR_Kitchen
+[2020.03.07-17.08.58:363][469]LogMetaData: Removing '/Game/Designers/Level_Maps/Old/Level_Designs_SJAR/MP_Level_Four_SJAR_Corridor.MP_Level_Four_SJAR_Corridor_C' ref from Metadata '/Game/Designers/Level_Maps/Level_Designs_SJAR/MP_Level_Four_SJAR_Corridor.PackageMetaData'
+[2020.03.07-17.08.58:363][469]LogMetaData: Removing '/Game/Designers/Level_Maps/Old/Level_Designs_SJAR/MP_Level_Four_SJAR_Corridor.SKEL_MP_Level_Four_SJAR_Corridor_C' ref from Metadata '/Game/Designers/Level_Maps/Level_Designs_SJAR/MP_Level_Four_SJAR_Corridor.PackageMetaData'
+[2020.03.07-17.08.58:482][469]LogMetaData: Removing '/Game/Designers/Level_Maps/Old/Level_Designs_SJAR/MP_Level_Four_SJAR_Kitchen.MP_Level_Four_SJAR_Kitchen_C' ref from Metadata '/Game/Designers/Level_Maps/Level_Designs_SJAR/MP_Level_Four_SJAR_Kitchen.PackageMetaData'
+[2020.03.07-17.08.58:482][469]LogMetaData: Removing '/Game/Designers/Level_Maps/Old/Level_Designs_SJAR/MP_Level_Four_SJAR_Kitchen.SKEL_MP_Level_Four_SJAR_Kitchen_C' ref from Metadata '/Game/Designers/Level_Maps/Level_Designs_SJAR/MP_Level_Four_SJAR_Kitchen.PackageMetaData'
+[2020.03.07-17.08.58:690][469]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/MP_Level_Four_SJAR_Corridor2A849C254497478E4788F1A0673D1B61.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Old/Level_Designs_SJAR/MP_Level_Four_SJAR_Corridor.umap'
+[2020.03.07-17.08.58:698][469]LogFileHelpers: Saving map 'MP_Level_Four_SJAR_Corridor' took 0.195
+[2020.03.07-17.08.58:904][469]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/MP_Level_Four_SJAR_KitchenEA524B0242798AB60DD424B69F84B189.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Old/Level_Designs_SJAR/MP_Level_Four_SJAR_Kitchen.umap'
+[2020.03.07-17.08.58:913][469]LogFileHelpers: Saving map 'MP_Level_Four_SJAR_Kitchen' took 0.212
+[2020.03.07-17.09.01:946][776]LogLinker: Warning: Can't find file '/Game/Designers/Level_Maps/JMD_Levels/MP_Level_Four_JMD_BuiltData'
+[2020.03.07-17.09.01:946][776]LogLinker: Warning: Can't find file for asset '/Game/Designers/Level_Maps/JMD_Levels/MP_Level_Four_JMD_BuiltData' while loading ../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/JMD_Levels/MP_Level_Four_JMD.umap.
+[2020.03.07-17.09.01:946][776]LoadErrors: Error: /Game/Designers/Level_Maps/JMD_Levels/MP_Level_Four_JMD : Can't find file for asset. /Game/Designers/Level_Maps/JMD_Levels/MP_Level_Four_JMD_BuiltData
+[2020.03.07-17.09.01:947][776]LogLinker: Warning: Can't find file '/Game/Designers/Level_Maps/JMD_Levels/MP_Level_Four_JMD_BuiltData'
+[2020.03.07-17.09.01:947][776]LogLinker: Warning: Can't find file for asset '/Game/Designers/Level_Maps/JMD_Levels/MP_Level_Four_JMD_BuiltData' while loading ../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/JMD_Levels/MP_Level_Four_JMD.umap.
+[2020.03.07-17.09.01:950][776]LogLinker: Warning: Can't find file '/Game/Designers/Level_Maps/JMD_Levels/MP_Level_Four_JMD_BuiltData'
+[2020.03.07-17.09.01:950][776]LogLinker: Warning: Can't find file for asset '/Game/Designers/Level_Maps/JMD_Levels/MP_Level_Four_JMD_BuiltData' while loading NULL.
+[2020.03.07-17.09.01:950][776]LogLinker: Warning: Can't find file '/Game/Designers/Level_Maps/JMD_Levels/MP_Level_Four_JMD_BuiltData'
+[2020.03.07-17.09.01:951][776]LogLinker: Warning: Can't find file for asset '/Game/Designers/Level_Maps/JMD_Levels/MP_Level_Four_JMD_BuiltData' while loading NULL.
+[2020.03.07-17.09.02:009][776]LogLinker: Warning: Can't find file '/Game/Designers/Level_Maps/JMD_Levels/MP_Level_Four_JMD_BuiltData'
+[2020.03.07-17.09.02:009][776]LoadErrors: Failed to load /Game/Designers/Level_Maps/JMD_Levels/MP_Level_Four_JMD_BuiltData.MP_Level_Four_JMD_BuiltData Referenced by PersistentLevel
+[2020.03.07-17.09.02:009][776]LogLinker: Warning: Can't find file for asset '/Game/Designers/Level_Maps/JMD_Levels/MP_Level_Four_JMD_BuiltData' while loading NULL.
+[2020.03.07-17.09.02:046][776]LogAIModule: Creating AISystem for world MP_Level_Four_JMD
+[2020.03.07-17.09.02:075][776]LogLinker: Warning: Can't find file '/Game/Designers/Level_Maps/JMD_Levels/MP_Level_Three_JMD_BuiltData'
+[2020.03.07-17.09.02:076][776]LogLinker: Warning: Can't find file for asset '/Game/Designers/Level_Maps/JMD_Levels/MP_Level_Three_JMD_BuiltData' while loading ../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/JMD_Levels/MP_Level_Three_JMD.umap.
+[2020.03.07-17.09.02:076][776]LoadErrors: Error: /Game/Designers/Level_Maps/JMD_Levels/MP_Level_Three_JMD : Can't find file for asset. /Game/Designers/Level_Maps/JMD_Levels/MP_Level_Three_JMD_BuiltData
+[2020.03.07-17.09.02:078][776]LogLinker: Warning: Can't find file '/Game/Designers/Level_Maps/JMD_Levels/MP_Level_Three_JMD_BuiltData'
+[2020.03.07-17.09.02:078][776]LogLinker: Warning: Can't find file for asset '/Game/Designers/Level_Maps/JMD_Levels/MP_Level_Three_JMD_BuiltData' while loading ../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/JMD_Levels/MP_Level_Three_JMD.umap.
+[2020.03.07-17.09.02:082][776]LogLinker: Warning: Can't find file '/Game/Designers/Level_Maps/JMD_Levels/MP_Level_Three_JMD_BuiltData'
+[2020.03.07-17.09.02:082][776]LogLinker: Warning: Can't find file for asset '/Game/Designers/Level_Maps/JMD_Levels/MP_Level_Three_JMD_BuiltData' while loading NULL.
+[2020.03.07-17.09.02:082][776]LogLinker: Warning: Can't find file '/Game/Designers/Level_Maps/JMD_Levels/MP_Level_Three_JMD_BuiltData'
+[2020.03.07-17.09.02:082][776]LogLinker: Warning: Can't find file for asset '/Game/Designers/Level_Maps/JMD_Levels/MP_Level_Three_JMD_BuiltData' while loading NULL.
+[2020.03.07-17.09.02:108][776]LogLinker: Warning: Can't find file '/Game/Designers/Level_Maps/JMD_Levels/MP_Level_Three_JMD_BuiltData'
+[2020.03.07-17.09.02:109][776]LoadErrors: Failed to load /Game/Designers/Level_Maps/JMD_Levels/MP_Level_Three_JMD_BuiltData.MP_Level_Three_JMD_BuiltData Referenced by PersistentLevel
+[2020.03.07-17.09.02:109][776]LogLinker: Warning: Can't find file for asset '/Game/Designers/Level_Maps/JMD_Levels/MP_Level_Three_JMD_BuiltData' while loading NULL.
+[2020.03.07-17.09.02:118][776]LogAIModule: Creating AISystem for world MP_Level_Three_JMD
+[2020.03.07-17.09.02:155][776]LogMaterial: Warning: Material /Game/Designers/Level_Maps/Old/NewMaterial.NewMaterial needed to have new flag set bUsedWithSkeletalMesh !
+[2020.03.07-17.09.02:158][776]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.03.07-17.09.02:188][776]MapCheck: Warning: NewMaterial Material /Game/Designers/Level_Maps/Old/NewMaterial.NewMaterial was missing the usage flag bUsedWithSkeletalMesh. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.03.07-17.09.02:219][776]LogShaderCompilers: Display: Shaders left to compile 69
+[2020.03.07-17.09.02:219][776]LogShaderCompilers: Display: Shaders left to compile 59
+[2020.03.07-17.09.02:219][776]LogShaderCompilers: Display: Shaders left to compile 49
+[2020.03.07-17.09.02:219][776]LogShaderCompilers: Display: Shaders left to compile 39
+[2020.03.07-17.09.02:479][776]LogMetaData: Removing '/Game/Designers/Level_Maps/Old/JMD_Levels/MP_Level_Four_JMD.MP_Level_Four_JMD_C' ref from Metadata '/Game/Designers/Level_Maps/JMD_Levels/MP_Level_Four_JMD.PackageMetaData'
+[2020.03.07-17.09.02:479][776]LogMetaData: Removing '/Game/Designers/Level_Maps/Old/JMD_Levels/MP_Level_Four_JMD.SKEL_MP_Level_Four_JMD_C' ref from Metadata '/Game/Designers/Level_Maps/JMD_Levels/MP_Level_Four_JMD.PackageMetaData'
+[2020.03.07-17.09.02:656][776]LogMetaData: Removing '/Game/Designers/Level_Maps/Old/JMD_Levels/MP_Level_Three_JMD.MP_Level_Three_JMD_C' ref from Metadata '/Game/Designers/Level_Maps/JMD_Levels/MP_Level_Three_JMD.PackageMetaData'
+[2020.03.07-17.09.02:656][776]LogMetaData: Removing '/Game/Designers/Level_Maps/Old/JMD_Levels/MP_Level_Three_JMD.SKEL_MP_Level_Three_JMD_C' ref from Metadata '/Game/Designers/Level_Maps/JMD_Levels/MP_Level_Three_JMD.PackageMetaData'
+[2020.03.07-17.09.03:453][776]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/MP_Level_Four_JMD12F54A4844AE4632A1B8C08122C268D9.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Old/JMD_Levels/MP_Level_Four_JMD.umap'
+[2020.03.07-17.09.03:471][776]LogFileHelpers: Saving map 'MP_Level_Four_JMD' took 0.789
+[2020.03.07-17.09.03:841][776]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/MP_Level_Three_JMDFED83D734A15E3B3383787B1F321BBE1.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Old/JMD_Levels/MP_Level_Three_JMD.umap'
+[2020.03.07-17.09.03:853][776]LogFileHelpers: Saving map 'MP_Level_Three_JMD' took 0.380
+[2020.03.07-17.09.04:308][780]LogShaderCompilers: Display: Shaders left to compile 29
+[2020.03.07-17.09.05:115][853]LogShaderCompilers: Display: Shaders left to compile 19
+[2020.03.07-17.09.06:064][942]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.07-17.09.06:579][990]LogLinker: Warning: Can't find file '/Game/Designers/Level_Maps/EAP/MP_DineingRoom_EAP_BuiltData'
+[2020.03.07-17.09.06:579][990]LogLinker: Warning: Can't find file for asset '/Game/Designers/Level_Maps/EAP/MP_DineingRoom_EAP_BuiltData' while loading ../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/EAP/MP_DineingRoom_EAP.umap.
+[2020.03.07-17.09.06:579][990]LoadErrors: Error: /Game/Designers/Level_Maps/EAP/MP_DineingRoom_EAP : Can't find file for asset. /Game/Designers/Level_Maps/EAP/MP_DineingRoom_EAP_BuiltData
+[2020.03.07-17.09.06:580][990]LogLinker: Warning: Can't find file '/Game/Designers/Level_Maps/EAP/MP_DineingRoom_EAP_BuiltData'
+[2020.03.07-17.09.06:581][990]LogLinker: Warning: Can't find file for asset '/Game/Designers/Level_Maps/EAP/MP_DineingRoom_EAP_BuiltData' while loading ../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/EAP/MP_DineingRoom_EAP.umap.
+[2020.03.07-17.09.06:583][990]LogLinker: Warning: Can't find file '/Game/Designers/Level_Maps/EAP/MP_DineingRoom_EAP_BuiltData'
+[2020.03.07-17.09.06:584][990]LogLinker: Warning: Can't find file for asset '/Game/Designers/Level_Maps/EAP/MP_DineingRoom_EAP_BuiltData' while loading NULL.
+[2020.03.07-17.09.06:584][990]LogLinker: Warning: Can't find file '/Game/Designers/Level_Maps/EAP/MP_DineingRoom_EAP_BuiltData'
+[2020.03.07-17.09.06:584][990]LogLinker: Warning: Can't find file for asset '/Game/Designers/Level_Maps/EAP/MP_DineingRoom_EAP_BuiltData' while loading NULL.
+[2020.03.07-17.09.06:603][990]LogLinker: Warning: Can't find file '/Game/Designers/Level_Maps/EAP/MP_DineingRoom_EAP_BuiltData'
+[2020.03.07-17.09.06:603][990]LoadErrors: Failed to load /Game/Designers/Level_Maps/EAP/MP_DineingRoom_EAP_BuiltData.MP_DineingRoom_EAP_BuiltData Referenced by PersistentLevel
+[2020.03.07-17.09.06:603][990]LogLinker: Warning: Can't find file for asset '/Game/Designers/Level_Maps/EAP/MP_DineingRoom_EAP_BuiltData' while loading NULL.
+[2020.03.07-17.09.06:619][990]LogAIModule: Creating AISystem for world MP_DineingRoom_EAP
+[2020.03.07-17.09.06:639][990]LogLinker: Warning: Can't find file '/Game/Designers/Level_Maps/EAP/MP_Hallway_EAP_BuiltData'
+[2020.03.07-17.09.06:639][990]LogLinker: Warning: Can't find file for asset '/Game/Designers/Level_Maps/EAP/MP_Hallway_EAP_BuiltData' while loading ../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/EAP/MP_Hallway_EAP.umap.
+[2020.03.07-17.09.06:640][990]LoadErrors: Error: /Game/Designers/Level_Maps/EAP/MP_Hallway_EAP : Can't find file for asset. /Game/Designers/Level_Maps/EAP/MP_Hallway_EAP_BuiltData
+[2020.03.07-17.09.06:641][990]LogLinker: Warning: Can't find file '/Game/Designers/Level_Maps/EAP/MP_Hallway_EAP_BuiltData'
+[2020.03.07-17.09.06:641][990]LogLinker: Warning: Can't find file for asset '/Game/Designers/Level_Maps/EAP/MP_Hallway_EAP_BuiltData' while loading ../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/EAP/MP_Hallway_EAP.umap.
+[2020.03.07-17.09.06:648][990]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.03.07-17.09.06:648][990]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading ../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Geometry/LevelGeometry/SM_Ring.uasset.
+[2020.03.07-17.09.06:648][990]LoadErrors: Error: /Game/Geometry/LevelGeometry/SM_Ring : Can't find file for asset. /Game/LevelGeometry/Materials/Mat_LevelArchitecture
+[2020.03.07-17.09.06:649][990]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.03.07-17.09.06:649][990]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading ../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Geometry/LevelGeometry/SM_Ring.uasset.
+[2020.03.07-17.09.06:651][990]LogLinker: Warning: Can't find file '/Game/Designers/Level_Maps/EAP/MP_Hallway_EAP_BuiltData'
+[2020.03.07-17.09.06:651][990]LogLinker: Warning: Can't find file for asset '/Game/Designers/Level_Maps/EAP/MP_Hallway_EAP_BuiltData' while loading NULL.
+[2020.03.07-17.09.06:652][990]LogLinker: Warning: Can't find file '/Game/Designers/Level_Maps/EAP/MP_Hallway_EAP_BuiltData'
+[2020.03.07-17.09.06:652][990]LogLinker: Warning: Can't find file for asset '/Game/Designers/Level_Maps/EAP/MP_Hallway_EAP_BuiltData' while loading NULL.
+[2020.03.07-17.09.06:666][990]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.03.07-17.09.06:666][990]LoadErrors: Failed to load /Game/LevelGeometry/Materials/Mat_LevelArchitecture.Mat_LevelArchitecture Referenced by SM_Ring
+[2020.03.07-17.09.06:666][990]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading NULL.
+[2020.03.07-17.09.06:667][990]LogLinker: Warning: Can't find file '/Game/Designers/Level_Maps/EAP/MP_Hallway_EAP_BuiltData'
+[2020.03.07-17.09.06:667][990]LoadErrors: Failed to load /Game/Designers/Level_Maps/EAP/MP_Hallway_EAP_BuiltData.MP_Hallway_EAP_BuiltData Referenced by PersistentLevel
+[2020.03.07-17.09.06:668][990]LogLinker: Warning: Can't find file for asset '/Game/Designers/Level_Maps/EAP/MP_Hallway_EAP_BuiltData' while loading NULL.
+[2020.03.07-17.09.06:708][990]LogStaticMesh: Building static mesh SM_Ring...
+[2020.03.07-17.09.06:724][990]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/LevelGeometry/SM_Ring.SM_Ring
+[2020.03.07-17.09.06:731][990]LogAIModule: Creating AISystem for world MP_Hallway_EAP
+[2020.03.07-17.09.06:755][990]LogLinker: Warning: Can't find file '/Game/Designers/Level_Maps/EAP/MP_Living_Room_EAP_BuiltData'
+[2020.03.07-17.09.06:756][990]LogLinker: Warning: Can't find file for asset '/Game/Designers/Level_Maps/EAP/MP_Living_Room_EAP_BuiltData' while loading ../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/EAP/MP_Living_Room_EAP.umap.
+[2020.03.07-17.09.06:756][990]LoadErrors: Error: /Game/Designers/Level_Maps/EAP/MP_Living_Room_EAP : Can't find file for asset. /Game/Designers/Level_Maps/EAP/MP_Living_Room_EAP_BuiltData
+[2020.03.07-17.09.06:757][990]LogLinker: Warning: Can't find file '/Game/Designers/Level_Maps/EAP/MP_Living_Room_EAP_BuiltData'
+[2020.03.07-17.09.06:757][990]LogLinker: Warning: Can't find file for asset '/Game/Designers/Level_Maps/EAP/MP_Living_Room_EAP_BuiltData' while loading ../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/EAP/MP_Living_Room_EAP.umap.
+[2020.03.07-17.09.06:770][990]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.03.07-17.09.06:771][990]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading ../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Geometry/LevelGeometry/SM_Plane.uasset.
+[2020.03.07-17.09.06:771][990]LoadErrors: Error: /Game/Geometry/LevelGeometry/SM_Plane : Can't find file for asset. /Game/LevelGeometry/Materials/Mat_LevelArchitecture
+[2020.03.07-17.09.06:771][990]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.03.07-17.09.06:771][990]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading ../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Geometry/LevelGeometry/SM_Plane.uasset.
+[2020.03.07-17.09.06:775][990]LogLinker: Warning: Can't find file '/Game/Designers/Level_Maps/EAP/MP_Living_Room_EAP_BuiltData'
+[2020.03.07-17.09.06:775][990]LogLinker: Warning: Can't find file for asset '/Game/Designers/Level_Maps/EAP/MP_Living_Room_EAP_BuiltData' while loading NULL.
+[2020.03.07-17.09.06:775][990]LogLinker: Warning: Can't find file '/Game/Designers/Level_Maps/EAP/MP_Living_Room_EAP_BuiltData'
+[2020.03.07-17.09.06:775][990]LogLinker: Warning: Can't find file for asset '/Game/Designers/Level_Maps/EAP/MP_Living_Room_EAP_BuiltData' while loading NULL.
+[2020.03.07-17.09.06:795][990]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.03.07-17.09.06:795][990]LoadErrors: Failed to load /Game/LevelGeometry/Materials/Mat_LevelArchitecture.Mat_LevelArchitecture Referenced by SM_Plane
+[2020.03.07-17.09.06:795][990]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading NULL.
+[2020.03.07-17.09.06:796][990]LogLinker: Warning: Can't find file '/Game/Designers/Level_Maps/EAP/MP_Living_Room_EAP_BuiltData'
+[2020.03.07-17.09.06:796][990]LoadErrors: Failed to load /Game/Designers/Level_Maps/EAP/MP_Living_Room_EAP_BuiltData.MP_Living_Room_EAP_BuiltData Referenced by PersistentLevel
+[2020.03.07-17.09.06:797][990]LogLinker: Warning: Can't find file for asset '/Game/Designers/Level_Maps/EAP/MP_Living_Room_EAP_BuiltData' while loading NULL.
+[2020.03.07-17.09.06:801][990]LogStaticMesh: Building static mesh SM_Plane...
+[2020.03.07-17.09.06:801][990]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/LevelGeometry/SM_Plane.SM_Plane
+[2020.03.07-17.09.06:805][990]LogAIModule: Creating AISystem for world MP_Living_Room_EAP
+[2020.03.07-17.09.07:007][990]LogMetaData: Removing '/Game/Designers/Level_Maps/Old/EAP/MP_DineingRoom_EAP.MP_DineingRoom_EAP_C' ref from Metadata '/Game/Designers/Level_Maps/EAP/MP_DineingRoom_EAP.PackageMetaData'
+[2020.03.07-17.09.07:007][990]LogMetaData: Removing '/Game/Designers/Level_Maps/Old/EAP/MP_DineingRoom_EAP.SKEL_MP_DineingRoom_EAP_C' ref from Metadata '/Game/Designers/Level_Maps/EAP/MP_DineingRoom_EAP.PackageMetaData'
+[2020.03.07-17.09.07:189][990]LogMetaData: Removing '/Game/Designers/Level_Maps/Old/EAP/MP_Hallway_EAP.MP_Hallway_EAP_C' ref from Metadata '/Game/Designers/Level_Maps/EAP/MP_Hallway_EAP.PackageMetaData'
+[2020.03.07-17.09.07:189][990]LogMetaData: Removing '/Game/Designers/Level_Maps/Old/EAP/MP_Hallway_EAP.SKEL_MP_Hallway_EAP_C' ref from Metadata '/Game/Designers/Level_Maps/EAP/MP_Hallway_EAP.PackageMetaData'
+[2020.03.07-17.09.07:341][990]LogMetaData: Removing '/Game/Designers/Level_Maps/Old/EAP/MP_Living_Room_EAP.MP_Living_Room_EAP:PersistentLevel.MP_Living_Room_EAP.EventGraph.K2Node_Event_0' ref from Metadata '/Game/Designers/Level_Maps/EAP/MP_Living_Room_EAP.PackageMetaData'
+[2020.03.07-17.09.07:341][990]LogMetaData: Removing '/Game/Designers/Level_Maps/Old/EAP/MP_Living_Room_EAP.MP_Living_Room_EAP:PersistentLevel.MP_Living_Room_EAP.EventGraph.K2Node_Event_1' ref from Metadata '/Game/Designers/Level_Maps/EAP/MP_Living_Room_EAP.PackageMetaData'
+[2020.03.07-17.09.07:341][990]LogMetaData: Removing '/Game/Designers/Level_Maps/Old/EAP/MP_Living_Room_EAP.MP_Living_Room_EAP_C' ref from Metadata '/Game/Designers/Level_Maps/EAP/MP_Living_Room_EAP.PackageMetaData'
+[2020.03.07-17.09.07:341][990]LogMetaData: Removing '/Game/Designers/Level_Maps/Old/EAP/MP_Living_Room_EAP.SKEL_MP_Living_Room_EAP_C' ref from Metadata '/Game/Designers/Level_Maps/EAP/MP_Living_Room_EAP.PackageMetaData'
+[2020.03.07-17.09.07:634][990]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/MP_DineingRoom_EAP137078134F22F9FA71966A98F7330475.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Old/EAP/MP_DineingRoom_EAP.umap'
+[2020.03.07-17.09.07:645][990]LogFileHelpers: Saving map 'MP_DineingRoom_EAP' took 0.282
+[2020.03.07-17.09.07:901][990]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/MP_Hallway_EAP785F0F5542F7BF3EC7B0B789D39C0158.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Old/EAP/MP_Hallway_EAP.umap'
+[2020.03.07-17.09.07:910][990]LogFileHelpers: Saving map 'MP_Hallway_EAP' took 0.262
+[2020.03.07-17.09.08:213][990]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/MP_Living_Room_EAP34DCB68546498CF328F8499993E820EE.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Old/EAP/MP_Living_Room_EAP.umap'
+[2020.03.07-17.09.08:220][990]LogFileHelpers: Saving map 'MP_Living_Room_EAP' took 0.306
+[2020.03.07-17.09.13:581][486]LogAIModule: Creating AISystem for world MP_Level_One_Point_Two_HCWS
+[2020.03.07-17.09.16:719][820]LogMetaData: Removing '/Game/Designers/Level_Maps/MP_Level_One_Point_Two_HCWS.MP_Level_One_Point_Two_HCWS:PersistentLevel.MP_Level_One_Point_Two_HCWS.EventGraph.K2Node_Event_1' ref from Metadata '/Game/Designers/Level_Maps/Harri/MP_Level_One_Point_Two_HCWS.PackageMetaData'
+[2020.03.07-17.09.16:719][820]LogMetaData: Removing '/Game/Designers/Level_Maps/MP_Level_One_Point_Two_HCWS.MP_Level_One_Point_Two_HCWS_C' ref from Metadata '/Game/Designers/Level_Maps/Harri/MP_Level_One_Point_Two_HCWS.PackageMetaData'
+[2020.03.07-17.09.16:719][820]LogMetaData: Removing '/Game/Designers/Level_Maps/MP_Level_One_Point_Two_HCWS.SKEL_MP_Level_One_Point_Two_HCWS_C' ref from Metadata '/Game/Designers/Level_Maps/Harri/MP_Level_One_Point_Two_HCWS.PackageMetaData'
+[2020.03.07-17.09.17:544][820]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/MP_Level_One_Point_Two_HCWS9E4505EC49681BE5615EB289A0A83A4C.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/MP_Level_One_Point_Two_HCWS.umap'
+[2020.03.07-17.09.17:610][820]LogFileHelpers: Saving map 'MP_Level_One_Point_Two_HCWS' took 0.872
+[2020.03.07-17.09.20:755][ 69]LogLinker: Warning: Can't find file '/Game/Designers/Level_Maps/Harri/MP_Level_Two_Throne_HCWS_BuiltData'
+[2020.03.07-17.09.20:755][ 69]LogLinker: Warning: Can't find file for asset '/Game/Designers/Level_Maps/Harri/MP_Level_Two_Throne_HCWS_BuiltData' while loading ../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Harri/MP_Level_Two_Throne_HCWS.umap.
+[2020.03.07-17.09.20:755][ 69]LoadErrors: Error: /Game/Designers/Level_Maps/Harri/MP_Level_Two_Throne_HCWS : Can't find file for asset. /Game/Designers/Level_Maps/Harri/MP_Level_Two_Throne_HCWS_BuiltData
+[2020.03.07-17.09.20:805][ 69]LogLinker: Warning: Can't find file '/Game/Designers/Level_Maps/Harri/MP_Level_Two_Throne_HCWS_BuiltData'
+[2020.03.07-17.09.20:805][ 69]LogLinker: Warning: Can't find file for asset '/Game/Designers/Level_Maps/Harri/MP_Level_Two_Throne_HCWS_BuiltData' while loading ../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Harri/MP_Level_Two_Throne_HCWS.umap.
+[2020.03.07-17.09.20:809][ 69]LogLinker: Warning: Can't find file '/Game/Designers/Level_Maps/Harri/MP_Level_Two_Throne_HCWS_BuiltData'
+[2020.03.07-17.09.20:810][ 69]LogLinker: Warning: Can't find file for asset '/Game/Designers/Level_Maps/Harri/MP_Level_Two_Throne_HCWS_BuiltData' while loading NULL.
+[2020.03.07-17.09.20:810][ 69]LogLinker: Warning: Can't find file '/Game/Designers/Level_Maps/Harri/MP_Level_Two_Throne_HCWS_BuiltData'
+[2020.03.07-17.09.20:810][ 69]LogLinker: Warning: Can't find file for asset '/Game/Designers/Level_Maps/Harri/MP_Level_Two_Throne_HCWS_BuiltData' while loading NULL.
+[2020.03.07-17.09.20:860][ 69]LogLinker: Warning: Can't find file '/Game/Designers/Level_Maps/Harri/MP_Level_Two_Throne_HCWS_BuiltData'
+[2020.03.07-17.09.20:860][ 69]LoadErrors: Failed to load /Game/Designers/Level_Maps/Harri/MP_Level_Two_Throne_HCWS_BuiltData.MP_Level_Two_Throne_HCWS_BuiltData Referenced by PersistentLevel
+[2020.03.07-17.09.20:860][ 69]LogLinker: Warning: Can't find file for asset '/Game/Designers/Level_Maps/Harri/MP_Level_Two_Throne_HCWS_BuiltData' while loading NULL.
+[2020.03.07-17.09.26:381][ 69]LogAIModule: Creating AISystem for world MP_Level_Two_Throne_HCWS
+[2020.03.07-17.09.28:574][302]LogMetaData: Removing '/Game/Designers/Level_Maps/MP_Level_Two_Throne_HCWS.MP_Level_Two_Throne_HCWS_C' ref from Metadata '/Game/Designers/Level_Maps/Harri/MP_Level_Two_Throne_HCWS.PackageMetaData'
+[2020.03.07-17.09.28:574][302]LogMetaData: Removing '/Game/Designers/Level_Maps/MP_Level_Two_Throne_HCWS.SKEL_MP_Level_Two_Throne_HCWS_C' ref from Metadata '/Game/Designers/Level_Maps/Harri/MP_Level_Two_Throne_HCWS.PackageMetaData'
+[2020.03.07-17.09.29:150][302]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/MP_Level_Two_Throne_HCWSD826E99943E007E5AA958DAF78457E88.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/MP_Level_Two_Throne_HCWS.umap'
+[2020.03.07-17.09.29:193][302]LogFileHelpers: Saving map 'MP_Level_Two_Throne_HCWS' took 0.599
+[2020.03.07-17.09.42:761][759]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/P_Flame644E50954573A57B75867BBE9970EBD7.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Harri/Particle_Effects/P_Flame.uasset'
+[2020.03.07-17.09.42:802][759]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/P_Fog57BB5ABE4A352B4923A5D686FB69AE6D.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Harri/Particle_Effects/P_Fog.uasset'
+[2020.03.07-17.09.42:839][759]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/P_Fog3D1870624406D6884053A9BD39597C42.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Harri/P_Fog.uasset'
+[2020.03.07-17.09.42:884][759]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/P_Fog_233A8970C4154A4BB61F235957C64328F.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Harri/Particle_Effects/P_Fog_2.uasset'
+[2020.03.07-17.09.42:921][759]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/P_Fog_203ABE5C649088D579D3A039B73A5CB29.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Harri/P_Fog_2.uasset'
+[2020.03.07-17.09.42:948][759]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/P_Fog_TableA91208774EBCE4DD1EC25DA41B41806F.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Harri/Particle_Effects/P_Fog_Table.uasset'
+[2020.03.07-17.09.43:395][759]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/BP_Placeholder251AF12540A2A341CA91619BBA71DF2E.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Assets/Blueprints/BP_Placeholder.uasset'
+[2020.03.07-17.09.43:528][759]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/BP_Placeholder_24DA17558406211C757E975AF556E69AF.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Assets/Blueprints/BP_Placeholder_2.uasset'
+[2020.03.07-17.09.43:599][759]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/BP_Placeholder_3CF94346F42528CF776B0E19CE65E2BAA.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Assets/Blueprints/BP_Placeholder_3.uasset'
+[2020.03.07-17.09.47:963][200]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/LocalFogD2C324E543EEAA2AC47660BBCE3A6CED.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Harri/Particle_Effects/LocalFog.uasset'
+[2020.03.07-17.09.48:003][200]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/LocalFog_Inst73E4643B4B0BDABCDCAEA2BED61CF276.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Harri/Particle_Effects/LocalFog_Inst.uasset'
+[2020.03.07-17.09.48:317][200]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/P_FogB899B1C6459C61EF280707AE9CEAE1E2.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Harri/Particle_Effects/P_Fog.uasset'
+[2020.03.07-17.09.48:352][200]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/P_Fog_26440D00346C6D4CBF12670A28C28B84F.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Harri/Particle_Effects/P_Fog_2.uasset'
+[2020.03.07-17.09.48:392][200]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/P_Fog_Table1A2BEEDC470D102A2B551EA51CC161FA.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Harri/Particle_Effects/P_Fog_Table.uasset'
+[2020.03.07-17.09.50:857][452]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/M_Fire_SubUVEE85A0A84B784B1DFEEADB93785BA695.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Harri/Particle_Effects/M_Fire_SubUV.uasset'
+[2020.03.07-17.09.51:073][452]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/P_Flame7A6611D34FA593E1613EF4A79238CCAF.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Harri/Particle_Effects/P_Flame.uasset'
+[2020.03.07-17.09.54:371][774]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/T_Fire_SubUV62B60220480E7A0072D29C93573E54DD.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Harri/Particle_Effects/T_Fire_SubUV.uasset'
+[2020.03.07-17.09.54:403][774]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/T_Fire_Tiled_D783A44074AAAA242FABD36A9B09FA330.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Harri/Particle_Effects/T_Fire_Tiled_D.uasset'
+[2020.03.07-17.09.54:437][774]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Texture3EC702A94972F30AD2A20A8602CC7F60.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Harri/Particle_Effects/Texture.uasset'
+[2020.03.07-17.09.54:838][774]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/M_Fire_SubUV658590574A477E1EF25D8391B0A091E5.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Harri/Particle_Effects/M_Fire_SubUV.uasset'
+[2020.03.07-17.09.54:877][774]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/LocalFogDE4927584EFEF3134F312A8CB15DB47E.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Harri/Particle_Effects/LocalFog.uasset'
+[2020.03.07-17.10.08:766][311]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Tex_FogB7A16C0548D0BFAFD45D45A0081D432A.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Harri/Particle_Effects/Tex_Fog.uasset'
+[2020.03.07-17.10.08:977][311]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/LocalFog5EE645D64B76F5800890848B376BD728.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Harri/Particle_Effects/LocalFog.uasset'
+[2020.03.07-17.10.16:469][108]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/LocalFog389D4EB4454B9AFAAB228392E36B0998.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Harri/Particle_Effects/Fog/LocalFog.uasset'
+[2020.03.07-17.10.16:500][108]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/LocalFog_Inst7978F8B34F6CF180669452B0D31ABE72.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Harri/Particle_Effects/Fog/LocalFog_Inst.uasset'
+[2020.03.07-17.10.16:811][108]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/P_FogF2330BE746018E265057A78B9B98DCB6.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Harri/Particle_Effects/P_Fog.uasset'
+[2020.03.07-17.10.16:846][108]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/P_Fog_267FC1C6C4D8B3BF4BCC7D1B1E52204E6.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Harri/Particle_Effects/P_Fog_2.uasset'
+[2020.03.07-17.10.16:905][108]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/P_Fog_Table44B2BD8A4E4F6FEC0EEBF681662503FF.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Harri/Particle_Effects/P_Fog_Table.uasset'
+[2020.03.07-17.10.21:323][567]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Tex_FogC22D0FD64CB2B263E850FDA51E16EEA4.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Harri/Particle_Effects/Fog/Tex_Fog.uasset'
+[2020.03.07-17.10.21:544][567]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/LocalFogDB39A83C4A75D8327DE5E0A2F858B551.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Harri/Particle_Effects/Fog/LocalFog.uasset'
+[2020.03.07-17.10.24:957][912]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/P_Fog0A7EB2A44E87386211D91783E74370C2.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Harri/Particle_Effects/Fog/P_Fog.uasset'
+[2020.03.07-17.10.24:993][912]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/P_Fog_26601184A4144C24C0E3A8F9B813726CF.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Harri/Particle_Effects/Fog/P_Fog_2.uasset'
+[2020.03.07-17.10.25:018][912]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/P_Fog_TableB5028B324097E4E6BF8D6781D60F3EF3.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Harri/Particle_Effects/Fog/P_Fog_Table.uasset'
+[2020.03.07-17.10.25:429][912]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/P_Fog30E8AC1940B5635309F5749EFCEB63F3.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Harri/P_Fog.uasset'
+[2020.03.07-17.10.25:468][912]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/P_Fog_262788C734C142FAB9712C5A8161B060A.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Harri/P_Fog_2.uasset'
+[2020.03.07-17.10.31:892][602]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/M_Fire_SubUV3695DCB041109F04B4E7AFB1E6BE72BF.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Harri/Particle_Effects/Fire/M_Fire_SubUV.uasset'
+[2020.03.07-17.10.31:916][602]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/P_Flame1B662DC24CA880043428F48C74D528C1.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Harri/Particle_Effects/Fire/P_Flame.uasset'
+[2020.03.07-17.10.31:946][602]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/T_Fire_SubUV84CE7B264D255856E782CAA8DE23C9E7.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Harri/Particle_Effects/Fire/T_Fire_SubUV.uasset'
+[2020.03.07-17.10.31:981][602]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/T_Fire_Tiled_D983A1422404F450EEF1BA3BE57D1E688.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Harri/Particle_Effects/Fire/T_Fire_Tiled_D.uasset'
+[2020.03.07-17.10.32:494][602]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/BP_Placeholder542220604B1B1398EF12239D2B8B5D52.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Assets/Blueprints/BP_Placeholder.uasset'
+[2020.03.07-17.10.32:616][602]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/BP_Placeholder_218603D994D9A725CA7573BB78C27BEE7.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Assets/Blueprints/BP_Placeholder_2.uasset'
+[2020.03.07-17.10.32:674][602]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/BP_Placeholder_37E3F5FCE4EAD48C3DAA6F281F6969DBA.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Assets/Blueprints/BP_Placeholder_3.uasset'
+[2020.03.07-17.11.55:630][418]LogMetaData: Removing '/Game/Designers/Level_Maps/MP_Level_Three_Throne_HCWS.MP_Level_Three_Throne_HCWS_C' ref from Metadata '/Game/Designers/Level_Maps/MP_Level_Two_Throne_HCWS.PackageMetaData'
+[2020.03.07-17.11.55:630][418]LogMetaData: Removing '/Game/Designers/Level_Maps/MP_Level_Three_Throne_HCWS.SKEL_MP_Level_Three_Throne_HCWS_C' ref from Metadata '/Game/Designers/Level_Maps/MP_Level_Two_Throne_HCWS.PackageMetaData'
+[2020.03.07-17.11.56:249][418]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/MP_Level_Three_Throne_HCWS2CBF61804338A478C463778FAF97D162.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/MP_Level_Three_Throne_HCWS.umap'
+[2020.03.07-17.11.56:294][418]LogFileHelpers: Saving map 'MP_Level_Three_Throne_HCWS' took 0.631
+[2020.03.07-17.13.46:469][ 57]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/MP_Loading_ScreenAA673BEC42B4FE16C994FFAA348F5075.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/UI/MP_Loading_Screen.umap'
+[2020.03.07-17.13.48:235][146]LogSlate: Window 'Save Content' being destroyed
+[2020.03.07-17.13.48:906][146]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/MP_Level_One_Point_Two_HCWS8F84F78A45D6E2132E2E9DBDF853596A.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/MP_Level_One_Point_Two_HCWS.umap'
+[2020.03.07-17.13.48:960][146]LogFileHelpers: Saving map 'MP_Level_One_Point_Two_HCWS' took 0.702
+[2020.03.07-17.13.49:830][222]LogSlate: Window 'Message Log' being destroyed
+[2020.03.07-17.13.49:835][222]LogSlate: Window 'CastleOfTheDead - Unreal Editor' being destroyed
+[2020.03.07-17.13.49:845][222]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.03.07-17.13.50:311][223]Cmd: QUIT_EDITOR
+[2020.03.07-17.13.50:350][223]LogExit: Preparing to exit.
+[2020.03.07-17.13.51:428][223]LogExit: Editor shut down
+[2020.03.07-17.13.51:428][223]LogExit: Transaction tracking system shut down
+[2020.03.07-17.13.51:736][223]LogExit: Object subsystem successfully closed.
+[2020.03.07-17.13.51:749][223]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.03.07-17.13.51:752][223]LogD3D11RHI: Shutdown
+[2020.03.07-17.13.51:752][223]LogD3D11RHI: CleanupD3DDevice
+[2020.03.07-17.13.51:774][223]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.03.07-17.13.51:796][223]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (626)
+[2020.03.07-17.13.51:796][223]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (624)
+[2020.03.07-17.13.51:796][223]LogModuleManager: Shutting down and abandoning module SceneOutliner (622)
+[2020.03.07-17.13.51:797][223]LogModuleManager: Shutting down and abandoning module AddContentDialog (620)
+[2020.03.07-17.13.51:805][223]LogModuleManager: Shutting down and abandoning module WidgetCarousel (619)
+[2020.03.07-17.13.51:805][223]LogModuleManager: Shutting down and abandoning module EditorWidgets (616)
+[2020.03.07-17.13.51:805][223]LogModuleManager: Shutting down and abandoning module CollectionManager (614)
+[2020.03.07-17.13.51:805][223]LogModuleManager: Shutting down and abandoning module MeshBuilder (612)
+[2020.03.07-17.13.51:805][223]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2020.03.07-17.13.51:805][223]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2020.03.07-17.13.51:805][223]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2020.03.07-17.13.51:805][223]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2020.03.07-17.13.51:805][223]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2020.03.07-17.13.51:805][223]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2020.03.07-17.13.51:805][223]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2020.03.07-17.13.51:806][223]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2020.03.07-17.13.51:806][223]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2020.03.07-17.13.51:806][223]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2020.03.07-17.13.51:806][223]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2020.03.07-17.13.51:806][223]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2020.03.07-17.13.51:806][223]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2020.03.07-17.13.51:806][223]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2020.03.07-17.13.51:806][223]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2020.03.07-17.13.51:806][223]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2020.03.07-17.13.51:806][223]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2020.03.07-17.13.51:806][223]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2020.03.07-17.13.51:806][223]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2020.03.07-17.13.51:806][223]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2020.03.07-17.13.51:806][223]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2020.03.07-17.13.51:806][223]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2020.03.07-17.13.51:806][223]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2020.03.07-17.13.51:806][223]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2020.03.07-17.13.51:806][223]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2020.03.07-17.13.51:806][223]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2020.03.07-17.13.51:806][223]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2020.03.07-17.13.51:806][223]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2020.03.07-17.13.51:806][223]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2020.03.07-17.13.51:806][223]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2020.03.07-17.13.51:806][223]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2020.03.07-17.13.51:806][223]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2020.03.07-17.13.51:806][223]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2020.03.07-17.13.51:806][223]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2020.03.07-17.13.51:806][223]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2020.03.07-17.13.51:806][223]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2020.03.07-17.13.51:806][223]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2020.03.07-17.13.51:806][223]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2020.03.07-17.13.51:806][223]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2020.03.07-17.13.51:806][223]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2020.03.07-17.13.51:806][223]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2020.03.07-17.13.51:806][223]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2020.03.07-17.13.51:806][223]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2020.03.07-17.13.51:806][223]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2020.03.07-17.13.51:806][223]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2020.03.07-17.13.51:806][223]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2020.03.07-17.13.51:806][223]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2020.03.07-17.13.51:806][223]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2020.03.07-17.13.51:806][223]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2020.03.07-17.13.51:806][223]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2020.03.07-17.13.52:651][223]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2020.03.07-17.13.52:651][223]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2020.03.07-17.13.52:651][223]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2020.03.07-17.13.52:652][223]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2020.03.07-17.13.52:652][223]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2020.03.07-17.13.52:652][223]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2020.03.07-17.13.52:652][223]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2020.03.07-17.13.52:652][223]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2020.03.07-17.13.52:652][223]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2020.03.07-17.13.52:652][223]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2020.03.07-17.13.52:652][223]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2020.03.07-17.13.52:652][223]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2020.03.07-17.13.52:652][223]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2020.03.07-17.13.52:652][223]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2020.03.07-17.13.52:652][223]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2020.03.07-17.13.52:652][223]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2020.03.07-17.13.52:652][223]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2020.03.07-17.13.52:652][223]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2020.03.07-17.13.52:652][223]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2020.03.07-17.13.52:652][223]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2020.03.07-17.13.52:652][223]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2020.03.07-17.13.52:652][223]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2020.03.07-17.13.52:652][223]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2020.03.07-17.13.52:717][223]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2020.03.07-17.13.52:717][223]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2020.03.07-17.13.52:717][223]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2020.03.07-17.13.52:717][223]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2020.03.07-17.13.52:717][223]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2020.03.07-17.13.52:717][223]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2020.03.07-17.13.52:717][223]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2020.03.07-17.13.52:717][223]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2020.03.07-17.13.52:717][223]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2020.03.07-17.13.52:717][223]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2020.03.07-17.13.52:718][223]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2020.03.07-17.13.52:718][223]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2020.03.07-17.13.52:718][223]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2020.03.07-17.13.52:718][223]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2020.03.07-17.13.52:718][223]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2020.03.07-17.13.52:718][223]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2020.03.07-17.13.52:718][223]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2020.03.07-17.13.52:718][223]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2020.03.07-17.13.52:719][223]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2020.03.07-17.13.52:719][223]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2020.03.07-17.13.52:719][223]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2020.03.07-17.13.52:719][223]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2020.03.07-17.13.52:719][223]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2020.03.07-17.13.52:719][223]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2020.03.07-17.13.52:719][223]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2020.03.07-17.13.52:719][223]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2020.03.07-17.13.52:719][223]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2020.03.07-17.13.52:719][223]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2020.03.07-17.13.52:719][223]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2020.03.07-17.13.52:719][223]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2020.03.07-17.13.52:719][223]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2020.03.07-17.13.52:719][223]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2020.03.07-17.13.52:721][223]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2020.03.07-17.13.52:774][223]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2020.03.07-17.13.52:774][223]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2020.03.07-17.13.52:774][223]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2020.03.07-17.13.52:774][223]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2020.03.07-17.13.52:774][223]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2020.03.07-17.13.52:774][223]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2020.03.07-17.13.52:774][223]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2020.03.07-17.13.52:774][223]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2020.03.07-17.13.52:774][223]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2020.03.07-17.13.52:774][223]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2020.03.07-17.13.52:774][223]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2020.03.07-17.13.52:774][223]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2020.03.07-17.13.52:774][223]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2020.03.07-17.13.52:774][223]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2020.03.07-17.13.52:774][223]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2020.03.07-17.13.52:774][223]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2020.03.07-17.13.52:774][223]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2020.03.07-17.13.52:777][223]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2020.03.07-17.13.52:777][223]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2020.03.07-17.13.52:777][223]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2020.03.07-17.13.52:777][223]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2020.03.07-17.13.52:777][223]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2020.03.07-17.13.52:777][223]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2020.03.07-17.13.52:777][223]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2020.03.07-17.13.52:777][223]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2020.03.07-17.13.52:777][223]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2020.03.07-17.13.52:777][223]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2020.03.07-17.13.52:777][223]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2020.03.07-17.13.52:777][223]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2020.03.07-17.13.52:777][223]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2020.03.07-17.13.52:777][223]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2020.03.07-17.13.52:777][223]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2020.03.07-17.13.52:777][223]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2020.03.07-17.13.52:777][223]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2020.03.07-17.13.52:777][223]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2020.03.07-17.13.52:777][223]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2020.03.07-17.13.52:777][223]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2020.03.07-17.13.52:777][223]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2020.03.07-17.13.52:777][223]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2020.03.07-17.13.52:777][223]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2020.03.07-17.13.52:777][223]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2020.03.07-17.13.52:777][223]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2020.03.07-17.13.52:777][223]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2020.03.07-17.13.52:777][223]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2020.03.07-17.13.52:777][223]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2020.03.07-17.13.52:777][223]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2020.03.07-17.13.52:777][223]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2020.03.07-17.13.52:777][223]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2020.03.07-17.13.52:777][223]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2020.03.07-17.13.52:777][223]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2020.03.07-17.13.52:777][223]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2020.03.07-17.13.52:778][223]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2020.03.07-17.13.52:778][223]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2020.03.07-17.13.52:778][223]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2020.03.07-17.13.52:778][223]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2020.03.07-17.13.52:778][223]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2020.03.07-17.13.52:778][223]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2020.03.07-17.13.52:778][223]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.03.07-17.13.52:778][223]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.03.07-17.13.52:880][223]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.03.07-17.13.52:980][223]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2020.03.07-17.13.52:980][223]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2020.03.07-17.13.52:980][223]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2020.03.07-17.13.52:980][223]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2020.03.07-17.13.52:980][223]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2020.03.07-17.13.52:980][223]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2020.03.07-17.13.52:980][223]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2020.03.07-17.13.52:980][223]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2020.03.07-17.13.52:980][223]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2020.03.07-17.13.52:981][223]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2020.03.07-17.13.52:981][223]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2020.03.07-17.13.52:981][223]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2020.03.07-17.13.52:982][223]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2020.03.07-17.13.52:982][223]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2020.03.07-17.13.52:982][223]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2020.03.07-17.13.52:982][223]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2020.03.07-17.13.52:982][223]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2020.03.07-17.13.52:982][223]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2020.03.07-17.13.52:982][223]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2020.03.07-17.13.52:983][223]LogModuleManager: Shutting down and abandoning module Media (241)
+[2020.03.07-17.13.52:989][223]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2020.03.07-17.13.52:989][223]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2020.03.07-17.13.52:989][223]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2020.03.07-17.13.52:989][223]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2020.03.07-17.13.52:989][223]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2020.03.07-17.13.52:989][223]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2020.03.07-17.13.52:989][223]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2020.03.07-17.13.52:989][223]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2020.03.07-17.13.52:990][223]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2020.03.07-17.13.52:990][223]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2020.03.07-17.13.52:990][223]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2020.03.07-17.13.52:990][223]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2020.03.07-17.13.52:990][223]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2020.03.07-17.13.52:990][223]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2020.03.07-17.13.52:990][223]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2020.03.07-17.13.52:990][223]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2020.03.07-17.13.52:990][223]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2020.03.07-17.13.52:990][223]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2020.03.07-17.13.52:990][223]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2020.03.07-17.13.52:990][223]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2020.03.07-17.13.52:991][223]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2020.03.07-17.13.52:991][223]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2020.03.07-17.13.52:991][223]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2020.03.07-17.13.52:991][223]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2020.03.07-17.13.52:991][223]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2020.03.07-17.13.52:991][223]LogModuleManager: Shutting down and abandoning module Core (186)
+[2020.03.07-17.13.52:991][223]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2020.03.07-17.13.52:991][223]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2020.03.07-17.13.52:991][223]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2020.03.07-17.13.52:991][223]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2020.03.07-17.13.52:991][223]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2020.03.07-17.13.52:991][223]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2020.03.07-17.13.52:991][223]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2020.03.07-17.13.52:991][223]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2020.03.07-17.13.52:991][223]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2020.03.07-17.13.52:991][223]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2020.03.07-17.13.52:991][223]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2020.03.07-17.13.52:991][223]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2020.03.07-17.13.53:035][223]LogDerivedDataCache: Shutdown
+[2020.03.07-17.13.53:035][223]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2020.03.07-17.13.53:035][223]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2020.03.07-17.13.53:035][223]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2020.03.07-17.13.53:035][223]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2020.03.07-17.13.53:035][223]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2020.03.07-17.13.53:035][223]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2020.03.07-17.13.53:035][223]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2020.03.07-17.13.53:035][223]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2020.03.07-17.13.53:035][223]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2020.03.07-17.13.53:035][223]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2020.03.07-17.13.53:035][223]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2020.03.07-17.13.53:036][223]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2020.03.07-17.13.53:036][223]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2020.03.07-17.13.53:036][223]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2020.03.07-17.13.53:036][223]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2020.03.07-17.13.53:036][223]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2020.03.07-17.13.53:036][223]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2020.03.07-17.13.53:036][223]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2020.03.07-17.13.53:036][223]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2020.03.07-17.13.53:036][223]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2020.03.07-17.13.53:036][223]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2020.03.07-17.13.53:036][223]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2020.03.07-17.13.53:036][223]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2020.03.07-17.13.53:037][223]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2020.03.07-17.13.53:037][223]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2020.03.07-17.13.53:037][223]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2020.03.07-17.13.53:037][223]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2020.03.07-17.13.53:041][223]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2020.03.07-17.13.53:041][223]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2020.03.07-17.13.53:041][223]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2020.03.07-17.13.53:041][223]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2020.03.07-17.13.53:041][223]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2020.03.07-17.13.53:041][223]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2020.03.07-17.13.53:042][223]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2020.03.07-17.13.53:042][223]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2020.03.07-17.13.53:042][223]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2020.03.07-17.13.53:042][223]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2020.03.07-17.13.53:042][223]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2020.03.07-17.13.53:042][223]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2020.03.07-17.13.53:042][223]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2020.03.07-17.13.53:042][223]LogHMD: Freeing OpenVRDLLHandle.
+[2020.03.07-17.13.53:042][223]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2020.03.07-17.13.53:042][223]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2020.03.07-17.13.53:042][223]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2020.03.07-17.13.53:042][223]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2020.03.07-17.13.53:042][223]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2020.03.07-17.13.53:042][223]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2020.03.07-17.13.53:042][223]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2020.03.07-17.13.53:074][223]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2020.03.07-17.13.53:074][223]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.03.07-17.13.53:074][223]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC3230386-4431-FCB1-6DFE-01804C47892E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=5460ab1848df07ec2a86419ff8445f7e%7C3881a7f8e0af44e7867725dc58bad581%7C100eac0a-3ef0-485b-b9b6-d3c7d547e2f7&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.03.07-17.13.53:098][223]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2020.03.07-17.13.53:099][223]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2020.03.07-17.13.53:099][223]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2020.03.07-17.13.53:099][223]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2020.03.07-17.13.53:099][223]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2020.03.07-17.13.53:099][223]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2020.03.07-17.13.53:099][223]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2020.03.07-17.13.53:099][223]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2020.03.07-17.13.53:099][223]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.03.07-17.13.53:099][223]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2020.03.07-17.13.53:099][223]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2020.03.07-17.13.53:100][223]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2020.03.07-17.13.53:100][223]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2020.03.07-17.13.53:100][223]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2020.03.07-17.13.53:100][223]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2020.03.07-17.13.53:100][223]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2020.03.07-17.13.53:100][223]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2020.03.07-17.13.53:100][223]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2020.03.07-17.13.53:100][223]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2020.03.07-17.13.53:100][223]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2020.03.07-17.13.53:100][223]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2020.03.07-17.13.53:100][223]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2020.03.07-17.13.53:100][223]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2020.03.07-17.13.53:100][223]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2020.03.07-17.13.53:100][223]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2020.03.07-17.13.53:100][223]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2020.03.07-17.13.53:100][223]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2020.03.07-17.13.53:100][223]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2020.03.07-17.13.53:100][223]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2020.03.07-17.13.53:106][223]LogExit: Exiting.
+[2020.03.07-17.13.53:128][223]Log file closed, 03/07/20 17:13:53
