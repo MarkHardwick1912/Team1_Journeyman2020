@@ -2869,3 +2869,448 @@ Exception rethrown at [0]:
 [2020.04.10-21.42.48:266][135]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/UI/MP_Loading_Screen' took 0.022
 [2020.04.10-21.52.48:692][921]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/UI/MP_Loading_Screen' took 0.022
 [2020.04.10-22.02.49:426][709]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/UI/MP_Loading_Screen' took 0.035
+[2020.04.10-22.12.50:030][818]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/UI/MP_Loading_Screen' took 0.018
+[2020.04.10-22.22.50:463][603]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/UI/MP_Loading_Screen' took 0.019
+[2020.04.10-22.32.51:193][388]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/UI/MP_Loading_Screen' took 0.019
+[2020.04.10-22.42.51:687][170]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/UI/MP_Loading_Screen' took 0.046
+[2020.04.10-22.52.52:299][953]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/UI/MP_Loading_Screen' took 0.017
+[2020.04.10-23.02.52:749][735]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/UI/MP_Loading_Screen' took 0.020
+[2020.04.10-23.12.53:309][518]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/UI/MP_Loading_Screen' took 0.019
+[2020.04.10-23.21.03:143][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-23.22.39:135][959]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\HCWS\Desktop\COTD\Model And Texture\Table\SM_Table_SA.fbx)
+[2020.04.10-23.22.39:149][959]LogFbx: Loading FBX Scene from C:\Users\HCWS\Desktop\COTD\Model And Texture\Table\SM_Table_SA.fbx
+[2020.04.10-23.22.39:189][959]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.10-23.22.40:492][959]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.04.10-23.22.40:525][959]LogFbx: Warning: Triangulating static mesh SM_Bolts_L
+[2020.04.10-23.22.40:543][959]LogStaticMesh: Building static mesh SM_Table_SA_SM_Bolts_L...
+[2020.04.10-23.22.40:547][959]LogStaticMesh: Built static mesh [0.01s] /Game/Artists/Assets/Castle_Level/Special_Assets/SM_Table_SA_SM_Bolts_L.SM_Table_SA_SM_Bolts_L
+[2020.04.10-23.22.40:569][959]LogFbx: Warning: Triangulating static mesh SM_Surface_L
+[2020.04.10-23.22.40:605][959]LogStaticMesh: Building static mesh SM_Table_SA_SM_Surface_L...
+[2020.04.10-23.22.40:634][959]LogStaticMesh: Built static mesh [0.03s] /Game/Artists/Assets/Castle_Level/Special_Assets/SM_Table_SA_SM_Surface_L.SM_Table_SA_SM_Surface_L
+[2020.04.10-23.22.40:662][959]LogFbx: Warning: Triangulating static mesh SM_Legs_L
+[2020.04.10-23.22.40:741][959]LogStaticMesh: Building static mesh SM_Table_SA_SM_Legs_L...
+[2020.04.10-23.22.40:759][959]LogStaticMesh: Built static mesh [0.02s] /Game/Artists/Assets/Castle_Level/Special_Assets/SM_Table_SA_SM_Legs_L.SM_Table_SA_SM_Legs_L
+[2020.04.10-23.22.40:798][959]LogFbx: Warning: Triangulating static mesh SM_Decor_L
+[2020.04.10-23.22.40:808][959]LogStaticMesh: Building static mesh SM_Table_SA_SM_Decor_L...
+[2020.04.10-23.22.40:820][959]LogStaticMesh: Built static mesh [0.01s] /Game/Artists/Assets/Castle_Level/Special_Assets/SM_Table_SA_SM_Decor_L.SM_Table_SA_SM_Decor_L
+[2020.04.10-23.22.40:848][959]LogFbx: Warning: Triangulating static mesh SM_Feet_L
+[2020.04.10-23.22.40:853][959]LogStaticMesh: Building static mesh SM_Table_SA_SM_Feet_L...
+[2020.04.10-23.22.40:859][959]LogStaticMesh: Built static mesh [0.01s] /Game/Artists/Assets/Castle_Level/Special_Assets/SM_Table_SA_SM_Feet_L.SM_Table_SA_SM_Feet_L
+[2020.04.10-23.22.40:866][959]LogFbx: Warning: Triangulating static mesh SM_Panel_L
+[2020.04.10-23.22.40:869][959]LogStaticMesh: Building static mesh SM_Table_SA_SM_Panel_L...
+[2020.04.10-23.22.40:872][959]LogStaticMesh: Built static mesh [0.00s] /Game/Artists/Assets/Castle_Level/Special_Assets/SM_Table_SA_SM_Panel_L.SM_Table_SA_SM_Panel_L
+[2020.04.10-23.22.40:881][959]LogFbx: Warning: Triangulating static mesh SM_Supports1_L
+[2020.04.10-23.22.40:924][959]LogStaticMesh: Building static mesh SM_Table_SA_SM_Supports1_L...
+[2020.04.10-23.22.40:936][959]LogStaticMesh: Built static mesh [0.01s] /Game/Artists/Assets/Castle_Level/Special_Assets/SM_Table_SA_SM_Supports1_L.SM_Table_SA_SM_Supports1_L
+[2020.04.10-23.22.40:945][959]LogFbx: Warning: Triangulating static mesh SM_Supports2_L
+[2020.04.10-23.22.40:950][959]LogStaticMesh: Building static mesh SM_Table_SA_SM_Supports2_L...
+[2020.04.10-23.22.40:957][959]LogStaticMesh: Built static mesh [0.01s] /Game/Artists/Assets/Castle_Level/Special_Assets/SM_Table_SA_SM_Supports2_L.SM_Table_SA_SM_Supports2_L
+[2020.04.10-23.22.40:974][959]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.10-23.22.48:961][840]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.10-23.22.48:961][840]Can't find target actor or component.
+[2020.04.10-23.22.50:456][995]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-23.22.52:161][168]LogActorFactory: Actor Factory created SM_Table_SA_SM_Bolts_L
+[2020.04.10-23.22.52:167][168]LogActorFactory: Actor Factory created SM_Table_SA_SM_Decor_L
+[2020.04.10-23.22.52:168][168]LogActorFactory: Actor Factory created SM_Table_SA_SM_Feet_L
+[2020.04.10-23.22.52:168][168]LogActorFactory: Actor Factory created SM_Table_SA_SM_Legs_L
+[2020.04.10-23.22.52:169][168]LogActorFactory: Actor Factory created SM_Table_SA_SM_Panel_L
+[2020.04.10-23.22.52:169][168]LogActorFactory: Actor Factory created SM_Table_SA_SM_Supports1_L
+[2020.04.10-23.22.52:170][168]LogActorFactory: Actor Factory created SM_Table_SA_SM_Supports2_L
+[2020.04.10-23.22.52:170][168]LogActorFactory: Actor Factory created SM_Table_SA_SM_Surface_L
+[2020.04.10-23.22.52:870][219]LogActorFactory: Actor Factory created SM_Table_SA_SM_Bolts_L
+[2020.04.10-23.22.52:898][219]LogActorFactory: Actor Factory created SM_Table_SA_SM_Decor_L
+[2020.04.10-23.22.52:915][219]LogActorFactory: Actor Factory created SM_Table_SA_SM_Feet_L
+[2020.04.10-23.22.52:933][219]LogActorFactory: Actor Factory created SM_Table_SA_SM_Legs_L
+[2020.04.10-23.22.52:983][219]LogActorFactory: Actor Factory created SM_Table_SA_SM_Panel_L
+[2020.04.10-23.22.53:015][219]LogActorFactory: Actor Factory created SM_Table_SA_SM_Supports1_L
+[2020.04.10-23.22.53:037][219]LogActorFactory: Actor Factory created SM_Table_SA_SM_Supports2_L
+[2020.04.10-23.22.53:057][219]LogActorFactory: Actor Factory created SM_Table_SA_SM_Surface_L
+[2020.04.10-23.22.53:182][219]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.10-23.22.55:763][488]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-23.22.56:027][510]LogActorFactory: Actor Factory created SM_Table_Blockout_SA_pCube63
+[2020.04.10-23.22.56:977][591]LogActorFactory: Actor Factory created SM_Table_Blockout_SA_pCube63
+[2020.04.10-23.22.57:464][642]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Table_SA_SM_Surface_L)
+[2020.04.10-23.22.58:296][731]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Table_Blockout_SA_pCube63)
+[2020.04.10-23.23.00:812][ 24]Cmd: DELETE
+[2020.04.10-23.23.00:813][ 24]Cmd: ACTOR DELETE
+[2020.04.10-23.23.00:834][ 24]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.10-23.23.00:857][ 24]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2020.04.10-23.23.03:122][270]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-23.23.21:745][274]LogMetaData: Removing '/Game/Artists/Assets/Castle_Level/Special_Assets/Table/SM_Table_SA_SM_Bolts_L.SM_Table_SA_SM_Bolts_L' ref from Metadata '/Game/Artists/Assets/Castle_Level/Special_Assets/SM_Table_SA_SM_Bolts_L.PackageMetaData'
+[2020.04.10-23.23.21:759][274]LogMetaData: Removing '/Game/Artists/Assets/Castle_Level/Special_Assets/Table/SM_Table_SA_SM_Decor_L.SM_Table_SA_SM_Decor_L' ref from Metadata '/Game/Artists/Assets/Castle_Level/Special_Assets/SM_Table_SA_SM_Decor_L.PackageMetaData'
+[2020.04.10-23.23.21:774][274]LogMetaData: Removing '/Game/Artists/Assets/Castle_Level/Special_Assets/Table/SM_Table_SA_SM_Feet_L.SM_Table_SA_SM_Feet_L' ref from Metadata '/Game/Artists/Assets/Castle_Level/Special_Assets/SM_Table_SA_SM_Feet_L.PackageMetaData'
+[2020.04.10-23.23.21:788][274]LogMetaData: Removing '/Game/Artists/Assets/Castle_Level/Special_Assets/Table/SM_Table_SA_SM_Legs_L.SM_Table_SA_SM_Legs_L' ref from Metadata '/Game/Artists/Assets/Castle_Level/Special_Assets/SM_Table_SA_SM_Legs_L.PackageMetaData'
+[2020.04.10-23.23.21:802][274]LogMetaData: Removing '/Game/Artists/Assets/Castle_Level/Special_Assets/Table/SM_Table_SA_SM_Panel_L.SM_Table_SA_SM_Panel_L' ref from Metadata '/Game/Artists/Assets/Castle_Level/Special_Assets/SM_Table_SA_SM_Panel_L.PackageMetaData'
+[2020.04.10-23.23.21:819][274]LogMetaData: Removing '/Game/Artists/Assets/Castle_Level/Special_Assets/Table/SM_Table_SA_SM_Supports1_L.SM_Table_SA_SM_Supports1_L' ref from Metadata '/Game/Artists/Assets/Castle_Level/Special_Assets/SM_Table_SA_SM_Supports1_L.PackageMetaData'
+[2020.04.10-23.23.21:834][274]LogMetaData: Removing '/Game/Artists/Assets/Castle_Level/Special_Assets/Table/SM_Table_SA_SM_Supports2_L.SM_Table_SA_SM_Supports2_L' ref from Metadata '/Game/Artists/Assets/Castle_Level/Special_Assets/SM_Table_SA_SM_Supports2_L.PackageMetaData'
+[2020.04.10-23.23.21:850][274]LogMetaData: Removing '/Game/Artists/Assets/Castle_Level/Special_Assets/Table/SM_Table_SA_SM_Surface_L.SM_Table_SA_SM_Surface_L' ref from Metadata '/Game/Artists/Assets/Castle_Level/Special_Assets/SM_Table_SA_SM_Surface_L.PackageMetaData'
+[2020.04.10-23.23.21:931][274]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/SM_Table_SA_SM_Bolts_LE587ABE24BD66EDDAB8D0D81759B2F85.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Assets/Castle_Level/Special_Assets/Table/SM_Table_SA_SM_Bolts_L.uasset'
+[2020.04.10-23.23.21:965][274]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/SM_Table_SA_SM_Decor_LC6F360BC47396C71BA7D8AA07C60C876.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Assets/Castle_Level/Special_Assets/Table/SM_Table_SA_SM_Decor_L.uasset'
+[2020.04.10-23.23.21:997][274]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/SM_Table_SA_SM_Feet_L8313BA48479387FB271350828213F12E.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Assets/Castle_Level/Special_Assets/Table/SM_Table_SA_SM_Feet_L.uasset'
+[2020.04.10-23.23.22:028][274]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/SM_Table_SA_SM_Legs_L4C5DC6E14ECE671DDC537991B6858058.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Assets/Castle_Level/Special_Assets/Table/SM_Table_SA_SM_Legs_L.uasset'
+[2020.04.10-23.23.22:059][274]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/SM_Table_SA_SM_Panel_LC28F04474301A2A77310E49ACDDB69E3.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Assets/Castle_Level/Special_Assets/Table/SM_Table_SA_SM_Panel_L.uasset'
+[2020.04.10-23.23.22:090][274]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/SM_Table_SA_SM_Supports1_L0FA156464E2F5BC12242A2AAA7EC0A85.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Assets/Castle_Level/Special_Assets/Table/SM_Table_SA_SM_Supports1_L.uasset'
+[2020.04.10-23.23.22:121][274]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/SM_Table_SA_SM_Supports2_L3C750A6A42DC40F9B38B9E9904257646.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Assets/Castle_Level/Special_Assets/Table/SM_Table_SA_SM_Supports2_L.uasset'
+[2020.04.10-23.23.22:156][274]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/SM_Table_SA_SM_Surface_L0E36E128477539CA4420C3BB1544B851.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Assets/Castle_Level/Special_Assets/Table/SM_Table_SA_SM_Surface_L.uasset'
+[2020.04.10-23.23.25:367][535]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.10-23.23.25:367][535]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.10-23.23.25:367][535]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.10-23.23.25:367][535]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.10-23.23.25:367][535]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.10-23.23.25:368][535]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.10-23.23.25:368][535]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.10-23.23.25:368][535]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.10-23.23.25:387][535]LogEditorActor: Deleted 8 Actors (0.032 secs)
+[2020.04.10-23.23.45:963][209]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2020.04.10-23.23.45:981][210]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.04.10-23.24.12:571][679]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\HCWS\Desktop\COTD\Model And Texture\Table\SM_Table_L_lambert1_Normal.png)
+[2020.04.10-23.24.12:640][679]LogTexture: Display: Building textures: SM_Table_L_lambert1_Normal (BC5, 1024X1024)
+[2020.04.10-23.24.12:746][679]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\HCWS\Desktop\COTD\Model And Texture\Table\SM_Table_L_lambert1_OcclusionRoughnessMetallic.png)
+[2020.04.10-23.24.12:780][679]LogTexture: Display: Building textures: SM_Table_L_lambert1_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2020.04.10-23.24.13:125][679]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\HCWS\Desktop\COTD\Model And Texture\Table\SM_Table_L_lambert1_BaseColor.png)
+[2020.04.10-23.24.13:162][679]LogTexture: Display: Building textures: SM_Table_L_lambert1_BaseColor (AutoDXT, 1024X1024)
+[2020.04.10-23.24.42:494][927]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/M_Table524E08B94809BD701894C48886197F3E.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Materials/Instances/M_Table.uasset'
+[2020.04.10-23.24.45:372][219]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Artists/Materials/Instances/M_Table.M_Table
+[2020.04.10-23.24.45:836][219]LogRenderer: Reallocating scene render targets to support 1336x1024 Format 26 NumSamples 1 (Frame:1).
+[2020.04.10-23.25.28:445][964]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Artists/Assets/Castle_Level/Special_Assets/Table/SM_Table_SA_SM_Feet_L.SM_Table_SA_SM_Feet_L
+[2020.04.10-23.25.31:364][ 33]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Artists/Assets/Castle_Level/Special_Assets/Table/SM_Table_SA_SM_Legs_L.SM_Table_SA_SM_Legs_L
+[2020.04.10-23.25.33:239][188]LogRenderer: Reallocating scene render targets to support 1432x1024 Format 26 NumSamples 1 (Frame:157).
+[2020.04.10-23.25.53:002][555]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\HCWS\Desktop\COTD\Model And Texture\Chains\SM_Shackles_SA.fbx)
+[2020.04.10-23.25.53:012][555]LogFbx: Loading FBX Scene from C:\Users\HCWS\Desktop\COTD\Model And Texture\Chains\SM_Shackles_SA.fbx
+[2020.04.10-23.25.53:020][555]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.10-23.25.54:086][555]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.04.10-23.25.54:114][555]LogFbx: Warning: Triangulating static mesh SM_Cuff_L
+[2020.04.10-23.25.54:158][555]LogStaticMesh: Building static mesh SM_Shackles_SA_SM_Cuff_L...
+[2020.04.10-23.25.54:180][555]LogStaticMesh: Built static mesh [0.02s] /Game/Artists/Assets/Castle_Level/Special_Assets/SM_Shackles_SA_SM_Cuff_L.SM_Shackles_SA_SM_Cuff_L
+[2020.04.10-23.25.54:196][555]LogFbx: Warning: Triangulating static mesh SM_Joint2_L
+[2020.04.10-23.25.54:220][555]LogStaticMesh: Building static mesh SM_Shackles_SA_SM_Joint2_L...
+[2020.04.10-23.25.54:233][555]LogStaticMesh: Built static mesh [0.01s] /Game/Artists/Assets/Castle_Level/Special_Assets/SM_Shackles_SA_SM_Joint2_L.SM_Shackles_SA_SM_Joint2_L
+[2020.04.10-23.25.54:242][555]LogFbx: Warning: Triangulating static mesh SM_Chain2_L
+[2020.04.10-23.25.54:279][555]LogStaticMesh: Building static mesh SM_Shackles_SA_SM_Chain2_L...
+[2020.04.10-23.25.54:299][555]LogStaticMesh: Built static mesh [0.02s] /Game/Artists/Assets/Castle_Level/Special_Assets/SM_Shackles_SA_SM_Chain2_L.SM_Shackles_SA_SM_Chain2_L
+[2020.04.10-23.25.54:323][555]LogFbx: Warning: Triangulating static mesh SM_Chain1_L
+[2020.04.10-23.25.54:368][555]LogStaticMesh: Building static mesh SM_Shackles_SA_SM_Chain1_L...
+[2020.04.10-23.25.54:389][555]LogStaticMesh: Built static mesh [0.02s] /Game/Artists/Assets/Castle_Level/Special_Assets/SM_Shackles_SA_SM_Chain1_L.SM_Shackles_SA_SM_Chain1_L
+[2020.04.10-23.25.54:400][555]LogFbx: Warning: Triangulating static mesh SM_Bolts_L
+[2020.04.10-23.25.54:455][555]LogStaticMesh: Building static mesh SM_Shackles_SA_SM_Bolts_L...
+[2020.04.10-23.25.54:473][555]LogStaticMesh: Built static mesh [0.04s] /Game/Artists/Assets/Castle_Level/Special_Assets/SM_Shackles_SA_SM_Bolts_L.SM_Shackles_SA_SM_Bolts_L
+[2020.04.10-23.25.54:483][555]LogFbx: Warning: Triangulating static mesh SM_Joint1_L1
+[2020.04.10-23.25.54:504][555]LogStaticMesh: Building static mesh SM_Shackles_SA_SM_Joint1_L1...
+[2020.04.10-23.25.54:516][555]LogStaticMesh: Built static mesh [0.01s] /Game/Artists/Assets/Castle_Level/Special_Assets/SM_Shackles_SA_SM_Joint1_L1.SM_Shackles_SA_SM_Joint1_L1
+[2020.04.10-23.25.54:530][555]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.10-23.25.56:874][807]Cmd: TRANSACTION UNDO
+[2020.04.10-23.25.56:874][807]LogEditorTransaction: Undo Edit ORM
+[2020.04.10-23.25.57:044][807]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.10-23.26.04:501][444]LogSlate: Window 'Delete Assets' being destroyed
+[2020.04.10-23.26.53:565][498]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/MP_Loading_Screen_Auto470FB92F64FA8F5C14930B7AAD458D447.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Autosaves/Game/Designers/UI/MP_Loading_Screen_Auto4.umap'
+[2020.04.10-23.26.53:572][498]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/UI/MP_Loading_Screen' took 0.395
+[2020.04.10-23.26.53:572][498]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.395
+[2020.04.10-23.26.53:574][498]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Artists/Textures/T_Table/SM_Table_L_lambert1_Normal] ([1] browsable assets)...
+[2020.04.10-23.26.53:581][498]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Artists/Textures/T_Table/SM_Table_L_lambert1_Normal.SM_Table_L_lambert1_Normal]
+[2020.04.10-23.26.53:581][498]OBJ SavePackage: Finished generating thumbnails for package [/Game/Artists/Textures/T_Table/SM_Table_L_lambert1_Normal]
+[2020.04.10-23.26.53:598][498]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/SM_Table_L_lambert1_Normal_Auto436FAEBA7427CE239A2394F941E48B341.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Autosaves/Game/Artists/Textures/T_Table/SM_Table_L_lambert1_Normal_Auto4.uasset'
+[2020.04.10-23.26.53:600][498]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Artists/Textures/T_Table/SM_Table_L_lambert1_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2020.04.10-23.26.53:606][498]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Artists/Textures/T_Table/SM_Table_L_lambert1_OcclusionRoughnessMetallic.SM_Table_L_lambert1_OcclusionRoughnessMetallic]
+[2020.04.10-23.26.53:606][498]OBJ SavePackage: Finished generating thumbnails for package [/Game/Artists/Textures/T_Table/SM_Table_L_lambert1_OcclusionRoughnessMetallic]
+[2020.04.10-23.26.53:624][498]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/SM_Table_L_lambert1_OcclusionRou45E852DA4A8647E1B0CEA091F5EEF907.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Autosaves/Game/Artists/Textures/T_Table/SM_Table_L_lambert1_OcclusionRoughnessMetallic_Auto4.uasset'
+[2020.04.10-23.26.53:626][498]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Artists/Materials/Instances/M_Table] ([1] browsable assets)...
+[2020.04.10-23.26.53:635][498]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Artists/Materials/Instances/M_Table.M_Table]
+[2020.04.10-23.26.53:635][498]OBJ SavePackage: Finished generating thumbnails for package [/Game/Artists/Materials/Instances/M_Table]
+[2020.04.10-23.26.53:662][498]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Table, compiling. 
+[2020.04.10-23.26.54:133][498]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.04.10-23.26.54:134][498]TextureStreamingBuild: Display: Compiling optional shaders took 0.478 seconds.
+[2020.04.10-23.26.54:190][498]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/M_Table_Auto4527F82524C336094738052AB6E20B211.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Autosaves/Game/Artists/Materials/Instances/M_Table_Auto4.uasset'
+[2020.04.10-23.26.54:192][498]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Artists/Textures/T_Table/SM_Table_L_lambert1_BaseColor] ([1] browsable assets)...
+[2020.04.10-23.26.54:198][498]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Artists/Textures/T_Table/SM_Table_L_lambert1_BaseColor.SM_Table_L_lambert1_BaseColor]
+[2020.04.10-23.26.54:198][498]OBJ SavePackage: Finished generating thumbnails for package [/Game/Artists/Textures/T_Table/SM_Table_L_lambert1_BaseColor]
+[2020.04.10-23.26.54:213][498]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/SM_Table_L_lambert1_BaseColor_Au637A4B034DDEA738A32EA68B9AC2C8ED.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Autosaves/Game/Artists/Textures/T_Table/SM_Table_L_lambert1_BaseColor_Auto4.uasset'
+[2020.04.10-23.26.54:215][498]LogFileHelpers: Auto-saving content packages took 0.642
+[2020.04.10-23.27.36:343][656]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\HCWS\Desktop\COTD\Model And Texture\Chains\SM_Shackles_L_lambert1_Normal.png)
+[2020.04.10-23.27.36:368][656]LogTexture: Display: Building textures: SM_Shackles_L_lambert1_Normal (BC5, 512X512)
+[2020.04.10-23.27.36:415][656]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\HCWS\Desktop\COTD\Model And Texture\Chains\SM_Shackles_L_lambert1_OcclusionRoughnessMetallic.png)
+[2020.04.10-23.27.36:442][656]LogTexture: Display: Building textures: SM_Shackles_L_lambert1_OcclusionRoughnessMetallic (AutoDXT, 512X512)
+[2020.04.10-23.27.36:570][656]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\HCWS\Desktop\COTD\Model And Texture\Chains\SM_Shackles_L_lambert1_BaseColor.png)
+[2020.04.10-23.27.36:603][656]LogTexture: Display: Building textures: SM_Shackles_L_lambert1_BaseColor (AutoDXT, 512X512)
+[2020.04.10-23.28.01:800][489]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/M_ShacklesE21F59594B0521A2FFA447B58AF8212A.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Materials/Instances/M_Shackles.uasset'
+[2020.04.10-23.28.09:907][421]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Artists/Materials/Instances/M_Shackles.M_Shackles
+[2020.04.10-23.28.30:305][665]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Artists/Assets/Dungeon/Touture_Deveices/SM_Shackles_Blockout_SA.SM_Shackles_Blockout_SA
+[2020.04.10-23.28.54:218][891]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-23.28.55:415][ 19]LogSlate: Window 'M_Shackles*' being destroyed
+[2020.04.10-23.28.55:419][ 19]LogSlate: Window 'M_Shackles*' being destroyed
+[2020.04.10-23.28.56:685][ 19]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Shackles, compiling. 
+[2020.04.10-23.28.57:381][ 19]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.04.10-23.28.57:398][ 19]TextureStreamingBuild: Display: Compiling optional shaders took 0.716 seconds.
+[2020.04.10-23.29.16:313][548]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\HCWS\Desktop\COTD\Model And Texture\Cauldron\Cauldron_UE4_jKa.obj)
+[2020.04.10-23.29.16:354][548]LogFbx: Loading FBX Scene from C:\Users\HCWS\Desktop\COTD\Model And Texture\Cauldron\Cauldron_UE4_jKa.obj
+[2020.04.10-23.29.16:454][548]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.10-23.29.17:492][548]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.04.10-23.29.17:605][548]LogStaticMesh: Building static mesh Cauldron_UE4_jKa...
+[2020.04.10-23.29.17:700][548]LogStaticMesh: Built static mesh [0.09s] /Game/Artists/Assets/Castle_Level/Special_Assets/Cauldron_UE4_jKa.Cauldron_UE4_jKa
+[2020.04.10-23.29.17:740][548]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.10-23.29.20:261][820]LogActorFactory: Actor Factory created Cauldron_UE4_jKa
+[2020.04.10-23.29.20:594][857]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.10-23.29.20:814][883]LogActorFactory: Actor Factory created Cauldron_UE4_jKa
+[2020.04.10-23.29.21:836][  0]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.10-23.29.35:752][625]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-23.29.35:843][636]LogSlate: Window 'Message Log' being destroyed
+[2020.04.10-23.29.35:850][636]LogSlate: Window 'Message Log' being destroyed
+[2020.04.10-23.30.05:215][598]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\HCWS\Desktop\COTD\Model And Texture\Cauldron\Cauldron_LP_lambert1_Normal.png)
+[2020.04.10-23.30.05:503][598]LogTexture: Display: Building textures: Cauldron_LP_lambert1_Normal (BC5, 2048X2048)
+[2020.04.10-23.30.05:747][598]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\HCWS\Desktop\COTD\Model And Texture\Cauldron\Cauldron_LP_lambert1_OcclusionRoughnessMetallic.png)
+[2020.04.10-23.30.05:932][598]LogTexture: Display: Building textures: Cauldron_LP_lambert1_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.04.10-23.30.06:802][598]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\HCWS\Desktop\COTD\Model And Texture\Cauldron\Cauldron_LP_lambert1_BaseColor.png)
+[2020.04.10-23.30.06:965][598]LogTexture: Display: Building textures: Cauldron_LP_lambert1_BaseColor (AutoDXT, 2048X2048)
+[2020.04.10-23.30.31:195][176]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/M_CauldronD2D58A0E465CA42C67542BB796E31F58.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Materials/Instances/M_Cauldron.uasset'
+[2020.04.10-23.30.33:905][450]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Artists/Materials/Instances/M_Cauldron.M_Cauldron
+[2020.04.10-23.30.57:310][792]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Artists/Assets/Castle_Level/Special_Assets/Cauldron_UE4_jKa.Cauldron_UE4_jKa
+[2020.04.10-23.31.11:575][128]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Cauldron_UE4_jKa1AB2692246BF7672DF0CCB8234AD34AF.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Assets/Castle_Level/Special_Assets/Cauldron_UE4_jKa.uasset'
+[2020.04.10-23.31.13:920][347]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cauldron_UE4_jKa)
+[2020.04.10-23.31.15:491][516]Cmd: DELETE
+[2020.04.10-23.31.15:492][516]Cmd: ACTOR DELETE
+[2020.04.10-23.31.15:503][516]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.10-23.31.15:522][516]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.04.10-23.31.17:168][686]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-23.32.10:935][453]LogSlate: Window 'Cauldron_UE4_jKa' being destroyed
+[2020.04.10-23.32.10:940][453]LogSlate: Window 'Cauldron_UE4_jKa' being destroyed
+[2020.04.10-23.32.10:976][453]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Cauldron, compiling. 
+[2020.04.10-23.32.11:683][453]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.04.10-23.32.11:685][453]TextureStreamingBuild: Display: Compiling optional shaders took 0.712 seconds.
+[2020.04.10-23.32.18:046][829]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\HCWS\Desktop\COTD\Model And Texture\Arcade Machine/Coin/CoinToken/SM_CoinTokenHB.fbx)
+[2020.04.10-23.32.18:055][829]LogFbx: Loading FBX Scene from C:\Users\HCWS\Desktop\COTD\Model And Texture\Arcade Machine/Coin/CoinToken/SM_CoinTokenHB.fbx
+[2020.04.10-23.32.18:059][829]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.10-23.32.19:092][829]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.04.10-23.32.19:119][829]LogFbx: Warning: Triangulating static mesh LPCoin
+[2020.04.10-23.32.19:125][829]LogStaticMesh: Building static mesh SM_CoinTokenHB...
+[2020.04.10-23.32.19:128][829]LogStaticMesh: Built static mesh [0.00s] /Game/Artists/Assets/harry/Arcade_Machine/Coin/CoinToken/SM_CoinTokenHB.SM_CoinTokenHB
+[2020.04.10-23.32.19:150][829]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.10-23.32.19:170][829]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\HCWS\Desktop\COTD\Model And Texture\Arcade Machine/Coin/CoinToken/Textures/T_CoinToken_BC.png)
+[2020.04.10-23.32.19:183][829]LogTexture: Display: Building textures: T_CoinToken_BC (AutoDXT, 256X256)
+[2020.04.10-23.32.19:242][829]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\HCWS\Desktop\COTD\Model And Texture\Arcade Machine/Coin/CoinToken/Textures/T_CoinToken_N.png)
+[2020.04.10-23.32.19:259][829]LogTexture: Display: Building textures: T_CoinToken_N (BC5, 256X256)
+[2020.04.10-23.32.19:287][829]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\HCWS\Desktop\COTD\Model And Texture\Arcade Machine/Coin/CoinToken/Textures/T_CoinToken_ORM.png)
+[2020.04.10-23.32.19:304][829]LogTexture: Display: Building textures: T_CoinToken_ORM (BC5, 256X256)
+[2020.04.10-23.32.19:339][829]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\HCWS\Desktop\COTD\Model And Texture\Arcade Machine/SM_ArcadeMachineGunHB.fbx)
+[2020.04.10-23.32.19:356][829]LogFbx: Loading FBX Scene from C:\Users\HCWS\Desktop\COTD\Model And Texture\Arcade Machine/SM_ArcadeMachineGunHB.fbx
+[2020.04.10-23.32.19:374][829]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.10-23.32.19:375][829]LogFbx: Warning: Triangulating static mesh GunFinalExport
+[2020.04.10-23.32.19:558][829]LogStaticMesh: Building static mesh SM_ArcadeMachineGunHB...
+[2020.04.10-23.32.19:624][829]LogStaticMesh: Built static mesh [0.07s] /Game/Artists/Assets/harry/Arcade_Machine/SM_ArcadeMachineGunHB.SM_ArcadeMachineGunHB
+[2020.04.10-23.32.19:699][829]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.10-23.32.19:721][829]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\HCWS\Desktop\COTD\Model And Texture\Arcade Machine/SM_ArcadeMachineHB.fbx)
+[2020.04.10-23.32.19:745][829]LogFbx: Loading FBX Scene from C:\Users\HCWS\Desktop\COTD\Model And Texture\Arcade Machine/SM_ArcadeMachineHB.fbx
+[2020.04.10-23.32.19:752][829]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.10-23.32.19:752][829]LogFbx: Warning: Triangulating static mesh ArcadeScreen
+[2020.04.10-23.32.19:753][829]LogStaticMesh: Building static mesh SM_ArcadeMachineHB_ArcadeScreen...
+[2020.04.10-23.32.19:754][829]LogStaticMesh: Built static mesh [0.00s] /Game/Artists/Assets/harry/Arcade_Machine/SM_ArcadeMachineHB_ArcadeScreen.SM_ArcadeMachineHB_ArcadeScreen
+[2020.04.10-23.32.19:762][829]LogFbx: Warning: Triangulating static mesh ArcadeBaseModel
+[2020.04.10-23.32.19:833][829]LogStaticMesh: Building static mesh SM_ArcadeMachineHB_ArcadeBaseModel...
+[2020.04.10-23.32.19:854][829]LogStaticMesh: Built static mesh [0.02s] /Game/Artists/Assets/harry/Arcade_Machine/SM_ArcadeMachineHB_ArcadeBaseModel.SM_ArcadeMachineHB_ArcadeBaseModel
+[2020.04.10-23.32.19:900][829]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.10-23.32.19:905][829]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\HCWS\Desktop\COTD\Model And Texture\Arcade Machine/Textures/ArcadeMachine/ArcadeMachineBase/T_ArcadeBase_BC.png)
+[2020.04.10-23.32.19:987][829]LogTexture: Display: Building textures: T_ArcadeBase_BC (AutoDXT, 2048X2048)
+[2020.04.10-23.32.20:225][829]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\HCWS\Desktop\COTD\Model And Texture\Arcade Machine/Textures/ArcadeMachine/ArcadeMachineBase/T_ArcadeBase_N.png)
+[2020.04.10-23.32.20:372][829]LogTexture: Display: Building textures: T_ArcadeBase_N (BC5, 2048X2048)
+[2020.04.10-23.32.20:616][829]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\HCWS\Desktop\COTD\Model And Texture\Arcade Machine/Textures/ArcadeMachine/ArcadeMachineBase/T_ArcadeBase_ORM.png)
+[2020.04.10-23.32.20:724][829]LogTexture: Display: Building textures: T_ArcadeBase_ORM (AutoDXT, 2048X2048)
+[2020.04.10-23.32.21:234][829]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\HCWS\Desktop\COTD\Model And Texture\Arcade Machine/Textures/ArcadeMachine/ArcadeMachineParts/T_Otherparts_BC.png)
+[2020.04.10-23.32.21:262][829]LogTexture: Display: Building textures: T_Otherparts_BC (AutoDXT, 1024X1024)
+[2020.04.10-23.32.21:416][829]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\HCWS\Desktop\COTD\Model And Texture\Arcade Machine/Textures/ArcadeMachine/ArcadeMachineParts/T_Otherparts_N.png)
+[2020.04.10-23.32.21:469][829]LogTexture: Display: Building textures: T_Otherparts_N (BC5, 1024X1024)
+[2020.04.10-23.32.21:538][829]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\HCWS\Desktop\COTD\Model And Texture\Arcade Machine/Textures/ArcadeMachine/ArcadeMachineParts/T_Otherparts_ORM.png)
+[2020.04.10-23.32.21:569][829]LogTexture: Display: Building textures: T_Otherparts_ORM (AutoDXT, 1024X1024)
+[2020.04.10-23.32.21:735][829]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\HCWS\Desktop\COTD\Model And Texture\Arcade Machine/Textures/ArcadeMachine/ArcadeMachineScreen/T_ArcadeScreen_BC.png)
+[2020.04.10-23.32.21:759][829]LogTexture: Display: Building textures: T_ArcadeScreen_BC (AutoDXT, 1024X1024)
+[2020.04.10-23.32.21:844][829]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\HCWS\Desktop\COTD\Model And Texture\Arcade Machine/Textures/ArcadeMachine/ArcadeMachineScreen/T_ArcadeScreen_N.png)
+[2020.04.10-23.32.21:882][829]LogTexture: Display: Building textures: T_ArcadeScreen_N (BC5, 1024X1024)
+[2020.04.10-23.32.21:949][829]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\HCWS\Desktop\COTD\Model And Texture\Arcade Machine/Textures/ArcadeMachine/ArcadeMachineScreen/T_ArcadeScreen_ORM.png)
+[2020.04.10-23.32.21:979][829]LogTexture: Display: Building textures: T_ArcadeScreen_ORM (AutoDXT, 1024X1024)
+[2020.04.10-23.32.22:146][829]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\HCWS\Desktop\COTD\Model And Texture\Arcade Machine/Textures/Uzi/T_Uzi_BC.png)
+[2020.04.10-23.32.22:278][829]LogTexture: Display: Building textures: T_Uzi_BC (AutoDXT, 2048X2048)
+[2020.04.10-23.32.23:522][829]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\HCWS\Desktop\COTD\Model And Texture\Arcade Machine/Textures/Uzi/T_Uzi_N.png)
+[2020.04.10-23.32.23:663][829]LogTexture: Display: Building textures: T_Uzi_N (BC5, 2048X2048)
+[2020.04.10-23.32.23:953][829]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\HCWS\Desktop\COTD\Model And Texture\Arcade Machine/Textures/Uzi/T_Uzi_ORM.png)
+[2020.04.10-23.32.24:095][829]LogTexture: Display: Building textures: T_Uzi_ORM (AutoDXT, 2048X2048)
+[2020.04.10-23.33.16:703][403]LogSlate: Window 'Delete Assets' being destroyed
+[2020.04.10-23.33.28:305][680]LogMetaData: Removing '/Game/Artists/Assets/Arcade_Machine/SM_ArcadeMachineHB_ArcadeBaseModel.SM_ArcadeMachineHB_ArcadeBaseModel' ref from Metadata '/Game/Artists/Arcade_Machine/SM_ArcadeMachineHB_ArcadeBaseModel.PackageMetaData'
+[2020.04.10-23.33.28:320][680]LogMetaData: Removing '/Game/Artists/Assets/Arcade_Machine/SM_ArcadeMachineHB_ArcadeScreen.SM_ArcadeMachineHB_ArcadeScreen' ref from Metadata '/Game/Artists/Arcade_Machine/SM_ArcadeMachineHB_ArcadeScreen.PackageMetaData'
+[2020.04.10-23.33.28:334][680]LogMetaData: Removing '/Game/Artists/Assets/Arcade_Machine/SM_ArcadeMachineGunHB.SM_ArcadeMachineGunHB' ref from Metadata '/Game/Artists/Arcade_Machine/SM_ArcadeMachineGunHB.PackageMetaData'
+[2020.04.10-23.33.28:468][680]LogMetaData: Removing '/Game/Artists/Assets/Arcade_Machine/Coin/CoinToken/SM_CoinTokenHB.SM_CoinTokenHB' ref from Metadata '/Game/Artists/Arcade_Machine/Coin/CoinToken/SM_CoinTokenHB.PackageMetaData'
+[2020.04.10-23.33.28:544][680]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/T_ArcadeScreen_N2A62DF494EB0C414A428319037D23A5E.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Assets/Arcade_Machine/Textures/ArcadeMachine/ArcadeMachineScreen/T_ArcadeScreen_N.uasset'
+[2020.04.10-23.33.28:571][680]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/T_ArcadeScreen_BC946384F544DDA4938026CD84DD9030B2.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Assets/Arcade_Machine/Textures/ArcadeMachine/ArcadeMachineScreen/T_ArcadeScreen_BC.uasset'
+[2020.04.10-23.33.28:608][680]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/T_Otherparts_ORM429B698E440B2ACD9F5D90864B1C9945.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Assets/Arcade_Machine/Textures/ArcadeMachine/ArcadeMachineParts/T_Otherparts_ORM.uasset'
+[2020.04.10-23.33.28:651][680]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/T_Otherparts_N5BEA9A1C407045F2E4D2379E64C3544B.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Assets/Arcade_Machine/Textures/ArcadeMachine/ArcadeMachineParts/T_Otherparts_N.uasset'
+[2020.04.10-23.33.28:686][680]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/T_Otherparts_BCD6FAA6DC468180FDA7584D81A016289F.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Assets/Arcade_Machine/Textures/ArcadeMachine/ArcadeMachineParts/T_Otherparts_BC.uasset'
+[2020.04.10-23.33.28:748][680]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/T_ArcadeBase_ORMD005F34D449BE2ED839EC5A9C9C73754.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Assets/Arcade_Machine/Textures/ArcadeMachine/ArcadeMachineBase/T_ArcadeBase_ORM.uasset'
+[2020.04.10-23.33.28:820][680]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/T_ArcadeBase_N9B7047884B509834EAC4EF86C3570A4A.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Assets/Arcade_Machine/Textures/ArcadeMachine/ArcadeMachineBase/T_ArcadeBase_N.uasset'
+[2020.04.10-23.33.28:852][680]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/T_ArcadeBase_BC8CAC0A024E642EC732263882CA7D1BDF.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Assets/Arcade_Machine/Textures/ArcadeMachine/ArcadeMachineBase/T_ArcadeBase_BC.uasset'
+[2020.04.10-23.33.28:885][680]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/SM_ArcadeMachineHB_ArcadeBaseMod0D79DC1846E3D9A9B7AAB69EEF81A088.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Assets/Arcade_Machine/SM_ArcadeMachineHB_ArcadeBaseModel.uasset'
+[2020.04.10-23.33.28:918][680]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/SM_ArcadeMachineHB_ArcadeScreenDE08FC374A2F5D83947DA38CFF732EF8.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Assets/Arcade_Machine/SM_ArcadeMachineHB_ArcadeScreen.uasset'
+[2020.04.10-23.33.28:948][680]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/SM_ArcadeMachineGunHB7430592747EDF7E201156499F235BA9C.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Assets/Arcade_Machine/SM_ArcadeMachineGunHB.uasset'
+[2020.04.10-23.33.28:975][680]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/T_CoinToken_ORM44DECA944F279496E79D8890C690181B.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Assets/Arcade_Machine/Coin/CoinToken/Textures/T_CoinToken_ORM.uasset'
+[2020.04.10-23.33.29:006][680]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/T_CoinToken_NC120F4D24C57329C7082D7A6C33A70DF.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Assets/Arcade_Machine/Coin/CoinToken/Textures/T_CoinToken_N.uasset'
+[2020.04.10-23.33.29:030][680]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/T_CoinToken_BCC248A72141929E1B79AA30895016D88A.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Assets/Arcade_Machine/Coin/CoinToken/Textures/T_CoinToken_BC.uasset'
+[2020.04.10-23.33.29:146][680]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/T_Uzi_ORM8CBC74294B7A8393FD7C0A90DADA36EA.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Assets/Arcade_Machine/Textures/Uzi/T_Uzi_ORM.uasset'
+[2020.04.10-23.33.29:246][680]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/T_Uzi_N5DEBE0A646196CE684B2FD89D3113378.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Assets/Arcade_Machine/Textures/Uzi/T_Uzi_N.uasset'
+[2020.04.10-23.33.29:349][680]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/T_Uzi_BC2D040C974A0AD3CFDA59A1ACF48F3E21.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Assets/Arcade_Machine/Textures/Uzi/T_Uzi_BC.uasset'
+[2020.04.10-23.33.29:390][680]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/T_ArcadeScreen_ORM496DFF8F4B5F4F92C3F4D3995C2A455A.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Assets/Arcade_Machine/Textures/ArcadeMachine/ArcadeMachineScreen/T_ArcadeScreen_ORM.uasset'
+[2020.04.10-23.33.29:432][680]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/SM_CoinTokenHB44D0AC0E4A643A4E15B6E99F0851298C.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Assets/Arcade_Machine/Coin/CoinToken/SM_CoinTokenHB.uasset'
+[2020.04.10-23.33.47:175][527]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/T_ArcadeScreen_NE9020FF2410FCE7D8D228E9A1B2CB7E5.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Textures/ArcadeMachine/ArcadeMachineScreen/T_ArcadeScreen_N.uasset'
+[2020.04.10-23.33.47:203][527]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/T_ArcadeScreen_BCE6D2CD9D4E051A67A2B891A821A17D1C.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Textures/ArcadeMachine/ArcadeMachineScreen/T_ArcadeScreen_BC.uasset'
+[2020.04.10-23.33.47:238][527]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/T_Otherparts_ORM95FD9A9642C8545921D0BBB1BEF36059.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Textures/ArcadeMachine/ArcadeMachineParts/T_Otherparts_ORM.uasset'
+[2020.04.10-23.33.47:281][527]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/T_Otherparts_N68AC2A2144B4E40E0CDA65B40A8BC8D7.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Textures/ArcadeMachine/ArcadeMachineParts/T_Otherparts_N.uasset'
+[2020.04.10-23.33.47:315][527]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/T_Otherparts_BC32ECB0D0431B9119B275D295E942EC6F.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Textures/ArcadeMachine/ArcadeMachineParts/T_Otherparts_BC.uasset'
+[2020.04.10-23.33.47:394][527]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/T_ArcadeBase_ORM8205AAB442374D32D357ECB48206BBFE.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Textures/ArcadeMachine/ArcadeMachineBase/T_ArcadeBase_ORM.uasset'
+[2020.04.10-23.33.47:464][527]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/T_ArcadeBase_NBC229579433FBECF369248878B7B74FD.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Textures/ArcadeMachine/ArcadeMachineBase/T_ArcadeBase_N.uasset'
+[2020.04.10-23.33.47:497][527]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/T_ArcadeBase_BC6F6037D342CE9C6630847590598674D6.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Textures/ArcadeMachine/ArcadeMachineBase/T_ArcadeBase_BC.uasset'
+[2020.04.10-23.33.47:529][527]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/T_ArcadeScreen_ORM4C346FDD4623C8B60D8E5E9A26AAEB62.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Textures/ArcadeMachine/ArcadeMachineScreen/T_ArcadeScreen_ORM.uasset'
+[2020.04.10-23.33.48:574][527]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/T_Uzi_ORM82B8336F4455533BFF1E7CA5F34BB118.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Textures/Uzi/T_Uzi_ORM.uasset'
+[2020.04.10-23.33.48:669][527]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/T_Uzi_N6D5B8D8742CD6F4DF2686AB52C1D68DA.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Textures/Uzi/T_Uzi_N.uasset'
+[2020.04.10-23.33.48:767][527]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/T_Uzi_BC224E26A941A30A5C80CD13AF2E1B8460.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Textures/Uzi/T_Uzi_BC.uasset'
+[2020.04.10-23.33.59:670][640]LogSlate: Window 'Delete Assets' being destroyed
+[2020.04.10-23.34.09:897][751]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/T_ArcadeScreen_N378F7653466D2651EBDB6DBCFE59BBBB.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Textures/T_ArcadeMachine/ArcadeMachineScreen/T_ArcadeScreen_N.uasset'
+[2020.04.10-23.34.09:922][751]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/T_ArcadeScreen_BC407EA7F34139C0197487E1B14C1E2555.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Textures/T_ArcadeMachine/ArcadeMachineScreen/T_ArcadeScreen_BC.uasset'
+[2020.04.10-23.34.09:955][751]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/T_Otherparts_ORM92F06D1F46A0A8E5A5C598BDB8FB1EFB.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Textures/T_ArcadeMachine/ArcadeMachineParts/T_Otherparts_ORM.uasset'
+[2020.04.10-23.34.09:998][751]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/T_Otherparts_NB6411DD8449C632F3259779112BF7B13.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Textures/T_ArcadeMachine/ArcadeMachineParts/T_Otherparts_N.uasset'
+[2020.04.10-23.34.10:036][751]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/T_Otherparts_BC964F081F4C4FA0E2C70DF5A5D74FDE3E.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Textures/T_ArcadeMachine/ArcadeMachineParts/T_Otherparts_BC.uasset'
+[2020.04.10-23.34.10:097][751]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/T_ArcadeBase_ORM4A656039415BDC31D3377AADCC9BEC4B.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Textures/T_ArcadeMachine/ArcadeMachineBase/T_ArcadeBase_ORM.uasset'
+[2020.04.10-23.34.10:170][751]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/T_ArcadeBase_NE863F7EF4CA140ACACD0BA8C22D6E432.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Textures/T_ArcadeMachine/ArcadeMachineBase/T_ArcadeBase_N.uasset'
+[2020.04.10-23.34.10:202][751]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/T_ArcadeBase_BC7373883E4062714829614EB3EE087391.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Textures/T_ArcadeMachine/ArcadeMachineBase/T_ArcadeBase_BC.uasset'
+[2020.04.10-23.34.10:239][751]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/T_ArcadeScreen_ORM0694343948BAE71D1EF8359B6E32AF5B.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Textures/T_ArcadeMachine/ArcadeMachineScreen/T_ArcadeScreen_ORM.uasset'
+[2020.04.10-23.34.15:662][255]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/T_Uzi_ORMAA7ADBE34A6A08D26454FF98D1848479.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Textures/T_Uzi/T_Uzi_ORM.uasset'
+[2020.04.10-23.34.15:756][255]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/T_Uzi_NBD6EA7EC42D1E614B4F0CEB30C3B8EEC.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Textures/T_Uzi/T_Uzi_N.uasset'
+[2020.04.10-23.34.15:851][255]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/T_Uzi_BC4B1948F04CE8C589039DD99FE5BEF019.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Textures/T_Uzi/T_Uzi_BC.uasset'
+[2020.04.10-23.34.30:986][962]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Artists/Assets/Arcade_Machine/Coin/CoinToken/SM_CoinTokenHB.SM_CoinTokenHB
+[2020.04.10-23.34.44:920][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-23.34.45:013][472]LogSlate: Window 'SM_CoinTokenHB' being destroyed
+[2020.04.10-23.34.45:020][472]LogSlate: Window 'SM_CoinTokenHB' being destroyed
+[2020.04.10-23.34.58:001][975]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/T_CoinToken_ORM0230C88A4A6D7B6E68B84CBF72E2FA5A.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Assets/Arcade_Machine/Coin/CoinToken/T_Coin/T_CoinToken_ORM.uasset'
+[2020.04.10-23.34.58:032][975]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/T_CoinToken_N4C617E2641FA4F1F11B31A9E0E2AD0F6.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Assets/Arcade_Machine/Coin/CoinToken/T_Coin/T_CoinToken_N.uasset'
+[2020.04.10-23.34.58:058][975]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/T_CoinToken_BC6CCB46CA4986826706DF23A5EBB786B4.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Assets/Arcade_Machine/Coin/CoinToken/T_Coin/T_CoinToken_BC.uasset'
+[2020.04.10-23.35.03:675][586]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/T_CoinToken_ORM366DA09F416708735BF47FA27559B972.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Textures/T_Coin/T_CoinToken_ORM.uasset'
+[2020.04.10-23.35.03:706][586]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/T_CoinToken_NC09883F6446AD94EAA57B5966C52DCC2.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Textures/T_Coin/T_CoinToken_N.uasset'
+[2020.04.10-23.35.03:732][586]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/T_CoinToken_BC88BF8EB740798642EC1A88867A0E5D35.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Textures/T_Coin/T_CoinToken_BC.uasset'
+[2020.04.10-23.36.07:567][432]LogActorFactory: Actor Factory created SM_ArcadeMachineHB_ArcadeBaseModel
+[2020.04.10-23.36.07:568][432]LogActorFactory: Actor Factory created SM_ArcadeMachineHB_ArcadeScreen
+[2020.04.10-23.36.08:086][489]LogActorFactory: Actor Factory created SM_ArcadeMachineHB_ArcadeBaseModel
+[2020.04.10-23.36.08:102][489]LogActorFactory: Actor Factory created SM_ArcadeMachineHB_ArcadeScreen
+[2020.04.10-23.36.08:627][545]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.10-23.36.10:422][749]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ArcadeMachineHB_ArcadeBaseModel)
+[2020.04.10-23.36.10:993][805]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ArcadeMachineHB_ArcadeScreen)
+[2020.04.10-23.36.15:516][328]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-23.36.25:764][522]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ArcadeMachineHB_ArcadeBaseModel)
+[2020.04.10-23.36.29:505][958]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-23.36.34:144][467]LogActorFactory: Actor Factory created SM_ArcadeMachineGunHB
+[2020.04.10-23.36.34:849][538]LogActorFactory: Actor Factory created SM_ArcadeMachineGunHB
+[2020.04.10-23.36.45:678][828]Cmd: DELETE
+[2020.04.10-23.36.45:678][828]Cmd: ACTOR DELETE
+[2020.04.10-23.36.45:689][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.10-23.36.45:709][828]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.04.10-23.36.46:636][939]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ArcadeMachineHB_ArcadeBaseModel)
+[2020.04.10-23.36.47:747][ 67]Cmd: DELETE
+[2020.04.10-23.36.47:747][ 67]Cmd: ACTOR DELETE
+[2020.04.10-23.36.47:749][ 67]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.10-23.36.47:768][ 67]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2020.04.10-23.36.48:087][105]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ArcadeMachineHB_ArcadeScreen)
+[2020.04.10-23.36.48:167][110]Cmd: DELETE
+[2020.04.10-23.36.48:167][110]Cmd: ACTOR DELETE
+[2020.04.10-23.36.48:169][110]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.10-23.36.48:188][110]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2020.04.10-23.36.49:897][246]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-23.36.50:343][294]LogActorFactory: Actor Factory created SM_ArcadeMachineGunHB
+[2020.04.10-23.36.50:343][294]LogActorFactory: Actor Factory created SM_ArcadeMachineHB_ArcadeBaseModel
+[2020.04.10-23.36.50:344][294]LogActorFactory: Actor Factory created SM_ArcadeMachineHB_ArcadeScreen
+[2020.04.10-23.36.51:338][408]LogActorFactory: Actor Factory created SM_ArcadeMachineGunHB
+[2020.04.10-23.36.51:353][408]LogActorFactory: Actor Factory created SM_ArcadeMachineHB_ArcadeBaseModel
+[2020.04.10-23.36.51:367][408]LogActorFactory: Actor Factory created SM_ArcadeMachineHB_ArcadeScreen
+[2020.04.10-23.36.51:555][422]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.10-23.36.54:303][719]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ArcadeMachineGunHB)
+[2020.04.10-23.36.59:067][275]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-23.37.31:199][933]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/M_Arcade_Machine_Base3D6A01274FEB3187AD18C298918086A8.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Materials/Instances/M_Arcade_Machine_Base.uasset'
+[2020.04.10-23.37.51:136][204]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/M_Arcade_Machine_MainA18CCD9C4C784B651C20C998E70BABC1.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Materials/Instances/M_Arcade_Machine_Main.uasset'
+[2020.04.10-23.37.56:714][789]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Artists/Materials/Instances/M_Arcade_Machine_Base.M_Arcade_Machine_Base
+[2020.04.10-23.37.57:411][833]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Artists/Materials/Instances/M_Arcade_Machine_Main.M_Arcade_Machine_Main
+[2020.04.10-23.38.20:226][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-23.38.40:658][ 28]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Artists/Assets/Arcade_Machine/SM_ArcadeMachineHB_ArcadeBaseModel.SM_ArcadeMachineHB_ArcadeBaseModel
+[2020.04.10-23.39.18:005][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-23.39.31:992][532]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/M_Arcade_Screen5272DAEC46B05942FA24C8A65512E82F.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Materials/Instances/M_Arcade_Screen.uasset'
+[2020.04.10-23.39.36:150][853]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Artists/Materials/Instances/M_Arcade_Screen.M_Arcade_Screen
+[2020.04.10-23.39.55:149][593]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Arcade_Screen, compiling. 
+[2020.04.10-23.39.55:863][593]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.04.10-23.39.55:864][593]TextureStreamingBuild: Display: Compiling optional shaders took 0.720 seconds.
+[2020.04.10-23.39.55:915][593]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/M_Arcade_Screen4D4FADA343F2507029F681AA2DA68D8D.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Materials/Instances/M_Arcade_Screen.uasset'
+[2020.04.10-23.40.14:233][352]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ArcadeMachineHB_ArcadeScreen)
+[2020.04.10-23.40.15:737][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-23.40.18:068][661]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Artists/Assets/Arcade_Machine/SM_ArcadeMachineHB_ArcadeScreen.SM_ArcadeMachineHB_ArcadeScreen
+[2020.04.10-23.40.33:120][890]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ArcadeMachineHB_ArcadeBaseModel)
+[2020.04.10-23.40.34:975][ 49]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ArcadeMachineGunHB)
+[2020.04.10-23.40.38:018][286]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.10-23.41.02:461][278]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Artists/Assets/Arcade_Machine/SM_ArcadeMachineGunHB.SM_ArcadeMachineGunHB
+[2020.04.10-23.41.19:464][692]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/M_Uzi2594E44C451AB9EEB44AF1AB1310D218.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Materials/Instances/M_Uzi.uasset'
+[2020.04.10-23.41.22:918][904]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Artists/Materials/Instances/M_Uzi.M_Uzi
+[2020.04.10-23.41.44:191][673]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Uzi, compiling. 
+[2020.04.10-23.41.44:910][673]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.04.10-23.41.44:911][673]TextureStreamingBuild: Display: Compiling optional shaders took 0.724 seconds.
+[2020.04.10-23.41.44:961][673]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/M_Uzi7EFFDC744839F8CEB69E0486C66C48B4.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Materials/Instances/M_Uzi.uasset'
+[2020.04.10-23.42.05:317][261]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/SM_ArcadeMachineGunHB1F05F1164ABFBBA4126013B52DF0C04A.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Artists/Assets/Arcade_Machine/SM_ArcadeMachineGunHB.uasset'
+[2020.04.10-23.42.37:539][900]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/MP_Loading_Screen_Auto586EADACA42B4C09D14D0169642626688.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Autosaves/Game/Designers/UI/MP_Loading_Screen_Auto5.umap'
+[2020.04.10-23.42.37:545][900]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/UI/MP_Loading_Screen' took 0.253
+[2020.04.10-23.42.37:545][900]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.253
+[2020.04.10-23.42.37:546][900]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Artists/Assets/Dungeon/Touture_Deveices/SM_Shackles_Blockout_SA] ([1] browsable assets)...
+[2020.04.10-23.42.37:556][900]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Artists/Assets/Dungeon/Touture_Deveices/SM_Shackles_Blockout_SA.SM_Shackles_Blockout_SA]
+[2020.04.10-23.42.37:556][900]OBJ SavePackage: Finished generating thumbnails for package [/Game/Artists/Assets/Dungeon/Touture_Deveices/SM_Shackles_Blockout_SA]
+[2020.04.10-23.42.37:584][900]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/SM_Shackles_Blockout_SA_Auto5640516AA4651A50A6CCE2EB8405BBE07.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Autosaves/Game/Artists/Assets/Dungeon/Touture_Deveices/SM_Shackles_Blockout_SA_Auto5.uasset'
+[2020.04.10-23.42.37:586][900]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Artists/Materials/Instances/M_Arcade_Machine_Base] ([1] browsable assets)...
+[2020.04.10-23.42.37:595][900]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Artists/Materials/Instances/M_Arcade_Machine_Base.M_Arcade_Machine_Base]
+[2020.04.10-23.42.37:595][900]OBJ SavePackage: Finished generating thumbnails for package [/Game/Artists/Materials/Instances/M_Arcade_Machine_Base]
+[2020.04.10-23.42.37:620][900]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Arcade_Machine_Base, compiling. 
+[2020.04.10-23.42.38:009][900]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.04.10-23.42.38:010][900]TextureStreamingBuild: Display: Compiling optional shaders took 0.395 seconds.
+[2020.04.10-23.42.38:059][900]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/M_Arcade_Machine_Base_Auto56892BA564E1EC2FE306919B1E6B45143.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Autosaves/Game/Artists/Materials/Instances/M_Arcade_Machine_Base_Auto5.uasset'
+[2020.04.10-23.42.38:061][900]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Artists/Materials/Instances/M_Arcade_Machine_Main] ([1] browsable assets)...
+[2020.04.10-23.42.38:070][900]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Artists/Materials/Instances/M_Arcade_Machine_Main.M_Arcade_Machine_Main]
+[2020.04.10-23.42.38:070][900]OBJ SavePackage: Finished generating thumbnails for package [/Game/Artists/Materials/Instances/M_Arcade_Machine_Main]
+[2020.04.10-23.42.38:096][900]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Arcade_Machine_Main, compiling. 
+[2020.04.10-23.42.38:288][900]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.04.10-23.42.38:289][900]TextureStreamingBuild: Display: Compiling optional shaders took 0.198 seconds.
+[2020.04.10-23.42.38:339][900]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/M_Arcade_Machine_Main_Auto5C794A4854DE850537F8B04AAAD987C81.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Autosaves/Game/Artists/Materials/Instances/M_Arcade_Machine_Main_Auto5.uasset'
+[2020.04.10-23.42.38:341][900]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Artists/Textures/T_Cauldron/Cauldron_LP_lambert1_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2020.04.10-23.42.38:349][900]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Artists/Textures/T_Cauldron/Cauldron_LP_lambert1_OcclusionRoughnessMetallic.Cauldron_LP_lambert1_OcclusionRoughnessMetallic]
+[2020.04.10-23.42.38:349][900]OBJ SavePackage: Finished generating thumbnails for package [/Game/Artists/Textures/T_Cauldron/Cauldron_LP_lambert1_OcclusionRoughnessMetallic]
+[2020.04.10-23.42.38:552][900]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Cauldron_LP_lambert1_OcclusionRo4BC0A32043916D67AC11C7BD881E7437.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Autosaves/Game/Artists/Textures/T_Cauldron/Cauldron_LP_lambert1_OcclusionRoughnessMetallic_Auto5.uasset'
+[2020.04.10-23.42.38:554][900]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Artists/Textures/T_Shackles/SM_Shackles_L_lambert1_Normal] ([1] browsable assets)...
+[2020.04.10-23.42.38:563][900]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Artists/Textures/T_Shackles/SM_Shackles_L_lambert1_Normal.SM_Shackles_L_lambert1_Normal]
+[2020.04.10-23.42.38:563][900]OBJ SavePackage: Finished generating thumbnails for package [/Game/Artists/Textures/T_Shackles/SM_Shackles_L_lambert1_Normal]
+[2020.04.10-23.42.38:580][900]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/SM_Shackles_L_lambert1_Normal_Au48056DC2443580A20F70198EAC2D37B5.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Autosaves/Game/Artists/Textures/T_Shackles/SM_Shackles_L_lambert1_Normal_Auto5.uasset'
+[2020.04.10-23.42.38:583][900]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Artists/Textures/T_Shackles/SM_Shackles_L_lambert1_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2020.04.10-23.42.38:590][900]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Artists/Textures/T_Shackles/SM_Shackles_L_lambert1_OcclusionRoughnessMetallic.SM_Shackles_L_lambert1_OcclusionRoughnessMetallic]
+[2020.04.10-23.42.38:591][900]OBJ SavePackage: Finished generating thumbnails for package [/Game/Artists/Textures/T_Shackles/SM_Shackles_L_lambert1_OcclusionRoughnessMetallic]
+[2020.04.10-23.42.38:606][900]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/SM_Shackles_L_lambert1_Occlusion4F28BB9C4433470241F4BFB5256CE1AB.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Autosaves/Game/Artists/Textures/T_Shackles/SM_Shackles_L_lambert1_OcclusionRoughnessMetallic_Auto5.uasset'
+[2020.04.10-23.42.38:608][900]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Artists/Textures/T_Shackles/SM_Shackles_L_lambert1_BaseColor] ([1] browsable assets)...
+[2020.04.10-23.42.38:615][900]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Artists/Textures/T_Shackles/SM_Shackles_L_lambert1_BaseColor.SM_Shackles_L_lambert1_BaseColor]
+[2020.04.10-23.42.38:615][900]OBJ SavePackage: Finished generating thumbnails for package [/Game/Artists/Textures/T_Shackles/SM_Shackles_L_lambert1_BaseColor]
+[2020.04.10-23.42.38:629][900]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/SM_Shackles_L_lambert1_BaseColorDC134F8546E80763B75F79B261224A7E.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Autosaves/Game/Artists/Textures/T_Shackles/SM_Shackles_L_lambert1_BaseColor_Auto5.uasset'
+[2020.04.10-23.42.38:630][900]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Artists/Materials/Instances/M_Shackles] ([1] browsable assets)...
+[2020.04.10-23.42.38:640][900]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Artists/Materials/Instances/M_Shackles.M_Shackles]
+[2020.04.10-23.42.38:640][900]OBJ SavePackage: Finished generating thumbnails for package [/Game/Artists/Materials/Instances/M_Shackles]
+[2020.04.10-23.42.38:669][900]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/M_Shackles_Auto593E63C1E45335483788A6596DF4BA299.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Autosaves/Game/Artists/Materials/Instances/M_Shackles_Auto5.uasset'
+[2020.04.10-23.42.38:671][900]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Artists/Textures/T_Cauldron/Cauldron_LP_lambert1_Normal] ([1] browsable assets)...
+[2020.04.10-23.42.38:677][900]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Artists/Textures/T_Cauldron/Cauldron_LP_lambert1_Normal.Cauldron_LP_lambert1_Normal]
+[2020.04.10-23.42.38:677][900]OBJ SavePackage: Finished generating thumbnails for package [/Game/Artists/Textures/T_Cauldron/Cauldron_LP_lambert1_Normal]
+[2020.04.10-23.42.38:834][900]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Cauldron_LP_lambert1_Normal_Auto423F2DEF465C0BB44F9FB587E17EE884.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Autosaves/Game/Artists/Textures/T_Cauldron/Cauldron_LP_lambert1_Normal_Auto5.uasset'
+[2020.04.10-23.42.38:836][900]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Artists/Textures/T_Cauldron/Cauldron_LP_lambert1_BaseColor] ([1] browsable assets)...
+[2020.04.10-23.42.38:842][900]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Artists/Textures/T_Cauldron/Cauldron_LP_lambert1_BaseColor.Cauldron_LP_lambert1_BaseColor]
+[2020.04.10-23.42.38:842][900]OBJ SavePackage: Finished generating thumbnails for package [/Game/Artists/Textures/T_Cauldron/Cauldron_LP_lambert1_BaseColor]
+[2020.04.10-23.42.39:068][900]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Cauldron_LP_lambert1_BaseColor_A5A4617F74DB3FCAEB85EC9AB9F46FDCB.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Autosaves/Game/Artists/Textures/T_Cauldron/Cauldron_LP_lambert1_BaseColor_Auto5.uasset'
+[2020.04.10-23.42.39:069][900]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Artists/Materials/Instances/M_Cauldron] ([1] browsable assets)...
+[2020.04.10-23.42.39:078][900]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Artists/Materials/Instances/M_Cauldron.M_Cauldron]
+[2020.04.10-23.42.39:078][900]OBJ SavePackage: Finished generating thumbnails for package [/Game/Artists/Materials/Instances/M_Cauldron]
+[2020.04.10-23.42.39:105][900]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/M_Cauldron_Auto5050C229244079FBE9CFFB5AA698086DE.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Autosaves/Game/Artists/Materials/Instances/M_Cauldron_Auto5.uasset'
+[2020.04.10-23.42.39:107][900]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Artists/Assets/Arcade_Machine/SM_ArcadeMachineHB_ArcadeBaseModel] ([1] browsable assets)...
+[2020.04.10-23.42.39:116][900]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Artists/Assets/Arcade_Machine/SM_ArcadeMachineHB_ArcadeBaseModel.SM_ArcadeMachineHB_ArcadeBaseModel]
+[2020.04.10-23.42.39:116][900]OBJ SavePackage: Finished generating thumbnails for package [/Game/Artists/Assets/Arcade_Machine/SM_ArcadeMachineHB_ArcadeBaseModel]
+[2020.04.10-23.42.39:144][900]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/SM_ArcadeMachineHB_ArcadeBaseModFA3354E844C0425E089FA9BB7D0EF79F.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Autosaves/Game/Artists/Assets/Arcade_Machine/SM_ArcadeMachineHB_ArcadeBaseModel_Auto5.uasset'
+[2020.04.10-23.42.39:146][900]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Artists/Assets/Arcade_Machine/SM_ArcadeMachineHB_ArcadeScreen] ([1] browsable assets)...
+[2020.04.10-23.42.39:155][900]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Artists/Assets/Arcade_Machine/SM_ArcadeMachineHB_ArcadeScreen.SM_ArcadeMachineHB_ArcadeScreen]
+[2020.04.10-23.42.39:155][900]OBJ SavePackage: Finished generating thumbnails for package [/Game/Artists/Assets/Arcade_Machine/SM_ArcadeMachineHB_ArcadeScreen]
+[2020.04.10-23.42.39:180][900]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/SM_ArcadeMachineHB_ArcadeScreen_E6CCFCA94284EC15F441D483F777633B.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Autosaves/Game/Artists/Assets/Arcade_Machine/SM_ArcadeMachineHB_ArcadeScreen_Auto5.uasset'
+[2020.04.10-23.42.39:182][900]LogFileHelpers: Auto-saving content packages took 1.637
