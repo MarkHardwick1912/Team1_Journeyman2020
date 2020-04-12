@@ -2182,3 +2182,1276 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.12-20.00.33:449][818]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.021
 [2020.04.12-20.10.34:133][611]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.021
 [2020.04.12-20.16.21:627][645]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-20.20.34:617][844]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.020
+[2020.04.12-20.21.26:187][265]Cmd: EDIT COPY
+[2020.04.12-20.21.26:387][272]Cmd: EDIT PASTE
+[2020.04.12-20.22.02:040][134]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-20.22.08:810][840]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-20.22.20:456][141]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-20.22.40:980][436]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-20.22.53:423][847]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-20.22.57:870][335]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-20.23.00:590][634]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-20.23.26:068][401]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-20.23.33:531][ 87]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ModularAssetPack_BL_SM_WallSkirtx2_1_BL173)
+[2020.04.12-20.23.43:930][257]Cmd: EDIT COPY
+[2020.04.12-20.23.44:134][279]Cmd: EDIT PASTE
+[2020.04.12-20.24.10:406][220]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LeftDoor1_AS)
+[2020.04.12-20.24.11:188][307]Cmd: DELETE
+[2020.04.12-20.24.11:188][307]Cmd: ACTOR DELETE
+[2020.04.12-20.24.11:390][307]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.12-20.24.11:410][307]LogEditorActor: Deleted 1 Actors (0.223 secs)
+[2020.04.12-20.24.16:055][853]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-20.24.21:304][424]LogRenderer: Reallocating scene render targets to support 1528x1024 Format 26 NumSamples 1 (Frame:393629).
+[2020.04.12-20.24.21:671][425]LogRenderer: Reallocating scene render targets to support 1920x1040 Format 26 NumSamples 1 (Frame:393632).
+[2020.04.12-20.24.21:671][425]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-20.24.28:848][259]Cmd: SELECT NONE
+[2020.04.12-20.24.31:077][474]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-20.24.32:121][588]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-20.24.44:294][966]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-20.24.48:458][459]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ModularAssetPack_BL_SM_WallSkirtx2_1_BL162)
+[2020.04.12-20.24.58:065][567]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-20.25.02:440][ 54]MapCheck: New page: Map Check
+[2020.04.12-20.25.02:458][ 54]Cmd: MAP REBUILD ALLVISIBLE
+[2020.04.12-20.25.02:600][ 54]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.04.12-20.25.04:049][ 54]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_BaseColor, compiling. 
+[2020.04.12-20.25.04:089][ 54]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.04.12-20.25.04:089][ 54]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy greyflat, compiling. 
+[2020.04.12-20.25.04:096][ 54]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2020.04.12-20.25.04:155][ 54]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.04.12-20.25.04:155][ 54]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.04.12-20.25.04:156][ 54]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy SM_ModularAssetPack_BL_Material, compiling. 
+[2020.04.12-20.25.04:313][ 54]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.04.12-20.25.04:313][ 54]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2020.04.12-20.25.04:344][ 54]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Master, compiling. 
+[2020.04.12-20.25.04:651][ 54]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Fire_SubUV, compiling. 
+[2020.04.12-20.25.04:658][ 54]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_MovePoint_2, compiling. 
+[2020.04.12-20.25.04:665][ 54]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2020.04.12-20.25.04:721][ 54]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2020.04.12-20.25.05:046][ 54]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy GreyFlat_disintegration_Inst, compiling. 
+[2020.04.12-20.25.05:055][ 54]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lambert5, compiling. 
+[2020.04.12-20.25.05:068][ 54]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2020.04.12-20.25.05:107][ 54]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2020.04.12-20.25.06:286][ 54]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.12-20.25.06:286][ 54]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.04.12-20.25.06:286][ 54]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.04.12-20.25.06:286][ 54]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.04.12-20.25.06:286][ 54]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.04.12-20.25.06:286][ 54]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.04.12-20.25.06:286][ 54]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.04.12-20.25.06:286][ 54]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.04.12-20.25.06:286][ 54]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.04.12-20.25.06:286][ 54]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.04.12-20.25.06:286][ 54]TextureStreamingBuild: Display: Compiling optional shaders took 2.245 seconds.
+[2020.04.12-20.25.06:363][ 54]LogLevel: Display: Export Material TexCoord Scales took 0.077 seconds.
+[2020.04.12-20.25.06:614][ 54]TextureStreamingBuild: Display: Build Texture Streaming took 0.251 seconds.
+[2020.04.12-20.25.06:642][ 54]LightingResults: New page: Lighting Build - 12 Apr 2020 22:25:06
+[2020.04.12-20.25.06:737][ 54]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.04.12-20.25.06:792][ 54]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.04.12-20.25.06:804][ 54]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.04.12-20.25.06:831][ 54]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.04.12-20.25.06:831][ 54]LogSwarmInterface: [TryOpenConnection] Local Process ID is 220
+[2020.04.12-20.25.11:344][ 54]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.04.12-20.25.11:344][ 54]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.04.12-20.25.11:344][ 54]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.04.12-20.25.11:344][ 54]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.04.12-20.25.11:344][ 54]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.04.12-20.25.12:625][ 54]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.04.12-20.25.12:625][ 54]MapCheck: New page: MP_Full_Level - 12 Apr 2020 22:25:12
+[2020.04.12-20.25.12:625][ 54]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2020.04.12-20.25.12:625][ 54]MapCheck: Warning: SK_Mannequin4 SkeletalMeshActor '/Game/Designers/Manaquin/SK_Mannequin.SK_Mannequin' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2020.04.12-20.25.12:643][ 54]MapCheck: Map check complete: 1 Error(s), 1 Warning(s), took 18.274ms to complete.
+[2020.04.12-20.25.12:699][ 54]LogEditorBuildUtils: Build time 0:10
+[2020.04.12-20.25.30:662][436]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.25.30:662][436]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.25.34:434][765]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.25.34:434][765]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.25.36:045][906]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.25.36:045][906]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.25.36:991][986]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.25.36:991][986]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.25.38:700][140]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.25.38:700][140]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.25.53:513][398]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.12-20.25.53:513][398]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.26.12:727][ 58]LightingResults: Warning: SM_LanternHB_Blockout_LanternCombined_LP Object has overlapping UVs.
+[2020.04.12-20.26.12:727][ 58]LightingResults: SM_LanternHB_Blockout_LanternCombined_LP Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.26.13:917][163]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.12-20.26.13:917][163]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.26.14:504][212]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.12-20.26.14:504][212]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.26.15:177][271]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.12-20.26.15:177][271]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.26.15:833][326]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.12-20.26.15:833][326]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.26.16:259][361]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.12-20.26.16:259][361]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.26.16:919][418]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.12-20.26.16:919][418]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.26.17:464][460]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.12-20.26.17:464][460]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.26.18:584][553]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.12-20.26.18:584][553]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.26.19:290][613]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.12-20.26.19:290][613]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.26.20:388][709]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.12-20.26.20:399][710]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.26.20:865][753]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.12-20.26.20:865][753]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.26.21:900][843]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.12-20.26.21:900][843]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.26.22:553][902]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.12-20.26.22:553][902]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.26.23:154][954]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.12-20.26.23:154][954]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.26.23:361][973]LightingResults: Warning: SM_CandelabraHB_Blockout Object has overlapping UVs.
+[2020.04.12-20.26.23:361][973]LightingResults: SM_CandelabraHB_Blockout Lightmap UV are overlapping by 2.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.26.24:166][ 43]LightingResults: Warning: SM_CandelabraHB_Blockout Object has overlapping UVs.
+[2020.04.12-20.26.24:166][ 43]LightingResults: SM_CandelabraHB_Blockout Lightmap UV are overlapping by 2.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.26.24:721][ 93]LightingResults: Warning: SM_CandelabraHB_Blockout Object has overlapping UVs.
+[2020.04.12-20.26.24:721][ 93]LightingResults: SM_CandelabraHB_Blockout Lightmap UV are overlapping by 2.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.26.25:123][127]LightingResults: Warning: SM_CandelabraHB_Blockout Object has overlapping UVs.
+[2020.04.12-20.26.25:123][127]LightingResults: SM_CandelabraHB_Blockout Lightmap UV are overlapping by 2.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.26.25:470][157]LightingResults: Warning: SM_LanternHB_Blockout_LanternCombined_LP Object has overlapping UVs.
+[2020.04.12-20.26.25:470][157]LightingResults: SM_LanternHB_Blockout_LanternCombined_LP Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.26.26:569][250]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.12-20.26.26:569][250]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.26.32:364][743]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.26.32:364][743]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.26.33:592][841]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.26.33:592][841]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.26.34:570][916]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.26.34:570][916]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.26.35:376][970]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.26.35:376][970]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.26.43:235][608]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.26.43:235][608]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.26.54:898][562]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.26.54:898][562]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.26.57:689][788]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.26.57:689][788]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.26.58:835][877]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.26.58:835][877]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.26.59:207][909]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.26.59:207][909]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.27.06:132][467]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.27.06:132][467]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.27.07:738][590]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.27.07:738][590]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.27.10:474][800]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.27.10:474][800]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.27.17:369][315]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.27.17:369][315]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.27.19:099][459]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.27.19:099][459]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.27.24:684][928]Job is a success!
+[2020.04.12-20.27.24:727][929]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-20.27.25:343][929]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.168s
+[2020.04.12-20.27.25:343][929]LogVolumetricLightmapImport:      Indirection Texture 112x112x112 = 5.4Mb
+[2020.04.12-20.27.25:343][929]LogVolumetricLightmapImport:      BrickData 1280x15x5 = 3.8Mb (trimmed 0.5Mb due to 0.010000 MinBrickError)
+[2020.04.12-20.27.25:343][929]LogVolumetricLightmapImport:      Bricks at Level
+[2020.04.12-20.27.25:343][929]LogVolumetricLightmapImport:          0: 56.2% covering 100.0% of volume
+[2020.04.12-20.27.25:343][929]LogVolumetricLightmapImport:          1: 6.1% covering 0.2% of volume
+[2020.04.12-20.27.25:343][929]LogVolumetricLightmapImport:          2: 37.7% covering 0.0% of volume
+[2020.04.12-20.27.29:889][929]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.04.12-20.27.29:889][929]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2020.04.12-20.27.29:889][929]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.04.12-20.27.29:889][929]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2020.04.12-20.27.29:890][929]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2020.04.12-20.27.29:890][929]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2020.04.12-20.27.29:890][929]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 1024X512)
+[2020.04.12-20.27.29:890][929]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2020.04.12-20.27.29:890][929]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2020.04.12-20.27.29:890][929]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 1024X512)
+[2020.04.12-20.27.29:890][929]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 1024X1024)
+[2020.04.12-20.27.29:890][929]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 1024X1024)
+[2020.04.12-20.27.29:890][929]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 1024X512)
+[2020.04.12-20.27.29:890][929]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 1024X1024)
+[2020.04.12-20.27.29:890][929]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 1024X1024)
+[2020.04.12-20.27.29:890][929]LogTexture: Display: Building textures: SkyOcclusion1_6 (AutoDXT, 1024X512)
+[2020.04.12-20.27.29:890][929]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 1024X1024)
+[2020.04.12-20.27.29:890][929]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 1024X1024)
+[2020.04.12-20.27.29:890][929]LogTexture: Display: Building textures: SkyOcclusion1_7 (AutoDXT, 512X256)
+[2020.04.12-20.27.29:890][929]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 512X512)
+[2020.04.12-20.27.29:890][929]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 512X512)
+[2020.04.12-20.27.29:890][929]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 64X64)
+[2020.04.12-20.27.29:890][929]LogTexture: Display: Building textures: SkyOcclusion1_8 (AutoDXT, 64X32)
+[2020.04.12-20.27.29:890][929]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 64X64)
+[2020.04.12-20.27.30:107][929]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (G8, 32X32)
+[2020.04.12-20.27.30:107][929]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 1024X512)
+[2020.04.12-20.27.30:107][929]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 1024X1024)
+[2020.04.12-20.27.30:167][929]Lightmass on DESKTOP-PQ2HA22: 2:14 min total, 1.48 sec importing, 322 ms setup, 5.76 sec photons, 2:06 min processing, 0 ms extra exporting [793/793 mappings]. Threads: 14:44 min total, 11:01 min processing.
+[2020.04.12-20.27.30:448][929]LogStaticLightingSystem: Illumination: 2:23 min (4.11 sec encoding lightmaps, 218 ms encoding shadowmaps)
+[2020.04.12-20.27.30:448][929]LogStaticLightingSystem: Lightmap texture memory:  16.7 MB (16.7 MB streaming, 0.0 MB non-streaming), 16 textures
+[2020.04.12-20.27.30:448][929]LogStaticLightingSystem: Shadowmap texture memory: 2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 3 textures
+[2020.04.12-20.27.35:455][929]DumpUnbuiltLightIteractions
+[2020.04.12-20.27.35:455][929]Lights with unbuilt interactions: 0
+[2020.04.12-20.27.35:455][929]
+[2020.04.12-20.27.35:455][929]Primitives with unbuilt interactions: 0
+[2020.04.12-20.27.35:463][929]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-20.27.35:791][930]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.04.12-20.27.35:791][930]MapCheck: New page: MP_Full_Level - 12 Apr 2020 22:27:35
+[2020.04.12-20.27.35:791][930]MapCheck: Warning: SK_Mannequin4 SkeletalMeshActor '/Game/Designers/Manaquin/SK_Mannequin.SK_Mannequin' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2020.04.12-20.27.35:818][930]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 26.928ms to complete.
+[2020.04.12-20.27.45:936][ 16]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin4)
+[2020.04.12-20.27.46:975][ 92]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ModularAssetPack_BL_SM_Floor_BL6)
+[2020.04.12-20.27.48:196][191]LogEditorViewport: Clicking on Actor (LMB): BP_Torch_Full_Leve_C (BP_Torch_Full_Leve)
+[2020.04.12-20.27.52:115][568]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-20.27.52:225][580]LogTemp: Repeating last play command: Simulate
+[2020.04.12-20.27.52:388][580]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel.MP_Full_Level' with GeneratedClass '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level_C' with ClassGeneratedBy '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel.MP_Full_Level'
+[2020.04.12-20.27.52:425][580]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.12-20.27.52:425][580]PIE: New page: SIE session: MP_Full_Level (12 Apr 2020 22:27:52)
+[2020.04.12-20.27.52:440][580]LogPlayLevel: Creating play world package: /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level
+[2020.04.12-20.27.52:581][580]LogPlayLevel: PIE: StaticDuplicateObject took: (0.141232s)
+[2020.04.12-20.27.52:644][580]LogAIModule: Creating AISystem for world MP_Full_Level
+[2020.04.12-20.27.52:672][580]LogPlayLevel: PIE: World Init took: (0.090631s)
+[2020.04.12-20.27.52:673][580]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level to /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level (0.232624s)
+[2020.04.12-20.27.52:849][580]LogInit: XAudio2 using 'SECONDARY (KATANA)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.12-20.27.52:863][580]LogInit: FAudioDevice initialized.
+[2020.04.12-20.27.52:916][580]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.12-20.27.53:053][580]PIE: Warning: Invalid Simulate Options: Body (MotionControllerPawn_2.Capsule) is set to simulate physics but Collision Enabled is incompatible
+[2020.04.12-20.27.53:054][580]LogWorld: Bringing World /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level up for play (max tick rate 0) at 2020.04.12-21.27.53
+[2020.04.12-20.27.53:058][580]LogWorld: Bringing up level for play took: 0.060452
+[2020.04.12-20.27.53:316][580]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.12-20.27.53:316][580]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.12-20.27.53:499][580]PIE: Play in editor start time for /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level 0.697
+[2020.04.12-20.27.53:535][580]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel.MP_Full_Level' with GeneratedClass '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level_C' with ClassGeneratedBy '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel.MP_Full_Level'
+[2020.04.12-20.28.01:468][425]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel.MP_Full_Level' with GeneratedClass '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level_C' with ClassGeneratedBy '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel.MP_Full_Level'
+[2020.04.12-20.28.01:469][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.12-20.28.01:509][425]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.12-20.28.01:509][425]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel.MP_Full_Level' with GeneratedClass '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level_C' with ClassGeneratedBy '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel.MP_Full_Level'
+[2020.04.12-20.28.01:534][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.12-20.28.01:558][425]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-20.28.01:629][426]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.04.12-20.28.03:444][612]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight5)
+[2020.04.12-20.28.07:308][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-20.28.13:457][732]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ModularAssetPack_BL_SM_WallSkirtx2_1_BL26)
+[2020.04.12-20.28.16:948][104]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight5)
+[2020.04.12-20.28.21:126][562]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight7)
+[2020.04.12-20.28.23:775][859]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-20.28.39:005][572]MapCheck: New page: Map Check
+[2020.04.12-20.28.39:021][572]Cmd: MAP REBUILD ALLVISIBLE
+[2020.04.12-20.28.39:022][572]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.04.12-20.28.39:668][572]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_BaseColor, compiling. 
+[2020.04.12-20.28.39:675][572]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.04.12-20.28.39:675][572]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy greyflat, compiling. 
+[2020.04.12-20.28.39:682][572]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2020.04.12-20.28.39:688][572]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy SM_ModularAssetPack_BL_Material, compiling. 
+[2020.04.12-20.28.39:695][572]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2020.04.12-20.28.39:704][572]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.04.12-20.28.39:704][572]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.04.12-20.28.39:704][572]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.04.12-20.28.39:704][572]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Fire_SubUV, compiling. 
+[2020.04.12-20.28.39:712][572]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Master, compiling. 
+[2020.04.12-20.28.39:720][572]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_MovePoint_2, compiling. 
+[2020.04.12-20.28.39:730][572]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2020.04.12-20.28.39:743][572]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2020.04.12-20.28.39:759][572]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy GreyFlat_disintegration_Inst, compiling. 
+[2020.04.12-20.28.39:772][572]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lambert5, compiling. 
+[2020.04.12-20.28.39:786][572]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2020.04.12-20.28.39:801][572]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2020.04.12-20.28.40:747][572]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.12-20.28.40:747][572]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.04.12-20.28.40:747][572]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.04.12-20.28.40:747][572]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.04.12-20.28.40:747][572]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.04.12-20.28.40:747][572]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.04.12-20.28.40:748][572]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.04.12-20.28.40:748][572]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.04.12-20.28.40:748][572]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.04.12-20.28.40:748][572]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.04.12-20.28.40:748][572]TextureStreamingBuild: Display: Compiling optional shaders took 1.084 seconds.
+[2020.04.12-20.28.40:761][572]LogLevel: Display: Export Material TexCoord Scales took 0.013 seconds.
+[2020.04.12-20.28.41:006][572]TextureStreamingBuild: Display: Build Texture Streaming took 0.244 seconds.
+[2020.04.12-20.28.41:034][572]LightingResults: New page: Lighting Build - 12 Apr 2020 22:28:41
+[2020.04.12-20.28.41:043][572]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.04.12-20.28.41:045][572]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.04.12-20.28.41:045][572]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.04.12-20.28.41:046][572]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.04.12-20.28.41:046][572]LogSwarmInterface: [TryOpenConnection] Local Process ID is 220
+[2020.04.12-20.28.45:559][572]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.04.12-20.28.45:559][572]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.04.12-20.28.45:559][572]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.04.12-20.28.45:559][572]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.04.12-20.28.45:559][572]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.04.12-20.28.46:629][572]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.04.12-20.28.46:629][572]MapCheck: New page: MP_Full_Level - 12 Apr 2020 22:28:46
+[2020.04.12-20.28.46:630][572]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2020.04.12-20.28.46:630][572]MapCheck: Warning: SK_Mannequin4 SkeletalMeshActor '/Game/Designers/Manaquin/SK_Mannequin.SK_Mannequin' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2020.04.12-20.28.46:648][572]MapCheck: Map check complete: 1 Error(s), 1 Warning(s), took 18.41ms to complete.
+[2020.04.12-20.28.46:671][572]LogEditorBuildUtils: Build time 0:07
+[2020.04.12-20.28.54:003][159]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.28.54:003][159]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.28.54:599][211]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.28.54:599][211]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.28.54:828][231]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.28.54:828][231]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.28.54:893][237]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.28.54:893][237]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.28.55:131][257]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.28.55:131][257]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.28.58:921][591]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.12-20.28.58:921][591]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.29.03:183][962]LightingResults: Warning: SM_LanternHB_Blockout_LanternCombined_LP Object has overlapping UVs.
+[2020.04.12-20.29.03:183][962]LightingResults: SM_LanternHB_Blockout_LanternCombined_LP Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.29.03:358][978]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.12-20.29.03:358][978]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.29.03:596][999]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.12-20.29.03:596][999]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.29.03:770][ 15]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.12-20.29.03:770][ 15]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.29.03:912][ 27]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.12-20.29.03:912][ 27]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.29.04:107][ 43]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.12-20.29.04:107][ 43]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.29.04:195][ 51]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.12-20.29.04:195][ 51]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.29.04:390][ 69]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.12-20.29.04:390][ 69]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.29.04:684][ 95]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.12-20.29.04:684][ 95]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.29.04:858][110]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.12-20.29.04:858][110]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.29.05:175][138]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.12-20.29.05:175][138]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.29.05:383][156]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.12-20.29.05:383][156]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.29.05:633][179]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.12-20.29.05:633][179]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.29.05:784][192]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.12-20.29.05:784][192]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.29.05:990][209]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.12-20.29.05:990][209]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.29.06:056][214]LightingResults: Warning: SM_CandelabraHB_Blockout Object has overlapping UVs.
+[2020.04.12-20.29.06:056][214]LightingResults: SM_CandelabraHB_Blockout Lightmap UV are overlapping by 2.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.29.06:241][231]LightingResults: Warning: SM_CandelabraHB_Blockout Object has overlapping UVs.
+[2020.04.12-20.29.06:263][232]LightingResults: SM_CandelabraHB_Blockout Lightmap UV are overlapping by 2.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.29.06:362][240]LightingResults: Warning: SM_CandelabraHB_Blockout Object has overlapping UVs.
+[2020.04.12-20.29.06:362][240]LightingResults: SM_CandelabraHB_Blockout Lightmap UV are overlapping by 2.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.29.06:493][252]LightingResults: Warning: SM_CandelabraHB_Blockout Object has overlapping UVs.
+[2020.04.12-20.29.06:493][252]LightingResults: SM_CandelabraHB_Blockout Lightmap UV are overlapping by 2.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.29.06:568][259]LightingResults: Warning: SM_LanternHB_Blockout_LanternCombined_LP Object has overlapping UVs.
+[2020.04.12-20.29.06:568][259]LightingResults: SM_LanternHB_Blockout_LanternCombined_LP Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.29.06:961][293]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.12-20.29.06:961][293]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.29.08:602][435]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.29.08:602][435]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.29.08:930][463]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.29.08:930][463]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.29.09:225][487]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.29.09:225][487]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.29.09:366][499]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.29.09:366][499]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.29.11:400][676]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.29.11:400][676]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.29.14:815][976]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.29.14:815][976]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.29.15:559][ 40]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.29.15:559][ 40]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.29.15:876][ 68]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.29.15:876][ 68]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.29.16:050][ 84]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.29.16:050][ 84]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.29.17:924][245]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.29.17:924][245]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.29.18:360][281]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.29.18:360][281]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.29.18:990][337]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.29.19:001][338]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.29.20:690][484]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.29.20:690][484]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.29.21:135][524]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.29.21:135][524]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.29.22:743][662]Job is a success!
+[2020.04.12-20.29.22:938][663]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.108s
+[2020.04.12-20.29.22:938][663]LogVolumetricLightmapImport:      Indirection Texture 112x112x112 = 5.4Mb
+[2020.04.12-20.29.22:938][663]LogVolumetricLightmapImport:      BrickData 1280x15x5 = 3.8Mb (trimmed 0.4Mb due to 0.010000 MinBrickError)
+[2020.04.12-20.29.22:938][663]LogVolumetricLightmapImport:      Bricks at Level
+[2020.04.12-20.29.22:938][663]LogVolumetricLightmapImport:          0: 55.6% covering 100.0% of volume
+[2020.04.12-20.29.22:938][663]LogVolumetricLightmapImport:          1: 6.0% covering 0.2% of volume
+[2020.04.12-20.29.22:938][663]LogVolumetricLightmapImport:          2: 38.4% covering 0.0% of volume
+[2020.04.12-20.29.26:738][663]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.04.12-20.29.26:738][663]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.04.12-20.29.26:738][663]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2020.04.12-20.29.26:738][663]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2020.04.12-20.29.26:738][663]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2020.04.12-20.29.26:738][663]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2020.04.12-20.29.26:738][663]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 1024X512)
+[2020.04.12-20.29.26:738][663]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2020.04.12-20.29.26:738][663]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2020.04.12-20.29.26:738][663]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 1024X512)
+[2020.04.12-20.29.26:738][663]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2020.04.12-20.29.26:738][663]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2020.04.12-20.29.26:738][663]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 1024X512)
+[2020.04.12-20.29.26:738][663]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2020.04.12-20.29.26:738][663]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2020.04.12-20.29.26:738][663]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 1024X512)
+[2020.04.12-20.29.26:738][663]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 1024X1024)
+[2020.04.12-20.29.26:738][663]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 1024X1024)
+[2020.04.12-20.29.26:738][663]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 512X256)
+[2020.04.12-20.29.26:738][663]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 512X512)
+[2020.04.12-20.29.26:738][663]LogTexture: Display: Building textures: SkyOcclusion0_8 (AutoDXT, 64X32)
+[2020.04.12-20.29.26:738][663]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 512X512)
+[2020.04.12-20.29.26:738][663]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 64X64)
+[2020.04.12-20.29.26:738][663]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 64X64)
+[2020.04.12-20.29.26:953][663]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (G8, 32X32)
+[2020.04.12-20.29.26:953][663]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (G8, 1024X512)
+[2020.04.12-20.29.26:953][663]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 1024X1024)
+[2020.04.12-20.29.26:977][663]Lightmass on DESKTOP-PQ2HA22: 39.4 sec total, 1.34 sec importing, 207 ms setup, 3.31 sec photons, 34.5 sec processing, 0 ms extra exporting [793/793 mappings]. Threads: 4:01 min total, 2:42 min processing.
+[2020.04.12-20.29.27:030][663]LogStaticLightingSystem: Illumination: 45.9 sec (3.38 sec encoding lightmaps, 215 ms encoding shadowmaps)
+[2020.04.12-20.29.27:030][663]LogStaticLightingSystem: Lightmap texture memory:  16.7 MB (16.7 MB streaming, 0.0 MB non-streaming), 16 textures
+[2020.04.12-20.29.27:030][663]LogStaticLightingSystem: Shadowmap texture memory: 2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 3 textures
+[2020.04.12-20.29.27:592][663]DumpUnbuiltLightIteractions
+[2020.04.12-20.29.27:592][663]Lights with unbuilt interactions: 0
+[2020.04.12-20.29.27:592][663]
+[2020.04.12-20.29.27:592][663]Primitives with unbuilt interactions: 0
+[2020.04.12-20.29.27:755][664]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.04.12-20.29.27:755][664]MapCheck: New page: MP_Full_Level - 12 Apr 2020 22:29:27
+[2020.04.12-20.29.27:755][664]MapCheck: Warning: SK_Mannequin4 SkeletalMeshActor '/Game/Designers/Manaquin/SK_Mannequin.SK_Mannequin' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2020.04.12-20.29.27:776][664]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 20.592ms to complete.
+[2020.04.12-20.29.43:570][344]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ModularAssetPack_BL_SM_WallWindow_2_BL2)
+[2020.04.12-20.29.50:714][ 94]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ModularAssetPack_BL_SM_Ceiling_BL63)
+[2020.04.12-20.29.51:341][158]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.04.12-20.29.54:907][517]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-20.30.12:646][522]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight9)
+[2020.04.12-20.30.17:400][ 46]LogSlate: Took 0.019741 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.12-20.30.18:134][120]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-20.30.24:405][815]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-20.30.28:680][304]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight8)
+[2020.04.12-20.30.30:203][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-20.30.37:356][271]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight5)
+[2020.04.12-20.30.38:580][394]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-20.30.49:963][676]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ModularAssetPack_BL_SM_Floor_BL20)
+[2020.04.12-20.30.50:895][756]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ModularAssetPack_BL_SM_Floor_BL21)
+[2020.04.12-20.30.51:571][829]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ModularAssetPack_BL_SM_Floor_BL12)
+[2020.04.12-20.30.56:736][410]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ModularAssetPack_BL_SM_BigDoorArch_BL)
+[2020.04.12-20.30.57:172][440]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ModularAssetPack_BL_SM_WallArch_BL6)
+[2020.04.12-20.31.04:758][286]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-20.31.06:951][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-20.31.07:021][505]MapCheck: New page: Map Check
+[2020.04.12-20.31.07:034][505]Cmd: MAP REBUILD ALLVISIBLE
+[2020.04.12-20.31.07:034][505]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.04.12-20.31.07:727][505]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_BaseColor, compiling. 
+[2020.04.12-20.31.07:734][505]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy greyflat, compiling. 
+[2020.04.12-20.31.07:741][505]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.04.12-20.31.07:741][505]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.04.12-20.31.07:741][505]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2020.04.12-20.31.07:748][505]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy SM_ModularAssetPack_BL_Material, compiling. 
+[2020.04.12-20.31.07:755][505]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.04.12-20.31.07:756][505]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.04.12-20.31.07:756][505]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2020.04.12-20.31.07:766][505]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Master, compiling. 
+[2020.04.12-20.31.07:777][505]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Fire_SubUV, compiling. 
+[2020.04.12-20.31.07:788][505]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_MovePoint_2, compiling. 
+[2020.04.12-20.31.07:800][505]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2020.04.12-20.31.07:812][505]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2020.04.12-20.31.07:825][505]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy GreyFlat_disintegration_Inst, compiling. 
+[2020.04.12-20.31.07:838][505]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lambert5, compiling. 
+[2020.04.12-20.31.07:849][505]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2020.04.12-20.31.07:864][505]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2020.04.12-20.31.08:828][505]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.12-20.31.08:828][505]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.04.12-20.31.08:828][505]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.04.12-20.31.08:828][505]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.04.12-20.31.08:828][505]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.04.12-20.31.08:828][505]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.04.12-20.31.08:828][505]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.04.12-20.31.08:828][505]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.04.12-20.31.08:828][505]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.04.12-20.31.08:828][505]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.04.12-20.31.08:828][505]TextureStreamingBuild: Display: Compiling optional shaders took 1.106 seconds.
+[2020.04.12-20.31.08:843][505]LogLevel: Display: Export Material TexCoord Scales took 0.015 seconds.
+[2020.04.12-20.31.09:094][505]TextureStreamingBuild: Display: Build Texture Streaming took 0.250 seconds.
+[2020.04.12-20.31.09:124][505]LightingResults: New page: Lighting Build - 12 Apr 2020 22:31:09
+[2020.04.12-20.31.09:137][505]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.04.12-20.31.09:140][505]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.04.12-20.31.09:140][505]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.04.12-20.31.09:141][505]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.04.12-20.31.09:141][505]LogSwarmInterface: [TryOpenConnection] Local Process ID is 220
+[2020.04.12-20.31.13:650][505]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.04.12-20.31.13:650][505]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.04.12-20.31.13:650][505]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.04.12-20.31.13:650][505]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.04.12-20.31.13:650][505]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.04.12-20.31.14:803][505]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.04.12-20.31.14:803][505]MapCheck: New page: MP_Full_Level - 12 Apr 2020 22:31:14
+[2020.04.12-20.31.14:803][505]MapCheck: Warning: SK_Mannequin4 SkeletalMeshActor '/Game/Designers/Manaquin/SK_Mannequin.SK_Mannequin' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2020.04.12-20.31.14:821][505]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 18.159ms to complete.
+[2020.04.12-20.31.14:845][505]LogEditorBuildUtils: Build time 0:07
+[2020.04.12-20.31.14:850][505]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-20.31.23:466][194]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin4)
+[2020.04.12-20.31.28:310][599]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.31.28:310][599]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.31.31:683][901]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.31.31:683][901]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.31.32:887][ 10]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.31.32:887][ 10]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.31.34:788][182]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.31.34:788][182]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.31.35:865][268]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.31.35:865][268]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.31.47:006][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-20.31.50:612][ 55]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/MP_Full_Level_Auto74A5C447C450EACBC75A1CCAF883DA360.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Autosaves/Game/Designers/Level_Maps/Full_Level/MP_Full_Level_Auto7.umap'
+[2020.04.12-20.31.50:888][ 55]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 3.815
+[2020.04.12-20.31.50:888][ 55]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.815
+[2020.04.12-20.31.50:947][ 55]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.12-20.31.50:947][ 55]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.32.06:634][435]LightingResults: Warning: SM_LanternHB_Blockout_LanternCombined_LP Object has overlapping UVs.
+[2020.04.12-20.32.06:634][435]LightingResults: SM_LanternHB_Blockout_LanternCombined_LP Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.32.07:482][513]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.12-20.32.07:482][513]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.32.08:449][602]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.12-20.32.08:449][602]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.32.08:917][644]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.12-20.32.08:917][644]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.32.09:796][724]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.12-20.32.09:796][724]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.32.10:143][755]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.12-20.32.10:143][755]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.32.10:547][792]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.12-20.32.10:547][792]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.32.11:298][861]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.12-20.32.11:298][861]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.32.11:897][915]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.12-20.32.11:897][915]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.32.12:700][987]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.12-20.32.12:700][987]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.32.13:776][ 86]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.12-20.32.13:776][ 86]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.32.14:199][124]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.12-20.32.14:210][125]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.32.15:332][228]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.12-20.32.15:332][228]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.32.15:953][285]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.12-20.32.15:953][285]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.32.16:814][363]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.12-20.32.16:814][363]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.32.16:869][368]LightingResults: Warning: SM_CandelabraHB_Blockout Object has overlapping UVs.
+[2020.04.12-20.32.16:869][368]LightingResults: SM_CandelabraHB_Blockout Lightmap UV are overlapping by 2.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.32.17:687][443]LightingResults: Warning: SM_CandelabraHB_Blockout Object has overlapping UVs.
+[2020.04.12-20.32.17:687][443]LightingResults: SM_CandelabraHB_Blockout Lightmap UV are overlapping by 2.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.32.18:112][482]LightingResults: Warning: SM_CandelabraHB_Blockout Object has overlapping UVs.
+[2020.04.12-20.32.18:112][482]LightingResults: SM_CandelabraHB_Blockout Lightmap UV are overlapping by 2.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.32.18:580][524]LightingResults: Warning: SM_CandelabraHB_Blockout Object has overlapping UVs.
+[2020.04.12-20.32.18:580][524]LightingResults: SM_CandelabraHB_Blockout Lightmap UV are overlapping by 2.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.32.18:984][561]LightingResults: Warning: SM_LanternHB_Blockout_LanternCombined_LP Object has overlapping UVs.
+[2020.04.12-20.32.18:984][561]LightingResults: SM_LanternHB_Blockout_LanternCombined_LP Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.32.20:106][661]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.12-20.32.20:106][661]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.32.25:189][121]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.32.25:189][121]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.32.26:247][218]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.32.26:247][218]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.32.27:370][320]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.32.27:370][320]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.32.27:849][363]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.32.27:849][363]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.32.35:473][ 49]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.32.35:473][ 49]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.32.47:315][129]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.32.47:315][129]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.32.50:078][381]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.32.50:078][381]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.32.51:034][469]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.32.51:034][469]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.32.51:471][508]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.32.51:471][508]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.32.58:251][123]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.32.58:251][123]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.32.59:773][263]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.32.59:773][263]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.33.02:881][540]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.33.02:881][540]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.33.08:414][ 37]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.33.08:414][ 37]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.33.09:788][162]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.33.09:788][162]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.33.14:957][631]Job is a success!
+[2020.04.12-20.33.14:984][633]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-20.33.15:152][633]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.104s
+[2020.04.12-20.33.15:152][633]LogVolumetricLightmapImport:      Indirection Texture 112x112x112 = 5.4Mb
+[2020.04.12-20.33.15:153][633]LogVolumetricLightmapImport:      BrickData 1280x15x5 = 3.8Mb (trimmed 0.5Mb due to 0.010000 MinBrickError)
+[2020.04.12-20.33.15:153][633]LogVolumetricLightmapImport:      Bricks at Level
+[2020.04.12-20.33.15:153][633]LogVolumetricLightmapImport:          0: 57.5% covering 100.0% of volume
+[2020.04.12-20.33.15:153][633]LogVolumetricLightmapImport:          1: 6.2% covering 0.2% of volume
+[2020.04.12-20.33.15:153][633]LogVolumetricLightmapImport:          2: 36.3% covering 0.0% of volume
+[2020.04.12-20.33.18:945][633]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2020.04.12-20.33.18:945][633]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2020.04.12-20.33.18:945][633]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2020.04.12-20.33.18:945][633]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.04.12-20.33.18:945][633]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.04.12-20.33.18:945][633]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2020.04.12-20.33.18:945][633]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2020.04.12-20.33.18:945][633]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 1024X512)
+[2020.04.12-20.33.18:945][633]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2020.04.12-20.33.18:945][633]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 1024X512)
+[2020.04.12-20.33.18:945][633]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 1024X1024)
+[2020.04.12-20.33.18:945][633]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 1024X1024)
+[2020.04.12-20.33.18:945][633]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 1024X512)
+[2020.04.12-20.33.18:945][633]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 1024X1024)
+[2020.04.12-20.33.18:945][633]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 1024X1024)
+[2020.04.12-20.33.18:945][633]LogTexture: Display: Building textures: SkyOcclusion1_6 (AutoDXT, 1024X512)
+[2020.04.12-20.33.18:945][633]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 1024X1024)
+[2020.04.12-20.33.18:945][633]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 1024X1024)
+[2020.04.12-20.33.18:945][633]LogTexture: Display: Building textures: SkyOcclusion1_7 (AutoDXT, 512X256)
+[2020.04.12-20.33.18:945][633]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 512X512)
+[2020.04.12-20.33.18:945][633]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 512X512)
+[2020.04.12-20.33.18:945][633]LogTexture: Display: Building textures: SkyOcclusion1_8 (AutoDXT, 64X32)
+[2020.04.12-20.33.18:945][633]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 64X64)
+[2020.04.12-20.33.18:945][633]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 64X64)
+[2020.04.12-20.33.19:145][633]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (G8, 32X32)
+[2020.04.12-20.33.19:145][633]LogTexture: Display: Building textures: ShadowMapTexture2D_23 (G8, 1024X512)
+[2020.04.12-20.33.19:147][633]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (G8, 1024X1024)
+[2020.04.12-20.33.19:237][633]LogStaticLightingSystem: Illumination: 2:10 min (3.38 sec encoding lightmaps, 218 ms encoding shadowmaps)
+[2020.04.12-20.33.19:237][633]LogStaticLightingSystem: Lightmap texture memory:  16.7 MB (16.7 MB streaming, 0.0 MB non-streaming), 16 textures
+[2020.04.12-20.33.19:237][633]LogStaticLightingSystem: Shadowmap texture memory: 2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 3 textures
+[2020.04.12-20.33.19:745][633]Lightmass on DESKTOP-PQ2HA22: 2:03 min total, 999 ms importing, 240 ms setup, 4.62 sec photons, 1:57 min processing, 0 ms extra exporting [793/793 mappings]. Threads: 13:43 min total, 10:21 min processing.
+[2020.04.12-20.33.19:746][633]DumpUnbuiltLightIteractions
+[2020.04.12-20.33.19:746][633]Lights with unbuilt interactions: 0
+[2020.04.12-20.33.19:746][633]
+[2020.04.12-20.33.19:746][633]Primitives with unbuilt interactions: 0
+[2020.04.12-20.33.19:754][633]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-20.33.19:913][634]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.04.12-20.33.19:913][634]MapCheck: New page: MP_Full_Level - 12 Apr 2020 22:33:19
+[2020.04.12-20.33.19:913][634]MapCheck: Warning: SK_Mannequin4 SkeletalMeshActor '/Game/Designers/Manaquin/SK_Mannequin.SK_Mannequin' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2020.04.12-20.33.19:937][634]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 23.92ms to complete.
+[2020.04.12-20.33.29:740][749]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ModularAssetPack_BL_SM_Ceiling_BL66)
+[2020.04.12-20.33.31:882][987]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ModularAssetPack_BL_SM_Ceiling_BL49)
+[2020.04.12-20.33.32:841][ 90]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ModularAssetPack_BL_SM_Ceiling_BL57)
+[2020.04.12-20.34.57:173][982]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-20.35.04:677][775]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-20.35.10:018][312]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight6)
+[2020.04.12-20.35.23:041][719]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-20.35.38:252][379]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-20.35.50:427][764]Cmd: EDIT COPY
+[2020.04.12-20.35.50:611][783]Cmd: EDIT PASTE
+[2020.04.12-20.35.59:501][786]Cmd: EDIT COPY
+[2020.04.12-20.35.59:732][812]Cmd: EDIT PASTE
+[2020.04.12-20.36.04:593][340]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-20.36.25:770][506]Cmd: EDIT COPY
+[2020.04.12-20.36.25:952][522]Cmd: EDIT PASTE
+[2020.04.12-20.36.29:114][874]Cmd: POLY SELECT MEMORY UNION
+[2020.04.12-20.36.37:209][748]Cmd: EDIT COPY
+[2020.04.12-20.36.37:424][772]Cmd: EDIT PASTE
+[2020.04.12-20.36.51:468][217]Cmd: EDIT COPY
+[2020.04.12-20.36.51:691][235]Cmd: EDIT PASTE
+[2020.04.12-20.36.58:153][933]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight13)
+[2020.04.12-20.36.59:482][ 80]Cmd: EDIT COPY
+[2020.04.12-20.36.59:687][103]Cmd: EDIT PASTE
+[2020.04.12-20.37.02:626][416]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-20.37.14:098][602]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-20.37.17:227][924]Cmd: EDIT COPY
+[2020.04.12-20.37.17:440][946]Cmd: EDIT PASTE
+[2020.04.12-20.37.22:207][472]Cmd: EDIT COPY
+[2020.04.12-20.37.22:407][494]Cmd: EDIT PASTE
+[2020.04.12-20.37.36:580][ 33]Cmd: EDIT COPY
+[2020.04.12-20.37.36:827][ 58]Cmd: EDIT PASTE
+[2020.04.12-20.37.40:244][437]Cmd: EDIT COPY
+[2020.04.12-20.37.40:435][457]Cmd: EDIT PASTE
+[2020.04.12-20.37.49:109][390]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight19)
+[2020.04.12-20.37.49:972][488]Cmd: EDIT COPY
+[2020.04.12-20.37.50:167][507]Cmd: EDIT PASTE
+[2020.04.12-20.37.55:115][ 31]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-20.38.07:034][297]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-20.38.14:899][159]Cmd: DELETE
+[2020.04.12-20.38.14:899][159]Cmd: ACTOR DELETE
+[2020.04.12-20.38.14:934][159]LogEditorActor: Deleted Actor: PointLight
+[2020.04.12-20.38.14:951][159]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2020.04.12-20.38.15:839][264]LogEditorViewport: Clicking on Actor (LMB): Movement_Target_C (Movement_Target42)
+[2020.04.12-20.38.15:854][264]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-20.38.17:699][473]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight18)
+[2020.04.12-20.38.18:037][508]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-20.38.19:234][636]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-20.38.19:956][721]Cmd: EDIT COPY
+[2020.04.12-20.38.20:168][742]Cmd: EDIT PASTE
+[2020.04.12-20.38.38:490][711]Cmd: EDIT COPY
+[2020.04.12-20.38.38:711][736]Cmd: EDIT PASTE
+[2020.04.12-20.38.45:379][476]Cmd: EDIT COPY
+[2020.04.12-20.38.45:593][497]Cmd: EDIT PASTE
+[2020.04.12-20.38.51:805][140]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ModularAssetPack_BL_SM_WallArch_BL2)
+[2020.04.12-20.38.52:746][232]Cmd: DELETE
+[2020.04.12-20.38.52:746][232]Cmd: ACTOR DELETE
+[2020.04.12-20.38.52:774][232]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.12-20.38.52:795][232]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2020.04.12-20.38.54:673][386]Cmd: TRANSACTION UNDO
+[2020.04.12-20.38.54:673][386]LogEditorTransaction: Undo Delete Actors
+[2020.04.12-20.38.57:049][603]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight22)
+[2020.04.12-20.39.00:713][  8]Cmd: EDIT COPY
+[2020.04.12-20.39.01:189][ 61]Cmd: EDIT PASTE
+[2020.04.12-20.39.05:088][492]Cmd: EDIT COPY
+[2020.04.12-20.39.05:282][512]Cmd: EDIT PASTE
+[2020.04.12-20.39.19:357][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-20.39.34:911][726]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-20.39.44:121][753]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-20.41.57:081][543]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/MP_Full_Level_Auto872D2CA344006F2E5169D9F94DD8B95B3.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Autosaves/Game/Designers/Level_Maps/Full_Level/MP_Full_Level_Auto8.umap'
+[2020.04.12-20.41.57:093][543]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.957
+[2020.04.12-20.41.57:093][543]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.957
+[2020.04.12-20.42.18:030][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-20.42.24:806][976]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-20.42.24:872][984]LogTemp: Repeating last play command: Simulate
+[2020.04.12-20.42.24:890][984]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel.MP_Full_Level' with GeneratedClass '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level_C' with ClassGeneratedBy '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel.MP_Full_Level'
+[2020.04.12-20.42.24:891][984]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.12-20.42.24:891][984]PIE: New page: SIE session: MP_Full_Level (12 Apr 2020 22:42:24)
+[2020.04.12-20.42.24:891][984]LogPlayLevel: Creating play world package: /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level
+[2020.04.12-20.42.24:943][984]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052945s)
+[2020.04.12-20.42.24:943][984]LogAIModule: Creating AISystem for world MP_Full_Level
+[2020.04.12-20.42.24:944][984]LogPlayLevel: PIE: World Init took: (0.000593s)
+[2020.04.12-20.42.24:944][984]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level to /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level (0.053838s)
+[2020.04.12-20.42.25:101][984]LogInit: XAudio2 using 'SECONDARY (KATANA)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.12-20.42.25:112][984]LogInit: FAudioDevice initialized.
+[2020.04.12-20.42.25:147][984]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.12-20.42.25:169][984]PIE: Warning: Invalid Simulate Options: Body (MotionControllerPawn_2.Capsule) is set to simulate physics but Collision Enabled is incompatible
+[2020.04.12-20.42.25:169][984]LogWorld: Bringing World /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level up for play (max tick rate 0) at 2020.04.12-21.42.25
+[2020.04.12-20.42.25:173][984]LogWorld: Bringing up level for play took: 0.024822
+[2020.04.12-20.42.25:185][984]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.12-20.42.25:185][984]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.12-20.42.25:196][984]PIE: Play in editor start time for /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level 0.395
+[2020.04.12-20.42.25:205][984]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel.MP_Full_Level' with GeneratedClass '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level_C' with ClassGeneratedBy '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel.MP_Full_Level'
+[2020.04.12-20.42.34:603][ 52]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ModularAssetPack_BL_SM_Stair_L_BL2)
+[2020.04.12-20.42.35:826][150]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ModularAssetPack_BL_SM_WallSkirtx2_1_BL159)
+[2020.04.12-20.42.37:733][353]Cmd: DELETE
+[2020.04.12-20.42.37:733][353]Cmd: ACTOR DELETE
+[2020.04.12-20.42.37:784][353]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.12-20.42.37:805][353]LogEditorActor: Deleted 1 Actors (0.072 secs)
+[2020.04.12-20.42.47:763][517]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ModularAssetPack_BL_SM_WallArch_BL13)
+[2020.04.12-20.42.48:801][614]Cmd: EDIT COPY
+[2020.04.12-20.42.49:002][633]Cmd: EDIT PASTE
+[2020.04.12-20.42.50:063][715]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:063][715]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:072][716]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:072][716]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:081][717]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:081][717]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:090][718]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:090][718]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:099][719]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:099][719]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:107][720]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:107][720]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:116][721]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:116][721]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:124][722]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:124][722]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:133][723]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:133][723]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:142][724]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:142][724]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:150][725]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:150][725]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:160][726]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:160][726]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:169][727]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:169][727]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:177][728]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:177][728]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:187][729]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:187][729]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:199][730]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:199][730]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:207][731]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:207][731]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:215][732]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:215][732]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:224][733]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:224][733]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:233][734]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:233][734]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:241][735]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:241][735]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:251][736]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:251][736]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:261][737]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:261][737]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:269][738]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:269][738]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:278][739]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:278][739]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:286][740]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:286][740]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:296][741]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:296][741]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:304][742]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:304][742]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:313][743]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:313][743]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:371][750]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:371][750]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:379][751]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:379][751]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:388][752]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:388][752]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:396][753]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:396][753]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:404][754]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:404][754]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:414][755]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:414][755]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:422][756]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:422][756]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:430][757]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:430][757]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:438][758]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:438][758]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:447][759]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:447][759]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:456][760]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:456][760]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:472][762]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:472][762]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:497][765]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:497][765]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:530][769]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:531][769]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:623][780]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:623][780]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:639][782]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:639][782]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:790][800]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:790][800]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:806][802]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:806][802]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:814][803]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:814][803]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:823][804]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:823][804]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:832][805]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:832][805]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:840][806]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:840][806]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:849][807]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:849][807]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:858][808]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:858][808]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:867][809]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:867][809]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:876][810]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:876][810]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:885][811]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:886][811]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:894][812]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:894][812]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:902][813]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:902][813]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:910][814]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:910][814]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:919][815]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:919][815]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:927][816]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:927][816]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:935][817]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:935][817]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:952][819]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.50:952][819]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:001][825]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:001][825]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:010][826]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:010][826]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:028][828]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:028][828]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:054][831]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:054][831]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:070][833]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:070][833]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:088][835]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:088][835]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:096][836]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:096][836]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:104][837]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:104][837]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:113][838]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:113][838]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:122][839]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:122][839]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:130][840]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:130][840]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:138][841]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:138][841]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:147][842]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:147][842]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:159][843]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:159][843]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:167][844]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:167][844]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:176][845]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:176][845]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:185][846]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:185][846]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:194][847]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:194][847]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:202][848]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:202][848]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:211][849]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:211][849]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:220][850]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:220][850]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:228][851]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:229][851]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:237][852]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:237][852]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:246][853]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:246][853]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:255][854]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:255][854]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:271][856]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.51:271][856]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:018][945]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:018][945]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:027][946]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:027][946]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:037][947]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:037][947]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:047][948]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:047][948]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:057][949]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:057][949]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:066][950]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:066][950]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:075][951]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:075][951]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:083][952]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:083][952]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:091][953]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:091][953]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:099][954]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:099][954]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:109][955]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:109][955]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:117][956]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:117][956]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:125][957]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:125][957]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:134][958]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:134][958]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:143][959]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:143][959]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:153][960]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:153][960]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:161][961]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:161][961]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:170][962]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:170][962]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:178][963]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:178][963]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:187][964]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:187][964]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:196][965]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:196][965]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:204][966]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:204][966]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:212][967]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:212][967]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:220][968]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:220][968]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:228][969]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:228][969]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:237][970]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:237][970]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:246][971]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:246][971]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:254][972]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:254][972]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:262][973]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:262][973]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:271][974]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:272][974]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:281][975]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:281][975]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:290][976]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:290][976]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:298][977]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:298][977]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:308][978]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:308][978]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:316][979]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:316][979]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:325][980]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:325][980]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:333][981]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:333][981]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:343][982]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:343][982]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:352][983]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:352][983]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:360][984]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:360][984]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:369][985]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:369][985]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:377][986]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:377][986]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:386][987]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:386][987]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:394][988]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:394][988]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:403][989]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:403][989]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:411][990]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:411][990]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:418][991]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:418][991]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:427][992]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:427][992]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:435][993]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:436][993]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:444][994]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:444][994]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:452][995]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:452][995]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:460][996]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.52:461][996]PIE: Warning: Mobility of /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level:PersistentLevel.SM_ModularAssetPack_BL_SM_WallArch_BL22 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.04.12-20.42.54:656][190]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-20.42.54:733][199]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel.MP_Full_Level' with GeneratedClass '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level_C' with ClassGeneratedBy '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel.MP_Full_Level'
+[2020.04.12-20.42.54:734][199]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.12-20.42.54:774][199]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.12-20.42.54:774][199]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel.MP_Full_Level' with GeneratedClass '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level_C' with ClassGeneratedBy '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel.MP_Full_Level'
+[2020.04.12-20.42.54:798][199]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.12-20.42.54:869][200]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.04.12-20.42.57:074][423]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ModularAssetPack_BL_SM_WallSkirtx2_1_BL159)
+[2020.04.12-20.42.57:801][483]Cmd: DELETE
+[2020.04.12-20.42.57:801][483]Cmd: ACTOR DELETE
+[2020.04.12-20.42.57:808][483]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.12-20.42.57:829][483]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.04.12-20.42.59:569][687]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-20.43.02:302][  8]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ModularAssetPack_BL_SM_WallArch_BL13)
+[2020.04.12-20.43.03:402][131]Cmd: EDIT COPY
+[2020.04.12-20.43.03:627][157]Cmd: EDIT PASTE
+[2020.04.12-20.43.12:669][213]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-20.43.23:713][483]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.12-20.43.28:537][ 30]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ModularAssetPack_BL_SM_WallSkirtx2_1_BL177)
+[2020.04.12-20.43.34:452][685]Cmd: EDIT COPY
+[2020.04.12-20.43.34:655][707]Cmd: EDIT PASTE
+[2020.04.12-20.43.46:999][117]Cmd: TRANSACTION UNDO
+[2020.04.12-20.43.46:999][117]LogEditorTransaction: Undo Move Actors
+[2020.04.12-20.43.59:886][628]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-20.44.10:368][803]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight12)
+[2020.04.12-20.44.17:328][560]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-20.44.31:895][265]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-20.44.44:553][717]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-20.44.52:614][639]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-20.44.52:681][647]MapCheck: New page: Map Check
+[2020.04.12-20.44.52:697][647]Cmd: MAP REBUILD ALLVISIBLE
+[2020.04.12-20.44.52:698][647]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.04.12-20.44.53:272][647]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_BaseColor, compiling. 
+[2020.04.12-20.44.53:279][647]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy greyflat, compiling. 
+[2020.04.12-20.44.53:286][647]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.04.12-20.44.53:286][647]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2020.04.12-20.44.53:293][647]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy SM_ModularAssetPack_BL_Material, compiling. 
+[2020.04.12-20.44.53:299][647]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2020.04.12-20.44.53:306][647]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Master, compiling. 
+[2020.04.12-20.44.53:314][647]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.04.12-20.44.53:314][647]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.04.12-20.44.53:314][647]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.04.12-20.44.53:314][647]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Fire_SubUV, compiling. 
+[2020.04.12-20.44.53:325][647]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_MovePoint_2, compiling. 
+[2020.04.12-20.44.53:331][647]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2020.04.12-20.44.53:339][647]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2020.04.12-20.44.53:346][647]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy GreyFlat_disintegration_Inst, compiling. 
+[2020.04.12-20.44.53:352][647]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lambert5, compiling. 
+[2020.04.12-20.44.53:359][647]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2020.04.12-20.44.53:368][647]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2020.04.12-20.44.54:715][647]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.12-20.44.54:715][647]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.04.12-20.44.54:715][647]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.04.12-20.44.54:715][647]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.04.12-20.44.54:715][647]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.04.12-20.44.54:715][647]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.04.12-20.44.54:715][647]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.04.12-20.44.54:715][647]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.04.12-20.44.54:715][647]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.04.12-20.44.54:715][647]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.04.12-20.44.54:715][647]TextureStreamingBuild: Display: Compiling optional shaders took 1.446 seconds.
+[2020.04.12-20.44.54:728][647]LogLevel: Display: Export Material TexCoord Scales took 0.013 seconds.
+[2020.04.12-20.44.54:967][647]TextureStreamingBuild: Display: Build Texture Streaming took 0.239 seconds.
+[2020.04.12-20.44.54:995][647]LightingResults: New page: Lighting Build - 12 Apr 2020 22:44:54
+[2020.04.12-20.44.55:007][647]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.04.12-20.44.55:010][647]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.04.12-20.44.55:010][647]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.04.12-20.44.55:011][647]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.04.12-20.44.55:011][647]LogSwarmInterface: [TryOpenConnection] Local Process ID is 220
+[2020.04.12-20.44.59:521][647]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.04.12-20.44.59:521][647]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.04.12-20.44.59:521][647]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.04.12-20.44.59:521][647]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.04.12-20.44.59:521][647]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.04.12-20.45.00:609][647]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.04.12-20.45.00:609][647]MapCheck: New page: MP_Full_Level - 12 Apr 2020 22:45:00
+[2020.04.12-20.45.00:610][647]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2020.04.12-20.45.00:610][647]MapCheck: Warning: SK_Mannequin4 SkeletalMeshActor '/Game/Designers/Manaquin/SK_Mannequin.SK_Mannequin' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2020.04.12-20.45.00:628][647]MapCheck: Map check complete: 1 Error(s), 1 Warning(s), took 18.479ms to complete.
+[2020.04.12-20.45.00:651][647]LogEditorBuildUtils: Build time 0:07
+[2020.04.12-20.45.16:196][  6]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.45.16:196][  6]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.45.18:246][193]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.45.18:246][193]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.45.21:424][481]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.45.21:424][481]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.45.21:741][509]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.45.21:741][509]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.45.22:351][564]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.45.22:351][564]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.45.22:765][602]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.12-20.45.22:765][602]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.45.23:322][653]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.12-20.45.23:322][653]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.45.32:622][499]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.12-20.45.32:622][499]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.45.39:924][167]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.12-20.45.39:924][167]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.45.40:275][199]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.12-20.45.40:275][199]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.45.41:081][273]LightingResults: Warning: SM_LanternHB_Blockout_LanternCombined_LP Object has overlapping UVs.
+[2020.04.12-20.45.41:081][273]LightingResults: SM_LanternHB_Blockout_LanternCombined_LP Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.45.41:810][339]LightingResults: Warning: SM_LanternHB_Blockout_LanternCombined_LP Object has overlapping UVs.
+[2020.04.12-20.45.41:810][339]LightingResults: SM_LanternHB_Blockout_LanternCombined_LP Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.45.55:392][571]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.45.55:392][571]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.46.00:857][ 69]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.46.00:857][ 69]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.46.00:966][ 79]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.12-20.46.00:966][ 79]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.46.01:760][152]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.12-20.46.01:770][153]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.46.02:438][214]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.12-20.46.02:438][214]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.46.03:063][270]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.12-20.46.03:063][270]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.46.03:531][313]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.12-20.46.03:531][313]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.46.03:870][344]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.12-20.46.03:870][344]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.46.04:623][412]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.12-20.46.04:623][412]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.46.04:929][440]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.12-20.46.04:940][441]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.46.05:585][500]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.12-20.46.05:585][500]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.46.06:164][552]LightingResults: Warning: SM_CandelabraHB_Blockout Object has overlapping UVs.
+[2020.04.12-20.46.06:164][552]LightingResults: SM_CandelabraHB_Blockout Lightmap UV are overlapping by 2.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.46.06:306][565]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.12-20.46.06:306][565]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.46.06:842][614]LightingResults: Warning: SM_CandelabraHB_Blockout Object has overlapping UVs.
+[2020.04.12-20.46.06:842][614]LightingResults: SM_CandelabraHB_Blockout Lightmap UV are overlapping by 2.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.46.07:093][637]LightingResults: Warning: SM_CandelabraHB_Blockout Object has overlapping UVs.
+[2020.04.12-20.46.07:093][637]LightingResults: SM_CandelabraHB_Blockout Lightmap UV are overlapping by 2.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.46.12:232][107]LightingResults: Warning: SM_CandelabraHB_Blockout Object has overlapping UVs.
+[2020.04.12-20.46.12:232][107]LightingResults: SM_CandelabraHB_Blockout Lightmap UV are overlapping by 2.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.46.21:049][900]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.46.21:049][900]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.46.22:095][996]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.46.22:095][996]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.46.23:384][113]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.46.23:384][113]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.46.23:428][117]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.46.23:428][117]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.46.31:056][810]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.46.31:056][810]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.46.42:874][886]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.46.42:874][886]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.46.46:016][ 22]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.46.46:016][ 22]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.46.47:032][ 25]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.46.47:032][ 25]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.46.47:032][ 25]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.12-20.46.47:032][ 25]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.46.48:710][ 30]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.46.48:710][ 30]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.46.49:383][ 32]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.46.49:383][ 32]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.46.55:424][ 50]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.46.55:424][ 50]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.46.57:779][ 57]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.46.57:779][ 57]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.47.01:761][208]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.12-20.47.01:761][208]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.12-20.47.05:286][515]Job is a success!
+[2020.04.12-20.47.05:491][516]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.112s
+[2020.04.12-20.47.05:491][516]LogVolumetricLightmapImport:      Indirection Texture 112x112x112 = 5.4Mb
+[2020.04.12-20.47.05:491][516]LogVolumetricLightmapImport:      BrickData 1280x15x5 = 3.8Mb (trimmed 0.5Mb due to 0.010000 MinBrickError)
+[2020.04.12-20.47.05:491][516]LogVolumetricLightmapImport:      Bricks at Level
+[2020.04.12-20.47.05:491][516]LogVolumetricLightmapImport:          0: 56.9% covering 100.0% of volume
+[2020.04.12-20.47.05:491][516]LogVolumetricLightmapImport:          1: 6.1% covering 0.2% of volume
+[2020.04.12-20.47.05:491][516]LogVolumetricLightmapImport:          2: 37.0% covering 0.0% of volume
+[2020.04.12-20.47.11:446][516]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.04.12-20.47.11:446][516]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2020.04.12-20.47.11:446][516]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2020.04.12-20.47.11:446][516]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2020.04.12-20.47.11:446][516]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.04.12-20.47.11:446][516]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2020.04.12-20.47.11:446][516]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2020.04.12-20.47.11:446][516]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 1024X512)
+[2020.04.12-20.47.11:446][516]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 1024X512)
+[2020.04.12-20.47.11:446][516]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2020.04.12-20.47.11:446][516]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2020.04.12-20.47.11:446][516]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 1024X512)
+[2020.04.12-20.47.11:446][516]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2020.04.12-20.47.11:446][516]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2020.04.12-20.47.11:446][516]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2020.04.12-20.47.11:446][516]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 1024X512)
+[2020.04.12-20.47.11:446][516]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 1024X1024)
+[2020.04.12-20.47.11:446][516]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 1024X1024)
+[2020.04.12-20.47.11:446][516]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 512X256)
+[2020.04.12-20.47.11:446][516]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 512X512)
+[2020.04.12-20.47.11:446][516]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 512X512)
+[2020.04.12-20.47.11:446][516]LogTexture: Display: Building textures: SkyOcclusion0_8 (AutoDXT, 64X32)
+[2020.04.12-20.47.11:446][516]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 64X64)
+[2020.04.12-20.47.11:446][516]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 64X64)
+[2020.04.12-20.47.11:847][516]LogTexture: Display: Building textures: ShadowMapTexture2D_27 (G8, 32X32)
+[2020.04.12-20.47.11:847][516]LogTexture: Display: Building textures: ShadowMapTexture2D_26 (G8, 1024X512)
+[2020.04.12-20.47.11:994][516]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (G8, 1024X1024)
+[2020.04.12-20.47.12:073][516]LogStaticLightingSystem: Illumination: 2:17 min (3.80 sec encoding lightmaps, 546 ms encoding shadowmaps)
+[2020.04.12-20.47.12:074][516]LogStaticLightingSystem: Lightmap texture memory:  16.7 MB (16.7 MB streaming, 0.0 MB non-streaming), 16 textures
+[2020.04.12-20.47.12:074][516]LogStaticLightingSystem: Shadowmap texture memory: 2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 3 textures
+[2020.04.12-20.47.12:616][516]DumpUnbuiltLightIteractions
+[2020.04.12-20.47.12:616][516]Lights with unbuilt interactions: 0
+[2020.04.12-20.47.12:616][516]
+[2020.04.12-20.47.12:616][516]Primitives with unbuilt interactions: 0
+[2020.04.12-20.47.12:729][517]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.04.12-20.47.12:729][517]MapCheck: New page: MP_Full_Level - 12 Apr 2020 22:47:12
+[2020.04.12-20.47.12:730][517]MapCheck: Warning: SK_Mannequin4 SkeletalMeshActor '/Game/Designers/Manaquin/SK_Mannequin.SK_Mannequin' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2020.04.12-20.47.12:751][517]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 21.134ms to complete.
+[2020.04.12-20.52.35:603][584]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/MP_Full_Level_Auto98619E3624B583EAF390C58A7114A122E.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Autosaves/Game/Designers/Level_Maps/Full_Level/MP_Full_Level_Auto9.umap'
+[2020.04.12-20.52.35:615][584]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.957
+[2020.04.12-20.52.35:615][584]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.957
+[2020.04.12-21.02.36:016][380]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.021
+[2020.04.12-21.04.44:643][995]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ModularAssetPack_BL_SM_WallSkirtx2_1_BL160)
+[2020.04.12-21.04.50:545][620]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin7)
+[2020.04.12-21.04.54:560][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-21.05.23:717][358]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ModularAssetPack_BL_SM_WallSkirtx2_1_BL152)
+[2020.04.12-21.05.26:160][607]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ModularAssetPack_BL_SM_WallSkirtx2_1_BL125)
+[2020.04.12-21.05.30:158][ 44]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ModularAssetPack_BL_SM_WallSkirtx2_1_BL124)
+[2020.04.12-21.05.34:146][463]Cmd: DELETE
+[2020.04.12-21.05.34:146][463]Cmd: ACTOR DELETE
+[2020.04.12-21.05.34:178][463]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.12-21.05.34:198][463]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2020.04.12-21.05.35:282][587]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-21.05.36:359][712]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-21.05.40:849][215]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ModularAssetPack_BL_SM_WallSkirtx2_1_BL177)
+[2020.04.12-21.05.46:422][699]Cmd: POLY SELECT MEMORY UNION
+[2020.04.12-21.05.54:716][543]Cmd: EDIT COPY
+[2020.04.12-21.05.54:944][566]Cmd: EDIT PASTE
+[2020.04.12-21.06.38:895][343]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ModularAssetPack_BL_SM_WallSkirtx2_1_BL186)
+[2020.04.12-21.06.39:230][375]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.12-21.06.43:975][884]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ModularAssetPack_BL_SM_WallArch_BL23)
+[2020.04.12-21.06.57:793][361]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ModularAssetPack_BL_SM_Ceiling_BL112)
+[2020.04.12-21.07.10:106][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-21.07.14:724][128]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-21.07.18:793][541]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-21.07.20:662][714]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-21.07.23:565][977]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight24)
+[2020.04.12-21.07.24:762][ 81]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-21.07.58:326][880]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-21.08.00:153][ 81]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-21.08.01:263][ 86]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/MP_Full_Level717A9F504C3807CEA4BDB7B482374ADB.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Full_Level/MP_Full_Level.umap'
+[2020.04.12-21.08.03:602][ 86]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/MP_Full_Level_BuiltDataEB7E39D64556F2D8C71D2FB5DBDD4B51.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Full_Level/MP_Full_Level_BuiltData.uasset'
+[2020.04.12-21.08.04:235][147]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.12-21.08.09:010][632]LogSlate: Window 'Message Log' being destroyed
+[2020.04.12-21.08.09:053][632]LogSlate: Window 'CastleOfTheDead - Unreal Editor' being destroyed
+[2020.04.12-21.08.09:079][632]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.04.12-21.08.11:824][633]Cmd: QUIT_EDITOR
+[2020.04.12-21.08.13:600][633]LogExit: Preparing to exit.
+[2020.04.12-21.08.16:473][633]LogExit: Editor shut down
+[2020.04.12-21.08.16:474][633]LogExit: Transaction tracking system shut down
+[2020.04.12-21.08.23:943][633]LogExit: Object subsystem successfully closed.
+[2020.04.12-21.08.26:377][633]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.04.12-21.08.26:463][633]LogD3D11RHI: Shutdown
+[2020.04.12-21.08.26:463][633]LogD3D11RHI: CleanupD3DDevice
+[2020.04.12-21.08.27:471][633]LogD3D11RHI: ~FD3D11DynamicRHI
