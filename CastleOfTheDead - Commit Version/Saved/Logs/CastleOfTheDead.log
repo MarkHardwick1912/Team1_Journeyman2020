@@ -4415,3 +4415,1203 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.13-14.41.10:969][ 18]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/MP_Full_Level_Auto4F53F6B6840179C52212CC1B3892DEE64.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Autosaves/Game/Designers/Level_Maps/Full_Level/MP_Full_Level_Auto4.umap'
 [2020.04.13-14.41.11:017][ 18]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 1.101
 [2020.04.13-14.41.11:017][ 18]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.101
+[2020.04.13-14.44.01:342][953]UATHelper: Zip Project Task (Windows): Running AutomationTool...
+[2020.04.13-14.44.01:676][954]UATHelper: Zip Project Task (Windows): Parsing command line: ZipProjectUp -nocompile -nocompileeditor -project="C:/Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/" -install="C:/Users/HCWS/Desktop/Team1_Journeyman 13_04_2020.zip"
+[2020.04.13-14.44.02:681][957]UATHelper: Zip Project Task (Windows): Started zipping project up
+[2020.04.13-14.44.02:681][957]UATHelper: Zip Project Task (Windows): Project directory: C:\Users\HCWS\Desktop\Team1_Journeyman2020\CastleOfTheDead - Commit Version
+[2020.04.13-14.44.02:681][957]UATHelper: Zip Project Task (Windows): Install directory: C:/Users/HCWS/Desktop/Team1_Journeyman 13_04_2020.zip
+[2020.04.13-14.44.02:681][957]UATHelper: Zip Project Task (Windows): Packaging up the project...
+[2020.04.13-14.44.50:362][ 98]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (49.357 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.04.13-14.46.21:512][371]UATHelper: Zip Project Task (Windows): Completed zipping project up
+[2020.04.13-14.46.21:512][371]UATHelper: Zip Project Task (Windows): BUILD SUCCESSFUL
+[2020.04.13-14.46.21:847][372]UATHelper: Zip Project Task (Windows): AutomationTool exiting with ExitCode=0 (Success)
+[2020.04.13-14.51.11:432][238]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.040
+[2020.04.13-15.01.15:172][ 38]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.042
+[2020.04.13-15.11.15:801][837]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.031
+[2020.04.13-15.21.16:319][634]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.030
+[2020.04.13-15.31.16:970][424]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.052
+[2020.04.13-15.41.17:681][212]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.032
+[2020.04.13-15.51.17:817][679]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.031
+[2020.04.13-16.01.17:701][554]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.13-16.01.17:748][554]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.034
+[2020.04.13-16.11.18:191][490]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.032
+[2020.04.13-16.21.18:691][276]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.030
+[2020.04.13-16.31.19:266][ 63]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.026
+[2020.04.13-16.41.20:150][850]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.206
+[2020.04.13-16.51.20:437][637]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.031
+[2020.04.13-17.01.20:936][424]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.037
+[2020.04.13-17.11.21:580][213]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.027
+[2020.04.13-17.21.22:261][  1]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.030
+[2020.04.13-17.31.22:811][788]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.036
+[2020.04.13-17.41.23:335][576]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.029
+[2020.04.13-17.51.24:087][362]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.042
+[2020.04.13-18.01.24:484][151]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.058
+[2020.04.13-18.11.25:013][941]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.030
+[2020.04.13-18.21.25:643][728]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.031
+[2020.04.13-18.31.26:070][514]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.028
+[2020.04.13-18.41.26:635][299]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.034
+[2020.04.13-18.51.27:266][ 81]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.037
+[2020.04.13-19.01.27:847][864]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.033
+[2020.04.13-19.03.36:064][244]LogInit: XAudio2 using 'CVTE TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.13-19.11.28:424][648]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.028
+[2020.04.13-19.21.28:997][433]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.038
+[2020.04.13-19.31.29:715][217]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.040
+[2020.04.13-19.41.30:457][  1]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.032
+[2020.04.13-19.51.31:116][785]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.038
+[2020.04.13-20.01.31:572][569]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.032
+[2020.04.13-20.11.32:220][353]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.034
+[2020.04.13-20.21.32:833][137]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.042
+[2020.04.13-20.31.33:511][923]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.031
+[2020.04.13-20.41.34:170][705]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.038
+[2020.04.13-20.51.34:890][488]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.049
+[2020.04.13-21.01.35:486][271]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.029
+[2020.04.13-21.11.35:991][ 54]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.028
+[2020.04.13-21.21.36:641][840]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.032
+[2020.04.13-21.31.37:334][626]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.030
+[2020.04.13-21.41.37:926][412]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.030
+[2020.04.13-21.51.38:531][198]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.030
+[2020.04.13-22.01.39:112][982]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.028
+[2020.04.13-22.11.39:685][765]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.058
+[2020.04.13-22.21.40:166][553]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.029
+[2020.04.13-22.31.40:758][338]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.032
+[2020.04.13-22.41.41:405][123]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.080
+[2020.04.13-22.51.41:918][911]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.029
+[2020.04.13-23.01.42:436][695]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.029
+[2020.04.13-23.11.43:002][484]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.026
+[2020.04.13-23.21.43:625][274]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.029
+[2020.04.13-23.31.44:294][ 61]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.036
+[2020.04.13-23.41.44:776][845]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.055
+[2020.04.13-23.51.45:218][634]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.031
+[2020.04.14-00.01.45:926][421]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.025
+[2020.04.14-00.11.46:670][202]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.034
+[2020.04.14-00.21.47:339][972]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.030
+[2020.04.14-00.31.48:089][743]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.038
+[2020.04.14-00.41.48:714][521]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.033
+[2020.04.14-00.51.49:934][293]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.032
+[2020.04.14-01.01.50:371][ 59]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.033
+[2020.04.14-01.11.50:966][845]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 0.060
+[2020.04.14-01.18.10:591][188]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ModularAssetPack_BL_SM_WallArch_BL4)
+[2020.04.14-01.18.11:100][201]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ModularAssetPack_BL_SM_WallArch_BL4)
+[2020.04.14-01.18.13:297][412]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-01.18.13:373][421]LogTemp: Repeating last play command: Simulate
+[2020.04.14-01.18.13:932][421]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel.MP_Full_Level' with GeneratedClass '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level_C' with ClassGeneratedBy '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel.MP_Full_Level'
+[2020.04.14-01.18.14:100][421]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.04.14-01.18.14:322][421]LogPlayLevel: [PlayLevel] Compiling BP_Torch before play...
+[2020.04.14-01.18.15:622][421]LogPlayLevel: PlayLevel: Blueprint regeneration took 1569 ms (1 blueprints)
+[2020.04.14-01.18.15:639][421]PIE: New page: SIE session: MP_Full_Level (14 Apr 2020 03:18:15)
+[2020.04.14-01.18.15:673][421]LogPlayLevel: Creating play world package: /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level
+[2020.04.14-01.18.16:194][421]LogPlayLevel: PIE: StaticDuplicateObject took: (0.521083s)
+[2020.04.14-01.18.16:195][421]LogAIModule: Creating AISystem for world MP_Full_Level
+[2020.04.14-01.18.16:196][421]LogPlayLevel: PIE: World Init took: (0.001708s)
+[2020.04.14-01.18.16:196][421]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level to /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level (0.523294s)
+[2020.04.14-01.18.16:488][421]LogInit: XAudio2 using 'CVTE TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.14-01.18.16:558][421]LogInit: FAudioDevice initialized.
+[2020.04.14-01.18.16:715][421]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.14-01.18.17:055][421]PIE: Warning: Invalid Simulate Options: Body (MotionControllerPawn_2.Capsule) is set to simulate physics but Collision Enabled is incompatible
+[2020.04.14-01.18.17:055][421]LogWorld: Bringing World /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level up for play (max tick rate 0) at 2020.04.14-02.18.17
+[2020.04.14-01.18.17:071][421]LogWorld: Bringing up level for play took: 0.323303
+[2020.04.14-01.18.17:174][421]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.14-01.18.17:174][421]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.14-01.18.17:317][421]PIE: Play in editor start time for /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level 3.472
+[2020.04.14-01.18.17:729][421]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel.MP_Full_Level' with GeneratedClass '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level_C' with ClassGeneratedBy '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel.MP_Full_Level'
+[2020.04.14-01.18.18:040][422]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_ModularAssetPack_BL_SM_Pillar_BL30)
+[2020.04.14-01.18.18:467][422]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.14-01.18.18:496][422]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_ModularAssetPack_BL_SM_Pillar_BL)
+[2020.04.14-01.18.18:551][422]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.14-01.18.21:040][622]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ModularAssetPack_BL_SM_WallSkirtx2_1_BL108)
+[2020.04.14-01.18.24:857][982]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.14-01.18.26:416][122]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Hexagon3)
+[2020.04.14-01.18.26:466][122]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.14-01.18.28:975][341]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.14-01.19.01:647][895]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.14-01.19.02:138][937]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-01.19.02:235][948]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel.MP_Full_Level' with GeneratedClass '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level_C' with ClassGeneratedBy '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel.MP_Full_Level'
+[2020.04.14-01.19.02:246][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.14-01.19.02:347][948]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.14-01.19.02:348][948]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel.MP_Full_Level' with GeneratedClass '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level_C' with ClassGeneratedBy '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel.MP_Full_Level'
+[2020.04.14-01.19.02:378][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.14-01.19.02:798][949]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.04.14-01.19.09:224][688]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-01.19.09:318][699]LogTemp: Repeating last play command: Simulate
+[2020.04.14-01.19.09:340][699]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel.MP_Full_Level' with GeneratedClass '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level_C' with ClassGeneratedBy '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel.MP_Full_Level'
+[2020.04.14-01.19.09:340][699]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.14-01.19.09:340][699]PIE: New page: SIE session: MP_Full_Level (14 Apr 2020 03:19:09)
+[2020.04.14-01.19.09:341][699]LogPlayLevel: Creating play world package: /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level
+[2020.04.14-01.19.09:420][699]LogPlayLevel: PIE: StaticDuplicateObject took: (0.080593s)
+[2020.04.14-01.19.09:421][699]LogAIModule: Creating AISystem for world MP_Full_Level
+[2020.04.14-01.19.09:421][699]LogPlayLevel: PIE: World Init took: (0.000552s)
+[2020.04.14-01.19.09:421][699]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level to /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level (0.081513s)
+[2020.04.14-01.19.09:596][699]LogInit: XAudio2 using 'CVTE TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.14-01.19.09:613][699]LogInit: FAudioDevice initialized.
+[2020.04.14-01.19.09:645][699]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.14-01.19.09:668][699]PIE: Warning: Invalid Simulate Options: Body (MotionControllerPawn_2.Capsule) is set to simulate physics but Collision Enabled is incompatible
+[2020.04.14-01.19.09:668][699]LogWorld: Bringing World /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level up for play (max tick rate 0) at 2020.04.14-02.19.09
+[2020.04.14-01.19.09:672][699]LogWorld: Bringing up level for play took: 0.026686
+[2020.04.14-01.19.09:684][699]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.14-01.19.09:684][699]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.14-01.19.09:694][699]PIE: Play in editor start time for /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level -0.151
+[2020.04.14-01.19.09:697][699]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel.MP_Full_Level' with GeneratedClass '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level_C' with ClassGeneratedBy '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel.MP_Full_Level'
+[2020.04.14-01.20.12:215][261]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.14-01.20.22:035][204]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-01.20.22:139][215]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel.MP_Full_Level' with GeneratedClass '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level_C' with ClassGeneratedBy '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel.MP_Full_Level'
+[2020.04.14-01.20.22:140][215]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.14-01.20.22:243][215]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.14-01.20.22:244][215]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel.MP_Full_Level' with GeneratedClass '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level_C' with ClassGeneratedBy '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel.MP_Full_Level'
+[2020.04.14-01.20.22:285][215]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.14-01.20.22:397][216]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.04.14-01.20.25:981][560]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight9)
+[2020.04.14-01.20.59:452][420]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight24)
+[2020.04.14-01.21.01:944][629]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight22)
+[2020.04.14-01.21.04:278][883]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-01.21.28:936][767]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-01.21.29:011][776]LogTemp: Repeating last play command: Simulate
+[2020.04.14-01.21.29:036][776]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel.MP_Full_Level' with GeneratedClass '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level_C' with ClassGeneratedBy '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel.MP_Full_Level'
+[2020.04.14-01.21.29:036][776]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.14-01.21.29:036][776]PIE: New page: SIE session: MP_Full_Level (14 Apr 2020 03:21:29)
+[2020.04.14-01.21.29:036][776]LogPlayLevel: Creating play world package: /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level
+[2020.04.14-01.21.29:114][776]LogPlayLevel: PIE: StaticDuplicateObject took: (0.077375s)
+[2020.04.14-01.21.29:114][776]LogAIModule: Creating AISystem for world MP_Full_Level
+[2020.04.14-01.21.29:134][776]LogPlayLevel: PIE: World Init took: (0.020646s)
+[2020.04.14-01.21.29:135][776]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level to /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level (0.098342s)
+[2020.04.14-01.21.29:319][776]LogInit: XAudio2 using 'CVTE TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.14-01.21.29:389][776]LogInit: FAudioDevice initialized.
+[2020.04.14-01.21.29:422][776]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.14-01.21.29:447][776]PIE: Warning: Invalid Simulate Options: Body (MotionControllerPawn_2.Capsule) is set to simulate physics but Collision Enabled is incompatible
+[2020.04.14-01.21.29:448][776]LogWorld: Bringing World /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level.MP_Full_Level up for play (max tick rate 0) at 2020.04.14-02.21.29
+[2020.04.14-01.21.29:451][776]LogWorld: Bringing up level for play took: 0.028309
+[2020.04.14-01.21.29:463][776]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.14-01.21.29:464][776]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.14-01.21.29:509][776]PIE: Play in editor start time for /Game/Designers/Level_Maps/Full_Level/UEDPIE_0_MP_Full_Level -0.336
+[2020.04.14-01.21.29:520][776]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel.MP_Full_Level' with GeneratedClass '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level_C' with ClassGeneratedBy '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel.MP_Full_Level'
+[2020.04.14-01.22.37:094][ 52]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.14-01.22.38:015][112]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-01.22.38:193][133]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel.MP_Full_Level' with GeneratedClass '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level_C' with ClassGeneratedBy '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel.MP_Full_Level'
+[2020.04.14-01.22.38:194][133]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.14-01.22.38:309][133]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.14-01.22.38:310][133]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel.MP_Full_Level' with GeneratedClass '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level_C' with ClassGeneratedBy '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level.MP_Full_Level:PersistentLevel.MP_Full_Level'
+[2020.04.14-01.22.38:342][133]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.14-01.22.38:399][134]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.04.14-01.22.39:122][202]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight8)
+[2020.04.14-01.22.40:385][339]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight9)
+[2020.04.14-01.22.57:488][280]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-01.23.04:523][ 83]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.14-01.23.06:936][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-01.23.07:028][367]MapCheck: New page: Map Check
+[2020.04.14-01.23.07:074][367]Cmd: MAP REBUILD ALLVISIBLE
+[2020.04.14-01.23.07:074][367]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.04.14-01.23.08:270][367]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_BaseColor, compiling. 
+[2020.04.14-01.23.08:279][367]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy greyflat, compiling. 
+[2020.04.14-01.23.08:309][367]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.04.14-01.23.08:309][367]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.04.14-01.23.08:309][367]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2020.04.14-01.23.08:327][367]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy SM_ModularAssetPack_BL_Material, compiling. 
+[2020.04.14-01.23.08:401][367]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2020.04.14-01.23.08:532][367]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Master, compiling. 
+[2020.04.14-01.23.08:598][367]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Fire_SubUV, compiling. 
+[2020.04.14-01.23.08:605][367]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_MovePoint_2, compiling. 
+[2020.04.14-01.23.08:700][367]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2020.04.14-01.23.08:817][367]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.04.14-01.23.08:817][367]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.04.14-01.23.08:817][367]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy GreyFlat_disintegration_Inst, compiling. 
+[2020.04.14-01.23.08:846][367]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lambert5, compiling. 
+[2020.04.14-01.23.08:904][367]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2020.04.14-01.23.08:959][367]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2020.04.14-01.23.08:968][367]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2020.04.14-01.23.11:336][367]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.14-01.23.11:336][367]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.04.14-01.23.11:336][367]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.04.14-01.23.11:336][367]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.04.14-01.23.11:336][367]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.04.14-01.23.11:336][367]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.04.14-01.23.11:336][367]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.04.14-01.23.11:336][367]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.04.14-01.23.11:336][367]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.04.14-01.23.11:336][367]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.04.14-01.23.11:336][367]TextureStreamingBuild: Display: Compiling optional shaders took 3.114 seconds.
+[2020.04.14-01.23.11:431][367]LogLevel: Display: Export Material TexCoord Scales took 0.094 seconds.
+[2020.04.14-01.23.11:748][367]TextureStreamingBuild: Display: Build Texture Streaming took 0.317 seconds.
+[2020.04.14-01.23.11:793][367]LightingResults: New page: Lighting Build - 14 Apr 2020 03:23:11
+[2020.04.14-01.23.11:958][367]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.04.14-01.23.11:967][367]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.04.14-01.23.11:997][367]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.04.14-01.23.11:999][367]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.04.14-01.23.11:999][367]LogSwarmInterface: [TryOpenConnection] Local Process ID is 5268
+[2020.04.14-01.23.16:515][367]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.04.14-01.23.16:515][367]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.04.14-01.23.16:515][367]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.04.14-01.23.16:515][367]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.04.14-01.23.16:516][367]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.04.14-01.23.17:547][367]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.04.14-01.23.17:570][367]MapCheck: New page: MP_Full_Level - 14 Apr 2020 03:23:17
+[2020.04.14-01.23.17:589][367]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2020.04.14-01.23.17:589][367]MapCheck: Warning: SK_Mannequin4 SkeletalMeshActor '/Game/Designers/Manaquin/SK_Mannequin.SK_Mannequin' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2020.04.14-01.23.17:608][367]MapCheck: Map check complete: 1 Error(s), 1 Warning(s), took 38.623ms to complete.
+[2020.04.14-01.23.17:632][367]LogEditorBuildUtils: Build time 0:10
+[2020.04.14-01.23.17:638][367]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.14-01.23.32:407][517]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.23.32:429][518]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.23.34:912][726]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.23.34:912][726]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.23.35:633][784]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.23.35:633][784]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.23.36:069][822]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.23.36:069][822]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.23.36:453][853]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.14-01.23.36:464][854]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.23.36:792][883]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.14-01.23.36:792][883]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.23.37:810][965]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.14-01.23.37:810][965]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.23.38:324][  6]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.14-01.23.38:324][  6]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.23.38:609][ 29]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.14-01.23.38:609][ 29]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.23.39:110][ 71]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.14-01.23.39:110][ 71]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.23.39:637][114]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.14-01.23.39:637][114]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.23.40:271][166]LightingResults: Warning: SM_LanternHB_Blockout_LanternCombined_LP Object has overlapping UVs.
+[2020.04.14-01.23.40:271][166]LightingResults: SM_LanternHB_Blockout_LanternCombined_LP Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.23.40:521][188]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.14-01.23.40:521][188]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.23.50:916][ 45]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.14-01.23.50:916][ 45]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.24.01:979][962]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.14-01.24.01:979][962]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.24.02:395][998]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.14-01.24.02:395][998]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.24.14:124][971]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.24.14:124][971]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.24.18:057][293]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.24.18:057][293]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.24.23:900][777]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.14-01.24.23:900][777]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.24.24:436][823]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.14-01.24.24:436][823]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.24.24:961][866]LightingResults: Warning: SM_CandelabraHB_Blockout Object has overlapping UVs.
+[2020.04.14-01.24.24:961][866]LightingResults: SM_CandelabraHB_Blockout Lightmap UV are overlapping by 2.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.24.24:983][868]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.14-01.24.24:983][868]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.24.25:290][890]LightingResults: Warning: SM_CandelabraHB_Blockout Object has overlapping UVs.
+[2020.04.14-01.24.25:290][890]LightingResults: SM_CandelabraHB_Blockout Lightmap UV are overlapping by 2.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.24.26:067][950]LightingResults: Warning: SM_CandelabraHB_Blockout Object has overlapping UVs.
+[2020.04.14-01.24.26:067][950]LightingResults: SM_CandelabraHB_Blockout Lightmap UV are overlapping by 2.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.24.26:274][967]LightingResults: Warning: SM_CandelabraHB_Blockout Object has overlapping UVs.
+[2020.04.14-01.24.26:274][967]LightingResults: SM_CandelabraHB_Blockout Lightmap UV are overlapping by 2.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.24.29:528][218]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.14-01.24.29:528][218]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.24.33:181][519]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.24.33:181][519]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.24.34:383][624]LightingResults: Warning: SM_LanternHB_Blockout_LanternCombined_LP Object has overlapping UVs.
+[2020.04.14-01.24.34:383][624]LightingResults: SM_LanternHB_Blockout_LanternCombined_LP Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.24.43:695][372]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.24.43:695][372]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.24.45:388][516]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.24.45:388][516]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.24.45:650][537]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.24.45:650][537]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.24.46:720][628]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.24.46:720][628]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.25.04:149][802]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/MP_Full_Level_Auto561400D8B4E89A19E3DABC19DD2059E38.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Autosaves/Game/Designers/Level_Maps/Full_Level/MP_Full_Level_Auto5.umap'
+[2020.04.14-01.25.04:166][802]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 2.005
+[2020.04.14-01.25.04:166][802]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.005
+[2020.04.14-01.25.07:835][ 60]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.25.07:835][ 60]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.25.10:547][290]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.25.10:547][290]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.25.11:967][409]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.25.11:967][409]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.25.13:488][538]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.25.13:488][538]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.25.15:861][740]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.14-01.25.15:861][740]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.25.24:802][482]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.25.24:802][482]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.25.24:845][486]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.25.24:845][486]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.25.30:224][929]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.25.30:224][929]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.25.35:535][307]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.25.35:535][307]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.25.39:308][605]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.25.39:308][605]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.25.42:971][912]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.25.42:971][912]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.25.46:170][114]Job is a success!
+[2020.04.14-01.25.46:195][115]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.14-01.25.47:508][115]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.126s
+[2020.04.14-01.25.47:508][115]LogVolumetricLightmapImport:      Indirection Texture 112x112x112 = 5.4Mb
+[2020.04.14-01.25.47:508][115]LogVolumetricLightmapImport:      BrickData 1280x15x5 = 3.8Mb (trimmed 0.5Mb due to 0.010000 MinBrickError)
+[2020.04.14-01.25.47:508][115]LogVolumetricLightmapImport:      Bricks at Level
+[2020.04.14-01.25.47:508][115]LogVolumetricLightmapImport:          0: 56.8% covering 100.0% of volume
+[2020.04.14-01.25.47:508][115]LogVolumetricLightmapImport:          1: 6.5% covering 0.2% of volume
+[2020.04.14-01.25.47:508][115]LogVolumetricLightmapImport:          2: 36.8% covering 0.0% of volume
+[2020.04.14-01.25.53:253][115]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.04.14-01.25.53:253][115]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.04.14-01.25.53:253][115]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2020.04.14-01.25.53:253][115]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2020.04.14-01.25.53:253][115]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2020.04.14-01.25.53:253][115]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 1024X512)
+[2020.04.14-01.25.53:253][115]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2020.04.14-01.25.53:253][115]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 1024X512)
+[2020.04.14-01.25.53:253][115]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2020.04.14-01.25.53:253][115]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2020.04.14-01.25.53:253][115]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 1024X1024)
+[2020.04.14-01.25.53:253][115]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 1024X1024)
+[2020.04.14-01.25.53:253][115]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 1024X512)
+[2020.04.14-01.25.53:253][115]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 1024X1024)
+[2020.04.14-01.25.53:253][115]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 1024X1024)
+[2020.04.14-01.25.53:253][115]LogTexture: Display: Building textures: SkyOcclusion1_6 (AutoDXT, 1024X512)
+[2020.04.14-01.25.53:253][115]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 1024X1024)
+[2020.04.14-01.25.53:253][115]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 1024X1024)
+[2020.04.14-01.25.53:253][115]LogTexture: Display: Building textures: SkyOcclusion1_7 (AutoDXT, 1024X512)
+[2020.04.14-01.25.53:253][115]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 1024X1024)
+[2020.04.14-01.25.53:253][115]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 1024X1024)
+[2020.04.14-01.25.53:253][115]LogTexture: Display: Building textures: SkyOcclusion1_8 (AutoDXT, 64X32)
+[2020.04.14-01.25.53:253][115]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 64X64)
+[2020.04.14-01.25.53:253][115]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 64X64)
+[2020.04.14-01.25.53:686][115]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 32X32)
+[2020.04.14-01.25.53:686][115]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 1024X512)
+[2020.04.14-01.25.53:686][115]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 1024X1024)
+[2020.04.14-01.25.53:941][115]Lightmass on DESKTOP-PQ2HA22: 2:33 min total, 2.27 sec importing, 488 ms setup, 5.96 sec photons, 2:24 min processing, 0 ms extra exporting [803/803 mappings]. Threads: 16:50 min total, 12:18 min processing.
+[2020.04.14-01.25.54:309][115]LogStaticLightingSystem: Illumination: 2:42 min (4.42 sec encoding lightmaps, 432 ms encoding shadowmaps)
+[2020.04.14-01.25.54:309][115]LogStaticLightingSystem: Lightmap texture memory:  18.7 MB (18.7 MB streaming, 0.0 MB non-streaming), 16 textures
+[2020.04.14-01.25.54:309][115]LogStaticLightingSystem: Shadowmap texture memory: 2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 3 textures
+[2020.04.14-01.25.54:623][115]DumpUnbuiltLightIteractions
+[2020.04.14-01.25.54:623][115]Lights with unbuilt interactions: 0
+[2020.04.14-01.25.54:623][115]
+[2020.04.14-01.25.54:623][115]Primitives with unbuilt interactions: 0
+[2020.04.14-01.25.54:670][115]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.14-01.25.54:728][116]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.04.14-01.25.54:729][116]MapCheck: New page: MP_Full_Level - 14 Apr 2020 03:25:54
+[2020.04.14-01.25.54:729][116]MapCheck: Warning: SK_Mannequin4 SkeletalMeshActor '/Game/Designers/Manaquin/SK_Mannequin.SK_Mannequin' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2020.04.14-01.25.54:750][116]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 21.119ms to complete.
+[2020.04.14-01.26.04:265][ 99]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ModularAssetPack_BL_SM_WallSkirtx2_1_BL172)
+[2020.04.14-01.26.04:565][123]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.14-01.26.15:580][352]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Hexagon2)
+[2020.04.14-01.26.27:583][729]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-01.26.33:236][361]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.14-01.26.36:050][671]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-01.26.39:503][ 70]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.14-01.26.45:444][700]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.14-01.26.59:967][303]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight18)
+[2020.04.14-01.27.00:243][326]Cmd: DELETE
+[2020.04.14-01.27.00:243][326]Cmd: ACTOR DELETE
+[2020.04.14-01.27.00:352][326]LogEditorActor: Deleted Actor: PointLight
+[2020.04.14-01.27.00:386][326]LogEditorActor: Deleted 1 Actors (0.126 secs)
+[2020.04.14-01.27.01:602][470]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight19)
+[2020.04.14-01.27.03:320][660]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight17)
+[2020.04.14-01.27.08:886][253]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight19)
+[2020.04.14-01.27.11:696][548]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight17)
+[2020.04.14-01.27.16:158][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-01.27.24:678][998]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.14-01.27.27:650][334]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-01.27.32:807][911]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-01.27.43:774][126]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.14-01.27.45:103][259]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-01.27.45:455][289]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.14-01.27.47:639][513]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-01.28.00:173][943]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Sky Sphere mesh)
+[2020.04.14-01.28.00:979][ 15]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Sky Sphere mesh)
+[2020.04.14-01.28.01:556][ 69]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Sky Sphere mesh)
+[2020.04.14-01.28.02:280][139]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Sky Sphere mesh)
+[2020.04.14-01.28.03:073][230]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Sky Sphere mesh)
+[2020.04.14-01.28.08:507][834]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Sky Sphere mesh)
+[2020.04.14-01.28.10:930][ 88]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Sky Sphere mesh)
+[2020.04.14-01.28.11:877][197]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Sky Sphere mesh)
+[2020.04.14-01.28.16:193][663]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-01.28.30:294][847]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-01.28.44:721][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-01.29.09:177][220]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-01.29.33:552][  1]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ModularAssetPack_BL_SM_Floor_BL12)
+[2020.04.14-01.29.38:351][540]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.14-01.29.43:716][113]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2020.04.14-01.29.49:933][794]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight4)
+[2020.04.14-01.29.56:717][530]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight7)
+[2020.04.14-01.30.10:292][977]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.14-01.30.13:007][216]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-01.30.31:656][317]MapCheck: New page: Map Check
+[2020.04.14-01.30.31:672][317]Cmd: MAP REBUILD ALLVISIBLE
+[2020.04.14-01.30.31:672][317]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.04.14-01.30.32:404][317]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_BaseColor, compiling. 
+[2020.04.14-01.30.32:411][317]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.04.14-01.30.32:411][317]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy greyflat, compiling. 
+[2020.04.14-01.30.32:419][317]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2020.04.14-01.30.32:426][317]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy SM_ModularAssetPack_BL_Material, compiling. 
+[2020.04.14-01.30.32:434][317]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.04.14-01.30.32:434][317]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.04.14-01.30.32:434][317]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2020.04.14-01.30.32:444][317]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Master, compiling. 
+[2020.04.14-01.30.32:454][317]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.04.14-01.30.32:454][317]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Fire_SubUV, compiling. 
+[2020.04.14-01.30.32:462][317]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_MovePoint_2, compiling. 
+[2020.04.14-01.30.32:474][317]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2020.04.14-01.30.32:487][317]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy GreyFlat_disintegration_Inst, compiling. 
+[2020.04.14-01.30.32:496][317]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lambert5, compiling. 
+[2020.04.14-01.30.32:505][317]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2020.04.14-01.30.32:514][317]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2020.04.14-01.30.32:522][317]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2020.04.14-01.30.33:663][317]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.14-01.30.33:663][317]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.04.14-01.30.33:663][317]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.04.14-01.30.33:663][317]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.04.14-01.30.33:663][317]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.04.14-01.30.33:663][317]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.04.14-01.30.33:663][317]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.04.14-01.30.33:663][317]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.04.14-01.30.33:663][317]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.04.14-01.30.33:663][317]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.04.14-01.30.33:663][317]TextureStreamingBuild: Display: Compiling optional shaders took 1.263 seconds.
+[2020.04.14-01.30.33:676][317]LogLevel: Display: Export Material TexCoord Scales took 0.013 seconds.
+[2020.04.14-01.30.33:945][317]TextureStreamingBuild: Display: Build Texture Streaming took 0.269 seconds.
+[2020.04.14-01.30.33:988][317]LightingResults: New page: Lighting Build - 14 Apr 2020 03:30:33
+[2020.04.14-01.30.34:000][317]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.04.14-01.30.34:004][317]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.04.14-01.30.34:004][317]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.04.14-01.30.34:005][317]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.04.14-01.30.34:005][317]LogSwarmInterface: [TryOpenConnection] Local Process ID is 5268
+[2020.04.14-01.30.38:517][317]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.04.14-01.30.38:517][317]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.04.14-01.30.38:517][317]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.04.14-01.30.38:517][317]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.04.14-01.30.38:517][317]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.04.14-01.30.39:556][317]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.04.14-01.30.39:557][317]MapCheck: New page: MP_Full_Level - 14 Apr 2020 03:30:39
+[2020.04.14-01.30.39:557][317]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2020.04.14-01.30.39:557][317]MapCheck: Warning: SK_Mannequin4 SkeletalMeshActor '/Game/Designers/Manaquin/SK_Mannequin.SK_Mannequin' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2020.04.14-01.30.39:576][317]MapCheck: Map check complete: 1 Error(s), 1 Warning(s), took 19.475ms to complete.
+[2020.04.14-01.30.39:600][317]LogEditorBuildUtils: Build time 0:07
+[2020.04.14-01.30.39:606][317]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.14-01.30.53:725][478]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.30.53:725][478]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.30.55:561][638]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.30.55:572][639]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.30.59:374][970]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.30.59:374][970]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.31.00:585][ 75]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.14-01.31.00:585][ 75]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.31.00:846][ 98]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.31.00:846][ 98]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.31.01:130][123]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.14-01.31.01:130][123]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.31.01:152][124]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.31.01:163][125]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.31.02:203][214]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.14-01.31.02:203][214]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.31.02:640][252]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.14-01.31.02:640][252]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.31.03:427][321]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.14-01.31.03:427][321]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.31.03:821][357]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.14-01.31.03:821][357]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.31.04:630][428]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.14-01.31.04:630][428]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.31.05:034][465]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.14-01.31.05:034][465]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.31.05:198][478]LightingResults: Warning: SM_LanternHB_Blockout_LanternCombined_LP Object has overlapping UVs.
+[2020.04.14-01.31.05:198][478]LightingResults: SM_LanternHB_Blockout_LanternCombined_LP Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.31.16:458][464]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.14-01.31.16:458][464]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.31.27:645][450]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.14-01.31.27:645][450]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.31.28:082][488]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.14-01.31.28:082][488]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.31.40:467][495]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.31.40:467][495]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.31.43:807][505]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.31.43:807][505]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.31.48:161][518]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.14-01.31.48:161][518]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.31.48:501][519]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.14-01.31.48:501][519]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.31.48:837][520]LightingResults: Warning: SM_CandelabraHB_Blockout Object has overlapping UVs.
+[2020.04.14-01.31.48:837][520]LightingResults: SM_CandelabraHB_Blockout Lightmap UV are overlapping by 2.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.31.49:174][521]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.14-01.31.49:174][521]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.31.49:174][521]LightingResults: Warning: SM_CandelabraHB_Blockout Object has overlapping UVs.
+[2020.04.14-01.31.49:174][521]LightingResults: SM_CandelabraHB_Blockout Lightmap UV are overlapping by 2.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.31.49:502][522]LightingResults: Warning: SM_CandelabraHB_Blockout Object has overlapping UVs.
+[2020.04.14-01.31.49:502][522]LightingResults: SM_CandelabraHB_Blockout Lightmap UV are overlapping by 2.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.31.49:840][523]LightingResults: Warning: SM_CandelabraHB_Blockout Object has overlapping UVs.
+[2020.04.14-01.31.49:840][523]LightingResults: SM_CandelabraHB_Blockout Lightmap UV are overlapping by 2.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.31.51:531][528]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.14-01.31.51:531][528]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.31.54:881][538]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.31.54:881][538]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.31.55:554][540]LightingResults: Warning: SM_LanternHB_Blockout_LanternCombined_LP Object has overlapping UVs.
+[2020.04.14-01.31.55:554][540]LightingResults: SM_LanternHB_Blockout_LanternCombined_LP Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.32.02:591][561]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.32.02:591][561]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.32.03:940][565]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.32.03:940][565]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.32.04:278][566]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.32.04:278][566]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.32.04:611][567]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.32.04:611][567]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.32.20:753][615]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.32.20:753][615]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.32.22:756][621]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.32.22:756][621]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.32.23:767][624]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.32.23:767][624]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.32.24:431][626]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.32.24:431][626]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.32.26:125][631]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.14-01.32.26:125][631]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.32.32:500][650]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.32.32:500][650]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.32.33:515][653]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.32.33:515][653]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.32.37:538][665]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.32.37:538][665]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.32.39:562][671]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.32.39:562][671]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.32.42:564][680]Job is a success!
+[2020.04.14-01.32.42:575][680]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.32.42:575][680]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.32.43:205][681]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.159s
+[2020.04.14-01.32.43:205][681]LogVolumetricLightmapImport:      Indirection Texture 112x112x112 = 5.4Mb
+[2020.04.14-01.32.43:205][681]LogVolumetricLightmapImport:      BrickData 1280x15x5 = 3.8Mb (trimmed 0.3Mb due to 0.010000 MinBrickError)
+[2020.04.14-01.32.43:205][681]LogVolumetricLightmapImport:      Bricks at Level
+[2020.04.14-01.32.43:205][681]LogVolumetricLightmapImport:          0: 54.4% covering 100.0% of volume
+[2020.04.14-01.32.43:205][681]LogVolumetricLightmapImport:          1: 6.0% covering 0.2% of volume
+[2020.04.14-01.32.43:205][681]LogVolumetricLightmapImport:          2: 39.6% covering 0.0% of volume
+[2020.04.14-01.32.48:582][681]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.04.14-01.32.48:583][681]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.04.14-01.32.48:583][681]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2020.04.14-01.32.48:583][681]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2020.04.14-01.32.48:583][681]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2020.04.14-01.32.48:583][681]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2020.04.14-01.32.48:583][681]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 1024X512)
+[2020.04.14-01.32.48:583][681]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2020.04.14-01.32.48:583][681]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2020.04.14-01.32.48:583][681]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 1024X512)
+[2020.04.14-01.32.48:583][681]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2020.04.14-01.32.48:583][681]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2020.04.14-01.32.48:583][681]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 1024X512)
+[2020.04.14-01.32.48:583][681]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2020.04.14-01.32.48:583][681]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2020.04.14-01.32.48:583][681]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 1024X512)
+[2020.04.14-01.32.48:583][681]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 1024X1024)
+[2020.04.14-01.32.48:583][681]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 1024X1024)
+[2020.04.14-01.32.48:583][681]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 1024X512)
+[2020.04.14-01.32.48:583][681]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 1024X1024)
+[2020.04.14-01.32.48:583][681]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 1024X1024)
+[2020.04.14-01.32.48:583][681]LogTexture: Display: Building textures: SkyOcclusion0_8 (AutoDXT, 64X32)
+[2020.04.14-01.32.48:583][681]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 64X64)
+[2020.04.14-01.32.48:583][681]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 64X64)
+[2020.04.14-01.32.48:783][681]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 32X32)
+[2020.04.14-01.32.49:222][681]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 1024X512)
+[2020.04.14-01.32.49:222][681]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 1024X1024)
+[2020.04.14-01.32.49:504][681]Lightmass on DESKTOP-PQ2HA22: 2:09 min total, 1.08 sec importing, 223 ms setup, 5.98 sec photons, 2:01 min processing, 0 ms extra exporting [803/803 mappings]. Threads: 14:10 min total, 10:21 min processing.
+[2020.04.14-01.32.49:511][681]LogStaticLightingSystem: Illumination: 2:15 min (4.69 sec encoding lightmaps, 637 ms encoding shadowmaps)
+[2020.04.14-01.32.49:511][681]LogStaticLightingSystem: Lightmap texture memory:  18.7 MB (18.7 MB streaming, 0.0 MB non-streaming), 16 textures
+[2020.04.14-01.32.49:511][681]LogStaticLightingSystem: Shadowmap texture memory: 2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 3 textures
+[2020.04.14-01.32.50:090][681]DumpUnbuiltLightIteractions
+[2020.04.14-01.32.50:090][681]Lights with unbuilt interactions: 0
+[2020.04.14-01.32.50:090][681]
+[2020.04.14-01.32.50:090][681]Primitives with unbuilt interactions: 0
+[2020.04.14-01.32.50:258][682]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.04.14-01.32.50:258][682]MapCheck: New page: MP_Full_Level - 14 Apr 2020 03:32:50
+[2020.04.14-01.32.50:259][682]MapCheck: Warning: SK_Mannequin4 SkeletalMeshActor '/Game/Designers/Manaquin/SK_Mannequin.SK_Mannequin' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2020.04.14-01.32.50:280][682]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 21.818ms to complete.
+[2020.04.14-01.33.38:052][698]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight7)
+[2020.04.14-01.33.41:669][ 97]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-01.33.48:821][926]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-01.34.03:377][570]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight12)
+[2020.04.14-01.34.03:927][631]Cmd: DELETE
+[2020.04.14-01.34.03:927][631]Cmd: ACTOR DELETE
+[2020.04.14-01.34.03:959][631]LogEditorActor: Deleted Actor: PointLight
+[2020.04.14-01.34.03:989][631]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2020.04.14-01.34.07:487][ 20]LogEditorViewport: Clicking on Actor (double click): PointLight (PointLight11)
+[2020.04.14-01.34.26:762][120]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.14-01.34.31:102][570]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight16)
+[2020.04.14-01.34.32:572][737]Cmd: DELETE
+[2020.04.14-01.34.32:572][737]Cmd: ACTOR DELETE
+[2020.04.14-01.34.32:603][737]LogEditorActor: Deleted Actor: PointLight
+[2020.04.14-01.34.32:636][737]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2020.04.14-01.34.34:548][962]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight15)
+[2020.04.14-01.35.21:417][386]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/MP_Full_Level_Auto6A13831824E0051AB01976AAEFAF3FEBE.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Autosaves/Game/Designers/Level_Maps/Full_Level/MP_Full_Level_Auto6.umap'
+[2020.04.14-01.35.21:473][386]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 1.191
+[2020.04.14-01.35.21:473][386]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.191
+[2020.04.14-01.36.25:369][578]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.14-01.36.48:766][245]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight10)
+[2020.04.14-01.36.52:454][649]Cmd: EDIT COPY
+[2020.04.14-01.36.52:680][670]Cmd: EDIT PASTE
+[2020.04.14-01.37.23:247][150]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight15)
+[2020.04.14-01.37.23:753][201]Cmd: DELETE
+[2020.04.14-01.37.23:753][201]Cmd: ACTOR DELETE
+[2020.04.14-01.37.23:784][201]LogEditorActor: Deleted Actor: PointLight
+[2020.04.14-01.37.23:834][201]LogEditorActor: Deleted 1 Actors (0.080 secs)
+[2020.04.14-01.37.31:665][ 95]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight15)
+[2020.04.14-01.37.45:783][707]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ModularAssetPack_BL_SM_CeilingSideMiddle_1_BL44)
+[2020.04.14-01.37.46:354][756]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ModularAssetPack_BL_SM_CeilingSideMiddle_1_BL43)
+[2020.04.14-01.37.47:464][876]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ModularAssetPack_BL_SM_WallSkirtx2_1_BL7)
+[2020.04.14-01.37.47:983][925]LogEditorViewport: Clicking on Actor (LMB): Movement_Target_C (Movement_Target47)
+[2020.04.14-01.37.48:748][ 10]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ModularAssetPack_BL_SM_WallWindow_BL4)
+[2020.04.14-01.37.49:049][ 38]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ModularAssetPack_BL_SM_WallWindow_BL4)
+[2020.04.14-01.37.49:982][143]Cmd: DELETE
+[2020.04.14-01.37.49:982][143]Cmd: ACTOR DELETE
+[2020.04.14-01.37.50:014][143]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.14-01.37.50:040][143]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2020.04.14-01.37.51:560][322]Cmd: TRANSACTION UNDO
+[2020.04.14-01.37.51:560][322]LogEditorTransaction: Undo Delete Actors
+[2020.04.14-01.38.12:829][712]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight11)
+[2020.04.14-01.38.29:985][637]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight6)
+[2020.04.14-01.38.34:127][ 98]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight10)
+[2020.04.14-01.38.36:753][357]Cmd: TRANSACTION UNDO
+[2020.04.14-01.38.36:753][357]LogEditorTransaction: Undo Move Actors
+[2020.04.14-01.38.37:192][390]Cmd: TRANSACTION UNDO
+[2020.04.14-01.38.37:192][390]LogEditorTransaction: Undo Move Actors
+[2020.04.14-01.38.37:619][433]Cmd: TRANSACTION UNDO
+[2020.04.14-01.38.37:619][433]LogEditorTransaction: Undo Move Actors
+[2020.04.14-01.38.48:043][553]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight24)
+[2020.04.14-01.38.53:502][123]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight23)
+[2020.04.14-01.38.58:814][671]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight22)
+[2020.04.14-01.39.17:615][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-01.39.22:017][286]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight24)
+[2020.04.14-01.39.23:976][510]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight23)
+[2020.04.14-01.39.27:052][852]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-01.39.37:106][969]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-01.40.19:563][104]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.14-01.40.21:837][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-01.40.21:912][357]MapCheck: New page: Map Check
+[2020.04.14-01.40.21:924][357]Cmd: MAP REBUILD ALLVISIBLE
+[2020.04.14-01.40.21:924][357]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.04.14-01.40.22:534][357]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_BaseColor, compiling. 
+[2020.04.14-01.40.22:540][357]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy greyflat, compiling. 
+[2020.04.14-01.40.22:547][357]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2020.04.14-01.40.22:554][357]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.04.14-01.40.22:554][357]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.04.14-01.40.22:554][357]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy SM_ModularAssetPack_BL_Material, compiling. 
+[2020.04.14-01.40.22:560][357]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2020.04.14-01.40.22:568][357]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Fire_SubUV, compiling. 
+[2020.04.14-01.40.22:574][357]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Master, compiling. 
+[2020.04.14-01.40.22:581][357]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_MovePoint_2, compiling. 
+[2020.04.14-01.40.22:588][357]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2020.04.14-01.40.22:595][357]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy GreyFlat_disintegration_Inst, compiling. 
+[2020.04.14-01.40.22:602][357]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lambert5, compiling. 
+[2020.04.14-01.40.22:609][357]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2020.04.14-01.40.22:620][357]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.14-01.40.22:620][357]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.04.14-01.40.22:620][357]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2020.04.14-01.40.22:628][357]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2020.04.14-01.40.23:732][357]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.14-01.40.23:732][357]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.04.14-01.40.23:732][357]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.04.14-01.40.23:732][357]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.04.14-01.40.23:732][357]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.04.14-01.40.23:732][357]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.04.14-01.40.23:732][357]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.04.14-01.40.23:732][357]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.04.14-01.40.23:732][357]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.04.14-01.40.23:732][357]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.04.14-01.40.23:732][357]TextureStreamingBuild: Display: Compiling optional shaders took 1.202 seconds.
+[2020.04.14-01.40.23:745][357]LogLevel: Display: Export Material TexCoord Scales took 0.013 seconds.
+[2020.04.14-01.40.23:984][357]TextureStreamingBuild: Display: Build Texture Streaming took 0.239 seconds.
+[2020.04.14-01.40.24:024][357]LightingResults: New page: Lighting Build - 14 Apr 2020 03:40:24
+[2020.04.14-01.40.24:038][357]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.04.14-01.40.24:041][357]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.04.14-01.40.24:041][357]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.04.14-01.40.24:042][357]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.04.14-01.40.24:042][357]LogSwarmInterface: [TryOpenConnection] Local Process ID is 5268
+[2020.04.14-01.40.28:551][357]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.04.14-01.40.28:551][357]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.04.14-01.40.28:551][357]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.04.14-01.40.28:551][357]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.04.14-01.40.28:551][357]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.04.14-01.40.29:597][357]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.04.14-01.40.29:598][357]MapCheck: New page: MP_Full_Level - 14 Apr 2020 03:40:29
+[2020.04.14-01.40.29:598][357]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2020.04.14-01.40.29:598][357]MapCheck: Warning: SK_Mannequin4 SkeletalMeshActor '/Game/Designers/Manaquin/SK_Mannequin.SK_Mannequin' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2020.04.14-01.40.29:617][357]MapCheck: Map check complete: 1 Error(s), 1 Warning(s), took 19.745ms to complete.
+[2020.04.14-01.40.29:641][357]LogEditorBuildUtils: Build time 0:07
+[2020.04.14-01.40.29:666][357]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.14-01.40.40:564][266]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.40.40:564][266]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.40.43:564][527]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.40.43:564][527]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.40.46:601][797]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.40.46:601][797]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.40.47:160][848]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.40.47:160][848]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.40.47:533][881]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.40.47:533][881]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.40.47:828][902]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.14-01.40.47:828][902]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.40.48:288][943]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.14-01.40.48:288][943]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.40.49:187][ 15]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.14-01.40.49:187][ 15]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.40.49:791][ 66]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.14-01.40.49:791][ 66]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.40.50:284][111]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.14-01.40.50:284][111]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.40.50:941][166]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.14-01.40.50:941][166]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.40.51:762][237]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.14-01.40.51:762][237]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.40.52:004][257]LightingResults: Warning: SM_LanternHB_Blockout_LanternCombined_LP Object has overlapping UVs.
+[2020.04.14-01.40.52:005][257]LightingResults: SM_LanternHB_Blockout_LanternCombined_LP Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.40.52:497][291]LightingResults: Warning: SM_Table_Blockout_SA_pCube63 Object has overlapping UVs.
+[2020.04.14-01.40.52:497][291]LightingResults: SM_Table_Blockout_SA_pCube63 Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.41.02:022][125]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.14-01.41.02:033][126]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.41.12:679][ 53]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.14-01.41.12:679][ 53]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.41.13:162][ 93]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.14-01.41.13:162][ 93]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.41.19:474][593]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight8)
+[2020.04.14-01.41.24:120][942]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2020.04.14-01.41.24:354][951]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.41.24:354][951]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.41.27:802][247]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.41.27:802][247]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.41.34:187][769]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.14-01.41.34:187][769]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.41.34:527][793]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.14-01.41.34:527][793]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.41.35:372][864]LightingResults: Warning: SM_CandelabraHB_Blockout Object has overlapping UVs.
+[2020.04.14-01.41.35:372][864]LightingResults: SM_CandelabraHB_Blockout Lightmap UV are overlapping by 2.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.41.35:526][877]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.14-01.41.35:526][877]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.41.36:019][922]LightingResults: Warning: SM_CandelabraHB_Blockout Object has overlapping UVs.
+[2020.04.14-01.41.36:019][922]LightingResults: SM_CandelabraHB_Blockout Lightmap UV are overlapping by 2.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.41.36:370][953]LightingResults: Warning: SM_CandelabraHB_Blockout Object has overlapping UVs.
+[2020.04.14-01.41.36:370][953]LightingResults: SM_CandelabraHB_Blockout Lightmap UV are overlapping by 2.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.41.36:755][988]LightingResults: Warning: SM_CandelabraHB_Blockout Object has overlapping UVs.
+[2020.04.14-01.41.36:755][988]LightingResults: SM_CandelabraHB_Blockout Lightmap UV are overlapping by 2.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.41.40:169][295]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.14-01.41.40:169][295]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.41.43:732][605]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.41.43:732][605]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.41.44:763][696]LightingResults: Warning: SM_LanternHB_Blockout_LanternCombined_LP Object has overlapping UVs.
+[2020.04.14-01.41.44:763][696]LightingResults: SM_LanternHB_Blockout_LanternCombined_LP Lightmap UV are overlapping by 2.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.41.47:963][978]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.41.47:963][978]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.41.53:933][496]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.41.53:933][496]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.41.55:324][619]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.41.55:324][619]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.41.56:640][735]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.41.56:640][735]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.42.02:486][247]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.42.02:486][247]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.42.18:147][636]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.42.18:147][636]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.42.20:790][871]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.42.20:790][871]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.42.21:974][977]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.42.21:974][977]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.42.23:070][ 72]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.42.23:070][ 72]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.42.25:954][320]LightingResults: Warning: SM_Chair_Blockout_SA Object has overlapping UVs.
+[2020.04.14-01.42.25:955][320]LightingResults: SM_Chair_Blockout_SA Lightmap UV are overlapping by 4.6%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.42.33:012][923]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.42.33:012][923]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.42.35:640][151]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.42.35:640][151]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.42.40:566][572]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.42.40:577][573]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.42.43:591][842]LightingResults: Warning: SM_ModularAssetPack_BL_SM_WallArch_BL Object has overlapping UVs.
+[2020.04.14-01.42.43:591][842]LightingResults: SM_ModularAssetPack_BL_SM_WallArch_BL Lightmap UV are overlapping by 1.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.14-01.42.49:403][362]Job is a success!
+[2020.04.14-01.42.49:429][363]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.14-01.42.49:666][363]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.134s
+[2020.04.14-01.42.49:666][363]LogVolumetricLightmapImport:      Indirection Texture 112x112x112 = 5.4Mb
+[2020.04.14-01.42.49:666][363]LogVolumetricLightmapImport:      BrickData 1280x15x5 = 3.8Mb (trimmed 0.5Mb due to 0.010000 MinBrickError)
+[2020.04.14-01.42.49:666][363]LogVolumetricLightmapImport:      Bricks at Level
+[2020.04.14-01.42.49:666][363]LogVolumetricLightmapImport:          0: 56.1% covering 100.0% of volume
+[2020.04.14-01.42.49:666][363]LogVolumetricLightmapImport:          1: 6.5% covering 0.2% of volume
+[2020.04.14-01.42.49:666][363]LogVolumetricLightmapImport:          2: 37.3% covering 0.0% of volume
+[2020.04.14-01.42.53:880][363]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.04.14-01.42.53:880][363]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2020.04.14-01.42.53:880][363]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2020.04.14-01.42.53:880][363]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2020.04.14-01.42.53:880][363]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2020.04.14-01.42.53:880][363]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.04.14-01.42.53:880][363]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 1024X512)
+[2020.04.14-01.42.53:880][363]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2020.04.14-01.42.53:880][363]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2020.04.14-01.42.53:880][363]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 1024X512)
+[2020.04.14-01.42.53:880][363]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 1024X1024)
+[2020.04.14-01.42.53:880][363]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 1024X1024)
+[2020.04.14-01.42.53:880][363]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 1024X512)
+[2020.04.14-01.42.53:880][363]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 1024X1024)
+[2020.04.14-01.42.53:880][363]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 1024X1024)
+[2020.04.14-01.42.53:880][363]LogTexture: Display: Building textures: SkyOcclusion1_6 (AutoDXT, 1024X512)
+[2020.04.14-01.42.53:880][363]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 1024X1024)
+[2020.04.14-01.42.53:880][363]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 1024X1024)
+[2020.04.14-01.42.53:880][363]LogTexture: Display: Building textures: SkyOcclusion1_7 (AutoDXT, 1024X512)
+[2020.04.14-01.42.53:880][363]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 1024X1024)
+[2020.04.14-01.42.53:880][363]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 1024X1024)
+[2020.04.14-01.42.53:880][363]LogTexture: Display: Building textures: SkyOcclusion1_8 (AutoDXT, 64X32)
+[2020.04.14-01.42.53:880][363]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 64X64)
+[2020.04.14-01.42.53:881][363]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 64X64)
+[2020.04.14-01.42.54:080][363]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 32X32)
+[2020.04.14-01.42.54:080][363]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 1024X512)
+[2020.04.14-01.42.54:135][363]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 1024X1024)
+[2020.04.14-01.42.54:156][363]Lightmass on DESKTOP-PQ2HA22: 2:23 min total, 975 ms importing, 213 ms setup, 5.95 sec photons, 2:16 min processing, 0 ms extra exporting [803/803 mappings]. Threads: 15:54 min total, 12:01 min processing.
+[2020.04.14-01.42.54:432][363]LogStaticLightingSystem: Illumination: 2:30 min (3.62 sec encoding lightmaps, 252 ms encoding shadowmaps)
+[2020.04.14-01.42.54:432][363]LogStaticLightingSystem: Lightmap texture memory:  18.7 MB (18.7 MB streaming, 0.0 MB non-streaming), 16 textures
+[2020.04.14-01.42.54:432][363]LogStaticLightingSystem: Shadowmap texture memory: 2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 3 textures
+[2020.04.14-01.42.54:642][363]DumpUnbuiltLightIteractions
+[2020.04.14-01.42.54:642][363]Lights with unbuilt interactions: 0
+[2020.04.14-01.42.54:642][363]
+[2020.04.14-01.42.54:642][363]Primitives with unbuilt interactions: 0
+[2020.04.14-01.42.54:650][363]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.14-01.42.54:786][364]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.04.14-01.42.54:787][364]MapCheck: New page: MP_Full_Level - 14 Apr 2020 03:42:54
+[2020.04.14-01.42.54:787][364]MapCheck: Warning: SK_Mannequin4 SkeletalMeshActor '/Game/Designers/Manaquin/SK_Mannequin.SK_Mannequin' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2020.04.14-01.42.54:806][364]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 19.717ms to complete.
+[2020.04.14-01.45.26:713][428]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.14-01.45.27:753][428]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/MP_Full_Level_Auto7A1CA69D04FADD6A043514B8E55BFE5E7.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Autosaves/Game/Designers/Level_Maps/Full_Level/MP_Full_Level_Auto7.umap'
+[2020.04.14-01.45.27:768][428]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/Full_Level/MP_Full_Level' took 1.024
+[2020.04.14-01.45.27:768][428]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.024
+[2020.04.14-01.46.11:482][560]LogInit: XAudio2 using 'CVTE TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.14-01.46.24:710][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-01.46.26:228][ 97]LogSlate: Window 'Save Content' being destroyed
+[2020.04.14-01.46.26:242][ 97]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.14-01.46.27:180][ 97]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/MP_Full_Level0CF7B6BF4F4A8CD062581C89DA00B71B.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Full_Level/MP_Full_Level.umap'
+[2020.04.14-01.46.27:224][ 97]LogFileHelpers: Saving map 'MP_Full_Level' took 0.975
+[2020.04.14-01.46.29:761][ 97]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/MP_Full_Level_BuiltDataAD379FF44BBDC95DAF878F98A99A0F2F.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/Full_Level/MP_Full_Level_BuiltData.uasset'
+[2020.04.14-01.46.30:846][ 97]LogSavePackage: Moving '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/MP_Level_One_Point_Three_HCWS_Te7B5A8F8248005C834CAE39A3A090CC6C.tmp' to '../../../../../../Users/HCWS/Desktop/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/MP_Level_One_Point_Three_HCWS_Test.umap'
+[2020.04.14-01.46.30:914][ 97]LogFileHelpers: Saving map 'MP_Level_One_Point_Three_HCWS_Test' took 1.138
+[2020.04.14-01.46.32:204][203]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-01.46.32:730][217]LogCascade: Quitting Cascade. FXSystem=0x000002B6B7FC1B20
+[2020.04.14-01.46.35:615][217]LogSlate: Window 'MotionControllerPawn' being destroyed
+[2020.04.14-01.46.35:708][217]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.04.14-01.46.36:033][217]LogSlate: Window 'Message Log' being destroyed
+[2020.04.14-01.46.36:055][217]LogSlate: Window 'CastleOfTheDead - Unreal Editor' being destroyed
+[2020.04.14-01.46.36:056][217]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.04.14-01.46.38:340][218]Cmd: QUIT_EDITOR
+[2020.04.14-01.46.39:463][218]LogExit: Preparing to exit.
+[2020.04.14-01.46.43:171][218]LogExit: Editor shut down
+[2020.04.14-01.46.43:230][218]LogExit: Transaction tracking system shut down
+[2020.04.14-01.46.55:473][218]LogExit: Object subsystem successfully closed.
+[2020.04.14-01.46.55:880][218]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.04.14-01.46.55:948][218]LogD3D11RHI: Shutdown
+[2020.04.14-01.46.55:948][218]LogD3D11RHI: CleanupD3DDevice
+[2020.04.14-01.46.56:314][218]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.04.14-01.46.56:966][218]LogModuleManager: Shutting down and abandoning module UATHelper (638)
+[2020.04.14-01.46.56:966][218]LogModuleManager: Shutting down and abandoning module MeshBuilder (636)
+[2020.04.14-01.46.56:966][218]LogModuleManager: Shutting down and abandoning module BlueprintGraph (634)
+[2020.04.14-01.46.56:966][218]LogModuleManager: Shutting down and abandoning module DistCurveEditor (632)
+[2020.04.14-01.46.56:966][218]LogModuleManager: Shutting down and abandoning module Cascade (630)
+[2020.04.14-01.46.56:966][218]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (628)
+[2020.04.14-01.46.56:973][218]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (626)
+[2020.04.14-01.46.56:973][218]LogModuleManager: Shutting down and abandoning module Voice (624)
+[2020.04.14-01.46.56:973][218]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (622)
+[2020.04.14-01.46.56:973][218]LogModuleManager: Shutting down and abandoning module SceneOutliner (620)
+[2020.04.14-01.46.56:973][218]LogModuleManager: Shutting down and abandoning module AddContentDialog (618)
+[2020.04.14-01.46.57:239][218]LogModuleManager: Shutting down and abandoning module WidgetCarousel (617)
+[2020.04.14-01.46.57:239][218]LogModuleManager: Shutting down and abandoning module EditorWidgets (614)
+[2020.04.14-01.46.57:239][218]LogModuleManager: Shutting down and abandoning module CollectionManager (612)
+[2020.04.14-01.46.57:239][218]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2020.04.14-01.46.57:239][218]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2020.04.14-01.46.57:239][218]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2020.04.14-01.46.57:296][218]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2020.04.14-01.46.57:296][218]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2020.04.14-01.46.57:296][218]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2020.04.14-01.46.57:296][218]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2020.04.14-01.46.57:296][218]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2020.04.14-01.46.57:296][218]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2020.04.14-01.46.57:296][218]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2020.04.14-01.46.57:297][218]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2020.04.14-01.46.57:322][218]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2020.04.14-01.46.57:322][218]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2020.04.14-01.46.57:327][218]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2020.04.14-01.46.57:327][218]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2020.04.14-01.46.57:362][218]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2020.04.14-01.46.57:362][218]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2020.04.14-01.46.57:362][218]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2020.04.14-01.46.57:362][218]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2020.04.14-01.46.57:362][218]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2020.04.14-01.46.57:362][218]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2020.04.14-01.46.57:362][218]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2020.04.14-01.46.57:362][218]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2020.04.14-01.46.57:382][218]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2020.04.14-01.46.57:391][218]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2020.04.14-01.46.57:391][218]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2020.04.14-01.46.57:391][218]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2020.04.14-01.46.57:391][218]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2020.04.14-01.46.57:391][218]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2020.04.14-01.46.57:391][218]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2020.04.14-01.46.57:391][218]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2020.04.14-01.46.57:391][218]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2020.04.14-01.46.57:391][218]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2020.04.14-01.46.57:392][218]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2020.04.14-01.46.57:392][218]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2020.04.14-01.46.57:392][218]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2020.04.14-01.46.57:392][218]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2020.04.14-01.46.57:405][218]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2020.04.14-01.46.57:405][218]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2020.04.14-01.46.57:405][218]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2020.04.14-01.46.57:405][218]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2020.04.14-01.46.57:405][218]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2020.04.14-01.46.57:405][218]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2020.04.14-01.46.57:405][218]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2020.04.14-01.46.57:406][218]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2020.04.14-01.46.57:421][218]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2020.04.14-01.46.57:421][218]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2020.04.14-01.46.57:421][218]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2020.04.14-01.46.57:421][218]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2020.04.14-01.46.57:422][218]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2020.04.14-01.46.58:064][218]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2020.04.14-01.46.58:064][218]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2020.04.14-01.46.58:064][218]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2020.04.14-01.46.58:064][218]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2020.04.14-01.46.58:064][218]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2020.04.14-01.46.58:077][218]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2020.04.14-01.46.58:077][218]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2020.04.14-01.46.58:084][218]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2020.04.14-01.46.58:084][218]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2020.04.14-01.46.58:084][218]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2020.04.14-01.46.58:084][218]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2020.04.14-01.46.58:084][218]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2020.04.14-01.46.58:085][218]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2020.04.14-01.46.58:085][218]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2020.04.14-01.46.58:085][218]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2020.04.14-01.46.58:117][218]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2020.04.14-01.46.58:117][218]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2020.04.14-01.46.58:127][218]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2020.04.14-01.46.58:127][218]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2020.04.14-01.46.58:127][218]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2020.04.14-01.46.58:127][218]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2020.04.14-01.46.58:146][218]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2020.04.14-01.46.58:146][218]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2020.04.14-01.46.58:212][218]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2020.04.14-01.46.58:212][218]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2020.04.14-01.46.58:212][218]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2020.04.14-01.46.58:212][218]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2020.04.14-01.46.58:212][218]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2020.04.14-01.46.58:212][218]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2020.04.14-01.46.58:212][218]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2020.04.14-01.46.58:212][218]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2020.04.14-01.46.58:212][218]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2020.04.14-01.46.58:212][218]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2020.04.14-01.46.58:363][218]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2020.04.14-01.46.58:363][218]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2020.04.14-01.46.58:363][218]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2020.04.14-01.46.58:363][218]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2020.04.14-01.46.58:363][218]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2020.04.14-01.46.58:363][218]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2020.04.14-01.46.58:363][218]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2020.04.14-01.46.58:363][218]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2020.04.14-01.46.58:364][218]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2020.04.14-01.46.58:364][218]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2020.04.14-01.46.58:364][218]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2020.04.14-01.46.58:364][218]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2020.04.14-01.46.58:364][218]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2020.04.14-01.46.58:364][218]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2020.04.14-01.46.58:364][218]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2020.04.14-01.46.58:364][218]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2020.04.14-01.46.58:364][218]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2020.04.14-01.46.58:364][218]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2020.04.14-01.46.58:364][218]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2020.04.14-01.46.58:364][218]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2020.04.14-01.46.58:364][218]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2020.04.14-01.46.58:364][218]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2020.04.14-01.46.58:367][218]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2020.04.14-01.46.58:494][218]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2020.04.14-01.46.58:495][218]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2020.04.14-01.46.58:495][218]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2020.04.14-01.46.58:495][218]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2020.04.14-01.46.58:495][218]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2020.04.14-01.46.58:499][218]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2020.04.14-01.46.58:499][218]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2020.04.14-01.46.58:500][218]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2020.04.14-01.46.58:500][218]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2020.04.14-01.46.58:500][218]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2020.04.14-01.46.58:500][218]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2020.04.14-01.46.58:500][218]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2020.04.14-01.46.58:500][218]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2020.04.14-01.46.58:502][218]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2020.04.14-01.46.58:523][218]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2020.04.14-01.46.58:523][218]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2020.04.14-01.46.58:523][218]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2020.04.14-01.46.58:584][218]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2020.04.14-01.46.58:584][218]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2020.04.14-01.46.58:584][218]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2020.04.14-01.46.58:584][218]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2020.04.14-01.46.58:586][218]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2020.04.14-01.46.58:586][218]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2020.04.14-01.46.58:586][218]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2020.04.14-01.46.58:586][218]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2020.04.14-01.46.58:586][218]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2020.04.14-01.46.58:586][218]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2020.04.14-01.46.58:586][218]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2020.04.14-01.46.58:586][218]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2020.04.14-01.46.58:586][218]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2020.04.14-01.46.58:599][218]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2020.04.14-01.46.58:599][218]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2020.04.14-01.46.58:613][218]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2020.04.14-01.46.58:618][218]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2020.04.14-01.46.58:618][218]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2020.04.14-01.46.58:620][218]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2020.04.14-01.46.58:631][218]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2020.04.14-01.46.58:631][218]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2020.04.14-01.46.58:636][218]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2020.04.14-01.46.58:636][218]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2020.04.14-01.46.58:636][218]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2020.04.14-01.46.58:642][218]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2020.04.14-01.46.58:672][218]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2020.04.14-01.46.58:678][218]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2020.04.14-01.46.58:678][218]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2020.04.14-01.46.58:684][218]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2020.04.14-01.46.58:699][218]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2020.04.14-01.46.58:708][218]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2020.04.14-01.46.58:708][218]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2020.04.14-01.46.58:708][218]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2020.04.14-01.46.58:708][218]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2020.04.14-01.46.58:708][218]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2020.04.14-01.46.58:711][218]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2020.04.14-01.46.58:711][218]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2020.04.14-01.46.58:711][218]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2020.04.14-01.46.58:711][218]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2020.04.14-01.46.58:722][218]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2020.04.14-01.46.58:722][218]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.04.14-01.46.58:722][218]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.04.14-01.46.58:823][218]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.04.14-01.46.58:928][218]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2020.04.14-01.46.58:989][218]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2020.04.14-01.46.58:989][218]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2020.04.14-01.46.58:997][218]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2020.04.14-01.46.58:997][218]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2020.04.14-01.46.58:997][218]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2020.04.14-01.46.59:005][218]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2020.04.14-01.46.59:075][218]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2020.04.14-01.46.59:076][218]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2020.04.14-01.46.59:076][218]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2020.04.14-01.46.59:076][218]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2020.04.14-01.46.59:119][218]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2020.04.14-01.46.59:206][218]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2020.04.14-01.46.59:206][218]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2020.04.14-01.46.59:206][218]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2020.04.14-01.46.59:206][218]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2020.04.14-01.46.59:206][218]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2020.04.14-01.46.59:214][218]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2020.04.14-01.46.59:214][218]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2020.04.14-01.46.59:223][218]LogModuleManager: Shutting down and abandoning module Media (241)
+[2020.04.14-01.46.59:229][218]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2020.04.14-01.46.59:229][218]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2020.04.14-01.46.59:229][218]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2020.04.14-01.46.59:277][218]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2020.04.14-01.46.59:285][218]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2020.04.14-01.46.59:285][218]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2020.04.14-01.46.59:285][218]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2020.04.14-01.46.59:285][218]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2020.04.14-01.46.59:290][218]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2020.04.14-01.46.59:290][218]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2020.04.14-01.46.59:295][218]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2020.04.14-01.46.59:298][218]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2020.04.14-01.46.59:299][218]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2020.04.14-01.46.59:299][218]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2020.04.14-01.46.59:299][218]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2020.04.14-01.46.59:299][218]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2020.04.14-01.46.59:299][218]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2020.04.14-01.46.59:299][218]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2020.04.14-01.46.59:305][218]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2020.04.14-01.46.59:305][218]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2020.04.14-01.46.59:359][218]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2020.04.14-01.46.59:360][218]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2020.04.14-01.46.59:360][218]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2020.04.14-01.46.59:360][218]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2020.04.14-01.46.59:360][218]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2020.04.14-01.46.59:360][218]LogModuleManager: Shutting down and abandoning module Core (186)
+[2020.04.14-01.46.59:360][218]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2020.04.14-01.46.59:360][218]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2020.04.14-01.46.59:360][218]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2020.04.14-01.46.59:379][218]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2020.04.14-01.46.59:379][218]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2020.04.14-01.46.59:379][218]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2020.04.14-01.46.59:379][218]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2020.04.14-01.46.59:401][218]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2020.04.14-01.46.59:401][218]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2020.04.14-01.46.59:401][218]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2020.04.14-01.46.59:405][218]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2020.04.14-01.46.59:405][218]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2020.04.14-01.46.59:441][218]LogDerivedDataCache: Shutdown
+[2020.04.14-01.46.59:441][218]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2020.04.14-01.46.59:441][218]LogXGEController: Cleaning working directory: C:/Users/HCWS/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.04.14-01.46.59:465][218]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2020.04.14-01.46.59:466][218]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2020.04.14-01.46.59:466][218]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2020.04.14-01.46.59:478][218]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2020.04.14-01.46.59:478][218]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2020.04.14-01.46.59:478][218]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2020.04.14-01.46.59:478][218]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2020.04.14-01.46.59:478][218]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2020.04.14-01.46.59:478][218]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2020.04.14-01.46.59:478][218]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2020.04.14-01.46.59:507][218]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2020.04.14-01.46.59:507][218]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2020.04.14-01.46.59:507][218]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2020.04.14-01.46.59:508][218]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2020.04.14-01.46.59:508][218]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2020.04.14-01.46.59:508][218]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2020.04.14-01.46.59:508][218]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2020.04.14-01.46.59:562][218]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2020.04.14-01.46.59:562][218]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2020.04.14-01.46.59:562][218]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2020.04.14-01.46.59:562][218]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2020.04.14-01.46.59:562][218]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2020.04.14-01.46.59:578][218]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2020.04.14-01.46.59:578][218]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2020.04.14-01.46.59:586][218]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2020.04.14-01.46.59:586][218]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2020.04.14-01.46.59:706][218]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2020.04.14-01.46.59:706][218]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2020.04.14-01.46.59:707][218]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2020.04.14-01.46.59:707][218]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2020.04.14-01.46.59:707][218]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2020.04.14-01.46.59:707][218]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2020.04.14-01.46.59:707][218]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2020.04.14-01.46.59:707][218]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2020.04.14-01.46.59:707][218]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2020.04.14-01.46.59:707][218]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2020.04.14-01.46.59:707][218]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2020.04.14-01.46.59:707][218]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2020.04.14-01.46.59:707][218]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2020.04.14-01.46.59:727][218]LogHMD: Freeing OpenVRDLLHandle.
+[2020.04.14-01.46.59:727][218]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2020.04.14-01.46.59:728][218]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2020.04.14-01.46.59:760][218]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2020.04.14-01.46.59:760][218]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2020.04.14-01.46.59:760][218]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2020.04.14-01.46.59:798][218]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2020.04.14-01.46.59:802][218]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2020.04.14-01.46.59:857][218]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2020.04.14-01.46.59:857][218]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.04.14-01.46.59:858][218]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B69F16EAE-4C6E-7364-54F3-8390DDF3FF1B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=5460ab1848df07ec2a86419ff8445f7e%7C3881a7f8e0af44e7867725dc58bad581%7C100eac0a-3ef0-485b-b9b6-d3c7d547e2f7&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.04.14-01.46.59:875][218]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2020.04.14-01.46.59:876][218]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2020.04.14-01.46.59:876][218]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2020.04.14-01.46.59:876][218]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2020.04.14-01.46.59:876][218]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2020.04.14-01.46.59:876][218]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2020.04.14-01.46.59:877][218]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2020.04.14-01.46.59:877][218]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2020.04.14-01.46.59:877][218]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.04.14-01.46.59:877][218]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2020.04.14-01.46.59:893][218]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2020.04.14-01.46.59:894][218]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2020.04.14-01.46.59:905][218]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2020.04.14-01.46.59:909][218]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2020.04.14-01.46.59:909][218]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2020.04.14-01.46.59:909][218]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2020.04.14-01.46.59:909][218]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2020.04.14-01.46.59:909][218]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2020.04.14-01.46.59:959][218]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2020.04.14-01.46.59:959][218]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2020.04.14-01.46.59:959][218]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2020.04.14-01.46.59:959][218]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2020.04.14-01.46.59:959][218]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2020.04.14-01.46.59:959][218]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2020.04.14-01.46.59:959][218]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2020.04.14-01.46.59:959][218]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2020.04.14-01.46.59:959][218]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2020.04.14-01.46.59:959][218]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2020.04.14-01.46.59:959][218]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2020.04.14-01.47.00:014][218]LogExit: Exiting.
+[2020.04.14-01.47.00:180][218]Log file closed, 04/14/20 02:47:00
