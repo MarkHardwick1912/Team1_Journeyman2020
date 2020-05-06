@@ -1,0 +1,1308 @@
+﻿Log file open, 05/06/20 15:44:22
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CastleOfTheDead
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.529646
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.299s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: AMD Ryzen 7 2700X Eight-Core Processor         , GPU: NVIDIA GeForce RTX 2060
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.015s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.06-14.44.22:591][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.06-14.44.22:591][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.06-14.44.22:591][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Users/Mark Hardwick/Documents/GitHub/Saves/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Engine.ini]
+[2020.05.06-14.44.22:591][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.06-14.44.22:591][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Users/Mark Hardwick/Documents/GitHub/Saves/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Engine.ini]
+[2020.05.06-14.44.22:591][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Users/Mark Hardwick/Documents/GitHub/Saves/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Engine.ini]
+[2020.05.06-14.44.22:591][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.06-14.44.22:591][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.06-14.44.22:591][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.06-14.44.22:591][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.06-14.44.22:591][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.06-14.44.22:591][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.06-14.44.22:591][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.06-14.44.22:591][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.06-14.44.22:591][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.06-14.44.22:591][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.06-14.44.22:591][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.06-14.44.22:592][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.06-14.44.22:592][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.06-14.44.22:592][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Users/Mark Hardwick/Documents/GitHub/Saves/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Engine.ini]
+[2020.05.06-14.44.22:592][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.06-14.44.22:592][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.06-14.44.22:592][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.06-14.44.22:592][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.06-14.44.22:592][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.06-14.44.22:592][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.06-14.44.22:592][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2020.05.06-14.44.22:592][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.06-14.44.22:592][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.06-14.44.22:592][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2020.05.06-14.44.22:592][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.06-14.44.22:592][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.06-14.44.22:592][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.06-14.44.22:592][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.06-14.44.22:592][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Users/Mark Hardwick/Documents/GitHub/Saves/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Engine.ini]
+[2020.05.06-14.44.22:592][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Users/Mark Hardwick/Documents/GitHub/Saves/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Engine.ini]
+[2020.05.06-14.44.22:596][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Users/Mark Hardwick/Documents/GitHub/Saves/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Users/Mark Hardwick/Documents/GitHub/Saves/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Users/Mark Hardwick/Documents/GitHub/Saves/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Users/Mark Hardwick/Documents/GitHub/Saves/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Users/Mark Hardwick/Documents/GitHub/Saves/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Users/Mark Hardwick/Documents/GitHub/Saves/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.06-14.44.22:596][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.05.06-14.44.22:597][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.06-14.44.22:597][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.06-14.44.22:597][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.06-14.44.22:597][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.06-14.44.22:597][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.06-14.44.22:597][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.06-14.44.22:597][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.06-14.44.22:597][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Users/Mark Hardwick/Documents/GitHub/Saves/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-14.44.22:597][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.06-14.44.22:597][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.06-14.44.22:597][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.06-14.44.22:597][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.06-14.44.22:691][  0]LogHAL: Display: Platform has ~ 16 GB [17126547456 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2020.05.06-14.44.22:691][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.06-14.44.22:691][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Users/Mark Hardwick/Documents/GitHub/Saves/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.06-14.44.22:691][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Users/Mark Hardwick/Documents/GitHub/Saves/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.05.06-14.44.22:691][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Users/Mark Hardwick/Documents/GitHub/Saves/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.06-14.44.22:691][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Users/Mark Hardwick/Documents/GitHub/Saves/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.06-14.44.22:691][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.06-14.44.22:692][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.06-14.44.22:692][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.06-14.44.22:692][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Users/Mark Hardwick/Documents/GitHub/Saves/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-14.44.22:692][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.06-14.44.22:692][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.06-14.44.22:692][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.06-14.44.22:692][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.06-14.44.22:692][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.06-14.44.22:692][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.06-14.44.22:692][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.06-14.44.22:692][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.06-14.44.22:692][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Users/Mark Hardwick/Documents/GitHub/Saves/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-14.44.22:692][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.05.06-14.44.22:692][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.06-14.44.22:692][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.05.06-14.44.22:692][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.05.06-14.44.22:692][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.06-14.44.22:692][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.05.06-14.44.22:692][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.06-14.44.22:692][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.06-14.44.22:692][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.06-14.44.22:692][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.06-14.44.22:692][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.06-14.44.22:692][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.06-14.44.22:692][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.06-14.44.22:692][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Users/Mark Hardwick/Documents/GitHub/Saves/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Scalability.ini]
+[2020.05.06-14.44.22:692][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.06-14.44.22:692][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.06-14.44.22:692][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.06-14.44.22:692][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.06-14.44.22:692][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Users/Mark Hardwick/Documents/GitHub/Saves/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Engine.ini]
+[2020.05.06-14.44.22:692][  0]LogInit: Computer: DESKTOP-4OCVHRH
+[2020.05.06-14.44.22:692][  0]LogInit: User: MarkHardwick
+[2020.05.06-14.44.22:692][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.05.06-14.44.22:692][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.06-14.44.22:692][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.05.06-14.44.22:692][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.06-14.44.22:692][  0]LogMemory: Process Physical Memory: 111.84 MB used, 111.84 MB peak
+[2020.05.06-14.44.22:692][  0]LogMemory: Process Virtual Memory: 99.56 MB used, 99.56 MB peak
+[2020.05.06-14.44.22:692][  0]LogMemory: Physical Memory: 6872.43 MB used,  9460.72 MB free, 16333.15 MB total
+[2020.05.06-14.44.22:692][  0]LogMemory: Virtual Memory: 4710.68 MB used,  134213016.00 MB free, 134217728.00 MB total
+[2020.05.06-14.44.22:707][  0]LogInit: Using OS detected language (en-GB).
+[2020.05.06-14.44.22:707][  0]LogInit: Using OS detected locale (en-GB).
+[2020.05.06-14.44.22:707][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.05.06-14.44.23:055][  0]LogStreaming: Display: Took  0.349s to InitEngineTextLocalization.
+[2020.05.06-14.44.23:055][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.06-14.44.23:108][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.06-14.44.23:108][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.06-14.44.23:267][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.06-14.44.23:336][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2020.05.06-14.44.23:336][  0]LogD3D11RHI:       5980/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.05.06-14.44.23:338][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.06-14.44.23:338][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.06-14.44.23:338][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.06-14.44.23:348][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.06-14.44.23:348][  0]LogD3D11RHI:     GPU DeviceId: 0x1f08 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.06-14.44.23:348][  0]LogWindows: EnumDisplayDevices:
+[2020.05.06-14.44.23:348][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:1 D:1)
+[2020.05.06-14.44.23:348][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:0 D:1)
+[2020.05.06-14.44.23:348][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.05.06-14.44.23:348][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.05.06-14.44.23:349][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.05.06-14.44.23:349][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2020.05.06-14.44.23:349][  0]LogD3D11RHI:   Driver Version: 442.59 (internal:26.21.14.4259, unified:442.59)
+[2020.05.06-14.44.23:349][  0]LogD3D11RHI:      Driver Date: 3-4-2020
+[2020.05.06-14.44.23:349][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2020.05.06-14.44.23:405][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.06-14.44.23:422][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.05.06-14.44.23:670][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.05.06-14.44.23:682][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.05.06-14.44.23:695][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.05.06-14.44.23:709][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.05.06-14.44.23:723][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.05.06-14.44.23:735][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.05.06-14.44.23:747][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.05.06-14.44.23:760][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.05.06-14.44.23:765][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.05.06-14.44.23:841][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.06-14.44.23:841][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.06-14.44.23:841][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.06-14.44.23:841][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.06-14.44.23:841][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.06-14.44.23:841][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.06-14.44.23:841][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.06-14.44.23:841][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.06-14.44.23:841][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.06-14.44.23:841][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.06-14.44.23:841][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.06-14.44.23:841][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.06-14.44.23:841][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.06-14.44.23:841][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.06-14.44.23:841][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.06-14.44.23:841][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.06-14.44.23:841][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.06-14.44.23:841][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.06-14.44.23:842][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.05.06-14.44.23:900][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.05.06-14.44.23:900][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.05.06-14.44.23:924][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.05.06-14.44.23:924][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.05.06-14.44.23:937][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.05.06-14.44.23:949][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.05.06-14.44.23:961][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.05.06-14.44.23:973][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.05.06-14.44.24:017][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.05.06-14.44.24:017][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.05.06-14.44.24:017][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.06-14.44.24:053][  0]LogShaderCompilers: Guid format shader working directory is -61 characters bigger than the processId version (../../../../../../Users/Mark Hardwick/Documents/GitHub/Saves/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Intermediate/Shaders/WorkingDirectory/13428/).
+[2020.05.06-14.44.24:053][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Mark Hardwick/AppData/Local/Temp/UnrealShaderWorkingDir/570ACCA34AA34E02785EA5B4F4C3217F/'.
+[2020.05.06-14.44.24:054][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.06-14.44.24:054][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.06-14.44.24:054][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.06-14.44.24:536][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.06-14.44.24:578][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/Mark Hardwick/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.05.06-14.44.24:579][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Mark Hardwick/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2020.05.06-14.44.24:579][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Mark Hardwick/Documents/GitHub/Saves/Team1_Journeyman2020/CastleOfTheDead - Commit Version/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.06-14.44.24:579][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.06-14.44.24:579][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Mark Hardwick/Documents/GitHub/Saves/Team1_Journeyman2020/CastleOfTheDead - Commit Version/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.06-14.44.24:579][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.06-14.44.24:595][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.06-14.44.24:595][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.06-14.44.24:595][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.06-14.44.24:608][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Mark Hardwick/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.06-14.44.24:608][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.06-14.44.24:608][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.06-14.44.24:631][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.06-14.44.24:632][  0]LogSlate: Using FreeType 2.6.0
+[2020.05.06-14.44.24:633][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.06-14.44.24:713][  0]LogAssetRegistry: FAssetRegistry took 0.0334 seconds to start up
+[2020.05.06-14.44.25:018][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.06-14.44.25:140][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.05.06-14.44.25:142][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.05.06-14.44.25:142][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.06-14.44.25:142][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.06-14.44.25:142][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.05.06-14.44.25:154][  0]LogNetVersion: CastleOfTheDead 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 192157307)
+[2020.05.06-14.44.25:882][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.276805 seconds
+[2020.05.06-14.44.25:888][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2020.05.06-14.44.25:888][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2020.05.06-14.44.25:888][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.06-14.44.26:588][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.06-14.44.26:601][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.06-14.44.27:201][  0]SourceControl: Source control is disabled
+[2020.05.06-14.44.27:201][  0]SourceControl: Source control is disabled
+[2020.05.06-14.44.27:203][  0]SourceControl: Source control is disabled
+[2020.05.06-14.44.27:203][  0]SourceControl: Source control is disabled
+[2020.05.06-14.44.27:415][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.06-14.44.27:561][  0]LogOcInput: OculusInput pre-init called
+[2020.05.06-14.44.27:688][  0]LogEngine: Initializing Engine...
+[2020.05.06-14.44.27:689][  0]LogHMD: Oculus plugin initialized. Version: 4.21.2-4753647+++UE4+Release-4.21, OVRPlugin: 1.28.0
+[2020.05.06-14.44.27:691][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.05.06-14.44.27:691][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.05.06-14.44.27:691][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.05.06-14.44.27:691][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.05.06-14.44.27:888][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.06-14.44.27:896][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.06-14.44.27:950][  0]LogInit: XAudio2 using 'Headset Earphone (Razer Kraken 7.1 Chroma)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.05.06-14.44.27:981][  0]LogInit: FAudioDevice initialized.
+[2020.05.06-14.44.27:982][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.06-14.44.28:037][  0]LogDerivedDataCache: Saved boot cache 0.06s 71MB C:/Users/Mark Hardwick/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.05.06-14.44.28:046][  0]LogInit: Texture streaming: Enabled
+[2020.05.06-14.44.28:058][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.06-14.44.28:074][  0]LogInit: Transaction tracking system initialized
+[2020.05.06-14.44.28:087][  0]BlueprintLog: New page: Editor Load
+[2020.05.06-14.44.28:140][  0]LocalizationService: Localization service is disabled
+[2020.05.06-14.44.28:608][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.06-14.44.28:608][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.06-14.44.28:608][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.05.06-14.44.28:609][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.05.06-14.44.28:609][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.05.06-14.44.28:609][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.05.06-14.44.28:609][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.05.06-14.44.28:711][  0]SourceControl: Source control is disabled
+[2020.05.06-14.44.28:711][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.06-14.44.28:712][  0]LightingResults: New page: Lighting Build
+[2020.05.06-14.44.28:713][  0]MapCheck: New page: Map Check
+[2020.05.06-14.44.28:713][  0]LightingResults: New page: Lighting Build
+[2020.05.06-14.44.28:751][  0]LogFileCache: Scanning file cache for directory 'D:/Users/Mark Hardwick/Documents/GitHub/Saves/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/' took 0.19s
+[2020.05.06-14.44.28:884][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.05.06-14.44.28:889][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.06-14.44.28:919][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.06-14.44.28:920][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.106ms to complete.
+[2020.05.06-14.44.28:920][  0]LogFileHelpers: Loading map 'Template_Default' took 0.209
+[2020.05.06-14.44.29:031][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.06-14.44.29:039][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.06-14.44.29:046][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.06-14.44.29:054][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.06-14.44.29:058][  0]LogCollectionManager: Loaded 0 collections in 0.000931 seconds
+[2020.05.06-14.44.29:085][  0]LogFileCache: Scanning file cache for directory 'D:/Users/Mark Hardwick/Documents/GitHub/Saves/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Collections/' took 0.01s
+[2020.05.06-14.44.29:085][  0]LogFileCache: Scanning file cache for directory 'D:/Users/Mark Hardwick/Documents/GitHub/Saves/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Developers/MarkHardwick/Collections/' took 0.00s
+[2020.05.06-14.44.29:085][  0]LogFileCache: Scanning file cache for directory 'D:/Users/Mark Hardwick/Documents/GitHub/Saves/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Collections/' took 0.01s
+[2020.05.06-14.44.29:085][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.05.06-14.44.29:095][  0]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 2651 classes and 620 folders.
+[2020.05.06-14.44.29:101][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.06-14.44.29:102][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-14.44.29:102][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-14.44.29:103][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-14.44.29:103][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-14.44.29:103][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-14.44.29:104][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-14.44.29:104][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-14.44.29:105][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-14.44.29:105][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-14.44.29:105][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-14.44.29:106][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-14.44.29:106][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-14.44.29:106][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-14.44.29:107][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-14.44.29:107][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-14.44.29:107][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-14.44.29:108][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-14.44.29:108][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-14.44.29:109][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-14.44.29:109][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-14.44.29:109][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-14.44.29:110][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-14.44.29:110][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-14.44.29:111][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-14.44.29:111][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-14.44.29:111][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.06-14.44.29:134][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.05.06-14.44.29:138][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.05.06-14.44.29:154][  0]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.06-14.44.29:157][  0]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.06-14.44.29:162][  0]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.06-14.44.29:232][  0]LogRenderer: Reallocating scene render targets to support 1640x624 Format 26 NumSamples 1 (Frame:1).
+[2020.05.06-14.44.29:348][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.05.06-14.44.29:349][  0]LogLoad: (Engine Initialization) Total time: 9.68 seconds
+[2020.05.06-14.44.29:349][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.06-14.44.29:360][  0]LogOcInput: OculusInput is initialized
+[2020.05.06-14.44.29:383][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.06-14.44.29:468][  0]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.06-14.44.30:382][ 94]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.06-14.44.34:473][585]LogFileCache: Retrieving MD5 hashes for directory 'D:/Users/Mark Hardwick/Documents/GitHub/Saves/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/' took 5.10s
+[2020.05.06-14.45.02:028][865]LogPackageName: Warning: String asset reference "JW_FlameDungeon.FX.SM_FX_Embers" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-14.45.02:028][865]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-14.45.02:154][880]LogPackageName: SearchForPackageOnDisk took   0.119s, but failed to resolve JW_FlameDungeon.
+[2020.05.06-14.45.02:154][880]LogPackageName: Warning: String asset reference "JW_FlameDungeon.FX.SM_FX_Embers" could not be resolved.
+[2020.05.06-14.45.02:245][891]LogPackageName: Warning: String asset reference "JW_FlameDungeon.FX.SM_FogPlane02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-14.45.02:245][891]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-14.45.02:329][901]LogPackageName: SearchForPackageOnDisk took   0.090s, but failed to resolve JW_FlameDungeon.
+[2020.05.06-14.45.02:329][901]LogPackageName: Warning: String asset reference "JW_FlameDungeon.FX.SM_FogPlane02" could not be resolved.
+[2020.05.06-14.45.06:954][456]LogPackageName: Warning: String asset reference "StaticMesh'FX_Meshes_IB.SM_Debris_Box_RadialFull'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-14.45.06:954][456]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-14.45.07:046][467]LogPackageName: SearchForPackageOnDisk took   0.094s, but failed to resolve StaticMesh'FX_Meshes_IB.
+[2020.05.06-14.45.07:046][467]LogPackageName: Warning: String asset reference "StaticMesh'FX_Meshes_IB.SM_Debris_Box_RadialFull'" could not be resolved.
+[2020.05.06-14.45.07:313][499]LogPackageName: Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-14.45.07:313][499]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-14.45.07:404][510]LogPackageName: SearchForPackageOnDisk took   0.092s, but failed to resolve JW_Ice_Mountain.
+[2020.05.06-14.45.07:405][510]LogPackageName: Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2020.05.06-14.45.07:596][533]LogPackageName: Warning: String asset reference "FX_Meshes.UI.SM_SelectionMesh_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-14.45.07:596][533]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-14.45.07:696][545]LogPackageName: SearchForPackageOnDisk took   0.098s, but failed to resolve FX_Meshes.
+[2020.05.06-14.45.07:696][545]LogPackageName: Warning: String asset reference "FX_Meshes.UI.SM_SelectionMesh_01" could not be resolved.
+[2020.05.06-14.45.07:713][547]LogPackageName: Warning: String asset reference "FX_Meshes.UI.SM_SelectionMesh_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-14.45.07:713][547]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-14.45.07:806][558]LogPackageName: SearchForPackageOnDisk took   0.095s, but failed to resolve FX_Meshes.
+[2020.05.06-14.45.07:806][558]LogPackageName: Warning: String asset reference "FX_Meshes.UI.SM_SelectionMesh_01" could not be resolved.
+[2020.05.06-14.45.07:954][576]LogPackageName: Warning: String asset reference "'FX_Ambient.Meshes.SM_Bats'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-14.45.07:954][576]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-14.45.08:055][588]LogPackageName: SearchForPackageOnDisk took   0.099s, but failed to resolve 'FX_Ambient.
+[2020.05.06-14.45.08:055][588]LogPackageName: Warning: String asset reference "'FX_Ambient.Meshes.SM_Bats'" could not be resolved.
+[2020.05.06-14.45.08:138][598]LogPackageName: Warning: String asset reference "CastleEffects.TouchToMoveArrow" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-14.45.08:138][598]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-14.45.08:229][609]LogPackageName: SearchForPackageOnDisk took   0.093s, but failed to resolve CastleEffects.
+[2020.05.06-14.45.08:229][609]LogPackageName: Warning: String asset reference "CastleEffects.TouchToMoveArrow" could not be resolved.
+[2020.05.06-14.45.08:871][686]LogPackageName: Warning: String asset reference "StaticMesh'FX_Meshes.Fire.SM_Dungeon_Pipes_Lava01_Cool'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-14.45.08:871][686]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-14.45.08:963][697]LogPackageName: SearchForPackageOnDisk took   0.091s, but failed to resolve StaticMesh'FX_Meshes.
+[2020.05.06-14.45.08:963][697]LogPackageName: Warning: String asset reference "StaticMesh'FX_Meshes.Fire.SM_Dungeon_Pipes_Lava01_Cool'" could not be resolved.
+[2020.05.06-14.45.08:971][698]LogPackageName: Warning: String asset reference "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-14.45.08:971][698]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-14.45.09:063][709]LogPackageName: SearchForPackageOnDisk took   0.089s to resolve m_FogSheet_02.
+[2020.05.06-14.45.09:288][736]LogPackageName: Warning: String asset reference "FX_Test_LAN.Meshes.SM_IceWall01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-14.45.09:288][736]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-14.45.09:379][747]LogPackageName: SearchForPackageOnDisk took   0.093s, but failed to resolve FX_Test_LAN.
+[2020.05.06-14.45.09:379][747]LogPackageName: Warning: String asset reference "FX_Test_LAN.Meshes.SM_IceWall01" could not be resolved.
+[2020.05.06-14.45.10:405][870]LogPackageName: Warning: String asset reference "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-14.45.10:405][870]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-14.45.10:496][881]LogPackageName: SearchForPackageOnDisk took   0.089s to resolve m_FogSheet_02.
+[2020.05.06-14.45.10:496][881]LogPackageName: Warning: String asset reference "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-14.45.10:496][881]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-14.45.10:588][892]LogPackageName: SearchForPackageOnDisk took   0.089s to resolve m_FogSheet_02.
+[2020.05.06-14.45.10:596][893]LogPackageName: Warning: String asset reference "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-14.45.10:596][893]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-14.45.10:680][903]LogPackageName: SearchForPackageOnDisk took   0.090s to resolve m_FogSheet_02.
+[2020.05.06-14.45.45:660][ 95]LogPackageName: Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-14.45.45:660][ 95]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-14.45.45:743][105]LogPackageName: SearchForPackageOnDisk took   0.088s, but failed to resolve JW_Ice_Mountain.
+[2020.05.06-14.45.45:743][105]LogPackageName: Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2020.05.06-14.45.45:785][110]LogPackageName: Warning: String asset reference "S_Survival_CA_Chicken_02.SM.S_Survival_CA_Chicken_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-14.45.45:785][110]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-14.45.45:860][119]LogPackageName: SearchForPackageOnDisk took   0.079s to resolve S_Survival_CA_Chicken_02.
+[2020.05.06-14.45.46:610][209]LogPackageName: Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-14.45.46:610][209]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-14.45.46:693][219]LogPackageName: SearchForPackageOnDisk took   0.081s, but failed to resolve JW_Ice_Mountain.
+[2020.05.06-14.45.46:693][219]LogPackageName: Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2020.05.06-14.45.46:768][228]LogPackageName: Warning: String asset reference "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.06-14.45.46:769][228]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.06-14.45.46:843][237]LogPackageName: SearchForPackageOnDisk took   0.081s, but failed to resolve Env_ALL_Artifacts.
+[2020.05.06-14.45.46:843][237]LogPackageName: Warning: String asset reference "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" could not be resolved.
+[2020.05.06-14.45.49:353][537]LogAssetRegistry: Asset discovery search completed in 84.6624 seconds
+[2020.05.06-14.45.49:355][537]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.05.06-14.45.49:355][537]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000052 seconds (updated 0 objects)
+[2020.05.06-14.45.52:564][921]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.06-14.47.04:037][429]LogLinker: Warning: Can't find file '/Game/Designers/Blueprints/Flintlock/Updated/Merged_Flintlock_Mat_Inst'
+[2020.05.06-14.47.04:037][429]LoadErrors: Failed to load /Game/Move_Fodler/Merged_Flintlock.Merged_Flintlock Referenced by Default__BP_Flintlock_C
+[2020.05.06-14.47.04:037][429]LogLinker: Warning: Can't find file for asset '/Game/Designers/Blueprints/Flintlock/Updated/Merged_Flintlock_Mat_Inst' while loading ../../../../../../Users/Mark Hardwick/Documents/GitHub/Saves/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Move_Fodler/Merged_Flintlock.uasset.
+[2020.05.06-14.47.04:037][429]LoadErrors: Error: /Game/Move_Fodler/Merged_Flintlock : Can't find file for asset. /Game/Designers/Blueprints/Flintlock/Updated/Merged_Flintlock_Mat_Inst
+[2020.05.06-14.47.04:038][429]LogLinker: Warning: Can't find file '/Game/Designers/Blueprints/Flintlock/Updated/Merged_Flintlock_Mat_Inst'
+[2020.05.06-14.47.04:038][429]LogLinker: Warning: Can't find file for asset '/Game/Designers/Blueprints/Flintlock/Updated/Merged_Flintlock_Mat_Inst' while loading ../../../../../../Users/Mark Hardwick/Documents/GitHub/Saves/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Move_Fodler/Merged_Flintlock.uasset.
+[2020.05.06-14.47.05:978][429]LogLinker: Warning: Can't find file '/Game/Designers/Level_Maps/MP_Level_One_Point_Three_HCWS_Test_BuiltData'
+[2020.05.06-14.47.05:978][429]LogLinker: Warning: Can't find file for asset '/Game/Designers/Level_Maps/MP_Level_One_Point_Three_HCWS_Test_BuiltData' while loading ../../../../../../Users/Mark Hardwick/Documents/GitHub/Saves/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/MP_Level_One_Point_Three_HCWS_Test.umap.
+[2020.05.06-14.47.05:979][429]LoadErrors: Error: /Game/Designers/Level_Maps/MP_Level_One_Point_Three_HCWS_Test : Can't find file for asset. /Game/Designers/Level_Maps/MP_Level_One_Point_Three_HCWS_Test_BuiltData
+[2020.05.06-14.47.06:100][429]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Texture/Textures/T_BasicGrid_M'
+[2020.05.06-14.47.06:100][429]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Texture/Textures/T_BasicGrid_M' while loading ../../../../../../Users/Mark Hardwick/Documents/GitHub/Saves/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Geometry/LevelGeometry/Materials/MaterialFunctions/Texture/Tex_SimpleGrid.uasset.
+[2020.05.06-14.47.06:100][429]LoadErrors: Error: /Game/Geometry/LevelGeometry/Materials/MaterialFunctions/Texture/Tex_SimpleGrid : Can't find file for asset. /Game/LevelGeometry/Texture/Textures/T_BasicGrid_M
+[2020.05.06-14.47.06:100][429]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Texture/Textures/T_BasicGrid_M'
+[2020.05.06-14.47.06:101][429]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Texture/Textures/T_BasicGrid_M' while loading ../../../../../../Users/Mark Hardwick/Documents/GitHub/Saves/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Geometry/LevelGeometry/Materials/MaterialFunctions/Texture/Tex_SimpleGrid.uasset.
+[2020.05.06-14.47.07:098][429]LogLinker: Warning: Can't find file '/Game/Designers/Level_Maps/MP_Level_One_Point_Three_HCWS_Test_BuiltData'
+[2020.05.06-14.47.07:098][429]LogLinker: Warning: Can't find file for asset '/Game/Designers/Level_Maps/MP_Level_One_Point_Three_HCWS_Test_BuiltData' while loading ../../../../../../Users/Mark Hardwick/Documents/GitHub/Saves/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/MP_Level_One_Point_Three_HCWS_Test.umap.
+[2020.05.06-14.47.07:099][429]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.05.06-14.47.07:099][429]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading ../../../../../../Users/Mark Hardwick/Documents/GitHub/Saves/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Geometry/LevelGeometry/SM_Arch.uasset.
+[2020.05.06-14.47.07:099][429]LoadErrors: Error: /Game/Geometry/LevelGeometry/SM_Arch : Can't find file for asset. /Game/LevelGeometry/Materials/Mat_LevelArchitecture
+[2020.05.06-14.47.07:100][429]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.05.06-14.47.07:100][429]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading ../../../../../../Users/Mark Hardwick/Documents/GitHub/Saves/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Geometry/LevelGeometry/SM_Arch.uasset.
+[2020.05.06-14.47.07:101][429]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.05.06-14.47.07:101][429]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading ../../../../../../Users/Mark Hardwick/Documents/GitHub/Saves/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Geometry/LevelGeometry/SM_Box.uasset.
+[2020.05.06-14.47.07:101][429]LoadErrors: Error: /Game/Geometry/LevelGeometry/SM_Box : Can't find file for asset. /Game/LevelGeometry/Materials/Mat_LevelArchitecture
+[2020.05.06-14.47.07:101][429]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.05.06-14.47.07:101][429]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading ../../../../../../Users/Mark Hardwick/Documents/GitHub/Saves/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Geometry/LevelGeometry/SM_Box.uasset.
+[2020.05.06-14.47.07:120][429]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.05.06-14.47.07:120][429]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading ../../../../../../Users/Mark Hardwick/Documents/GitHub/Saves/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Geometry/LevelGeometry/SM_Slope.uasset.
+[2020.05.06-14.47.07:120][429]LoadErrors: Error: /Game/Geometry/LevelGeometry/SM_Slope : Can't find file for asset. /Game/LevelGeometry/Materials/Mat_LevelArchitecture
+[2020.05.06-14.47.07:120][429]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.05.06-14.47.07:121][429]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading ../../../../../../Users/Mark Hardwick/Documents/GitHub/Saves/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Geometry/LevelGeometry/SM_Slope.uasset.
+[2020.05.06-14.47.07:140][429]LogLinker: Warning: Can't find file '/Game/Designers/Level_Maps/MP_Level_One_Point_Three_HCWS_Test_BuiltData'
+[2020.05.06-14.47.07:140][429]LogLinker: Warning: Can't find file for asset '/Game/Designers/Level_Maps/MP_Level_One_Point_Three_HCWS_Test_BuiltData' while loading NULL.
+[2020.05.06-14.47.07:140][429]LogLinker: Warning: Can't find file '/Game/Designers/Level_Maps/MP_Level_One_Point_Three_HCWS_Test_BuiltData'
+[2020.05.06-14.47.07:140][429]LogLinker: Warning: Can't find file for asset '/Game/Designers/Level_Maps/MP_Level_One_Point_Three_HCWS_Test_BuiltData' while loading NULL.
+[2020.05.06-14.47.07:664][429]LogTexture: Display: Building textures: COTD_-_Playtest_2 (BGRA8, 1440X813)
+[2020.05.06-14.47.07:664][429]LogTexture: Display: Building textures: JK_Barrel_LP_lambert1_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.05.06-14.47.07:666][429]LogLinker: Warning: Can't find file '/Game/Designers/Blueprints/Flintlock/Updated/Merged_Flintlock_Mat_Inst'
+[2020.05.06-14.47.07:666][429]LoadErrors: Failed to load /Game/Designers/Blueprints/Flintlock/Updated/Merged_Flintlock_Mat_Inst.Merged_Flintlock_Mat_Inst Referenced by Merged_Flintlock
+[2020.05.06-14.47.07:666][429]LogLinker: Warning: Can't find file for asset '/Game/Designers/Blueprints/Flintlock/Updated/Merged_Flintlock_Mat_Inst' while loading NULL.
+[2020.05.06-14.47.07:667][429]LogLinker: Warning: Can't find file '/Game/Designers/Blueprints/Flintlock/Updated/Merged_Flintlock_Mat_Inst'
+[2020.05.06-14.47.07:667][429]LogLinker: Warning: Can't find file for asset '/Game/Designers/Blueprints/Flintlock/Updated/Merged_Flintlock_Mat_Inst' while loading NULL.
+[2020.05.06-14.47.07:911][429]LogTexture: Display: Building textures: JK_Barrel_LP_lambert1_BaseColor (AutoDXT, 2048X2048)
+[2020.05.06-14.47.07:918][429]LogLinker: Warning: Can't find file '/Game/Designers/Level_Maps/MP_Level_One_Point_Three_HCWS_Test_BuiltData'
+[2020.05.06-14.47.07:918][429]LoadErrors: Failed to load /Game/Designers/Level_Maps/MP_Level_One_Point_Three_HCWS_Test_BuiltData.MP_Level_One_Point_Three_HCWS_Test_BuiltData Referenced by PersistentLevel
+[2020.05.06-14.47.07:918][429]LogLinker: Warning: Can't find file for asset '/Game/Designers/Level_Maps/MP_Level_One_Point_Three_HCWS_Test_BuiltData' while loading NULL.
+[2020.05.06-14.47.07:994][429]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.05.06-14.47.07:995][429]LoadErrors: Failed to load /Game/LevelGeometry/Materials/Mat_LevelArchitecture.Mat_LevelArchitecture Referenced by SM_Slope
+[2020.05.06-14.47.07:995][429]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading NULL.
+[2020.05.06-14.47.07:995][429]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.05.06-14.47.07:995][429]LoadErrors: Failed to load /Game/LevelGeometry/Materials/Mat_LevelArchitecture.Mat_LevelArchitecture Referenced by SM_Box
+[2020.05.06-14.47.07:996][429]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading NULL.
+[2020.05.06-14.47.07:996][429]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Materials/Mat_LevelArchitecture'
+[2020.05.06-14.47.07:996][429]LoadErrors: Failed to load /Game/LevelGeometry/Materials/Mat_LevelArchitecture.Mat_LevelArchitecture Referenced by SM_Arch
+[2020.05.06-14.47.07:996][429]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Materials/Mat_LevelArchitecture' while loading NULL.
+[2020.05.06-14.47.08:457][429]LogTexture: Display: Building textures: JK_Barrel_LP_lambert1_Normal (BC5, 2048X2048)
+[2020.05.06-14.47.08:460][429]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Texture/Textures/T_BasicGrid_M'
+[2020.05.06-14.47.08:460][429]LoadErrors: Failed to load /Game/LevelGeometry/Texture/Textures/T_BasicGrid_M.T_BasicGrid_M Referenced by MaterialExpressionTextureObject_0
+[2020.05.06-14.47.08:460][429]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Texture/Textures/T_BasicGrid_M' while loading NULL.
+[2020.05.06-14.47.08:668][429]LogTexture: Display: Building textures: T_Torch_BC (AutoDXT, 4096X4096)
+[2020.05.06-14.47.08:760][429]LogMaterial: Display: Missing cached shader map for material greyflat, compiling. 
+[2020.05.06-14.47.08:909][429]LogShaderCompilers: Display: Shaders left to compile 69
+[2020.05.06-14.47.08:909][429]LogShaderCompilers: Display: Shaders left to compile 59
+[2020.05.06-14.47.08:909][429]LogShaderCompilers: Display: Shaders left to compile 49
+[2020.05.06-14.47.08:909][429]LogShaderCompilers: Display: Shaders left to compile 39
+[2020.05.06-14.47.08:909][429]LogShaderCompilers: Display: Shaders left to compile 29
+[2020.05.06-14.47.08:909][429]LogShaderCompilers: Display: Shaders left to compile 19
+[2020.05.06-14.47.08:909][429]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.05.06-14.47.08:974][429]LogMaterial: Display: Missing cached shader map for material M_BaseColor, compiling. 
+[2020.05.06-14.47.09:120][429]LogTexture: Display: Building textures: T_Torch_ORM (AutoDXT, 4096X4096)
+[2020.05.06-14.47.09:296][429]LogShaderCompilers: Display: Shaders left to compile 69
+[2020.05.06-14.47.09:296][429]LogShaderCompilers: Display: Shaders left to compile 59
+[2020.05.06-14.47.09:296][429]LogShaderCompilers: Display: Shaders left to compile 49
+[2020.05.06-14.47.09:296][429]LogShaderCompilers: Display: Shaders left to compile 39
+[2020.05.06-14.47.09:296][429]LogShaderCompilers: Display: Shaders left to compile 29
+[2020.05.06-14.47.09:296][429]LogMaterial: Display: Missing cached shader map for material lambert5, compiling. 
+[2020.05.06-14.47.09:408][429]LogMaterial: Display: Missing cached shader map for material M_TeleportPreviews, compiling. 
+[2020.05.06-14.47.09:455][429]LogStaticMesh: Building static mesh sm_pillar_trim...
+[2020.05.06-14.47.09:516][429]LogStaticMesh: Built static mesh [0.06s] /Game/Artists/Assets/harry/sm_pillar_trim.sm_pillar_trim
+[2020.05.06-14.47.09:519][429]LogStaticMesh: Building static mesh sm_floor_trim_TrimFloorOriginal...
+[2020.05.06-14.47.09:526][429]LogStaticMesh: Built static mesh [0.01s] /Game/Artists/Assets/harry/sm_floor_trim_TrimFloorOriginal.sm_floor_trim_TrimFloorOriginal
+[2020.05.06-14.47.09:558][429]LogMaterial: Display: Missing cached shader map for material M_SplineArcMat, compiling. 
+[2020.05.06-14.47.09:672][429]LogMaterial: Display: Missing cached shader map for material Menu, compiling. 
+[2020.05.06-14.47.09:795][429]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave WAV_Rain_H...
+[2020.05.06-14.47.10:581][429]LogTexture: Display: Building textures: T_Torch_N (BC5, 4096X4096)
+[2020.05.06-14.47.10:581][429]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 5668328 while cooking SoundWave /Game/Designers/Audio/WAV_Rain_H.WAV_Rain_H.
+[2020.05.06-14.47.10:589][429]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.05.06-14.47.10:635][429]LogSkeletalMesh: Building Skeletal Mesh SM_TargetDummy_LM...
+[2020.05.06-14.47.10:638][429]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Artists/TargetDummy/SM_TargetDummy_LM.SM_TargetDummy_LM
+[2020.05.06-14.47.10:688][429]LogStaticMesh: Building static mesh SM_Chain02_BF...
+[2020.05.06-14.47.10:867][429]LogStaticMesh: Built static mesh [0.18s] /Game/Artists/Assets/Throne_Room/Special_Assets/SM_Chain02_BF.SM_Chain02_BF
+[2020.05.06-14.47.11:016][429]LogStaticMesh: Building static mesh SM_Chain01_BF...
+[2020.05.06-14.47.12:206][429]LogStaticMesh: Built static mesh [1.19s] /Game/Artists/Assets/Throne_Room/Special_Assets/SM_Chain01_BF.SM_Chain01_BF
+[2020.05.06-14.47.12:330][429]LogStaticMesh: Building static mesh SM_Skull_Blockout...
+[2020.05.06-14.47.12:413][429]LogStaticMesh: Built static mesh [0.08s] /Game/Artists/Assets/Throne_Room/SM_Skull_Blockout.SM_Skull_Blockout
+[2020.05.06-14.47.12:421][429]LogStaticMesh: Building static mesh sm_wall_trimBigTopWindow...
+[2020.05.06-14.47.12:445][429]LogStaticMesh: Built static mesh [0.02s] /Game/Artists/Assets/harry/sm_wall_trimBigTopWindow.sm_wall_trimBigTopWindow
+[2020.05.06-14.47.12:446][429]LogStaticMesh: Building static mesh sm_wall_trimBigTop...
+[2020.05.06-14.47.12:448][429]LogStaticMesh: Built static mesh [0.00s] /Game/Artists/Assets/harry/sm_wall_trimBigTop.sm_wall_trimBigTop
+[2020.05.06-14.47.12:450][429]LogStaticMesh: Building static mesh sm_wall_trimBig1x1...
+[2020.05.06-14.47.12:459][429]LogStaticMesh: Built static mesh [0.01s] /Game/Artists/Assets/harry/sm_wall_trimBig1x1.sm_wall_trimBig1x1
+[2020.05.06-14.47.12:462][429]LogStaticMesh: Building static mesh sm_wall_trimBig...
+[2020.05.06-14.47.12:470][429]LogStaticMesh: Built static mesh [0.01s] /Game/Artists/Assets/harry/sm_wall_trimBig.sm_wall_trimBig
+[2020.05.06-14.47.12:474][429]LogStaticMesh: Building static mesh sm_wall_trim_TrimWall10...
+[2020.05.06-14.47.12:486][429]LogStaticMesh: Built static mesh [0.01s] /Game/Artists/Assets/harry/sm_wall_trim_TrimWall10.sm_wall_trim_TrimWall10
+[2020.05.06-14.47.12:489][429]LogStaticMesh: Building static mesh sm_roofstraight_trim...
+[2020.05.06-14.47.12:494][429]LogStaticMesh: Built static mesh [0.01s] /Game/Artists/Assets/harry/sm_roofstraight_trim.sm_roofstraight_trim
+[2020.05.06-14.47.12:543][429]LogMaterial: Display: Missing cached shader map for material M_Master, compiling. 
+[2020.05.06-14.47.12:606][429]LogStaticMesh: Building static mesh SM_Wooden_Barrel_Blockout...
+[2020.05.06-14.47.12:675][429]LogStaticMesh: Built static mesh [0.07s] /Game/Artists/Assets/Dungeon/Walls_Doors_Floors/SM_Wooden_Barrel_Blockout.SM_Wooden_Barrel_Blockout
+[2020.05.06-14.47.12:684][429]LogStaticMesh: Building static mesh SM_Crate_AS...
+[2020.05.06-14.47.12:689][429]LogStaticMesh: Built static mesh [0.01s] /Game/Artists/Assets/Dungeon/Walls_Doors_Floors/SM_Crate_AS.SM_Crate_AS
+[2020.05.06-14.47.12:723][429]LogMaterial: Display: Missing cached shader map for material Flintlock_Disintegration, compiling. 
+[2020.05.06-14.47.12:977][429]LogMaterial: Display: Missing cached shader map for material M_ArcEndpoint, compiling. 
+[2020.05.06-14.47.13:027][429]LogMaterial: Display: Missing cached shader map for material M_MovePoint_2, compiling. 
+[2020.05.06-14.47.13:140][429]LogStaticMesh: Building static mesh sm_roofstraight1M_trim...
+[2020.05.06-14.47.13:145][429]LogStaticMesh: Built static mesh [0.01s] /Game/Artists/Assets/harry/sm_roofstraight1M_trim.sm_roofstraight1M_trim
+[2020.05.06-14.47.13:149][429]LogStaticMesh: Building static mesh sm_roofConnector_trim...
+[2020.05.06-14.47.13:153][429]LogStaticMesh: Built static mesh [0.01s] /Game/Artists/Assets/harry/sm_roofConnector_trim.sm_roofConnector_trim
+[2020.05.06-14.47.13:156][429]LogStaticMesh: Building static mesh sm_roofArchSingle_trim...
+[2020.05.06-14.47.13:161][429]LogStaticMesh: Built static mesh [0.00s] /Game/Artists/Assets/harry/sm_roofArchSingle_trim.sm_roofArchSingle_trim
+[2020.05.06-14.47.13:164][429]LogStaticMesh: Building static mesh sm_roofArchDouble_trim...
+[2020.05.06-14.47.13:170][429]LogStaticMesh: Built static mesh [0.01s] /Game/Artists/Assets/harry/sm_roofArchDouble_trim.sm_roofArchDouble_trim
+[2020.05.06-14.47.13:176][429]LogMaterial: Display: Missing cached shader map for material TrimSheet1, compiling. 
+[2020.05.06-14.47.13:214][429]LogStaticMesh: Building static mesh sm_pillarBig_trim...
+[2020.05.06-14.47.13:234][429]LogStaticMesh: Built static mesh [0.02s] /Game/Artists/Assets/harry/sm_pillarBig_trim.sm_pillarBig_trim
+[2020.05.06-14.47.13:292][429]LogMaterial: Display: Missing cached shader map for material M_Add_Sprite_SubUV_Master, compiling. 
+[2020.05.06-14.47.13:328][429]LogMaterial: Display: Missing cached shader map for material M_Trans_Sprite_Master, compiling. 
+[2020.05.06-14.47.13:357][429]LogMaterial: Display: Missing cached shader map for material M_Add_Sprite_Master, compiling. 
+[2020.05.06-14.47.13:387][429]LogMaterial: Display: Missing cached shader map for material M_Add_Trail_2Sided_Pan_Master, compiling. 
+[2020.05.06-14.47.13:415][429]LogMaterial: Display: Missing cached shader map for material M_Add_Trail_2Sided_Pan_Master, compiling. 
+[2020.05.06-14.47.13:498][429]LogMaterial: Display: Missing cached shader map for material LocalFog, compiling. 
+[2020.05.06-14.47.13:606][429]LogMaterial: Display: Missing cached shader map for material M_Rain, compiling. 
+[2020.05.06-14.47.13:665][429]LogMaterial: Display: Missing cached shader map for material M_MovePoint_1, compiling. 
+[2020.05.06-14.47.13:708][429]LogStaticMesh: Building static mesh sm_TorchHB...
+[2020.05.06-14.47.13:717][429]LogStaticMesh: Built static mesh [0.01s] /Game/Artists/Assets/Castle_Level/Special_Assets/sm_TorchHB.sm_TorchHB
+[2020.05.06-14.47.13:760][429]LogShaderCompilers: Display: Shaders left to compile 755
+[2020.05.06-14.47.13:760][429]LogStaticMesh: Building static mesh SM_Bench_Wood_Blockout_SA...
+[2020.05.06-14.47.13:784][429]LogStaticMesh: Built static mesh [0.02s] /Game/Artists/Assets/Castle_Level/Special_Assets/SM_Bench_Wood_Blockout_SA.SM_Bench_Wood_Blockout_SA
+[2020.05.06-14.47.13:815][429]LogMaterial: Display: Missing cached shader map for material M_smoke_subUV, compiling. 
+[2020.05.06-14.47.13:892][429]LogMaterial: Display: Missing cached shader map for material M_radial_ramp, compiling. 
+[2020.05.06-14.47.13:929][429]LogMaterial: Display: Missing cached shader map for material m_flare_01, compiling. 
+[2020.05.06-14.47.13:959][429]LogMaterial: Display: Missing cached shader map for material M_explosion_subUV, compiling. 
+[2020.05.06-14.47.14:086][429]LogMaterial: Display: Missing cached shader map for material M_Burst, compiling. 
+[2020.05.06-14.47.14:118][429]LogStaticMesh: Building static mesh sm_archedDoorway_trim_pPlane32...
+[2020.05.06-14.47.14:160][429]LogStaticMesh: Built static mesh [0.04s] /Game/Artists/Assets/harry/sm_archedDoorway_trim_pPlane32.sm_archedDoorway_trim_pPlane32
+[2020.05.06-14.47.14:168][429]LogStaticMesh: Building static mesh sm_archedDoorwayBig_trim...
+[2020.05.06-14.47.14:219][429]LogStaticMesh: Built static mesh [0.05s] /Game/Artists/Assets/harry/sm_archedDoorwayBig_trim.sm_archedDoorwayBig_trim
+[2020.05.06-14.47.14:326][429]LogMaterial: Display: Missing cached shader map for material M_Playtest_Board_1, compiling. 
+[2020.05.06-14.47.14:469][429]LogShaderCompilers: Display: Shaders left to compile 993
+[2020.05.06-14.47.14:757][429]LogShaderCompilers: Display: Shaders left to compile 983
+[2020.05.06-14.47.14:973][429]LogShaderCompilers: Display: Shaders left to compile 973
+[2020.05.06-14.47.15:129][429]LogShaderCompilers: Display: Shaders left to compile 963
+[2020.05.06-14.47.15:129][429]LogMaterial: Display: Missing cached shader map for material GreyFlat_disintegration, compiling. 
+[2020.05.06-14.47.15:225][429]LogShaderCompilers: Display: Shaders left to compile 953
+[2020.05.06-14.47.15:231][429]LogMaterial: Display: Missing cached shader map for material TrimSheet, compiling. 
+[2020.05.06-14.47.15:308][429]LogShaderCompilers: Display: Shaders left to compile 1117
+[2020.05.06-14.47.15:308][429]LogMaterial: Display: Missing cached shader map for material Ch30_Body1, compiling. 
+[2020.05.06-14.47.15:472][429]LogMaterial: Display: Missing cached shader map for material Ch30_Body, compiling. 
+[2020.05.06-14.47.15:525][429]LogMaterial: Display: Missing cached shader map for material M_Playtest_Board_2, compiling. 
+[2020.05.06-14.47.15:567][429]LogAIModule: Creating AISystem for world MP_Level_One_Point_Three_HCWS_Test
+[2020.05.06-14.47.15:773][429]LogShaderCompilers: Display: Shaders left to compile 1258
+[2020.05.06-14.47.15:773][429]LogShaderCompilers: Display: Shaders left to compile 1248
+[2020.05.06-14.47.15:785][429]LogAssetEditorManager: Opening Asset editor for World /Game/Designers/Level_Maps/MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test
+[2020.05.06-14.47.15:837][429]LogShaderCompilers: Display: Shaders left to compile 1238
+[2020.05.06-14.47.15:864][429]LightingResults: New page: Lighting Build
+[2020.05.06-14.47.15:866][429]LoadErrors: New page: Loading map: MP_Level_One_Point_Three_HCWS_Test.umap
+[2020.05.06-14.47.15:867][429]MapCheck: New page: Map Check
+[2020.05.06-14.47.15:867][429]LightingResults: New page: Lighting Build
+[2020.05.06-14.47.16:158][429]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.06-14.47.16:274][429]LogShaderCompilers: Display: Shaders left to compile 1228
+[2020.05.06-14.47.16:274][429]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.06-14.47.16:274][429]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.376ms to complete.
+[2020.05.06-14.47.16:274][429]LogFileHelpers: Loading map 'MP_Level_One_Point_Three_HCWS_Test' took 0.412
+[2020.05.06-14.47.16:362][429]LogShaderCompilers: Display: Shaders left to compile 1218
+[2020.05.06-14.47.16:799][435]LogShaderCompilers: Display: Shaders left to compile 1208
+[2020.05.06-14.47.17:180][455]LogShaderCompilers: Display: Shaders left to compile 1198
+[2020.05.06-14.47.17:823][483]LogShaderCompilers: Display: Shaders left to compile 1188
+[2020.05.06-14.47.18:067][492]LogShaderCompilers: Display: Shaders left to compile 1178
+[2020.05.06-14.47.18:356][506]LogShaderCompilers: Display: Shaders left to compile 1168
+[2020.05.06-14.47.18:396][507]LogShaderCompilers: Display: Shaders left to compile 1158
+[2020.05.06-14.47.18:805][531]LogShaderCompilers: Display: Shaders left to compile 1148
+[2020.05.06-14.47.18:980][542]LogShaderCompilers: Display: Shaders left to compile 1138
+[2020.05.06-14.47.19:119][551]LogShaderCompilers: Display: Shaders left to compile 1128
+[2020.05.06-14.47.19:385][568]LogShaderCompilers: Display: Shaders left to compile 1118
+[2020.05.06-14.47.19:745][590]LogShaderCompilers: Display: Shaders left to compile 1108
+[2020.05.06-14.47.19:915][600]LogShaderCompilers: Display: Shaders left to compile 1098
+[2020.05.06-14.47.21:180][677]LogShaderCompilers: Display: Shaders left to compile 1088
+[2020.05.06-14.47.21:421][692]LogShaderCompilers: Display: Shaders left to compile 1078
+[2020.05.06-14.47.21:521][698]LogShaderCompilers: Display: Shaders left to compile 1068
+[2020.05.06-14.47.21:868][720]LogShaderCompilers: Display: Shaders left to compile 1058
+[2020.05.06-14.47.22:227][743]LogShaderCompilers: Display: Shaders left to compile 1048
+[2020.05.06-14.47.22:357][751]LogShaderCompilers: Display: Shaders left to compile 1038
+[2020.05.06-14.47.22:400][754]LogShaderCompilers: Display: Shaders left to compile 1028
+[2020.05.06-14.47.22:773][775]LogShaderCompilers: Display: Shaders left to compile 1018
+[2020.05.06-14.47.22:773][775]LogShaderCompilers: Display: Shaders left to compile 1008
+[2020.05.06-14.47.23:060][791]LogShaderCompilers: Display: Shaders left to compile 998
+[2020.05.06-14.47.23:092][793]LogShaderCompilers: Display: Shaders left to compile 988
+[2020.05.06-14.47.23:607][826]LogShaderCompilers: Display: Shaders left to compile 978
+[2020.05.06-14.47.23:979][849]LogShaderCompilers: Display: Shaders left to compile 968
+[2020.05.06-14.47.24:071][856]LogShaderCompilers: Display: Shaders left to compile 958
+[2020.05.06-14.47.24:127][860]LogShaderCompilers: Display: Shaders left to compile 948
+[2020.05.06-14.47.24:204][864]LogShaderCompilers: Display: Shaders left to compile 938
+[2020.05.06-14.47.24:985][913]LogShaderCompilers: Display: Shaders left to compile 928
+[2020.05.06-14.47.26:509][  9]LogShaderCompilers: Display: Shaders left to compile 918
+[2020.05.06-14.47.26:604][ 15]LogShaderCompilers: Display: Shaders left to compile 908
+[2020.05.06-14.47.26:759][ 24]LogShaderCompilers: Display: Shaders left to compile 898
+[2020.05.06-14.47.27:192][ 52]LogShaderCompilers: Display: Shaders left to compile 888
+[2020.05.06-14.47.28:051][103]LogShaderCompilers: Display: Shaders left to compile 878
+[2020.05.06-14.47.28:094][106]LogShaderCompilers: Display: Shaders left to compile 868
+[2020.05.06-14.47.28:158][110]LogShaderCompilers: Display: Shaders left to compile 858
+[2020.05.06-14.47.28:354][122]LogShaderCompilers: Display: Shaders left to compile 848
+[2020.05.06-14.47.28:558][135]LogShaderCompilers: Display: Shaders left to compile 838
+[2020.05.06-14.47.28:618][138]LogShaderCompilers: Display: Shaders left to compile 828
+[2020.05.06-14.47.28:669][141]LogShaderCompilers: Display: Shaders left to compile 818
+[2020.05.06-14.47.29:075][167]LogShaderCompilers: Display: Shaders left to compile 808
+[2020.05.06-14.47.29:705][206]LogShaderCompilers: Display: Shaders left to compile 798
+[2020.05.06-14.47.30:173][234]LogShaderCompilers: Display: Shaders left to compile 788
+[2020.05.06-14.47.30:376][247]LogShaderCompilers: Display: Shaders left to compile 778
+[2020.05.06-14.47.30:604][262]LogShaderCompilers: Display: Shaders left to compile 768
+[2020.05.06-14.47.31:066][290]LogShaderCompilers: Display: Shaders left to compile 758
+[2020.05.06-14.47.31:196][299]LogShaderCompilers: Display: Shaders left to compile 748
+[2020.05.06-14.47.31:474][317]LogShaderCompilers: Display: Shaders left to compile 738
+[2020.05.06-14.47.31:708][331]LogShaderCompilers: Display: Shaders left to compile 728
+[2020.05.06-14.47.31:901][343]LogShaderCompilers: Display: Shaders left to compile 718
+[2020.05.06-14.47.32:189][361]LogShaderCompilers: Display: Shaders left to compile 708
+[2020.05.06-14.47.32:253][365]LogShaderCompilers: Display: Shaders left to compile 698
+[2020.05.06-14.47.32:752][396]LogShaderCompilers: Display: Shaders left to compile 688
+[2020.05.06-14.47.32:902][406]LogShaderCompilers: Display: Shaders left to compile 678
+[2020.05.06-14.47.33:257][428]LogShaderCompilers: Display: Shaders left to compile 668
+[2020.05.06-14.47.33:481][443]LogShaderCompilers: Display: Shaders left to compile 658
+[2020.05.06-14.47.33:719][458]LogShaderCompilers: Display: Shaders left to compile 648
+[2020.05.06-14.47.33:914][471]LogShaderCompilers: Display: Shaders left to compile 638
+[2020.05.06-14.47.34:184][486]LogShaderCompilers: Display: Shaders left to compile 628
+[2020.05.06-14.47.35:130][545]LogShaderCompilers: Display: Shaders left to compile 618
+[2020.05.06-14.47.36:126][607]LogShaderCompilers: Display: Shaders left to compile 608
+[2020.05.06-14.47.36:734][645]LogShaderCompilers: Display: Shaders left to compile 598
+[2020.05.06-14.47.37:318][682]LogShaderCompilers: Display: Shaders left to compile 588
+[2020.05.06-14.47.38:114][732]LogShaderCompilers: Display: Shaders left to compile 578
+[2020.05.06-14.47.38:348][746]LogShaderCompilers: Display: Shaders left to compile 568
+[2020.05.06-14.47.38:380][748]LogShaderCompilers: Display: Shaders left to compile 558
+[2020.05.06-14.47.38:489][755]LogShaderCompilers: Display: Shaders left to compile 548
+[2020.05.06-14.47.38:519][757]LogShaderCompilers: Display: Shaders left to compile 538
+[2020.05.06-14.47.38:853][777]LogShaderCompilers: Display: Shaders left to compile 528
+[2020.05.06-14.47.38:853][777]LogShaderCompilers: Display: Shaders left to compile 518
+[2020.05.06-14.47.38:961][781]LogShaderCompilers: Display: Shaders left to compile 508
+[2020.05.06-14.47.39:296][801]LogShaderCompilers: Display: Shaders left to compile 498
+[2020.05.06-14.47.39:637][822]LogShaderCompilers: Display: Shaders left to compile 488
+[2020.05.06-14.47.41:851][955]LogShaderCompilers: Display: Shaders left to compile 478
+[2020.05.06-14.47.42:000][964]LogShaderCompilers: Display: Shaders left to compile 468
+[2020.05.06-14.47.42:462][993]LogShaderCompilers: Display: Shaders left to compile 458
+[2020.05.06-14.47.43:076][ 30]LogShaderCompilers: Display: Shaders left to compile 448
+[2020.05.06-14.47.43:310][ 45]LogShaderCompilers: Display: Shaders left to compile 438
+[2020.05.06-14.47.43:962][ 85]LogShaderCompilers: Display: Shaders left to compile 428
+[2020.05.06-14.47.44:497][117]LogShaderCompilers: Display: Shaders left to compile 418
+[2020.05.06-14.47.45:019][149]LogShaderCompilers: Display: Shaders left to compile 408
+[2020.05.06-14.47.45:120][155]LogShaderCompilers: Display: Shaders left to compile 398
+[2020.05.06-14.47.45:135][156]LogShaderCompilers: Display: Shaders left to compile 388
+[2020.05.06-14.47.45:293][166]LogShaderCompilers: Display: Shaders left to compile 378
+[2020.05.06-14.47.45:482][178]LogShaderCompilers: Display: Shaders left to compile 368
+[2020.05.06-14.47.45:574][184]LogShaderCompilers: Display: Shaders left to compile 358
+[2020.05.06-14.47.45:622][187]LogShaderCompilers: Display: Shaders left to compile 348
+[2020.05.06-14.47.46:283][229]LogShaderCompilers: Display: Shaders left to compile 338
+[2020.05.06-14.47.46:849][264]LogShaderCompilers: Display: Shaders left to compile 328
+[2020.05.06-14.47.47:055][276]LogShaderCompilers: Display: Shaders left to compile 318
+[2020.05.06-14.47.47:607][311]LogShaderCompilers: Display: Shaders left to compile 308
+[2020.05.06-14.47.47:787][322]LogShaderCompilers: Display: Shaders left to compile 298
+[2020.05.06-14.47.48:071][340]LogShaderCompilers: Display: Shaders left to compile 288
+[2020.05.06-14.47.48:095][341]LogShaderCompilers: Display: Shaders left to compile 278
+[2020.05.06-14.47.48:490][367]LogShaderCompilers: Display: Shaders left to compile 268
+[2020.05.06-14.47.48:586][372]LogShaderCompilers: Display: Shaders left to compile 258
+[2020.05.06-14.47.48:886][392]LogShaderCompilers: Display: Shaders left to compile 248
+[2020.05.06-14.47.49:105][405]LogShaderCompilers: Display: Shaders left to compile 238
+[2020.05.06-14.47.49:152][407]LogShaderCompilers: Display: Shaders left to compile 228
+[2020.05.06-14.47.49:277][416]LogShaderCompilers: Display: Shaders left to compile 218
+[2020.05.06-14.47.49:520][432]LogShaderCompilers: Display: Shaders left to compile 208
+[2020.05.06-14.47.50:076][468]LogShaderCompilers: Display: Shaders left to compile 198
+[2020.05.06-14.47.50:455][491]LogShaderCompilers: Display: Shaders left to compile 188
+[2020.05.06-14.47.50:753][510]LogShaderCompilers: Display: Shaders left to compile 178
+[2020.05.06-14.47.50:843][515]LogShaderCompilers: Display: Shaders left to compile 168
+[2020.05.06-14.47.51:340][546]LogShaderCompilers: Display: Shaders left to compile 158
+[2020.05.06-14.47.51:357][547]LogShaderCompilers: Display: Shaders left to compile 148
+[2020.05.06-14.47.51:774][573]LogShaderCompilers: Display: Shaders left to compile 138
+[2020.05.06-14.47.52:311][607]LogShaderCompilers: Display: Shaders left to compile 128
+[2020.05.06-14.47.52:498][619]LogShaderCompilers: Display: Shaders left to compile 118
+[2020.05.06-14.47.52:543][622]LogShaderCompilers: Display: Shaders left to compile 108
+[2020.05.06-14.47.52:558][623]LogShaderCompilers: Display: Shaders left to compile 98
+[2020.05.06-14.47.53:064][655]LogShaderCompilers: Display: Shaders left to compile 88
+[2020.05.06-14.47.53:901][708]LogShaderCompilers: Display: Shaders left to compile 78
+[2020.05.06-14.47.53:973][713]LogShaderCompilers: Display: Shaders left to compile 68
+[2020.05.06-14.47.54:314][733]LogShaderCompilers: Display: Shaders left to compile 58
+[2020.05.06-14.47.54:338][734]LogShaderCompilers: Display: Shaders left to compile 48
+[2020.05.06-14.47.54:887][769]LogShaderCompilers: Display: Shaders left to compile 38
+[2020.05.06-14.47.55:210][789]LogShaderCompilers: Display: Shaders left to compile 28
+[2020.05.06-14.47.55:788][825]LogShaderCompilers: Display: Shaders left to compile 18
+[2020.05.06-14.47.55:805][826]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.05.06-14.47.58:618][ 70]LogRenderer: Reallocating scene render targets to support 1640x1024 Format 26 NumSamples 1 (Frame:2646).
+[2020.05.06-14.50.47:432][201]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.06-14.51.32:126][865]LogStaticMesh: Building static mesh SM_ArrowFull_WIP_LM_pCube12...
+[2020.05.06-14.51.32:143][865]LogStaticMesh: Built static mesh [0.02s] /Game/Artists/Assets/Weapons/Arrows/SM_ArrowFull_WIP_LM_pCube12.SM_ArrowFull_WIP_LM_pCube12
+[2020.05.06-14.51.32:157][865]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Artists/Assets/Weapons/Arrows/SM_ArrowFull_WIP_LM_pCube12.SM_ArrowFull_WIP_LM_pCube12
+[2020.05.06-14.51.33:376][865]LogRenderer: Reallocating scene render targets to support 1912x1024 Format 26 NumSamples 1 (Frame:1).
+[2020.05.06-14.51.33:376][865]LogSlate: Took 0.014694 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.05.06-14.51.37:803][309]LogSlate: Window 'SM_ArrowFull_WIP_LM_pCube12' being destroyed
+[2020.05.06-14.51.39:223][449]LogStaticMesh: Building static mesh SM_ArrowBroke_WIP_LM_polySurface11...
+[2020.05.06-14.51.39:237][449]LogStaticMesh: Built static mesh [0.01s] /Game/Artists/Assets/Weapons/Arrows/SM_ArrowBroke_WIP_LM_polySurface11.SM_ArrowBroke_WIP_LM_polySurface11
+[2020.05.06-14.51.39:250][449]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Artists/Assets/Weapons/Arrows/SM_ArrowBroke_WIP_LM_polySurface11.SM_ArrowBroke_WIP_LM_polySurface11
+[2020.05.06-14.51.41:551][650]LogSlate: Window 'SM_ArrowBroke_WIP_LM_polySurface11' being destroyed
+[2020.05.06-14.51.41:556][650]LogSlate: Window 'SM_ArrowBroke_WIP_LM_polySurface11' being destroyed
+[2020.05.06-14.51.42:735][770]LogStaticMesh: Building static mesh SM_ArrowBroke_WIP_LM_polySurface8...
+[2020.05.06-14.51.42:748][770]LogStaticMesh: Built static mesh [0.01s] /Game/Artists/Assets/Weapons/Arrows/SM_ArrowBroke_WIP_LM_polySurface8.SM_ArrowBroke_WIP_LM_polySurface8
+[2020.05.06-14.51.42:761][770]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Artists/Assets/Weapons/Arrows/SM_ArrowBroke_WIP_LM_polySurface8.SM_ArrowBroke_WIP_LM_polySurface8
+[2020.05.06-14.51.46:426][112]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.06-14.51.46:501][121]LogSlate: Window 'SM_ArrowBroke_WIP_LM_polySurface8' being destroyed
+[2020.05.06-14.51.46:506][121]LogSlate: Window 'SM_ArrowBroke_WIP_LM_polySurface8' being destroyed
+[2020.05.06-14.52.14:597][410]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.06-14.52.19:067][925]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController
+[2020.05.06-14.52.19:632][925]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 117 classes and 0 folders.
+[2020.05.06-14.52.20:777][925]LogSlate: Took 0.017008 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.06-14.52.47:592][664]BlueprintLog: New page: Compile BP_MotionController
+[2020.05.06-14.57.03:611][ 73]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Designers/Level_Maps/MP_Level_One_Point_Three_HCWS_Test' took 0.035
+[2020.05.06-14.57.03:613][ 73]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/BP_MotionController] ([1] browsable assets)...
+[2020.05.06-14.57.03:639][ 73]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController]
+[2020.05.06-14.57.03:639][ 73]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/BP_MotionController]
+[2020.05.06-14.57.03:984][ 73]LogSavePackage: Moving '../../../../../../Users/Mark Hardwick/Documents/GitHub/Saves/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/BP_MotionController_Auto1BFD0F30F4528D25B9B8295A5D4360344.tmp' to '../../../../../../Users/Mark Hardwick/Documents/GitHub/Saves/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_MotionController_Auto1.uasset'
+[2020.05.06-14.57.04:055][ 73]LogFileHelpers: Auto-saving content packages took 0.443
+[2020.05.06-14.58.16:090][420]LogTemp: Repeating last play command: VR Preview
+[2020.05.06-14.58.16:130][420]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Designers/Level_Maps/MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Designers/Level_Maps/MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.MP_Level_One_Point_Three_HCWS_Test' with GeneratedClass '/Game/Designers/Level_Maps/MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test_C' with ClassGeneratedBy '/Game/Designers/Level_Maps/MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.MP_Level_One_Point_Three_HCWS_Test'
+[2020.05.06-14.58.16:130][420]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.06-14.58.16:130][420]LogHMD: Initializing OVRPlugin session
+[2020.05.06-14.58.16:302][420]PIE: New page: PIE session: MP_Level_One_Point_Three_HCWS_Test (6 May 2020 16:58:16)
+[2020.05.06-14.58.16:325][420]LogPlayLevel: Creating play world package: /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test
+[2020.05.06-14.58.16:377][420]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051936s)
+[2020.05.06-14.58.16:378][420]LogAIModule: Creating AISystem for world MP_Level_One_Point_Three_HCWS_Test
+[2020.05.06-14.58.16:378][420]LogPlayLevel: PIE: World Init took: (0.000780s)
+[2020.05.06-14.58.16:378][420]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Designers/Level_Maps/MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test to /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test (0.053168s)
+[2020.05.06-14.58.16:487][420]LogInit: XAudio2 using 'Headphones (4- Rift S)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.05.06-14.58.16:498][420]LogInit: FAudioDevice initialized.
+[2020.05.06-14.58.16:509][420]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.06-14.58.16:584][420]LogHMD: Allocating Oculus 3296 x 1776 rendertarget swapchain
+[2020.05.06-14.58.16:629][420]LogLoad: Game class is 'VR_GameMode_Test_C'
+[2020.05.06-14.58.16:670][420]PIE: Warning: Invalid Simulate Options: Body (MotionControllerPawn_2.Capsule) is set to simulate physics but Collision Enabled is incompatible
+[2020.05.06-14.58.16:671][420]LogWorld: Bringing World /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test up for play (max tick rate 0) at 2020.05.06-15.58.16
+[2020.05.06-14.58.16:688][420]LogWorld: Bringing up level for play took: 0.032901
+[2020.05.06-14.58.16:727][420]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.05.06-14.58.16:754][420]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.05.06-14.58.16:797][420]PIE: Play in editor start time for /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test 0.811
+[2020.05.06-14.58.16:798][420]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Designers/Level_Maps/MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Designers/Level_Maps/MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.MP_Level_One_Point_Three_HCWS_Test' with GeneratedClass '/Game/Designers/Level_Maps/MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test_C' with ClassGeneratedBy '/Game/Designers/Level_Maps/MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.MP_Level_One_Point_Three_HCWS_Test'
+[2020.05.06-14.58.16:799][420]LogEngine: Changing dynamic resolution state.
+[2020.05.06-14.58.16:934][420]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2020.05.06-14.58.16:934][420]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2020.05.06-14.58.16:934][420]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2020.05.06-14.58.16:934][420]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2020.05.06-14.58.16:934][420]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2020.05.06-14.58.16:934][420]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2020.05.06-14.58.16:934][420]LogRenderer: Reallocating scene render targets to support 3296x1776 Format 26 NumSamples 1 (Frame:1).
+[2020.05.06-14.58.16:934][420]LogHMD: Allocating Oculus 3296 x 1776 depth rendertarget swapchain
+[2020.05.06-14.58.16:961][422]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2020.05.06-14.58.22:935][659]LogBlueprintUserMessages: [MotionControllerPawn_2] At Movement Point
+[2020.05.06-14.58.25:810][774]LogBlueprintUserMessages: [MotionControllerPawn_2] At Movement Point
+[2020.05.06-14.58.29:952][939]LogBlueprintUserMessages: [MotionControllerPawn_2] At Movement Point
+[2020.05.06-14.58.34:340][114]LogScript: Warning: Accessed None trying to read property Force Pull Component
+	BP_MotionController_C /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.BP_MotionController_C_1
+	Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:CreateLineTrace:0465
+[2020.05.06-14.58.34:340][114]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Force Pull Component". Blueprint:  BP_MotionController Function:  Create Line Trace Graph:  CreateLineTrace Node:  Set Render Custom Depth
+[2020.05.06-14.58.34:340][114]LogScript: Warning: Accessed None trying to read property Force Pull Component
+	BP_MotionController_C /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.BP_MotionController_C_1
+	Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:CreateLineTrace:0488
+[2020.05.06-14.58.34:340][114]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Force Pull Component". Blueprint:  BP_MotionController Function:  Create Line Trace Graph:  CreateLineTrace Node:  Set Enable Gravity
+[2020.05.06-14.58.37:813][253]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller
+	BP_Musket_C /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.BP_Musket_2
+	Function /Game/Designers/Blueprints/MusketRifle/BP_Musket.BP_Musket_C:ExecuteUbergraph_BP_Musket:01FE
+[2020.05.06-14.58.37:813][253]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller". Blueprint:  BP_Musket Function:  Execute Ubergraph BP Musket Graph:  EventGraph Node:  Set Visibility
+[2020.05.06-14.58.37:813][253]LogScript: Warning: Accessed None
+	BP_Musket_C /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.BP_Musket_2
+	Function /Game/Designers/Blueprints/MusketRifle/BP_Musket.BP_Musket_C:ExecuteUbergraph_BP_Musket:0213
+[2020.05.06-14.58.37:814][253]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_Musket Function:  Execute Ubergraph BP Musket Graph:  EventGraph Node:  Set Visibility
+[2020.05.06-14.58.39:388][316]LogScript: Warning: Accessed None trying to read property Force Pull Component
+	BP_MotionController_C /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.BP_MotionController_C_1
+	Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:CreateLineTrace:0465
+[2020.05.06-14.58.39:388][316]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Force Pull Component". Blueprint:  BP_MotionController Function:  Create Line Trace Graph:  CreateLineTrace Node:  Set Render Custom Depth
+[2020.05.06-14.58.39:388][316]LogScript: Warning: Accessed None trying to read property Force Pull Component
+	BP_MotionController_C /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.BP_MotionController_C_1
+	Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:CreateLineTrace:0488
+[2020.05.06-14.58.39:388][316]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Force Pull Component". Blueprint:  BP_MotionController Function:  Create Line Trace Graph:  CreateLineTrace Node:  Set Enable Gravity
+[2020.05.06-14.58.51:814][812]LogScript: Warning: Accessed None trying to read property Force Pull Component
+	BP_MotionController_C /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.BP_MotionController_C_0
+	Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:ExecuteUbergraph_BP_MotionController:14D5
+[2020.05.06-14.58.51:814][812]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Force Pull Component". Blueprint:  BP_MotionController Function:  Execute Ubergraph BP Motion Controller Graph:  EventGraph Node:  Set Render Custom Depth
+[2020.05.06-14.58.51:814][812]LogScript: Warning: Accessed None trying to read property Force Pull Component
+	BP_MotionController_C /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.BP_MotionController_C_0
+	Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:ExecuteUbergraph_BP_MotionController:14F8
+[2020.05.06-14.58.51:814][812]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Force Pull Component". Blueprint:  BP_MotionController Function:  Execute Ubergraph BP Motion Controller Graph:  EventGraph Node:  Set Enable Gravity
+[2020.05.06-14.58.53:713][888]LogScript: Warning: Accessed None trying to read property Force Pull Component
+	BP_MotionController_C /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.BP_MotionController_C_1
+	Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:CreateLineTrace:0465
+[2020.05.06-14.58.53:713][888]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Force Pull Component". Blueprint:  BP_MotionController Function:  Create Line Trace Graph:  CreateLineTrace Node:  Set Render Custom Depth
+[2020.05.06-14.58.53:713][888]LogScript: Warning: Accessed None trying to read property Force Pull Component
+	BP_MotionController_C /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.BP_MotionController_C_1
+	Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:CreateLineTrace:0488
+[2020.05.06-14.58.53:714][888]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Force Pull Component". Blueprint:  BP_MotionController Function:  Create Line Trace Graph:  CreateLineTrace Node:  Set Enable Gravity
+[2020.05.06-14.58.58:066][ 62]LogScript: Warning: Accessed None trying to read property Force Pull Component
+	BP_MotionController_C /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.BP_MotionController_C_1
+	Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:CreateLineTrace:0465
+[2020.05.06-14.58.58:066][ 62]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Force Pull Component". Blueprint:  BP_MotionController Function:  Create Line Trace Graph:  CreateLineTrace Node:  Set Render Custom Depth
+[2020.05.06-14.58.58:066][ 62]LogScript: Warning: Accessed None trying to read property Force Pull Component
+	BP_MotionController_C /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.BP_MotionController_C_1
+	Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:CreateLineTrace:0488
+[2020.05.06-14.58.58:066][ 62]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Force Pull Component". Blueprint:  BP_MotionController Function:  Create Line Trace Graph:  CreateLineTrace Node:  Set Enable Gravity
+[2020.05.06-14.58.59:366][114]LogScript: Warning: Accessed None trying to read property Force Pull Component
+	BP_MotionController_C /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.BP_MotionController_C_1
+	Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:CreateLineTrace:0465
+[2020.05.06-14.58.59:366][114]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Force Pull Component". Blueprint:  BP_MotionController Function:  Create Line Trace Graph:  CreateLineTrace Node:  Set Render Custom Depth
+[2020.05.06-14.58.59:366][114]LogScript: Warning: Accessed None trying to read property Force Pull Component
+	BP_MotionController_C /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.BP_MotionController_C_1
+	Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:CreateLineTrace:0488
+[2020.05.06-14.58.59:366][114]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Force Pull Component". Blueprint:  BP_MotionController Function:  Create Line Trace Graph:  CreateLineTrace Node:  Set Enable Gravity
+[2020.05.06-14.59.07:237][429]LogScript: Warning: Accessed None trying to read property Force Pull Component
+	BP_MotionController_C /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.BP_MotionController_C_1
+	Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:ExecuteUbergraph_BP_MotionController:1290
+[2020.05.06-14.59.07:237][429]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Force Pull Component". Blueprint:  BP_MotionController Function:  Execute Ubergraph BP Motion Controller Graph:  EventGraph Node:  Switch on Name
+[2020.05.06-14.59.08:139][465]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitComponent
+	BP_MotionController_C /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.BP_MotionController_C_1
+	Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:CreateLineTrace:0305
+[2020.05.06-14.59.08:139][465]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  BP_MotionController Function:  Create Line Trace Graph:  CreateLineTrace Node:  Branch
+[2020.05.06-14.59.08:639][485]LogScript: Warning: Accessed None trying to read property Force Pull Component
+	BP_MotionController_C /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.BP_MotionController_C_1
+	Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:CreateLineTrace:0465
+[2020.05.06-14.59.08:639][485]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Force Pull Component". Blueprint:  BP_MotionController Function:  Create Line Trace Graph:  CreateLineTrace Node:  Set Render Custom Depth
+[2020.05.06-14.59.08:639][485]LogScript: Warning: Accessed None trying to read property Force Pull Component
+	BP_MotionController_C /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.BP_MotionController_C_1
+	Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:CreateLineTrace:0488
+[2020.05.06-14.59.08:639][485]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Force Pull Component". Blueprint:  BP_MotionController Function:  Create Line Trace Graph:  CreateLineTrace Node:  Set Enable Gravity
+[2020.05.06-14.59.11:963][618]LogScript: Warning: Accessed None trying to read property Force Pull Component
+	BP_MotionController_C /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.BP_MotionController_C_1
+	Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:CreateLineTrace:0465
+[2020.05.06-14.59.11:964][618]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Force Pull Component". Blueprint:  BP_MotionController Function:  Create Line Trace Graph:  CreateLineTrace Node:  Set Render Custom Depth
+[2020.05.06-14.59.11:964][618]LogScript: Warning: Accessed None trying to read property Force Pull Component
+	BP_MotionController_C /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.BP_MotionController_C_1
+	Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:CreateLineTrace:0488
+[2020.05.06-14.59.11:964][618]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Force Pull Component". Blueprint:  BP_MotionController Function:  Create Line Trace Graph:  CreateLineTrace Node:  Set Enable Gravity
+[2020.05.06-14.59.19:964][937]LogScript: Warning: Accessed None trying to read property Force Pull Component
+	BP_MotionController_C /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.BP_MotionController_C_1
+	Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:CreateLineTrace:0465
+[2020.05.06-14.59.19:964][937]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Force Pull Component". Blueprint:  BP_MotionController Function:  Create Line Trace Graph:  CreateLineTrace Node:  Set Render Custom Depth
+[2020.05.06-14.59.19:964][937]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Force Pull Component". Blueprint:  BP_MotionController Function:  Create Line Trace Graph:  CreateLineTrace Node:  Set Enable Gravity
+[2020.05.06-14.59.27:014][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Force Pull Component". Blueprint:  BP_MotionController Function:  Create Line Trace Graph:  CreateLineTrace Node:  Set Render Custom Depth
+[2020.05.06-14.59.27:015][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Force Pull Component". Blueprint:  BP_MotionController Function:  Create Line Trace Graph:  CreateLineTrace Node:  Set Enable Gravity
+[2020.05.06-14.59.37:312][631]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Force Pull Component". Blueprint:  BP_MotionController Function:  Execute Ubergraph BP Motion Controller Graph:  EventGraph Node:  Set Render Custom Depth
+[2020.05.06-14.59.37:312][631]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Force Pull Component". Blueprint:  BP_MotionController Function:  Execute Ubergraph BP Motion Controller Graph:  EventGraph Node:  Set Enable Gravity
+[2020.05.06-14.59.37:940][656]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Force Pull Component". Blueprint:  BP_MotionController Function:  Create Line Trace Graph:  CreateLineTrace Node:  Set Render Custom Depth
+[2020.05.06-14.59.37:940][656]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Force Pull Component". Blueprint:  BP_MotionController Function:  Create Line Trace Graph:  CreateLineTrace Node:  Set Enable Gravity
+[2020.05.06-14.59.48:363][ 73]LogScript: Warning: Accessed None trying to read property AttachedActor
+	BP_Gatling_Crossbow_C /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.BP_Gatling_Crossbow_2
+	Function /Game/Designers/Blueprints/GatlingCrossbow/BP_Gatling_Crossbow.BP_Gatling_Crossbow_C:ExecuteUbergraph_BP_Gatling_Crossbow:02EF
+[2020.05.06-14.59.48:364][ 73]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AttachedActor". Blueprint:  BP_Gatling_Crossbow Function:  Execute Ubergraph BP Gatling Crossbow Graph:  EventGraph Node:  Branch
+[2020.05.06-14.59.48:364][ 73]LogScript: Warning: Accessed None trying to read property AttachedActor
+	BP_Gatling_Crossbow_C /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.BP_Gatling_Crossbow_2
+	Function /Game/Designers/Blueprints/GatlingCrossbow/BP_Gatling_Crossbow.BP_Gatling_Crossbow_C:ExecuteUbergraph_BP_Gatling_Crossbow:02EF
+[2020.05.06-14.59.48:364][ 73]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AttachedActor". Blueprint:  BP_Gatling_Crossbow Function:  Execute Ubergraph BP Gatling Crossbow Graph:  EventGraph Node:  Branch
+[2020.05.06-14.59.52:765][249]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Force Pull Component". Blueprint:  BP_MotionController Function:  Create Line Trace Graph:  CreateLineTrace Node:  Set Render Custom Depth
+[2020.05.06-14.59.52:765][249]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Force Pull Component". Blueprint:  BP_MotionController Function:  Create Line Trace Graph:  CreateLineTrace Node:  Set Enable Gravity
+[2020.05.06-15.00.04:340][712]LogScript: Warning: Accessed None trying to read property AttachedActor
+	BP_Gatling_Crossbow_C /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.BP_Gatling_Crossbow_2
+	Function /Game/Designers/Blueprints/GatlingCrossbow/BP_Gatling_Crossbow.BP_Gatling_Crossbow_C:ExecuteUbergraph_BP_Gatling_Crossbow:02EF
+[2020.05.06-15.00.04:340][712]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AttachedActor". Blueprint:  BP_Gatling_Crossbow Function:  Execute Ubergraph BP Gatling Crossbow Graph:  EventGraph Node:  Branch
+[2020.05.06-15.00.04:340][712]LogScript: Warning: Accessed None trying to read property AttachedActor
+	BP_Gatling_Crossbow_C /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.BP_Gatling_Crossbow_2
+	Function /Game/Designers/Blueprints/GatlingCrossbow/BP_Gatling_Crossbow.BP_Gatling_Crossbow_C:ExecuteUbergraph_BP_Gatling_Crossbow:02EF
+[2020.05.06-15.00.04:340][712]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AttachedActor". Blueprint:  BP_Gatling_Crossbow Function:  Execute Ubergraph BP Gatling Crossbow Graph:  EventGraph Node:  Branch
+[2020.05.06-15.00.04:363][713]LogScript: Warning: Accessed None trying to read property AttachedActor
+	BP_Gatling_Crossbow_C /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.BP_Gatling_Crossbow_2
+	Function /Game/Designers/Blueprints/GatlingCrossbow/BP_Gatling_Crossbow.BP_Gatling_Crossbow_C:ExecuteUbergraph_BP_Gatling_Crossbow:02EF
+[2020.05.06-15.00.04:363][713]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AttachedActor". Blueprint:  BP_Gatling_Crossbow Function:  Execute Ubergraph BP Gatling Crossbow Graph:  EventGraph Node:  Branch
+[2020.05.06-15.00.04:635][724]LogScript: Warning: Accessed None trying to read property AttachedActor
+	BP_Gatling_Crossbow_C /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.BP_Gatling_Crossbow_2
+	Function /Game/Designers/Blueprints/GatlingCrossbow/BP_Gatling_Crossbow.BP_Gatling_Crossbow_C:ExecuteUbergraph_BP_Gatling_Crossbow:02EF
+[2020.05.06-15.00.04:635][724]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AttachedActor". Blueprint:  BP_Gatling_Crossbow Function:  Execute Ubergraph BP Gatling Crossbow Graph:  EventGraph Node:  Branch
+[2020.05.06-15.00.04:659][725]LogScript: Warning: Accessed None trying to read property AttachedActor
+	BP_Gatling_Crossbow_C /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.BP_Gatling_Crossbow_2
+	Function /Game/Designers/Blueprints/GatlingCrossbow/BP_Gatling_Crossbow.BP_Gatling_Crossbow_C:ExecuteUbergraph_BP_Gatling_Crossbow:02EF
+[2020.05.06-15.00.04:660][725]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AttachedActor". Blueprint:  BP_Gatling_Crossbow Function:  Execute Ubergraph BP Gatling Crossbow Graph:  EventGraph Node:  Branch
+[2020.05.06-15.00.07:313][831]LogBlueprintUserMessages: [MotionControllerPawn_2] At Movement Point
+[2020.05.06-15.00.11:262][989]LogBlueprintUserMessages: [BP_SpawnPrototype_5] Begin Spawn
+[2020.05.06-15.00.11:600][  2]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2625.000 Y=-2030.000 Z=225.000] for [EnemyAi_Test_C]
+[2020.05.06-15.00.11:600][  2]LogBlueprintUserMessages: [BP_SpawnPrototype_5] Spawning
+[2020.05.06-15.00.11:909][ 14]LogBlueprintUserMessages: [BP_SpawnPrototype_5] Spawning
+[2020.05.06-15.00.11:989][ 17]LogScript: Warning: Accessed None trying to read property AttachedActor
+	BP_Gatling_Crossbow_C /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.BP_Gatling_Crossbow_2
+	Function /Game/Designers/Blueprints/GatlingCrossbow/BP_Gatling_Crossbow.BP_Gatling_Crossbow_C:ExecuteUbergraph_BP_Gatling_Crossbow:02EF
+[2020.05.06-15.00.11:989][ 17]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AttachedActor". Blueprint:  BP_Gatling_Crossbow Function:  Execute Ubergraph BP Gatling Crossbow Graph:  EventGraph Node:  Branch
+[2020.05.06-15.00.11:989][ 17]LogScript: Warning: Accessed None trying to read property AttachedActor
+	BP_Gatling_Crossbow_C /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.BP_Gatling_Crossbow_2
+	Function /Game/Designers/Blueprints/GatlingCrossbow/BP_Gatling_Crossbow.BP_Gatling_Crossbow_C:ExecuteUbergraph_BP_Gatling_Crossbow:02EF
+[2020.05.06-15.00.11:989][ 17]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AttachedActor". Blueprint:  BP_Gatling_Crossbow Function:  Execute Ubergraph BP Gatling Crossbow Graph:  EventGraph Node:  Branch
+[2020.05.06-15.00.12:183][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2625.000 Y=-2030.000 Z=225.000] for [EnemyAi_Test_C]
+[2020.05.06-15.00.12:183][ 24]LogBlueprintUserMessages: [BP_SpawnPrototype_5] Spawning
+[2020.05.06-15.00.12:485][ 36]LogBlueprintUserMessages: [BP_SpawnPrototype_5] Spawning
+[2020.05.06-15.00.12:787][ 48]LogBlueprintUserMessages: [BP_SpawnPrototype_5] Spawning
+[2020.05.06-15.00.12:809][ 49]LogBlueprintUserMessages: [MotionControllerPawn_2] At Movement Point
+[2020.05.06-15.00.13:086][ 60]LogBlueprintUserMessages: [BP_SpawnPrototype_5] Spawning
+[2020.05.06-15.00.13:387][ 72]LogBlueprintUserMessages: [BP_SpawnPrototype_5] Spawning
+[2020.05.06-15.00.13:687][ 84]LogBlueprintUserMessages: [BP_SpawnPrototype_5] Spawning
+[2020.05.06-15.00.18:440][273]LogBlueprintUserMessages: [MotionControllerPawn_2] At Movement Point
+[2020.05.06-15.00.25:138][541]LogScript: Warning: Accessed None trying to read property Force Pull Component
+	BP_MotionController_C /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.BP_MotionController_C_0
+	Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:ExecuteUbergraph_BP_MotionController:14D5
+[2020.05.06-15.00.25:138][541]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Force Pull Component". Blueprint:  BP_MotionController Function:  Execute Ubergraph BP Motion Controller Graph:  EventGraph Node:  Set Render Custom Depth
+[2020.05.06-15.00.25:138][541]LogScript: Warning: Accessed None trying to read property Force Pull Component
+	BP_MotionController_C /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.BP_MotionController_C_0
+	Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:ExecuteUbergraph_BP_MotionController:14F8
+[2020.05.06-15.00.25:138][541]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Force Pull Component". Blueprint:  BP_MotionController Function:  Execute Ubergraph BP Motion Controller Graph:  EventGraph Node:  Set Enable Gravity
+[2020.05.06-15.00.25:814][568]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller
+	BP_Gatling_Crossbow_C /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.BP_Gatling_Crossbow_2
+	Function /Game/Designers/Blueprints/GatlingCrossbow/BP_Gatling_Crossbow.BP_Gatling_Crossbow_C:ExecuteUbergraph_BP_Gatling_Crossbow:08C5
+[2020.05.06-15.00.25:814][568]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller". Blueprint:  BP_Gatling_Crossbow Function:  Execute Ubergraph BP Gatling Crossbow Graph:  EventGraph Node:  Set Visibility
+[2020.05.06-15.00.25:814][568]LogScript: Warning: Accessed None
+	BP_Gatling_Crossbow_C /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.BP_Gatling_Crossbow_2
+	Function /Game/Designers/Blueprints/GatlingCrossbow/BP_Gatling_Crossbow.BP_Gatling_Crossbow_C:ExecuteUbergraph_BP_Gatling_Crossbow:08DA
+[2020.05.06-15.00.25:814][568]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_Gatling_Crossbow Function:  Execute Ubergraph BP Gatling Crossbow Graph:  EventGraph Node:  Set Visibility
+[2020.05.06-15.00.25:838][569]LogScript: Warning: Accessed None trying to read property AttachedActor
+	BP_Gatling_Crossbow_C /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.BP_Gatling_Crossbow_2
+	Function /Game/Designers/Blueprints/GatlingCrossbow/BP_Gatling_Crossbow.BP_Gatling_Crossbow_C:ExecuteUbergraph_BP_Gatling_Crossbow:02EF
+[2020.05.06-15.00.25:838][569]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AttachedActor". Blueprint:  BP_Gatling_Crossbow Function:  Execute Ubergraph BP Gatling Crossbow Graph:  EventGraph Node:  Branch
+[2020.05.06-15.00.27:810][648]LogScript: Warning: Accessed None trying to read property AttachedActor
+	BP_Gatling_Crossbow_C /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.BP_Gatling_Crossbow_2
+	Function /Game/Designers/Blueprints/GatlingCrossbow/BP_Gatling_Crossbow.BP_Gatling_Crossbow_C:ExecuteUbergraph_BP_Gatling_Crossbow:02EF
+[2020.05.06-15.00.27:810][648]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AttachedActor". Blueprint:  BP_Gatling_Crossbow Function:  Execute Ubergraph BP Gatling Crossbow Graph:  EventGraph Node:  Branch
+[2020.05.06-15.00.27:835][649]LogScript: Warning: Accessed None trying to read property AttachedActor
+	BP_Gatling_Crossbow_C /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.BP_Gatling_Crossbow_2
+	Function /Game/Designers/Blueprints/GatlingCrossbow/BP_Gatling_Crossbow.BP_Gatling_Crossbow_C:ExecuteUbergraph_BP_Gatling_Crossbow:02EF
+[2020.05.06-15.00.27:835][649]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AttachedActor". Blueprint:  BP_Gatling_Crossbow Function:  Execute Ubergraph BP Gatling Crossbow Graph:  EventGraph Node:  Branch
+[2020.05.06-15.00.31:262][786]LogBlueprintUserMessages: [MotionControllerPawn_2] At Movement Point
+[2020.05.06-15.00.35:482][955]LogScript: Warning: Accessed None trying to read property AttachedActor
+	BP_Gatling_Crossbow_C /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.BP_Gatling_Crossbow_2
+	Function /Game/Designers/Blueprints/GatlingCrossbow/BP_Gatling_Crossbow.BP_Gatling_Crossbow_C:ExecuteUbergraph_BP_Gatling_Crossbow:02EF
+[2020.05.06-15.00.35:483][955]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AttachedActor". Blueprint:  BP_Gatling_Crossbow Function:  Execute Ubergraph BP Gatling Crossbow Graph:  EventGraph Node:  Branch
+[2020.05.06-15.00.35:483][955]LogScript: Warning: Accessed None trying to read property AttachedActor
+	BP_Gatling_Crossbow_C /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.BP_Gatling_Crossbow_2
+	Function /Game/Designers/Blueprints/GatlingCrossbow/BP_Gatling_Crossbow.BP_Gatling_Crossbow_C:ExecuteUbergraph_BP_Gatling_Crossbow:02EF
+[2020.05.06-15.00.35:483][955]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AttachedActor". Blueprint:  BP_Gatling_Crossbow Function:  Execute Ubergraph BP Gatling Crossbow Graph:  EventGraph Node:  Branch
+[2020.05.06-15.00.36:160][982]LogScript: Warning: Accessed None trying to read property Force Pull Component
+	BP_MotionController_C /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.BP_MotionController_C_0
+	Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:ExecuteUbergraph_BP_MotionController:14D5
+[2020.05.06-15.00.36:160][982]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Force Pull Component". Blueprint:  BP_MotionController Function:  Execute Ubergraph BP Motion Controller Graph:  EventGraph Node:  Set Render Custom Depth
+[2020.05.06-15.00.36:160][982]LogScript: Warning: Accessed None trying to read property Force Pull Component
+	BP_MotionController_C /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.BP_MotionController_C_0
+	Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:ExecuteUbergraph_BP_MotionController:14F8
+[2020.05.06-15.00.36:160][982]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Force Pull Component". Blueprint:  BP_MotionController Function:  Execute Ubergraph BP Motion Controller Graph:  EventGraph Node:  Set Enable Gravity
+[2020.05.06-15.00.36:510][996]LogScript: Warning: Accessed None trying to read property AttachedActor
+	BP_Gatling_Crossbow_C /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.BP_Gatling_Crossbow_2
+	Function /Game/Designers/Blueprints/GatlingCrossbow/BP_Gatling_Crossbow.BP_Gatling_Crossbow_C:ExecuteUbergraph_BP_Gatling_Crossbow:02EF
+[2020.05.06-15.00.36:510][996]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AttachedActor". Blueprint:  BP_Gatling_Crossbow Function:  Execute Ubergraph BP Gatling Crossbow Graph:  EventGraph Node:  Branch
+[2020.05.06-15.00.38:413][ 72]LogBlueprintUserMessages: [MotionControllerPawn_2] At Movement Point
+[2020.05.06-15.00.39:792][127]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1856.000 Y=-2956.000 Z=274.000] for [EnemyAi_Test_C]
+[2020.05.06-15.00.40:092][139]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1856.000 Y=-2956.000 Z=274.000] for [EnemyAi_Test_C]
+[2020.05.06-15.00.40:391][151]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1856.000 Y=-2956.000 Z=274.000] for [EnemyAi_Test_C]
+[2020.05.06-15.00.48:965][494]LogBlueprintUserMessages: [MotionControllerPawn_2] At Movement Point
+[2020.05.06-15.00.49:914][532]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AttachedActor". Blueprint:  BP_Gatling_Crossbow Function:  Execute Ubergraph BP Gatling Crossbow Graph:  EventGraph Node:  Branch
+[2020.05.06-15.00.49:939][533]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AttachedActor". Blueprint:  BP_Gatling_Crossbow Function:  Execute Ubergraph BP Gatling Crossbow Graph:  EventGraph Node:  Branch
+[2020.05.06-15.00.49:939][533]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AttachedActor". Blueprint:  BP_Gatling_Crossbow Function:  Execute Ubergraph BP Gatling Crossbow Graph:  EventGraph Node:  Branch
+[2020.05.06-15.00.56:765][806]LogBlueprintUserMessages: [MotionControllerPawn_2] At Movement Point
+[2020.05.06-15.00.57:912][852]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AttachedActor". Blueprint:  BP_Gatling_Crossbow Function:  Execute Ubergraph BP Gatling Crossbow Graph:  EventGraph Node:  Branch
+[2020.05.06-15.00.57:912][852]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AttachedActor". Blueprint:  BP_Gatling_Crossbow Function:  Execute Ubergraph BP Gatling Crossbow Graph:  EventGraph Node:  Branch
+[2020.05.06-15.00.58:187][863]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AttachedActor". Blueprint:  BP_Gatling_Crossbow Function:  Execute Ubergraph BP Gatling Crossbow Graph:  EventGraph Node:  Branch
+[2020.05.06-15.00.58:287][867]LogScript: Warning: Accessed None trying to read property Force Pull Component
+	BP_MotionController_C /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.BP_MotionController_C_0
+	Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:ExecuteUbergraph_BP_MotionController:14D5
+[2020.05.06-15.00.58:287][867]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Force Pull Component". Blueprint:  BP_MotionController Function:  Execute Ubergraph BP Motion Controller Graph:  EventGraph Node:  Set Render Custom Depth
+[2020.05.06-15.00.58:287][867]LogScript: Warning: Accessed None trying to read property Force Pull Component
+	BP_MotionController_C /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.BP_MotionController_C_0
+	Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:ExecuteUbergraph_BP_MotionController:14F8
+[2020.05.06-15.00.58:287][867]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Force Pull Component". Blueprint:  BP_MotionController Function:  Execute Ubergraph BP Motion Controller Graph:  EventGraph Node:  Set Enable Gravity
+[2020.05.06-15.01.01:890][ 11]LogBlueprintUserMessages: [MotionControllerPawn_2] At Movement Point
+[2020.05.06-15.01.01:967][ 14]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2755.000 Y=-3788.000 Z=240.000] for [EnemyAi_Test_C]
+[2020.05.06-15.01.02:568][ 38]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2755.000 Y=-3788.000 Z=240.000] for [EnemyAi_Test_C]
+[2020.05.06-15.01.02:866][ 50]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2755.000 Y=-3788.000 Z=240.000] for [EnemyAi_Test_C]
+[2020.05.06-15.01.28:576][ 76]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Motion_Controller". Blueprint:  BP_Gatling_Crossbow Function:  Execute Ubergraph BP Gatling Crossbow Graph:  EventGraph Node:  Set Visibility
+[2020.05.06-15.01.28:577][ 76]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_Gatling_Crossbow Function:  Execute Ubergraph BP Gatling Crossbow Graph:  EventGraph Node:  Set Visibility
+[2020.05.06-15.01.31:426][190]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AttachedActor". Blueprint:  BP_Gatling_Crossbow Function:  Execute Ubergraph BP Gatling Crossbow Graph:  EventGraph Node:  Branch
+[2020.05.06-15.01.31:426][190]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AttachedActor". Blueprint:  BP_Gatling_Crossbow Function:  Execute Ubergraph BP Gatling Crossbow Graph:  EventGraph Node:  Branch
+[2020.05.06-15.01.31:700][201]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AttachedActor". Blueprint:  BP_Gatling_Crossbow Function:  Execute Ubergraph BP Gatling Crossbow Graph:  EventGraph Node:  Branch
+[2020.05.06-15.01.31:877][208]LogScript: Warning: Accessed None trying to read property Force Pull Component
+	BP_MotionController_C /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.BP_MotionController_C_0
+	Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:ExecuteUbergraph_BP_MotionController:14D5
+[2020.05.06-15.01.31:877][208]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Force Pull Component". Blueprint:  BP_MotionController Function:  Execute Ubergraph BP Motion Controller Graph:  EventGraph Node:  Set Render Custom Depth
+[2020.05.06-15.01.31:877][208]LogScript: Warning: Accessed None trying to read property Force Pull Component
+	BP_MotionController_C /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.BP_MotionController_C_0
+	Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:ExecuteUbergraph_BP_MotionController:14F8
+[2020.05.06-15.01.31:877][208]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Force Pull Component". Blueprint:  BP_MotionController Function:  Execute Ubergraph BP Motion Controller Graph:  EventGraph Node:  Set Enable Gravity
+[2020.05.06-15.01.32:276][224]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AttachedActor". Blueprint:  BP_Gatling_Crossbow Function:  Execute Ubergraph BP Gatling Crossbow Graph:  EventGraph Node:  Branch
+[2020.05.06-15.01.33:152][259]LogBlueprintUserMessages: [MotionControllerPawn_2] At Movement Point
+[2020.05.06-15.01.37:554][435]LogBlueprintUserMessages: [MotionControllerPawn_2] At Movement Point
+[2020.05.06-15.01.37:855][447]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2755.000 Y=-5024.000 Z=240.000] for [EnemyAi_Test_C]
+[2020.05.06-15.01.38:455][471]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2755.000 Y=-5024.000 Z=240.000] for [EnemyAi_Test_C]
+[2020.05.06-15.01.38:756][483]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2755.000 Y=-4603.000 Z=240.000] for [EnemyAi_Test_C]
+[2020.05.06-15.01.40:478][552]LogBlueprintUserMessages: [MotionControllerPawn_2] At Movement Point
+[2020.05.06-15.01.41:605][597]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'SpawnLoc' of length 4 in '/Game/Designers/Blueprints/EnemySpawn/BP_Spawn-2nd-Corridor3.BP_Spawn-2nd-Corridor3_C'!
+[2020.05.06-15.01.41:606][597]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Spawn-2nd-Corridor3_C /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.BP_Spawn-2nd-Corridor3_2
+	Function /Game/Designers/Blueprints/EnemySpawn/BP_Spawn-2nd-Corridor3.BP_Spawn-2nd-Corridor3_C:ExecuteUbergraph_BP_Spawn-2nd-Corridor3:0157
+[2020.05.06-15.01.41:606][597]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_Spawn-2nd-Corridor3 Function:  Execute Ubergraph BP Spawn-2nd- Corridor 3 Graph:  EventGraph Node:  Spawn AIFrom Class
+[2020.05.06-15.01.55:528][154]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  BP_MotionController Function:  Create Line Trace Graph:  CreateLineTrace Node:  Branch
+[2020.05.06-15.01.55:629][158]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  BP_MotionController Function:  Create Line Trace Graph:  CreateLineTrace Node:  Branch
+[2020.05.06-15.01.55:728][162]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  BP_MotionController Function:  Create Line Trace Graph:  CreateLineTrace Node:  Branch
+[2020.05.06-15.01.55:828][166]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  BP_MotionController Function:  Create Line Trace Graph:  CreateLineTrace Node:  Branch
+[2020.05.06-15.01.55:928][170]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  BP_MotionController Function:  Create Line Trace Graph:  CreateLineTrace Node:  Branch
+[2020.05.06-15.01.56:029][174]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  BP_MotionController Function:  Create Line Trace Graph:  CreateLineTrace Node:  Branch
+[2020.05.06-15.01.56:128][178]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  BP_MotionController Function:  Create Line Trace Graph:  CreateLineTrace Node:  Branch
+[2020.05.06-15.01.56:176][180]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Force Pull Component". Blueprint:  BP_MotionController Function:  Execute Ubergraph BP Motion Controller Graph:  EventGraph Node:  Set Render Custom Depth
+[2020.05.06-15.01.56:177][180]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Force Pull Component". Blueprint:  BP_MotionController Function:  Execute Ubergraph BP Motion Controller Graph:  EventGraph Node:  Set Enable Gravity
+[2020.05.06-15.02.07:489][632]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Designers/Level_Maps/MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Designers/Level_Maps/MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.MP_Level_One_Point_Three_HCWS_Test' with GeneratedClass '/Game/Designers/Level_Maps/MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test_C' with ClassGeneratedBy '/Game/Designers/Level_Maps/MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.MP_Level_One_Point_Three_HCWS_Test'
+[2020.05.06-15.02.07:575][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.06-15.02.07:638][632]LogSlate: Window 'CastleOfTheDead Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.06-15.02.07:674][632]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.06-15.02.07:674][632]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Designers/Level_Maps/MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel' has LevelScriptBlueprint '/Game/Designers/Level_Maps/MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.MP_Level_One_Point_Three_HCWS_Test' with GeneratedClass '/Game/Designers/Level_Maps/MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test_C' with ClassGeneratedBy '/Game/Designers/Level_Maps/MP_Level_One_Point_Three_HCWS_Test.MP_Level_One_Point_Three_HCWS_Test:PersistentLevel.MP_Level_One_Point_Three_HCWS_Test'
+[2020.05.06-15.02.07:793][633]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.05.06-15.02.07:796][633]LogEngine: Changing dynamic resolution state.
+[2020.05.06-15.02.12:802][117]LogSlate: Window 'Message Log' being destroyed
+[2020.05.06-15.02.12:808][117]LogSlate: Window 'Message Log' being destroyed
+[2020.05.06-15.03.53:821][979]LogEditorViewport: Clicking on Actor (LMB): Emitter (LocalFog_P2)
+[2020.05.06-15.03.54:599][ 54]LogEditorViewport: Clicking on Actor (LMB): Emitter (LocalFog_P13)
+[2020.05.06-15.03.55:135][108]LogEditorViewport: Clicking on Actor (LMB): Movement_Target_C (Movement_Target14)
+[2020.05.06-15.03.57:147][323]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.06-15.03.57:232][332]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Designers/Movement_System/Movement_Target.Movement_Target
+[2020.05.06-15.04.20:350][718]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.06-15.04.29:203][392]BlueprintLog: New page: Compile Movement_Target
+[2020.05.06-15.04.40:701][217]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.06-15.05.15:329][839]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.06-15.05.19:265][128]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.06-15.05.23:511][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.06-15.05.23:578][430]BlueprintLog: New page: Compile Movement_Target
+[2020.05.06-15.06.05:195][650]LogSlate: Window 'Movement_Target*' being destroyed
+[2020.05.06-15.07.55:408][904]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Designers/Blueprints/GatlingCrossbow/BP_Gatling_Crossbow.BP_Gatling_Crossbow
+[2020.05.06-15.08.24:688][830]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.06-15.08.24:965][856]LogUObjectBase: Warning: Object is not registered
+[2020.05.06-15.08.24:965][856]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.05.06-15.08.25:137][856]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.172 s
+[2020.05.06-15.08.25:137][856]LogOutputDevice: Error: === Handled ensure: ===
+[2020.05.06-15.08.25:137][856]LogOutputDevice: Error: 
+[2020.05.06-15.08.25:137][856]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1154]
+[2020.05.06-15.08.25:137][856]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.05.06-15.08.25:137][856]LogOutputDevice: Error: Stack: 
+[2020.05.06-15.08.25:137][856]LogOutputDevice: Error: [Callstack] 0x00007ffa2d098304 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.06-15.08.25:137][856]LogOutputDevice: Error: [Callstack] 0x00007ffa2d0a81ce UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.06-15.08.25:137][856]LogOutputDevice: Error: [Callstack] 0x00007ffa2b22bcba UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.05.06-15.08.25:137][856]LogOutputDevice: Error: [Callstack] 0x00007ffa2970769a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.05.06-15.08.25:137][856]LogOutputDevice: Error: [Callstack] 0x00007ffa296c0917 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.05.06-15.08.25:137][856]LogOutputDevice: Error: [Callstack] 0x00007ffa39087c74 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.06-15.08.25:137][856]LogOutputDevice: Error: [Callstack] 0x00007ffa392d4393 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.06-15.08.25:137][856]LogOutputDevice: Error: [Callstack] 0x00007ffa390e2d7a UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.06-15.08.25:137][856]LogOutputDevice: Error: [Callstack] 0x00007ffa390b8a70 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.06-15.08.25:137][856]LogOutputDevice: Error: [Callstack] 0x00007ffa390ab263 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.06-15.08.25:137][856]LogOutputDevice: Error: [Callstack] 0x00007ffa58bddc66 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.06-15.08.25:137][856]LogOutputDevice: Error: [Callstack] 0x00007ffa58bd0de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.06-15.08.25:137][856]LogOutputDevice: Error: [Callstack] 0x00007ffa58be01eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.06-15.08.25:137][856]LogOutputDevice: Error: [Callstack] 0x00007ffa58bcca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.06-15.08.25:137][856]LogOutputDevice: Error: [Callstack] 0x00007ffa993274d6 USER32.dll!UnknownFunction []
+[2020.05.06-15.08.25:137][856]LogOutputDevice: Error: [Callstack] 0x00007ffa99326ff2 USER32.dll!UnknownFunction []
+[2020.05.06-15.08.25:137][856]LogOutputDevice: Error: [Callstack] 0x00007ffa58be1746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.06-15.08.25:137][856]LogOutputDevice: Error: [Callstack] 0x00007ff753945546 UE4Editor.exe!UnknownFunction []
+[2020.05.06-15.08.25:137][856]LogOutputDevice: Error: [Callstack] 0x00007ff75395596c UE4Editor.exe!UnknownFunction []
+[2020.05.06-15.08.25:137][856]LogOutputDevice: Error: [Callstack] 0x00007ff7539559ea UE4Editor.exe!UnknownFunction []
+[2020.05.06-15.08.25:137][856]LogOutputDevice: Error: [Callstack] 0x00007ff7539648da UE4Editor.exe!UnknownFunction []
+[2020.05.06-15.08.25:137][856]LogOutputDevice: Error: [Callstack] 0x00007ff75396659a UE4Editor.exe!UnknownFunction []
+[2020.05.06-15.08.25:137][856]LogOutputDevice: Error: [Callstack] 0x00007ffa98337974 KERNEL32.DLL!UnknownFunction []
+[2020.05.06-15.08.25:137][856]LogOutputDevice: Error: [Callstack] 0x00007ffa9b16a271 ntdll.dll!UnknownFunction []
+[2020.05.06-15.08.25:137][856]LogOutputDevice: Error: 
+[2020.05.06-15.08.25:147][856]LogStats:                SubmitErrorReport -  0.000 s
