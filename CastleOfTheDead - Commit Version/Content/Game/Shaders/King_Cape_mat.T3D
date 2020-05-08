@@ -1,0 +1,58 @@
+Begin Object Class=/Script/Engine.Material Name="King_Cape_mat"
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_2"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_0"
+      Texture=Texture2D'"/Game/Textures/King_Named_low_ArmourDetails_BaseColor.King_Named_low_ArmourDetails_BaseColor"'
+      MaterialExpressionEditorX=-320
+      MaterialExpressionEditorY=-96
+      MaterialExpressionGuid=258417BD402918B60C877D86879E634E
+      Material=Material'"King_Cape_mat"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_1"
+      Texture=Texture2D'"/Game/Textures/King_Named_low_ArmourDetails_Normal.King_Named_low_ArmourDetails_Normal"'
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=-336
+      MaterialExpressionEditorY=128
+      MaterialExpressionGuid=F9959A5A40EB3ED7098229B529E41896
+      Material=Material'"King_Cape_mat"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_2"
+      Texture=Texture2D'"/Game/Textures/King_Named_low_ArmourDetails_OcclusionRoughnessMetallic.King_Named_low_ArmourDetails_OcclusionRoughnessMetallic"'
+      SamplerType=SAMPLERTYPE_LinearColor
+      MaterialExpressionEditorX=-384
+      MaterialExpressionEditorY=336
+      MaterialExpressionGuid=AE548AF34CB747CF684573AF6B354C7B
+      Material=Material'"King_Cape_mat"'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Metallic=(Expression=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_2"',OutputIndex=3,Mask=1,MaskB=1)
+   Roughness=(Expression=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_2"',OutputIndex=2,Mask=1,MaskG=1)
+   Normal=(Expression=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_1"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   AmbientOcclusion=(Expression=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_2"',OutputIndex=1,Mask=1,MaskR=1)
+   TwoSided=True
+   bUsedWithStaticLighting=True
+   EditorX=256
+   EditorY=-32
+   Expressions(0)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_0"'
+   Expressions(1)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_2"'
+   Expressions(2)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_1"'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=5E43498E4330A3A336AF59A0E3A2BA99
+   ReferencedTextureGuids(0)=D8A597454291384C24BCDEABCCCA7826
+   ReferencedTextureGuids(1)=9880AB9C471A5F9AD998FBA907BCB52B
+   ReferencedTextureGuids(2)=275FD5F048CB8A24AF6946BA65F77160
+   TextureStreamingDataVersion=1
+   TextureStreamingData(0)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="King_Named_low_ArmourDetails_BaseColor",TextureReference=/Game/Textures/King_Named_low_ArmourDetails_BaseColor.King_Named_low_ArmourDetails_BaseColor)
+   TextureStreamingData(1)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="King_Named_low_ArmourDetails_Normal",TextureReference=/Game/Textures/King_Named_low_ArmourDetails_Normal.King_Named_low_ArmourDetails_Normal)
+   TextureStreamingData(2)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="King_Named_low_ArmourDetails_OcclusionRoughnessMetallic",TextureReference=/Game/Textures/King_Named_low_ArmourDetails_OcclusionRoughnessMetallic.King_Named_low_ArmourDetails_OcclusionRoughnessMetallic)
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=4FB992B8405FFA9B0CE7E6A7E67B9AD6
+End Object

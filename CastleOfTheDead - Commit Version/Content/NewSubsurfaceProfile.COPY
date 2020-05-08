@@ -1,0 +1,3 @@
+Begin Object Class=/Script/Engine.SubsurfaceProfile Name="NewSubsurfaceProfile"
+   Settings=(SubsurfaceColor=(R=0.909375,G=0.808476,B=0.036943,A=1.000000),FalloffColor=(R=0.954167,G=0.210797,B=0.067587,A=1.000000))
+End Object

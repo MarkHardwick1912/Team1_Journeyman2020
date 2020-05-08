@@ -1,0 +1,72 @@
+Begin Object Class=/Script/Engine.Material Name="Heavy_Face_mat"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_3"
+      Texture=Texture2D'"/Game/Textures/LP_heavy_low_FixedUVs_Face_OcclusionRoughnessMetallic.LP_heavy_low_FixedUVs_Face_OcclusionRoughnessMetallic"'
+      SamplerType=SAMPLERTYPE_LinearColor
+      MaterialExpressionEditorX=-224
+      MaterialExpressionEditorY=288
+      MaterialExpressionGuid=ED694A02415793F40D18B6933FAE3A9C
+      Material=Material'"Heavy_Face_mat"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_2"
+      Texture=Texture2D'"/Game/Textures/LP_heavy_low_FixedUVs_Face_Normal.LP_heavy_low_FixedUVs_Face_Normal"'
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=-16
+      MaterialExpressionEditorY=176
+      MaterialExpressionGuid=2C67A7B34FC1C7D59503E6B593E6567E
+      Material=Material'"Heavy_Face_mat"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_1"
+      Texture=Texture2D'"/Game/Textures/LP_heavy_low_FixedUVs_Face_Emissive.LP_heavy_low_FixedUVs_Face_Emissive"'
+      MaterialExpressionEditorX=-240
+      MaterialExpressionEditorY=80
+      MaterialExpressionGuid=CAA8ABEE4829EA58C2D185900649824C
+      Material=Material'"Heavy_Face_mat"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_0"
+      Texture=Texture2D'"/Game/Textures/LP_heavy_low_FixedUVs_Face_BaseColor.LP_heavy_low_FixedUVs_Face_BaseColor"'
+      MaterialExpressionEditorX=-80
+      MaterialExpressionEditorY=-64
+      MaterialExpressionGuid=5D2D59914EDD7734E5F595928CF8DFF4
+      Material=Material'"Heavy_Face_mat"'
+   End Object
+   BaseColor=(Expression=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Metallic=(Expression=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_3"',OutputIndex=3,Mask=1,MaskB=1)
+   Roughness=(Expression=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_3"',OutputIndex=2,Mask=1,MaskG=1)
+   Normal=(Expression=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_2"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   EmissiveColor=(Expression=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_1"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   ShadingModel=MSM_SubsurfaceProfile
+   AmbientOcclusion=(Expression=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_3"',OutputIndex=1,Mask=1,MaskR=1)
+   bUsedWithStaticLighting=True
+   EditorX=320
+   EditorY=16
+   Expressions(0)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_0"'
+   Expressions(1)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_3"'
+   Expressions(2)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_2"'
+   Expressions(3)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_1"'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=EECE8BA6400B021457BD469D5D34BA8F
+   ReferencedTextureGuids(0)=C46BF8D14A521B8DA52C1E9E626C9BAF
+   ReferencedTextureGuids(1)=070EAFBE4EDFF57C0C81538CE0E23EDF
+   ReferencedTextureGuids(2)=F2D7B51549B916251110ABBF9D78DC75
+   ReferencedTextureGuids(3)=40E7E45F44668EA068AC318297CD97FA
+   SubsurfaceProfile=SubsurfaceProfile'"/Game/Textures/NewSubsurfaceProfile.NewSubsurfaceProfile"'
+   TextureStreamingDataVersion=1
+   TextureStreamingData(0)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="LP_heavy_low_FixedUVs_Face_BaseColor",TextureReference=/Game/Textures/LP_heavy_low_FixedUVs_Face_BaseColor.LP_heavy_low_FixedUVs_Face_BaseColor)
+   TextureStreamingData(1)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="LP_heavy_low_FixedUVs_Face_Emissive",TextureReference=/Game/Textures/LP_heavy_low_FixedUVs_Face_Emissive.LP_heavy_low_FixedUVs_Face_Emissive)
+   TextureStreamingData(2)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="LP_heavy_low_FixedUVs_Face_Normal",TextureReference=/Game/Textures/LP_heavy_low_FixedUVs_Face_Normal.LP_heavy_low_FixedUVs_Face_Normal)
+   TextureStreamingData(3)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="LP_heavy_low_FixedUVs_Face_OcclusionRoughnessMetallic",TextureReference=/Game/Textures/LP_heavy_low_FixedUVs_Face_OcclusionRoughnessMetallic.LP_heavy_low_FixedUVs_Face_OcclusionRoughnessMetallic)
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=E58CEABB48245124A04105979319B25A
+End Object

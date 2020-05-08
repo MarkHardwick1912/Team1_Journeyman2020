@@ -1,0 +1,57 @@
+Begin Object Class=/Script/Engine.Material Name="Body_Heavy_mat"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_2"
+      Texture=Texture2D'"/Game/Textures/LP_heavy_low_FixedUVs_Body_BaseColor.LP_heavy_low_FixedUVs_Body_BaseColor"'
+      MaterialExpressionEditorX=-192
+      MaterialExpressionEditorY=384
+      MaterialExpressionGuid=046893DE446949421E9F808FF655A952
+      Material=Material'"Body_Heavy_mat"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_1"
+      Texture=Texture2D'"/Game/Textures/LP_heavy_low_FixedUVs_Body_Normal.LP_heavy_low_FixedUVs_Body_Normal"'
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=-320
+      MaterialExpressionEditorY=192
+      MaterialExpressionGuid=CDF544A642B267E3CE7418AE7A893E89
+      Material=Material'"Body_Heavy_mat"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_0"
+      Texture=Texture2D'"/Game/Textures/LP_heavy_low_FixedUVs_Body_OcclusionRoughnessMetallic.LP_heavy_low_FixedUVs_Body_OcclusionRoughnessMetallic"'
+      SamplerType=SAMPLERTYPE_LinearColor
+      MaterialExpressionEditorX=-256
+      MaterialExpressionEditorY=-32
+      MaterialExpressionGuid=BD40ABB048B92AD68C8C1DA7A17AB895
+      Material=Material'"Body_Heavy_mat"'
+   End Object
+   BaseColor=(Expression=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_2"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Metallic=(Expression=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_0"',OutputIndex=3,Mask=1,MaskB=1)
+   Roughness=(Expression=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_0"',OutputIndex=2,Mask=1,MaskG=1)
+   Normal=(Expression=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_1"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   ShadingModel=MSM_SubsurfaceProfile
+   AmbientOcclusion=(Expression=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_0"',OutputIndex=1,Mask=1,MaskR=1)
+   bUsedWithStaticLighting=True
+   Expressions(0)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_0"'
+   Expressions(1)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_1"'
+   Expressions(2)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_2"'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=6549281D42F1D3B9C91E7CBD8F4EB7EE
+   ReferencedTextureGuids(0)=9636699046C4EF06802635BF43C1C2C9
+   ReferencedTextureGuids(1)=59E3238B4911420137B17EAEC3550CFC
+   ReferencedTextureGuids(2)=65F4229942485B99AD4D7F9B74148624
+   SubsurfaceProfile=SubsurfaceProfile'"/Game/Textures/NewSubsurfaceProfile.NewSubsurfaceProfile"'
+   TextureStreamingDataVersion=1
+   TextureStreamingData(0)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="LP_heavy_low_FixedUVs_Body_BaseColor",TextureReference=/Game/Textures/LP_heavy_low_FixedUVs_Body_BaseColor.LP_heavy_low_FixedUVs_Body_BaseColor)
+   TextureStreamingData(1)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="LP_heavy_low_FixedUVs_Body_Normal",TextureReference=/Game/Textures/LP_heavy_low_FixedUVs_Body_Normal.LP_heavy_low_FixedUVs_Body_Normal)
+   TextureStreamingData(2)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="LP_heavy_low_FixedUVs_Body_OcclusionRoughnessMetallic",TextureReference=/Game/Textures/LP_heavy_low_FixedUVs_Body_OcclusionRoughnessMetallic.LP_heavy_low_FixedUVs_Body_OcclusionRoughnessMetallic)
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=6C34A3C141521B2C2183E5ABEA6EB8C5
+End Object

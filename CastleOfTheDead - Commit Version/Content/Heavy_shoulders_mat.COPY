@@ -1,0 +1,80 @@
+Begin Object Class=/Script/Engine.Material Name="Heavy_shoulders_mat"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_2"
+      Texture=Texture2D'"/Game/Textures/LP_heavy_low_FixedUVs_Armour_OcclusionRoughnessMetallic.LP_heavy_low_FixedUVs_Armour_OcclusionRoughnessMetallic"'
+      SamplerType=SAMPLERTYPE_LinearColor
+      MaterialExpressionEditorX=-304
+      MaterialExpressionEditorY=336
+      MaterialExpressionGuid=79BBBC2A48BEC5930F42C0984CF5A649
+      Material=Material'"Heavy_shoulders_mat"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_1"
+      Texture=Texture2D'"/Game/Textures/LP_heavy_low_FixedUVs_Armour_Normal.LP_heavy_low_FixedUVs_Armour_Normal"'
+      MaterialExpressionEditorX=-592
+      MaterialExpressionEditorY=112
+      MaterialExpressionGuid=C1E19D1E485E902C51D0AFBB525DA08D
+      Material=Material'"Heavy_shoulders_mat"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_0"
+      Texture=Texture2D'"/Game/Textures/LP_heavy_low_FixedUVs_Armour_BaseColor.LP_heavy_low_FixedUVs_Armour_BaseColor"'
+      MaterialExpressionEditorX=-448
+      MaterialExpressionEditorY=-112
+      MaterialExpressionGuid=4AC251124B3B699D4BFA9C82283F2BBD
+      Material=Material'"Heavy_shoulders_mat"'
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_0"
+      MaterialFunction=MaterialFunction'"/Engine/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.Blend_Overlay"'
+      FunctionInputs(0)=(ExpressionInputId=88817477432D9FAD10A549A321ACA1A3,Input=(Expression=MaterialExpressionTextureSample'"Heavy_shoulders_mat:MaterialExpressionTextureSample_0"',InputName="Base",Mask=1,MaskR=1,MaskG=1,MaskB=1))
+      FunctionInputs(1)=(ExpressionInputId=199F573E4F017F639BE3529FE8C8D580,Input=(Expression=MaterialExpressionConstant'"Heavy_shoulders_mat:MaterialExpressionConstant_0"',InputName="Blend"))
+      FunctionOutputs(0)=(ExpressionOutputId=C17FADFB4135A52E64E751901D7BE521,Output=(OutputName="Result"))
+      MaterialExpressionEditorX=-208
+      MaterialExpressionEditorY=-32
+      MaterialExpressionGuid=4673B6634989D4B8566DE295316B7B35
+      Material=Material'"Heavy_shoulders_mat"'
+      Outputs(0)=(OutputName="Result")
+   End Object
+   Begin Object Name="MaterialExpressionConstant_0"
+      R=1.000000
+      MaterialExpressionEditorX=-368
+      MaterialExpressionEditorY=160
+      MaterialExpressionGuid=3797F68041BE5A73A9D03B9095617286
+      Material=Material'"Heavy_shoulders_mat"'
+      bCollapsed=False
+   End Object
+   BaseColor=(Expression=MaterialExpressionMaterialFunctionCall'"MaterialExpressionMaterialFunctionCall_0"')
+   Metallic=(Expression=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_2"',OutputIndex=3,Mask=1,MaskB=1)
+   Roughness=(Expression=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_2"',OutputIndex=2,Mask=1,MaskG=1)
+   Normal=(Expression=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_1"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   AmbientOcclusion=(Expression=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_2"',OutputIndex=1,Mask=1,MaskR=1)
+   bUsedWithStaticLighting=True
+   Expressions(0)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_0"'
+   Expressions(1)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_2"'
+   Expressions(2)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_1"'
+   Expressions(3)=MaterialExpressionMaterialFunctionCall'"MaterialExpressionMaterialFunctionCall_0"'
+   Expressions(4)=MaterialExpressionConstant'"MaterialExpressionConstant_0"'
+   MaterialFunctionInfos(0)=(StateId=12B6F73F4D5D4FF9D2FBF18B43945D5B,Function=MaterialFunction'"/Engine/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.Blend_Overlay"')
+   bCanMaskedBeAssumedOpaque=True
+   StateId=D41CC53944B9EFAA10AC0AA62F75FE4D
+   ReferencedTextureGuids(0)=7E61C8804568C6F3A2C520A68B8A026F
+   ReferencedTextureGuids(1)=BED09DA1459F114651340A911310FA7F
+   ReferencedTextureGuids(2)=307677B14207957922C679AC0493BFF1
+   TextureStreamingDataVersion=1
+   TextureStreamingData(0)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="LP_heavy_low_FixedUVs_Armour_BaseColor",TextureReference=/Game/Textures/LP_heavy_low_FixedUVs_Armour_BaseColor.LP_heavy_low_FixedUVs_Armour_BaseColor)
+   TextureStreamingData(1)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="LP_heavy_low_FixedUVs_Armour_Normal",TextureReference=/Game/Textures/LP_heavy_low_FixedUVs_Armour_Normal.LP_heavy_low_FixedUVs_Armour_Normal)
+   TextureStreamingData(2)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="LP_heavy_low_FixedUVs_Armour_OcclusionRoughnessMetallic",TextureReference=/Game/Textures/LP_heavy_low_FixedUVs_Armour_OcclusionRoughnessMetallic.LP_heavy_low_FixedUVs_Armour_OcclusionRoughnessMetallic)
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=82B18231403D4913EC201097499ECED0
+End Object
