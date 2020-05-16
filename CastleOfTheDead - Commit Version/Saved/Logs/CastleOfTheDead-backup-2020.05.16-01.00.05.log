@@ -1,0 +1,1544 @@
+﻿Log file open, 05/15/20 14:19:03
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CastleOfTheDead
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.381636
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.078s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.15-13.19.03:761][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.15-13.19.03:761][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.15-13.19.03:761][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Biggy/Documents/GitHub/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Engine.ini]
+[2020.05.15-13.19.03:761][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.15-13.19.03:761][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Biggy/Documents/GitHub/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Engine.ini]
+[2020.05.15-13.19.03:761][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Biggy/Documents/GitHub/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Engine.ini]
+[2020.05.15-13.19.03:761][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.15-13.19.03:761][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.15-13.19.03:761][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.15-13.19.03:761][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.15-13.19.03:761][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.15-13.19.03:761][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.15-13.19.03:761][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.15-13.19.03:761][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.15-13.19.03:761][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.15-13.19.03:761][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.15-13.19.03:761][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.15-13.19.03:761][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.15-13.19.03:761][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.15-13.19.03:761][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Biggy/Documents/GitHub/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Engine.ini]
+[2020.05.15-13.19.03:761][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.15-13.19.03:761][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.15-13.19.03:761][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.15-13.19.03:761][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.15-13.19.03:761][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.15-13.19.03:761][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.15-13.19.03:761][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2020.05.15-13.19.03:761][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.15-13.19.03:761][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.15-13.19.03:761][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2020.05.15-13.19.03:761][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.15-13.19.03:761][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.15-13.19.03:761][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.15-13.19.03:761][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.15-13.19.03:761][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Biggy/Documents/GitHub/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Engine.ini]
+[2020.05.15-13.19.03:761][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Biggy/Documents/GitHub/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Engine.ini]
+[2020.05.15-13.19.03:765][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Biggy/Documents/GitHub/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Scalability.ini]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Biggy/Documents/GitHub/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Scalability.ini]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Biggy/Documents/GitHub/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Scalability.ini]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Biggy/Documents/GitHub/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Scalability.ini]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Biggy/Documents/GitHub/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Scalability.ini]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Biggy/Documents/GitHub/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Scalability.ini]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.05.15-13.19.03:765][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.15-13.19.03:766][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.15-13.19.03:766][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.15-13.19.03:766][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.15-13.19.03:766][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.15-13.19.03:766][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.15-13.19.03:766][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.15-13.19.03:766][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Biggy/Documents/GitHub/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Scalability.ini]
+[2020.05.15-13.19.03:766][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.15-13.19.03:766][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.15-13.19.03:766][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.15-13.19.03:766][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.15-13.19.03:774][  0]LogHAL: Display: Platform has ~ 16 GB [17099816960 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2020.05.15-13.19.03:775][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.15-13.19.03:775][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Biggy/Documents/GitHub/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Scalability.ini]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Biggy/Documents/GitHub/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Scalability.ini]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Biggy/Documents/GitHub/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Scalability.ini]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Biggy/Documents/GitHub/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Scalability.ini]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Biggy/Documents/GitHub/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Scalability.ini]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Biggy/Documents/GitHub/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Scalability.ini]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Biggy/Documents/GitHub/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Scalability.ini]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.15-13.19.03:775][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.15-13.19.03:776][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.15-13.19.03:776][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Biggy/Documents/GitHub/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Config/Windows/Engine.ini]
+[2020.05.15-13.19.03:776][  0]LogInit: Computer: DESKTOP-86FN3JR
+[2020.05.15-13.19.03:776][  0]LogInit: User: Biggy
+[2020.05.15-13.19.03:776][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.05.15-13.19.03:776][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.15-13.19.03:776][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.05.15-13.19.03:776][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.15-13.19.03:776][  0]LogMemory: Process Physical Memory: 106.28 MB used, 106.28 MB peak
+[2020.05.15-13.19.03:776][  0]LogMemory: Process Virtual Memory: 103.69 MB used, 103.69 MB peak
+[2020.05.15-13.19.03:776][  0]LogMemory: Physical Memory: 5978.42 MB used,  10329.24 MB free, 16307.66 MB total
+[2020.05.15-13.19.03:776][  0]LogMemory: Virtual Memory: 4665.70 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2020.05.15-13.19.03:792][  0]LogInit: Using OS detected language (en-GB).
+[2020.05.15-13.19.03:792][  0]LogInit: Using OS detected locale (en-GB).
+[2020.05.15-13.19.03:792][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.05.15-13.19.04:052][  0]LogStreaming: Display: Took  0.260s to InitEngineTextLocalization.
+[2020.05.15-13.19.04:052][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.15-13.19.04:070][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.15-13.19.04:071][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.15-13.19.04:267][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.15-13.19.04:267][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.15-13.19.04:309][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2020.05.15-13.19.04:309][  0]LogD3D11RHI:       8088/0/8153 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.05.15-13.19.04:333][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.05.15-13.19.04:333][  0]LogD3D11RHI:       128/0/8153 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.05.15-13.19.04:335][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.15-13.19.04:335][  0]LogD3D11RHI:       0/0/8153 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.15-13.19.04:335][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.15-13.19.04:340][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.15-13.19.04:340][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.15-13.19.04:340][  0]LogWindows: EnumDisplayDevices:
+[2020.05.15-13.19.04:340][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2020.05.15-13.19.04:341][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2020.05.15-13.19.04:341][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.05.15-13.19.04:341][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.05.15-13.19.04:341][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.05.15-13.19.04:341][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.05.15-13.19.04:342][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.05.15-13.19.04:342][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.05.15-13.19.04:342][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2020.05.15-13.19.04:342][  0]LogD3D11RHI:   Driver Version: 442.59 (internal:26.21.14.4259, unified:442.59)
+[2020.05.15-13.19.04:342][  0]LogD3D11RHI:      Driver Date: 3-4-2020
+[2020.05.15-13.19.04:342][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2020.05.15-13.19.04:370][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.15-13.19.04:380][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.05.15-13.19.04:593][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.05.15-13.19.04:601][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.05.15-13.19.04:609][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.05.15-13.19.04:617][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.05.15-13.19.04:626][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.05.15-13.19.04:634][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.05.15-13.19.04:642][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.05.15-13.19.04:650][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.05.15-13.19.04:654][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.05.15-13.19.04:703][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.15-13.19.04:703][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.15-13.19.04:703][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.15-13.19.04:703][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.15-13.19.04:703][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.15-13.19.04:703][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.15-13.19.04:703][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.15-13.19.04:703][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.15-13.19.04:703][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.15-13.19.04:703][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.15-13.19.04:703][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.15-13.19.04:703][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.15-13.19.04:703][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.15-13.19.04:703][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.15-13.19.04:703][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.15-13.19.04:703][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.15-13.19.04:703][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.15-13.19.04:703][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.15-13.19.04:704][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.05.15-13.19.04:755][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.05.15-13.19.04:755][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.05.15-13.19.04:770][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.05.15-13.19.04:770][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.05.15-13.19.04:778][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.05.15-13.19.04:787][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.05.15-13.19.04:795][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.05.15-13.19.04:804][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.05.15-13.19.04:834][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.05.15-13.19.04:834][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.05.15-13.19.04:834][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.15-13.19.04:863][  0]LogShaderCompilers: Guid format shader working directory is -39 characters bigger than the processId version (C:/Users/Biggy/Documents/GitHub/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Intermediate/Shaders/WorkingDirectory/2280/).
+[2020.05.15-13.19.04:863][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Biggy/AppData/Local/Temp/UnrealShaderWorkingDir/A28025634495CB89B1BB828A8A1CAE04/'.
+[2020.05.15-13.19.04:864][  0]LogXGEController: Cleaning working directory: C:/Users/Biggy/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.05.15-13.19.04:864][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.15-13.19.04:864][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.15-13.19.04:864][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.15-13.19.05:229][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.15-13.19.05:266][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/Biggy/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.05.15-13.19.05:266][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Biggy/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2020.05.15-13.19.05:266][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Biggy/Documents/GitHub/Team1_Journeyman2020/CastleOfTheDead - Commit Version/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.15-13.19.05:266][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.15-13.19.05:266][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Biggy/Documents/GitHub/Team1_Journeyman2020/CastleOfTheDead - Commit Version/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.15-13.19.05:266][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.15-13.19.05:277][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.15-13.19.05:277][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.15-13.19.05:277][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.15-13.19.05:288][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Biggy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.15-13.19.05:288][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.15-13.19.05:288][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.15-13.19.05:303][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.15-13.19.05:304][  0]LogSlate: Using FreeType 2.6.0
+[2020.05.15-13.19.05:305][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.15-13.19.05:376][  0]LogAssetRegistry: FAssetRegistry took 0.0297 seconds to start up
+[2020.05.15-13.19.05:607][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.15-13.19.05:705][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.05.15-13.19.05:706][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.05.15-13.19.05:706][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.15-13.19.05:706][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.15-13.19.05:706][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.05.15-13.19.05:714][  0]LogNetVersion: CastleOfTheDead 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 192157307)
+[2020.05.15-13.19.06:067][  0]LogPackageName: Warning: String asset reference "JW_FlameDungeon.FX.SM_FX_Embers" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.15-13.19.06:067][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.15-13.19.06:067][  0]LogPackageName: SearchForPackageOnDisk took   0.113s, but failed to resolve JW_FlameDungeon.
+[2020.05.15-13.19.06:067][  0]LogPackageName: Warning: String asset reference "JW_FlameDungeon.FX.SM_FX_Embers" could not be resolved.
+[2020.05.15-13.19.06:067][  0]LogPackageName: Warning: String asset reference "JW_FlameDungeon.FX.SM_FogPlane02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.15-13.19.06:067][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.15-13.19.06:067][  0]LogPackageName: SearchForPackageOnDisk took   0.113s, but failed to resolve JW_FlameDungeon.
+[2020.05.15-13.19.06:067][  0]LogPackageName: Warning: String asset reference "JW_FlameDungeon.FX.SM_FogPlane02" could not be resolved.
+[2020.05.15-13.19.06:067][  0]LogPackageName: Warning: String asset reference "StaticMesh'FX_Meshes_IB.SM_Debris_Box_RadialFull'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.15-13.19.06:067][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.15-13.19.06:067][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.077419 seconds
+[2020.05.15-13.19.06:072][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2020.05.15-13.19.06:072][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2020.05.15-13.19.06:072][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.15-13.19.06:549][  0]LogPackageName: SearchForPackageOnDisk took   0.116s, but failed to resolve StaticMesh'FX_Meshes_IB.
+[2020.05.15-13.19.06:549][  0]LogPackageName: Warning: String asset reference "StaticMesh'FX_Meshes_IB.SM_Debris_Box_RadialFull'" could not be resolved.
+[2020.05.15-13.19.06:549][  0]LogPackageName: Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.15-13.19.06:549][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.15-13.19.06:549][  0]LogPackageName: SearchForPackageOnDisk took   0.112s, but failed to resolve JW_Ice_Mountain.
+[2020.05.15-13.19.06:549][  0]LogPackageName: Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2020.05.15-13.19.06:549][  0]LogPackageName: Warning: String asset reference "FX_Meshes.UI.SM_SelectionMesh_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.15-13.19.06:549][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.15-13.19.06:549][  0]LogPackageName: SearchForPackageOnDisk took   0.111s, but failed to resolve FX_Meshes.
+[2020.05.15-13.19.06:549][  0]LogPackageName: Warning: String asset reference "FX_Meshes.UI.SM_SelectionMesh_01" could not be resolved.
+[2020.05.15-13.19.06:549][  0]LogPackageName: Warning: String asset reference "FX_Meshes.UI.SM_SelectionMesh_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.15-13.19.06:549][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.15-13.19.06:549][  0]LogPackageName: SearchForPackageOnDisk took   0.113s, but failed to resolve FX_Meshes.
+[2020.05.15-13.19.06:549][  0]LogPackageName: Warning: String asset reference "FX_Meshes.UI.SM_SelectionMesh_01" could not be resolved.
+[2020.05.15-13.19.06:549][  0]LogPackageName: Warning: String asset reference "'FX_Ambient.Meshes.SM_Bats'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.15-13.19.06:549][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.15-13.19.06:701][  0]LogPackageName: SearchForPackageOnDisk took   0.111s, but failed to resolve 'FX_Ambient.
+[2020.05.15-13.19.06:701][  0]LogPackageName: Warning: String asset reference "'FX_Ambient.Meshes.SM_Bats'" could not be resolved.
+[2020.05.15-13.19.06:701][  0]LogPackageName: Warning: String asset reference "CastleEffects.TouchToMoveArrow" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.15-13.19.06:701][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.15-13.19.06:701][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.15-13.19.06:713][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.15-13.19.06:800][  0]LogPackageName: SearchForPackageOnDisk took   0.115s, but failed to resolve CastleEffects.
+[2020.05.15-13.19.06:800][  0]LogPackageName: Warning: String asset reference "CastleEffects.TouchToMoveArrow" could not be resolved.
+[2020.05.15-13.19.06:800][  0]LogPackageName: Warning: String asset reference "StaticMesh'FX_Meshes.Fire.SM_Dungeon_Pipes_Lava01_Cool'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.15-13.19.06:800][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.15-13.19.07:258][  0]LogPackageName: SearchForPackageOnDisk took   0.114s, but failed to resolve StaticMesh'FX_Meshes.
+[2020.05.15-13.19.07:258][  0]LogPackageName: Warning: String asset reference "StaticMesh'FX_Meshes.Fire.SM_Dungeon_Pipes_Lava01_Cool'" could not be resolved.
+[2020.05.15-13.19.07:258][  0]LogPackageName: Warning: String asset reference "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.15-13.19.07:258][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.15-13.19.07:258][  0]LogPackageName: SearchForPackageOnDisk took   0.108s to resolve m_FogSheet_02.
+[2020.05.15-13.19.07:258][  0]LogPackageName: Warning: String asset reference "FX_Test_LAN.Meshes.SM_IceWall01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.15-13.19.07:258][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.15-13.19.07:258][  0]LogPackageName: SearchForPackageOnDisk took   0.111s, but failed to resolve FX_Test_LAN.
+[2020.05.15-13.19.07:258][  0]LogPackageName: Warning: String asset reference "FX_Test_LAN.Meshes.SM_IceWall01" could not be resolved.
+[2020.05.15-13.19.07:258][  0]LogPackageName: Warning: String asset reference "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.15-13.19.07:258][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.15-13.19.07:258][  0]LogPackageName: SearchForPackageOnDisk took   0.114s to resolve m_FogSheet_02.
+[2020.05.15-13.19.07:258][  0]LogPackageName: Warning: String asset reference "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.15-13.19.07:258][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.15-13.19.07:258][  0]SourceControl: Source control is disabled
+[2020.05.15-13.19.07:259][  0]SourceControl: Source control is disabled
+[2020.05.15-13.19.07:259][  0]SourceControl: Source control is disabled
+[2020.05.15-13.19.07:260][  0]SourceControl: Source control is disabled
+[2020.05.15-13.19.07:397][  0]LogPackageName: SearchForPackageOnDisk took   0.108s to resolve m_FogSheet_02.
+[2020.05.15-13.19.07:397][  0]LogPackageName: Warning: String asset reference "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.15-13.19.07:397][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.15-13.19.07:397][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.15-13.19.07:545][  0]LogPackageName: SearchForPackageOnDisk took   0.107s to resolve m_FogSheet_02.
+[2020.05.15-13.19.07:551][  0]LogPackageName: Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.15-13.19.07:551][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.15-13.19.07:551][  0]LogOcInput: OculusInput pre-init called
+[2020.05.15-13.19.07:666][  0]LogPackageName: SearchForPackageOnDisk took   0.114s, but failed to resolve JW_Ice_Mountain.
+[2020.05.15-13.19.07:667][  0]LogPackageName: Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2020.05.15-13.19.07:667][  0]LogPackageName: Warning: String asset reference "S_Survival_CA_Chicken_02.SM.S_Survival_CA_Chicken_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.15-13.19.07:667][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.15-13.19.07:667][  0]LogEngine: Initializing Engine...
+[2020.05.15-13.19.07:667][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.15-13.19.07:668][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.05.15-13.19.07:668][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.05.15-13.19.07:668][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.05.15-13.19.07:668][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.05.15-13.19.07:826][  0]LogPackageName: SearchForPackageOnDisk took   0.110s to resolve S_Survival_CA_Chicken_02.
+[2020.05.15-13.19.07:826][  0]LogPackageName: Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.15-13.19.07:826][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.15-13.19.07:826][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.15-13.19.07:833][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.15-13.19.07:874][  0]LogInit: XAudio2 using 'Speakers (Sound Blaster Z)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.05.15-13.19.07:888][  0]LogInit: FAudioDevice initialized.
+[2020.05.15-13.19.07:888][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.15-13.19.07:957][  0]LogPackageName: SearchForPackageOnDisk took   0.113s, but failed to resolve JW_Ice_Mountain.
+[2020.05.15-13.19.07:957][  0]LogPackageName: Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2020.05.15-13.19.07:957][  0]LogPackageName: Warning: String asset reference "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2020.05.15-13.19.07:957][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2020.05.15-13.19.07:957][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/Biggy/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.05.15-13.19.07:965][  0]LogInit: Texture streaming: Enabled
+[2020.05.15-13.19.07:973][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.15-13.19.07:981][  0]LogInit: Transaction tracking system initialized
+[2020.05.15-13.19.07:991][  0]BlueprintLog: New page: Editor Load
+[2020.05.15-13.19.08:030][  0]LogPackageName: SearchForPackageOnDisk took   0.113s, but failed to resolve Env_ALL_Artifacts.
+[2020.05.15-13.19.08:030][  0]LogPackageName: Warning: String asset reference "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" could not be resolved.
+[2020.05.15-13.19.08:030][  0]LocalizationService: Localization service is disabled
+[2020.05.15-13.19.08:329][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.15-13.19.08:329][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.15-13.19.08:329][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.05.15-13.19.08:329][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.05.15-13.19.08:329][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.05.15-13.19.08:329][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.05.15-13.19.08:329][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.05.15-13.19.08:402][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Biggy/Documents/GitHub/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/' took 0.04s
+[2020.05.15-13.19.08:402][  0]SourceControl: Source control is disabled
+[2020.05.15-13.19.08:402][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.15-13.19.08:402][  0]LightingResults: New page: Lighting Build
+[2020.05.15-13.19.08:404][  0]MapCheck: New page: Map Check
+[2020.05.15-13.19.08:404][  0]LightingResults: New page: Lighting Build
+[2020.05.15-13.19.08:510][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.05.15-13.19.08:515][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.15-13.19.08:532][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.15-13.19.08:533][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.154ms to complete.
+[2020.05.15-13.19.08:533][  0]LogFileHelpers: Loading map 'Template_Default' took 0.130
+[2020.05.15-13.19.08:613][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.15-13.19.08:618][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.15-13.19.08:622][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.15-13.19.08:627][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.15-13.19.08:630][  0]LogCollectionManager: Loaded 0 collections in 0.000608 seconds
+[2020.05.15-13.19.08:643][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Biggy/Documents/GitHub/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Collections/' took 0.01s
+[2020.05.15-13.19.08:643][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Biggy/Documents/GitHub/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Developers/Biggy/Collections/' took 0.00s
+[2020.05.15-13.19.08:643][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Biggy/Documents/GitHub/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Collections/' took 0.00s
+[2020.05.15-13.19.08:643][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.05.15-13.19.08:649][  0]LogContentBrowser: Native class hierarchy populated in 0.0057 seconds. Added 2651 classes and 620 folders.
+[2020.05.15-13.19.08:653][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.05.15-13.19.08:654][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-13.19.08:654][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-13.19.08:655][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-13.19.08:655][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-13.19.08:656][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-13.19.08:656][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-13.19.08:656][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-13.19.08:657][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-13.19.08:657][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-13.19.08:657][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-13.19.08:658][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-13.19.08:658][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-13.19.08:659][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-13.19.08:659][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-13.19.08:659][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-13.19.08:660][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-13.19.08:660][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-13.19.08:661][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-13.19.08:661][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-13.19.08:661][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-13.19.08:662][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-13.19.08:662][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-13.19.08:662][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-13.19.08:663][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-13.19.08:663][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-13.19.08:664][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.15-13.19.08:692][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.05.15-13.19.08:695][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.05.15-13.19.08:706][  0]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.15-13.19.08:708][  0]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.15-13.19.08:709][  0]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.15-13.19.08:750][  0]LogRenderer: Reallocating scene render targets to support 1492x664 Format 26 NumSamples 1 (Frame:1).
+[2020.05.15-13.19.08:835][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.05.15-13.19.08:835][  0]LogLoad: (Engine Initialization) Total time: 6.71 seconds
+[2020.05.15-13.19.08:835][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.15-13.19.08:902][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.15-13.19.08:961][  0]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.15-13.19.08:997][  1]LogAssetRegistry: Asset discovery search completed in 3.6432 seconds
+[2020.05.15-13.19.08:998][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.05.15-13.19.08:998][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000041 seconds (updated 0 objects)
+[2020.05.15-13.19.09:873][101]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.15-13.19.13:973][593]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Biggy/Documents/GitHub/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/' took 5.12s
+[2020.05.15-13.19.18:274][109]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.15-13.19.21:683][498]LogLinker: Warning: Can't find file '/Game/Designers/Blueprints/Flintlock/Updated/Merged_Flintlock_Mat_Inst'
+[2020.05.15-13.19.21:683][498]LoadErrors: Failed to load /Game/Move_Fodler/Merged_Flintlock.Merged_Flintlock Referenced by Default__BP_Flintlock_C
+[2020.05.15-13.19.21:683][498]LogLinker: Warning: Can't find file for asset '/Game/Designers/Blueprints/Flintlock/Updated/Merged_Flintlock_Mat_Inst' while loading C:/Users/Biggy/Documents/GitHub/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Move_Fodler/Merged_Flintlock.uasset.
+[2020.05.15-13.19.21:683][498]LoadErrors: Error: /Game/Move_Fodler/Merged_Flintlock : Can't find file for asset. /Game/Designers/Blueprints/Flintlock/Updated/Merged_Flintlock_Mat_Inst
+[2020.05.15-13.19.21:683][498]LogLinker: Warning: Can't find file '/Game/Designers/Blueprints/Flintlock/Updated/Merged_Flintlock_Mat_Inst'
+[2020.05.15-13.19.21:683][498]LogLinker: Warning: Can't find file for asset '/Game/Designers/Blueprints/Flintlock/Updated/Merged_Flintlock_Mat_Inst' while loading C:/Users/Biggy/Documents/GitHub/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Move_Fodler/Merged_Flintlock.uasset.
+[2020.05.15-13.19.22:887][498]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Texture/Textures/T_BasicGrid_M'
+[2020.05.15-13.19.22:887][498]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Texture/Textures/T_BasicGrid_M' while loading C:/Users/Biggy/Documents/GitHub/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Geometry/LevelGeometry/Materials/MaterialFunctions/Texture/Tex_SimpleGrid.uasset.
+[2020.05.15-13.19.22:887][498]LoadErrors: Error: /Game/Geometry/LevelGeometry/Materials/MaterialFunctions/Texture/Tex_SimpleGrid : Can't find file for asset. /Game/LevelGeometry/Texture/Textures/T_BasicGrid_M
+[2020.05.15-13.19.22:887][498]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Texture/Textures/T_BasicGrid_M'
+[2020.05.15-13.19.22:887][498]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Texture/Textures/T_BasicGrid_M' while loading C:/Users/Biggy/Documents/GitHub/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Geometry/LevelGeometry/Materials/MaterialFunctions/Texture/Tex_SimpleGrid.uasset.
+[2020.05.15-13.19.23:111][498]LogLinker: Warning: Can't find file '/Game/Designers/Blueprints/Flintlock/Updated/Merged_Flintlock_Mat_Inst'
+[2020.05.15-13.19.23:111][498]LoadErrors: Failed to load /Game/Designers/Blueprints/Flintlock/Updated/Merged_Flintlock_Mat_Inst.Merged_Flintlock_Mat_Inst Referenced by Merged_Flintlock
+[2020.05.15-13.19.23:111][498]LogLinker: Warning: Can't find file for asset '/Game/Designers/Blueprints/Flintlock/Updated/Merged_Flintlock_Mat_Inst' while loading NULL.
+[2020.05.15-13.19.23:111][498]LogLinker: Warning: Can't find file '/Game/Designers/Blueprints/Flintlock/Updated/Merged_Flintlock_Mat_Inst'
+[2020.05.15-13.19.23:111][498]LogLinker: Warning: Can't find file for asset '/Game/Designers/Blueprints/Flintlock/Updated/Merged_Flintlock_Mat_Inst' while loading NULL.
+[2020.05.15-13.19.23:288][498]LogLinker: Warning: Can't find file '/Game/LevelGeometry/Texture/Textures/T_BasicGrid_M'
+[2020.05.15-13.19.23:288][498]LoadErrors: Failed to load /Game/LevelGeometry/Texture/Textures/T_BasicGrid_M.T_BasicGrid_M Referenced by MaterialExpressionTextureObject_0
+[2020.05.15-13.19.23:288][498]LogLinker: Warning: Can't find file for asset '/Game/LevelGeometry/Texture/Textures/T_BasicGrid_M' while loading NULL.
+[2020.05.15-13.19.24:161][498]LogAIModule: Creating AISystem for world MP_Level_Two
+[2020.05.15-13.19.24:261][498]LogAssetEditorManager: Opening Asset editor for World /Game/Designers/Level_Maps/MP_Level_Two.MP_Level_Two
+[2020.05.15-13.19.24:292][498]Cmd: MAP LOAD FILE="C:/Users/Biggy/Documents/GitHub/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/MP_Level_Two.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.15-13.19.24:292][498]LightingResults: New page: Lighting Build
+[2020.05.15-13.19.24:293][498]LoadErrors: New page: Loading map: MP_Level_Two.umap
+[2020.05.15-13.19.24:293][498]MapCheck: New page: Map Check
+[2020.05.15-13.19.24:293][498]LightingResults: New page: Lighting Build
+[2020.05.15-13.19.24:412][498]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.15-13.19.24:484][498]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.15-13.19.24:486][498]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.909ms to complete.
+[2020.05.15-13.19.24:486][498]LogFileHelpers: Loading map 'MP_Level_Two' took 0.194
+[2020.05.15-13.19.24:568][499]LogRenderer: Reallocating scene render targets to support 1492x1024 Format 26 NumSamples 1 (Frame:0).
+[2020.05.15-13.19.31:859][333]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin4)
+[2020.05.15-13.19.34:731][662]Cmd: DELETE
+[2020.05.15-13.19.34:731][662]Cmd: ACTOR DELETE
+[2020.05.15-13.19.34:770][662]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2020.05.15-13.19.34:788][662]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2020.05.15-13.19.35:849][787]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.15-13.19.48:512][292]Cmd: TRANSACTION UNDO
+[2020.05.15-13.19.48:512][292]LogEditorTransaction: Undo Delete Actors
+[2020.05.15-13.19.55:595][733]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.15-13.20.14:839][266]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Biggy\Downloads\Zombie_King_statue_pose.fbx)
+[2020.05.15-13.20.14:848][266]LogFbx: Loading FBX Scene from C:\Users\Biggy\Downloads\Zombie_King_statue_pose.fbx
+[2020.05.15-13.20.14:870][266]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.15-13.20.20:430][266]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(0) root
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(1) pelvis
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(2) spine_01
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(3) spine_02
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(4) spine_03
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(5) clavicle_l
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(6) upperarm_l
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(7) lowerarm_l
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(8) hand_l
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(9) index_01_l
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(10) index_02_l
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(11) index_03_l
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(12) middle_01_l
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(13) middle_02_l
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(14) middle_03_l
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(15) pinky_01_l
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(16) pinky_02_l
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(17) pinky_03_l
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(18) ring_01_l
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(19) ring_02_l
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(20) ring_03_l
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(21) thumb_01_l
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(22) thumb_02_l
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(23) thumb_03_l
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(24) weapon_root
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(25) Chandelier_Chain_1
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(26) Chandelier_Chain_2
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(27) Chandelier_Chain_3
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(28) Chandelier_Chain_4
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(29) Chandelier_Chain_5
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(30) Chandelier_Chain_6
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(31) Chandelier_Chain_7
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(32) Chandelier_Chain_8
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(33) Chandelier_End
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(34) neck_01
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(35) head
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(36) clavicle_r
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(37) upperarm_r
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(38) lowerarm_r
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(39) hand_r
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(40) index_01_r
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(41) index_02_r
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(42) index_03_r
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(43) middle_01_r
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(44) middle_02_r
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(45) middle_03_r
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(46) pinky_01_r
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(47) pinky_02_r
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(48) pinky_03_r
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(49) ring_01_r
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(50) ring_02_r
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(51) ring_03_r
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(52) thumb_01_r
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(53) thumb_02_r
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(54) thumb_03_r
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(55) thigh_l
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(56) calf_l
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(57) foot_l
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(58) ball_l
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(59) thigh_r
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(60) calf_r
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(61) foot_r
+[2020.05.15-13.20.20:460][266]LogFbx: SortedLinks :(62) ball_r
+[2020.05.15-13.20.20:461][266]LogFbx: Parsing AnimStack Take 001
+[2020.05.15-13.20.20:464][266]LogLinker: Can't find file '/Game/Characters/ZombieBoss/Zombie_King_statue_pose'
+[2020.05.15-13.20.20:464][266]LogLinker: Can't find file '/Game/Characters/ZombieBoss/Zombie_King_statue_pose'
+[2020.05.15-13.20.20:499][266]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/ZombieBoss/Zombie_King_statue_pose.Zombie_King_statue_pose
+[2020.05.15-13.20.20:499][266]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Zombie_King_statue_pose) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.05.15-13.20.20:500][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (root:0) 
+Source Global Transform (0.000000,0.000000,0.000000|0.000000,0.000000,89.999992|1.000000,1.000000,1.000000), 
+Converted Global Transform (0.000000,0.000000,0.000000|0.000000,0.000000,0.000000|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:500][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (pelvis:1) 
+Source Global Transform (0.000000,96.729164,-2.347183|2.004401,89.999992,90.000000|1.000000,1.000000,1.000000), 
+Converted Global Transform (0.000000,2.347183,96.729164|87.995621,-89.999901,-89.999901|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:500][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (spine_01:2) 
+Source Global Transform (0.000001,107.561195,-2.820032|-2.168626,89.999992,90.000000|1.000000,1.000000,1.000000), 
+Converted Global Transform (0.000001,2.820031,107.561195|87.831184,89.999550,89.999550|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:500][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (spine_02:3) 
+Source Global Transform (0.000004,126.566856,0.264149|11.894931,89.999992,90.000000|1.000000,1.000000,1.000000), 
+Converted Global Transform (0.000007,-0.264152,126.566856|78.105019,-89.999916,-89.999916|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:500][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (spine_03:4) 
+Source Global Transform (0.000006,139.599609,3.439083|14.674339,89.999992,89.999992|1.000000,1.000000,1.000000), 
+Converted Global Transform (0.000013,-3.439087,139.599609|75.325638,-89.999947,-89.999954|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:500][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (clavicle_l:5) 
+Source Global Transform (3.781990,151.787781,3.806540|0.000041,12.129122,84.805336|1.000000,1.000000,1.000000), 
+Converted Global Transform (3.781998,-3.806544,151.787781|12.129097,-0.000043,-5.194669|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:500][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (upperarm_l:6) 
+Source Global Transform (19.214493,155.104416,3.806553|-30.208204,-78.825623,73.086288|1.000000,1.000000,1.000000), 
+Converted Global Transform (19.214500,-3.806556,155.104416|-57.975243,71.589241,-85.478104|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:500][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (lowerarm_l:7) 
+Source Global Transform (24.295767,129.381668,-11.458792|-38.521255,-145.874222,114.981682|1.000000,1.000000,1.000000), 
+Converted Global Transform (24.295776,11.458787,129.381668|-26.035116,136.120697,-132.134705|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:500][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (hand_l:8) 
+Source Global Transform (6.126252,116.049385,-26.453981|-28.721525,-157.142670,110.160225|1.000000,1.000000,1.000000), 
+Converted Global Transform (6.126276,26.453966,116.049393|-19.916271,149.261353,-148.388168|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (index_01_l:9) 
+Source Global Transform (-5.259051,112.812210,-28.535923|49.861546,-125.836555,123.703583|1.000000,1.000000,1.000000), 
+Converted Global Transform (-5.259017,28.535902,112.812218|-31.506855,-116.274918,167.073914|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (index_02_l:10) 
+Source Global Transform (-6.877237,110.571556,-25.258183|50.099781,22.776743,-97.609474|1.000000,1.000000,1.000000), 
+Converted Global Transform (-6.877198,25.258163,110.571564|14.378880,-52.370117,154.535767|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (index_03_l:11) 
+Source Global Transform (-4.870036,111.414352,-22.654593|59.643215,22.256062,-96.816612|1.000000,1.000000,1.000000), 
+Converted Global Transform (-4.869997,22.654575,111.414360|11.035194,-61.540096,153.733902|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (middle_01_l:12) 
+Source Global Transform (-3.678216,110.761734,-29.946163|47.447704,-120.963379,116.319290|1.000000,1.000000,1.000000), 
+Converted Global Transform (-3.678184,29.946144,110.761742|-35.442978,-115.281647,155.481247|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (middle_02_l:13) 
+Source Global Transform (-5.292746,108.070808,-26.527790|50.257542,22.575087,-112.758644|1.000000,1.000000,1.000000), 
+Converted Global Transform (-5.292707,26.527773,108.070816|14.207715,-52.484398,139.513214|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (middle_03_l:14) 
+Source Global Transform (-3.138643,108.966385,-23.722095|61.200657,1.527874,-130.104782|1.000000,1.000000,1.000000), 
+Converted Global Transform (-3.138602,23.722080,108.966393|0.735980,-61.209209,138.556183|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (pinky_01_l:15) 
+Source Global Transform (0.628443,107.306664,-29.845510|42.962849,-112.477486,92.407059|1.000000,1.000000,1.000000), 
+Converted Global Transform (0.628475,29.845491,107.306679|-42.547455,-112.319160,123.668999|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (pinky_02_l:16) 
+Source Global Transform (-0.370649,104.891968,-27.411800|56.139820,30.339798,-132.220413|1.000000,1.000000,1.000000), 
+Converted Global Transform (-0.370614,27.411783,104.891983|16.346191,-59.926056,111.858887|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (pinky_03_l:17) 
+Source Global Transform (1.065026,105.732246,-24.932531|57.797844,37.035538,-126.193748|1.000000,1.000000,1.000000), 
+Converted Global Transform (1.065062,24.932514,105.732262|18.721964,-63.309757,111.249596|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (ring_01_l:18) 
+Source Global Transform (-1.796331,108.808830,-30.008911|51.491768,-111.799950,104.492897|1.000000,1.000000,1.000000), 
+Converted Global Transform (-1.796297,30.008892,108.808846|-35.317017,-106.461632,131.565918|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (ring_02_l:19) 
+Source Global Transform (-2.820696,106.247742,-26.542217|44.284592,28.857996,-125.349236|1.000000,1.000000,1.000000), 
+Converted Global Transform (-2.820658,26.542200,106.247757|20.213097,-48.077145,123.605408|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (ring_03_l:20) 
+Source Global Transform (-0.640900,107.448967,-24.114740|56.246887,19.904453,-132.300980|1.000000,1.000000,1.000000), 
+Converted Global Transform (-0.640862,24.114725,107.448982|10.903809,-57.857300,120.944611|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (thumb_01_l:21) 
+Source Global Transform (0.072359,117.070831,-25.244198|7.977223,176.572464,-158.882233|1.000000,1.000000,1.000000), 
+Converted Global Transform (0.072388,25.244181,117.070839|3.394317,-172.008636,-68.405991|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (thumb_02_l:22) 
+Source Global Transform (-3.836174,116.359390,-24.377272|11.412494,-165.497711,-155.535126|1.000000,1.000000,1.000000), 
+Converted Global Transform (-3.836140,24.377254,116.359398|-14.209422,-168.222198,-68.465004|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (thumb_03_l:23) 
+Source Global Transform (-7.412914,114.003998,-23.744715|16.725698,-177.048325,-155.888214|1.000000,1.000000,1.000000), 
+Converted Global Transform (-7.412875,23.744696,114.004005|-2.826687,-163.253281,-66.738342|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (weapon_root:24) 
+Source Global Transform (7.741995,-228.496231,15.050223|20.987743,-25.498299,-136.186951|1.000000,1.000000,1.000000), 
+Converted Global Transform (7.742105,-15.050306,-228.495987|-23.698555,-23.026234,143.506989|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Chandelier_Chain_1:25) 
+Source Global Transform (14.576189,-221.532578,6.784759|20.987743,-25.498299,-136.186951|1.000000,1.000000,1.000000), 
+Converted Global Transform (14.576294,-6.784852,-221.532333|-23.698555,-23.026234,143.506989|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Chandelier_Chain_2:26) 
+Source Global Transform (23.284262,-212.659561,-3.747026|20.987743,-25.498299,-136.186951|1.000000,1.000000,1.000000), 
+Converted Global Transform (23.284361,3.746922,-212.659317|-23.698555,-23.026234,143.506989|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Chandelier_Chain_3:27) 
+Source Global Transform (29.221760,-206.609589,-10.928002|20.987743,-25.498299,-136.186951|1.000000,1.000000,1.000000), 
+Converted Global Transform (29.221853,10.927890,-206.609344|-23.698555,-23.026234,143.506989|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Chandelier_Chain_4:28) 
+Source Global Transform (37.080193,-198.602310,-20.432207|20.987743,-25.498299,-136.186951|1.000000,1.000000,1.000000), 
+Converted Global Transform (37.080276,20.432079,-198.602066|-23.698555,-23.026234,143.506989|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Chandelier_Chain_5:29) 
+Source Global Transform (43.806866,-191.748215,-28.567633|20.987743,-25.498299,-136.186951|1.000000,1.000000,1.000000), 
+Converted Global Transform (43.806942,28.567493,-191.747971|-23.698555,-23.026234,143.506989|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Chandelier_Chain_6:30) 
+Source Global Transform (51.050804,-184.367065,-37.328655|20.987743,-25.498299,-136.186951|1.000000,1.000000,1.000000), 
+Converted Global Transform (51.050873,37.328506,-184.366821|-23.698555,-23.026234,143.506989|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Chandelier_Chain_7:31) 
+Source Global Transform (56.988323,-178.317078,-44.509655|20.987743,-25.498299,-136.186951|1.000000,1.000000,1.000000), 
+Converted Global Transform (56.988388,44.509495,-178.316833|-23.698555,-23.026234,143.506989|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Chandelier_Chain_8:32) 
+Source Global Transform (62.925846,-172.267075,-51.690659|20.987743,-25.498299,-136.186951|1.000000,1.000000,1.000000), 
+Converted Global Transform (62.925907,51.690491,-172.266830|-23.698555,-23.026234,143.506989|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Chandelier_End:33) 
+Source Global Transform (98.201530,-136.323212,-94.354057|20.987743,-25.498299,-136.186951|1.000000,1.000000,1.000000), 
+Converted Global Transform (98.201561,94.353828,-136.322983|-23.698555,-23.026234,143.506989|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (neck_01:34) 
+Source Global Transform (0.000007,155.708923,7.290216|-21.434580,89.999985,90.000008|1.000000,1.000000,1.000000), 
+Converted Global Transform (0.000019,-7.290220,155.708923|68.565407,89.999962,89.999947|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (head:35) 
+Source Global Transform (0.000008,164.483597,4.236545|-18.677759,89.999992,90.000000|1.000000,1.000000,1.000000), 
+Converted Global Transform (0.000022,-4.236549,164.483597|71.322212,89.999977,89.999962|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (clavicle_r:36) 
+Source Global Transform (-3.781979,151.787567,3.806516|-0.000041,-12.129135,-95.194626|1.000000,1.000000,1.000000), 
+Converted Global Transform (-3.781972,-3.806522,151.787567|-12.129118,0.000055,174.805344|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (upperarm_r:37) 
+Source Global Transform (-19.214491,155.104187,3.806533|38.194042,80.230202,-107.596825|1.000000,1.000000,1.000000), 
+Converted Global Transform (-19.214483,-3.806541,155.104187|50.761814,-77.828644,87.964218|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (lowerarm_r:38) 
+Source Global Transform (-23.260614,131.605103,-14.953628|42.128780,141.352982,-67.868027|1.000000,1.000000,1.000000), 
+Converted Global Transform (-23.260618,14.953611,131.605103|27.591791,-130.810135,50.340843|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (hand_r:39) 
+Source Global Transform (-6.878159,117.572594,-31.307131|30.028870,138.155975,-103.741257|1.000000,1.000000,1.000000), 
+Converted Global Transform (-6.878176,31.307116,117.572594|35.279217,-142.191879,10.397546|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (index_01_r:40) 
+Source Global Transform (3.513513,112.730995,-34.913944|-3.577441,141.141479,-90.048943|1.000000,1.000000,1.000000), 
+Converted Global Transform (3.513491,34.913929,112.730995|38.768635,175.409744,-2.927001|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (index_02_r:41) 
+Source Global Transform (6.845542,110.046867,-34.646805|-29.836279,145.007965,-90.273857|1.000000,1.000000,1.000000), 
+Converted Global Transform (6.845519,34.646790,110.046867|29.831457,145.004013,-19.475359|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (index_03_r:42) 
+Source Global Transform (9.257403,108.358269,-32.957993|-20.332399,146.023300,-89.485535|1.000000,1.000000,1.000000), 
+Converted Global Transform (9.257378,32.957977,108.358269|31.603264,155.922699,-12.664651|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (middle_01_r:43) 
+Source Global Transform (1.652492,110.444672,-34.871059|-3.496606,137.146729,-100.927879|1.000000,1.000000,1.000000), 
+Converted Global Transform (1.652473,34.871048,110.444672|42.754368,175.235443,-14.166365|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (middle_02_r:44) 
+Source Global Transform (5.047957,107.294800,-34.588226|-29.621141,145.047958,-105.334595|1.000000,1.000000,1.000000), 
+Converted Global Transform (5.047937,34.588215,107.294800|29.869146,145.251480,-34.393089|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (middle_03_r:45) 
+Source Global Transform (7.647820,105.477600,-32.784744|-15.708294,136.454666,-101.805672|1.000000,1.000000,1.000000), 
+Converted Global Transform (7.647799,32.784733,105.477600|41.544247,158.793091,-26.236456|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (pinky_01_r:46) 
+Source Global Transform (-2.343464,107.733269,-32.192570|-4.319787,125.424461,-123.035988|1.000000,1.000000,1.000000), 
+Converted Global Transform (-2.343485,32.192554,107.733269|54.347328,172.575012,-39.080696|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (pinky_02_r:47) 
+Source Global Transform (-0.279575,104.831757,-31.923618|-28.654480,134.970581,-124.314354|1.000000,1.000000,1.000000), 
+Converted Global Transform (-0.279598,31.923603,104.831757|38.376320,142.288925,-59.956230|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (pinky_03_r:48) 
+Source Global Transform (1.572073,102.978203,-30.491909|-27.263422,139.224762,-125.899055|1.000000,1.000000,1.000000), 
+Converted Global Transform (1.572048,30.491894,102.978203|35.488594,145.764542,-57.456047|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (ring_01_r:49) 
+Source Global Transform (-0.111940,108.813591,-33.612614|-10.504441,134.335770,-116.598358|1.000000,1.000000,1.000000), 
+Converted Global Transform (-0.111959,33.612602,108.813591|44.689869,165.140839,-37.167542|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (ring_02_r:50) 
+Source Global Transform (2.932366,105.697701,-32.804810|-37.405445,143.790863,-119.863724|1.000000,1.000000,1.000000), 
+Converted Global Transform (2.932344,32.804798,105.697701|27.985872,136.536606,-53.840141|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (ring_03_r:51) 
+Source Global Transform (5.160709,104.066238,-30.692894|-24.652973,139.638397,-117.732048|1.000000,1.000000,1.000000), 
+Converted Global Transform (5.160687,30.692883,104.066238|36.056335,148.938416,-47.252281|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (thumb_01_r:52) 
+Source Global Transform (-0.763791,118.425034,-32.328789|21.815514,-161.043961,2.270002|1.000000,1.000000,1.000000), 
+Converted Global Transform (-0.763810,32.328773,118.425034|-17.552437,-157.060059,84.996109|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (thumb_02_r:53) 
+Source Global Transform (3.168394,118.941277,-33.226791|6.622510,159.816635,-4.681880|1.000000,1.000000,1.000000), 
+Converted Global Transform (3.168375,33.226776,118.941277|20.042896,-172.948425,87.745682|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (thumb_03_r:54) 
+Source Global Transform (6.596808,116.297791,-33.187065|10.920495,-169.535233,1.603817|1.000000,1.000000,1.000000), 
+Converted Global Transform (6.596789,33.187050,116.297791|-10.273144,-168.899307,89.599785|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (thigh_l:55) 
+Source Global Transform (9.005806,95.299812,-2.928955|-4.982069,94.831436,98.603554|1.000000,1.000000,1.000000), 
+Converted Global Transform (9.005807,2.928956,95.299812|83.064255,134.014404,142.828262|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (calf_l:56) 
+Source Global Transform (12.577874,53.039314,0.768171|-10.458713,91.853821,93.171150|1.000000,1.000000,1.000000), 
+Converted Global Transform (12.577886,-0.768167,53.039310|79.380081,99.940132,103.280975|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (foot_l:57) 
+Source Global Transform (13.856620,13.531135,8.064959|-0.734170,90.849556,92.608376|1.000000,1.000000,1.000000), 
+Converted Global Transform (13.856648,-8.064958,13.531128|88.877251,139.164795,141.778763|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (ball_l:58) 
+Source Global Transform (14.689049,2.877087,-8.364050|-86.298515,-44.162109,-135.010406|1.000000,1.000000,1.000000), 
+Converted Global Transform (14.689079,8.364049,2.877080|-2.577891,87.342850,90.887352|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (thigh_r:59) 
+Source Global Transform (-9.005799,95.299995,-2.928953|4.244197,-93.895447,-81.327744|1.000000,1.000000,1.000000), 
+Converted Global Transform (-9.005798,2.928953,95.299995|-84.241386,-132.472244,-38.710911|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (calf_r:60) 
+Source Global Transform (-11.890062,52.942600,0.221711|11.253214,-90.923195,-86.716393|1.000000,1.000000,1.000000), 
+Converted Global Transform (-11.890049,-0.221711,52.942608|-78.709373,-94.629501,-81.995789|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:501][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (foot_r:61) 
+Source Global Transform (-12.525257,13.523711,8.065937|0.734156,-90.849594,-87.391617|1.000000,1.000000,1.000000), 
+Converted Global Transform (-12.525230,-8.065932,13.523731|-88.876724,-139.165527,-38.220020|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (ball_r:62) 
+Source Global Transform (-13.357687,2.869691,-8.363019|86.298515,44.161839,44.989426|1.000000,1.000000,1.000000), 
+Converted Global Transform (-13.357659,8.363021,2.869712|2.577863,-87.342819,-89.112633|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (root:0) 
+Source Global Transform (0.000000,0.000000,0.000000|0.000000,0.000000,89.999992|1.000000,1.000000,1.000000), 
+Converted Global Transform (0.000000,0.000000,0.000000|0.000000,0.000000,0.000000|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (pelvis:1) 
+Source Global Transform (0.000000,96.729477,-2.347955|1.973453,89.999992,90.000000|1.000000,1.000000,1.000000), 
+Converted Global Transform (0.000000,2.347954,96.729477|88.026711,-90.000000,-90.000000|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (spine_01:2) 
+Source Global Transform (0.000001,107.561249,-2.826655|-2.199574,89.999985,89.999992|1.000000,1.000000,1.000000), 
+Converted Global Transform (0.000000,2.826653,107.561249|87.800812,90.000351,90.000351|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (spine_02:3) 
+Source Global Transform (0.000004,126.568573,0.247258|11.863976,89.999985,89.999992|1.000000,1.000000,1.000000), 
+Converted Global Transform (-0.000002,-0.247261,126.568581|78.136055,-90.000000,-90.000000|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (spine_03:4) 
+Source Global Transform (0.000006,139.603043,3.415150|14.643392,89.999992,90.000000|1.000000,1.000000,1.000000), 
+Converted Global Transform (-0.000004,-3.415154,139.603058|75.356636,-90.000053,-90.000053|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (clavicle_l:5) 
+Source Global Transform (3.781989,151.791412,3.776023|-0.006461,12.129121,84.835594|1.000000,1.000000,1.000000), 
+Converted Global Transform (3.781976,-3.776028,151.791428|12.129110,0.006606,-5.163012|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (upperarm_l:6) 
+Source Global Transform (19.214493,155.108047,3.774244|-30.177843,-78.829117,73.093231|1.000000,1.000000,1.000000), 
+Converted Global Transform (19.214478,-3.774248,155.108063|-58.004612,71.573593,-85.459648|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (lowerarm_l:7) 
+Source Global Transform (24.295767,129.377060,-11.477202|-38.503891,-145.853851,114.948952|1.000000,1.000000,1.000000), 
+Converted Global Transform (24.295757,11.477201,129.377075|-26.056576,136.131607,-132.159531|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (hand_l:8) 
+Source Global Transform (6.126252,116.036674,-26.465187|-28.709496,-157.127045,110.127693|1.000000,1.000000,1.000000), 
+Converted Global Transform (6.126249,26.465181,116.036690|-19.932096,149.270996,-148.416473|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (index_01_l:9) 
+Source Global Transform (-5.259051,112.798370,-28.545380|49.886635,-125.858086,123.675446|1.000000,1.000000,1.000000), 
+Converted Global Transform (-5.259050,28.545372,112.798386|-31.479111,-116.266563,167.057846|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (index_02_l:10) 
+Source Global Transform (-6.877237,110.559486,-25.266430|50.087788,22.810865,-97.564995|1.000000,1.000000,1.000000), 
+Converted Global Transform (-6.877234,25.266422,110.559502|14.403399,-52.365273,154.555283|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (index_03_l:11) 
+Source Global Transform (-4.870036,111.403694,-22.663296|59.631481,22.304949,-96.759941|1.000000,1.000000,1.000000), 
+Converted Global Transform (-4.870032,22.663290,111.403709|11.062420,-61.537209,153.748932|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (middle_01_l:12) 
+Source Global Transform (-3.678216,110.747139,-29.954514|47.474251,-120.980759,116.295738|1.000000,1.000000,1.000000), 
+Converted Global Transform (-3.678215,29.954506,110.747154|-35.415009,-115.272301,155.465027|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (middle_02_l:13) 
+Source Global Transform (-5.292746,108.058060,-26.534687|50.245644,22.609449,-112.713936|1.000000,1.000000,1.000000), 
+Converted Global Transform (-5.292744,26.534679,108.058075|14.232276,-52.479668,139.532669|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (middle_03_l:14) 
+Source Global Transform (-3.138643,108.955147,-23.729477|61.199818,1.584157,-130.040543|1.000000,1.000000,1.000000), 
+Converted Global Transform (-3.138641,23.729469,108.955162|0.763103,-61.209064,138.571136|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (pinky_01_l:15) 
+Source Global Transform (0.628443,107.292122,-29.851992|42.991447,-112.488503,92.390877|1.000000,1.000000,1.000000), 
+Converted Global Transform (0.628445,29.851984,107.292137|-42.518841,-112.308388,123.653053|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (pinky_02_l:16) 
+Source Global Transform (-0.370649,104.878738,-27.416979|56.124172,30.379587,-132.172470|1.000000,1.000000,1.000000), 
+Converted Global Transform (-0.370646,27.416971,104.878754|16.372988,-59.921497,111.875053|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (pinky_03_l:17) 
+Source Global Transform (1.065026,105.720360,-24.938164|57.779190,37.074749,-126.147385|1.000000,1.000000,1.000000), 
+Converted Global Transform (1.065030,24.938156,105.720375|18.749613,-63.305023,111.264252|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (ring_01_l:18) 
+Source Global Transform (-1.796331,108.794197,-30.016207|51.520504,-111.814415,104.474426|1.000000,1.000000,1.000000), 
+Converted Global Transform (-1.796329,30.016199,108.794212|-35.287342,-106.455437,131.555176|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (ring_02_l:19) 
+Source Global Transform (-2.820696,106.234985,-26.548128|44.269650,28.884428,-125.311386|1.000000,1.000000,1.000000), 
+Converted Global Transform (-2.820692,26.548120,106.235001|20.236135,-48.069542,123.627457|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (ring_03_l:20) 
+Source Global Transform (-0.640900,107.437515,-24.121300|56.236328,19.947992,-132.248596|1.000000,1.000000,1.000000), 
+Converted Global Transform (-0.640896,24.121292,107.437531|10.930017,-57.854130,120.961388|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (thumb_01_l:21) 
+Source Global Transform (0.072359,117.058769,-25.255957|7.975366,176.568146,-158.913437|1.000000,1.000000,1.000000), 
+Converted Global Transform (0.072359,25.255951,117.058784|3.398613,-172.010468,-68.436722|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (thumb_02_l:22) 
+Source Global Transform (-3.836174,116.347801,-24.388645|11.420239,-165.503769,-155.565689|1.000000,1.000000,1.000000), 
+Converted Global Transform (-3.836172,24.388639,116.347816|-14.203112,-168.214539,-68.496269|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (thumb_03_l:23) 
+Source Global Transform (-7.412914,113.992752,-23.754816|16.727297,-177.057632,-155.920486|1.000000,1.000000,1.000000), 
+Converted Global Transform (-7.412909,23.754810,113.992767|-2.817774,-163.251831,-66.768036|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (weapon_root:24) 
+Source Global Transform (7.741997,-228.496231,15.050229|20.987442,-25.497839,-136.186783|1.000000,1.000000,1.000000), 
+Converted Global Transform (7.742079,-15.050245,-228.496094|-23.698187,-23.025837,143.506836|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Chandelier_Chain_1:25) 
+Source Global Transform (14.576094,-221.532532,6.784723|20.987442,-25.497839,-136.186783|1.000000,1.000000,1.000000), 
+Converted Global Transform (14.576172,-6.784745,-221.532394|-23.698179,-23.025831,143.506836|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Chandelier_Chain_2:26) 
+Source Global Transform (23.284042,-212.659454,-3.747115|20.987442,-25.497839,-136.186783|1.000000,1.000000,1.000000), 
+Converted Global Transform (23.284113,3.747079,-212.659317|-23.698179,-23.025822,143.506821|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Chandelier_Chain_3:27) 
+Source Global Transform (29.221457,-206.609451,-10.928128|20.987442,-25.497839,-136.186783|1.000000,1.000000,1.000000), 
+Converted Global Transform (29.221521,10.928080,-206.609314|-23.698174,-23.025814,143.506805|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Chandelier_Chain_4:28) 
+Source Global Transform (37.079773,-198.602112,-20.432381|20.987442,-25.497839,-136.186783|1.000000,1.000000,1.000000), 
+Converted Global Transform (37.079826,20.432308,-198.601974|-23.698166,-23.025812,143.506805|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Chandelier_Chain_5:29) 
+Source Global Transform (43.806355,-191.747971,-28.567848|20.987442,-25.497839,-136.186783|1.000000,1.000000,1.000000), 
+Converted Global Transform (43.806396,28.567749,-191.747833|-23.698166,-23.025805,143.506775|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Chandelier_Chain_6:30) 
+Source Global Transform (51.050186,-184.366776,-37.328911|20.987442,-25.497839,-136.186783|1.000000,1.000000,1.000000), 
+Converted Global Transform (51.050217,37.328777,-184.366653|-23.698160,-23.025799,143.506775|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Chandelier_Chain_7:31) 
+Source Global Transform (56.987625,-178.316742,-44.509953|20.987442,-25.497839,-136.186783|1.000000,1.000000,1.000000), 
+Converted Global Transform (56.987644,44.509785,-178.316635|-23.698147,-23.025791,143.506760|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Chandelier_Chain_8:32) 
+Source Global Transform (62.925060,-172.266708,-51.690990|20.987442,-25.497839,-136.186783|1.000000,1.000000,1.000000), 
+Converted Global Transform (62.925064,51.690784,-172.266617|-23.698139,-23.025784,143.506744|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Chandelier_End:33) 
+Source Global Transform (98.200241,-136.322601,-94.354599|20.987442,-25.497839,-136.186783|1.000000,1.000000,1.000000), 
+Converted Global Transform (98.200150,94.354141,-136.322571|-23.698139,-23.025780,143.506729|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (neck_01:34) 
+Source Global Transform (0.000007,155.714432,7.257580|-21.465528,89.999992,90.000000|1.000000,1.000000,1.000000), 
+Converted Global Transform (-0.000008,-7.257586,155.714447|68.534508,90.000031,90.000031|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (head:35) 
+Source Global Transform (0.000008,164.487457,4.199170|-18.708721,89.999992,90.000000|1.000000,1.000000,1.000000), 
+Converted Global Transform (-0.000010,-4.199176,164.487473|71.291321,90.000061,90.000061|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (clavicle_r:36) 
+Source Global Transform (-3.781980,151.791199,3.776000|0.006461,-12.129133,-95.164368|1.000000,1.000000,1.000000), 
+Converted Global Transform (-3.781994,-3.776005,151.791214|-12.129104,-0.006605,174.837021|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (upperarm_r:37) 
+Source Global Transform (-19.214491,155.107819,3.774225|38.163544,80.234322,-107.590141|1.000000,1.000000,1.000000), 
+Converted Global Transform (-19.214506,-3.774231,155.107834|50.792072,-77.820679,87.974541|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (lowerarm_r:38) 
+Source Global Transform (-23.260614,131.598602,-14.973239|42.109444,141.331131,-67.900612|1.000000,1.000000,1.000000), 
+Converted Global Transform (-23.260630,14.973230,131.598618|27.615204,-130.820740,50.318008|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (hand_r:39) 
+Source Global Transform (-6.878159,117.557259,-31.319159|30.008217,138.142639,-103.767883|1.000000,1.000000,1.000000), 
+Converted Global Transform (-6.878180,31.319149,117.557281|35.298168,-142.209198,10.367579|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (index_01_r:40) 
+Source Global Transform (3.513513,112.713715,-34.923355|-3.596853,141.142990,-90.073090|1.000000,1.000000,1.000000), 
+Converted Global Transform (3.513488,34.923344,112.713745|38.766125,175.384949,-2.966559|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (index_02_r:41) 
+Source Global Transform (6.845542,110.029732,-34.654766|-29.854025,145.022522,-90.303093|1.000000,1.000000,1.000000), 
+Converted Global Transform (6.845515,34.654755,110.029762|29.813692,144.989471,-19.504568|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (index_03_r:42) 
+Source Global Transform (9.257403,108.342041,-32.965042|-20.349701,146.032822,-89.512909|1.000000,1.000000,1.000000), 
+Converted Global Transform (9.257374,32.965031,108.342072|31.590620,155.905319,-12.697814|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (middle_01_r:43) 
+Source Global Transform (1.652492,110.427414,-34.879238|-3.517657,137.148117,-100.950623|1.000000,1.000000,1.000000), 
+Converted Global Transform (1.652470,34.879230,110.427437|42.751781,175.206940,-14.208351|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (middle_02_r:44) 
+Source Global Transform (5.047957,107.277695,-34.594704|-29.638866,145.062393,-105.363792|1.000000,1.000000,1.000000), 
+Converted Global Transform (5.047934,34.594696,107.277718|29.851498,145.236877,-34.422398|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (middle_03_r:45) 
+Source Global Transform (7.647820,105.461472,-32.790237|-15.729617,136.460983,-101.828987|1.000000,1.000000,1.000000), 
+Converted Global Transform (7.647795,32.790230,105.461494|41.533051,158.767517,-26.275000|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (pinky_01_r:46) 
+Source Global Transform (-2.343464,107.717461,-32.199284|-4.345004,125.425819,-123.053978|1.000000,1.000000,1.000000), 
+Converted Global Transform (-2.343485,32.199276,107.717484|54.343296,172.532227,-39.133331|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (pinky_02_r:47) 
+Source Global Transform (-0.279575,104.816093,-31.928764|-28.676371,134.982544,-124.339294|1.000000,1.000000,1.000000), 
+Converted Global Transform (-0.279598,31.928757,104.816116|38.357372,142.269547,-59.987423|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (pinky_03_r:48) 
+Source Global Transform (1.572073,102.963310,-30.496054|-27.283632,139.236862,-125.925430|1.000000,1.000000,1.000000), 
+Converted Global Transform (1.572048,30.496046,102.963333|35.471169,145.746277,-57.487438|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (ring_01_r:49) 
+Source Global Transform (-0.111940,108.797012,-33.619911|-10.526591,134.339783,-116.620361|1.000000,1.000000,1.000000), 
+Converted Global Transform (-0.111963,33.619904,108.797043|44.681900,165.111237,-37.209610|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (ring_02_r:50) 
+Source Global Transform (2.932366,105.681557,-32.810421|-37.423721,143.809982,-119.895157|1.000000,1.000000,1.000000), 
+Converted Global Transform (2.932339,32.810413,105.681587|27.964561,136.524643,-53.865547|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (ring_03_r:51) 
+Source Global Transform (5.160709,104.051239,-30.697626|-24.673019,139.649246,-117.758003|1.000000,1.000000,1.000000), 
+Converted Global Transform (5.160681,30.697618,104.051270|36.040333,148.919098,-47.285053|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (thumb_01_r:52) 
+Source Global Transform (-0.763792,118.409149,-32.341278|21.825562,-161.055695,2.238469|1.000000,1.000000,1.000000), 
+Converted Global Transform (-0.763814,32.341267,118.409172|-17.540390,-157.051056,84.966209|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:502][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (thumb_02_r:53) 
+Source Global Transform (3.168394,118.924904,-33.239559|6.611828,159.813278,-4.711126|1.000000,1.000000,1.000000), 
+Converted Global Transform (3.168371,33.239548,118.924927|20.046673,-172.959656,87.712975|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:503][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (thumb_03_r:54) 
+Source Global Transform (6.596808,116.281441,-33.198402|10.926109,-169.541107,1.572817|1.000000,1.000000,1.000000), 
+Converted Global Transform (6.596786,33.198391,116.281464|-10.267208,-168.893814,89.568901|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:503][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (thigh_l:55) 
+Source Global Transform (9.005806,95.299812,-2.928955|-4.982028,94.831444,98.603561|1.000000,1.000000,1.000000), 
+Converted Global Transform (9.005807,2.928954,95.299812|83.064285,134.014587,142.828476|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:503][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (calf_l:56) 
+Source Global Transform (12.577874,53.039310,0.768142|-10.458679,91.853821,93.171150|1.000000,1.000000,1.000000), 
+Converted Global Transform (12.577870,-0.768142,53.039303|79.380081,99.940109,103.280922|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:503][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (foot_l:57) 
+Source Global Transform (13.856620,13.531126,8.064902|-0.734136,90.849556,92.608383|1.000000,1.000000,1.000000), 
+Converted Global Transform (13.856614,-8.064905,13.531120|88.876900,139.165649,141.779709|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:503][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (ball_l:58) 
+Source Global Transform (14.689049,2.877089,-8.364114|-86.298515,-44.161633,-135.010818|1.000000,1.000000,1.000000), 
+Converted Global Transform (14.689039,8.364113,2.877084|-2.577850,87.342842,90.887321|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:503][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (thigh_r:59) 
+Source Global Transform (-9.005799,95.299995,-2.928953|4.243583,-93.895447,-81.327698|1.000000,1.000000,1.000000), 
+Converted Global Transform (-9.005800,2.928951,95.299995|-84.242035,-132.476517,-38.706882|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:503][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (calf_r:60) 
+Source Global Transform (-11.890062,52.942566,0.221254|11.252593,-90.923203,-86.716393|1.000000,1.000000,1.000000), 
+Converted Global Transform (-11.890066,-0.221262,52.942558|-78.710136,-94.629890,-81.995651|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:503][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (foot_r:61) 
+Source Global Transform (-12.525257,13.523592,8.065055|0.733535,-90.849594,-87.391602|1.000000,1.000000,1.000000), 
+Converted Global Transform (-12.525267,-8.065063,13.523571|-88.878464,-139.190445,-38.196949|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:503][266]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (ball_r:62) 
+Source Global Transform (-13.357687,2.869749,-8.364016|86.298935,44.154984,44.982517|1.000000,1.000000,1.000000), 
+Converted Global Transform (-13.357697,8.364016,2.869725|2.577249,-87.342873,-89.112709|1.000000,1.000000,1.000000)
+[2020.05.15-13.20.20:520][266]FBXImport: Warning: Imported bone transform is different from original. Please check Output Log to see detail of error.  
+[2020.05.15-13.20.23:239][538]LogSlate: Window 'Message Log' being destroyed
+[2020.05.15-13.20.23:242][538]LogSlate: Window 'Message Log' being destroyed
+[2020.05.15-13.20.26:599][863]Cmd: DELETE
+[2020.05.15-13.20.26:599][863]Cmd: ACTOR DELETE
+[2020.05.15-13.20.26:638][863]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2020.05.15-13.20.26:655][863]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2020.05.15-13.20.27:350][940]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin4)
+[2020.05.15-13.20.29:947][185]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.15-13.20.33:039][509]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.15-13.20.56:599][ 24]LogEditorViewport: Clicking on Actor (LMB): DevouringForward_Zombie_C (DevouringForward_Zombie3)
+[2020.05.15-13.21.01:668][553]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.15-13.21.07:946][206]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/VFX/Blood_VFX/Blood.Blood
+[2020.05.15-13.21.07:950][206]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0002 seconds. Added 2 classes and 2 folders.
+[2020.05.15-13.21.15:674][969]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.15-13.21.24:191][852]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.15-13.21.24:260][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/Blood_VFX/Blood" FILE="C:/Users/Biggy/Documents/GitHub/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/VFX/Blood_VFX/Blood.uasset" SILENT=true
+[2020.05.15-13.21.24:282][858]LogSavePackage: Moving 'C:/Users/Biggy/Documents/GitHub/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/BloodC78048D3497309FA6D6E858BFC6CD0F4.tmp' to 'C:/Users/Biggy/Documents/GitHub/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/VFX/Blood_VFX/Blood.uasset'
+[2020.05.15-13.21.36:784][146]LogSlate: Window 'Blood' being destroyed
+[2020.05.15-13.21.36:786][146]LogSlate: Window 'Blood' being destroyed
+[2020.05.15-13.21.36:786][146]LogCascade: Quitting Cascade. FXSystem=0x00000146423D5260
+[2020.05.15-13.21.45:765][138]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.15-13.21.47:125][282]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2020.05.15-13.21.47:152][283]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.05.15-13.21.47:229][285]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2020.05.15-13.21.47:232][285]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.05.15-13.21.47:280][286]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2020.05.15-13.21.47:284][286]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.05.15-13.21.49:158][477]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Characters/Zombie/DevouringForward_Zombie.DevouringForward_Zombie
+[2020.05.15-13.21.49:467][477]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 117 classes and 0 folders.
+[2020.05.15-13.21.50:052][477]LogSlate: Took 0.000257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.15-13.21.50:197][478]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.05.15-13.22.24:345][493]BlueprintLog: New page: Compile DevouringForward_Zombie
+[2020.05.15-13.22.32:058][342]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.15-13.22.55:569][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.15-13.22.55:635][ 64]BlueprintLog: New page: Compile DevouringForward_Zombie
+[2020.05.15-13.23.04:298][ 23]LogEditorViewport: Clicking on Actor (LMB): DevouringForward_Zombie_C (DevouringForward_Zombie2)
+[2020.05.15-13.23.06:227][237]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.15-13.23.07:175][343]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Characters/Zombie/DevouringBackwards_Zombie.DevouringBackwards_Zombie
+[2020.05.15-13.23.36:213][718]BlueprintLog: New page: Compile DevouringBackwards_Zombie
+[2020.05.15-13.23.43:724][556]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.15-13.24.13:643][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.15-13.24.13:693][ 37]BlueprintLog: New page: Compile DevouringBackwards_Zombie
+[2020.05.15-13.24.29:616][866]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.15-13.24.44:716][623]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ModularAssetPack_BL_SM_WallWindow_BL5)
+[2020.05.15-13.24.52:976][576]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.15-13.24.53:105][591]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.15-13.24.53:486][636]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.15-13.24.54:353][737]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.15-13.24.55:529][737]LogSavePackage: Moving 'C:/Users/Biggy/Documents/GitHub/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/MP_Level_TwoBFA9C02F499ACA2924023287135DA77C.tmp' to 'C:/Users/Biggy/Documents/GitHub/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Designers/Level_Maps/MP_Level_Two.umap'
+[2020.05.15-13.24.55:584][737]LogFileHelpers: Saving map 'MP_Level_Two' took 1.228
+[2020.05.15-13.24.55:665][737]LogSavePackage: Moving 'C:/Users/Biggy/Documents/GitHub/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/DevouringBackwards_ZombieF72BA0B44BBACAE5D58A47881139EE24.tmp' to 'C:/Users/Biggy/Documents/GitHub/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Characters/Zombie/DevouringBackwards_Zombie.uasset'
+[2020.05.15-13.24.55:744][737]LogSavePackage: Moving 'C:/Users/Biggy/Documents/GitHub/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/DevouringForward_Zombie97AED49A41165BBEE00C40BA4707F769.tmp' to 'C:/Users/Biggy/Documents/GitHub/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Characters/Zombie/DevouringForward_Zombie.uasset'
+[2020.05.15-13.24.55:766][737]LogSavePackage: Moving 'C:/Users/Biggy/Documents/GitHub/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Saved/Zombie_King_statue_poseEBEB942546BA98DBAE4641946812E757.tmp' to 'C:/Users/Biggy/Documents/GitHub/Team1_Journeyman2020/CastleOfTheDead - Commit Version/Content/Characters/ZombieBoss/Zombie_King_statue_pose.uasset'
+[2020.05.15-13.25.07:945][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.15-13.25.07:994][135]LogTemp: Repeating last play command: Simulate
+[2020.05.15-13.25.08:023][135]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Designers/Level_Maps/MP_Level_Two.MP_Level_Two:PersistentLevel' has LevelScriptBlueprint '/Game/Designers/Level_Maps/MP_Level_Two.MP_Level_Two:PersistentLevel.MP_Level_Two' with GeneratedClass '/Game/Designers/Level_Maps/MP_Level_Two.MP_Level_Two_C' with ClassGeneratedBy '/Game/Designers/Level_Maps/MP_Level_Two.MP_Level_Two:PersistentLevel.MP_Level_Two'
+[2020.05.15-13.25.08:024][135]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.15-13.25.08:024][135]PIE: New page: SIE session: MP_Level_Two (15 May 2020 15:25:08)
+[2020.05.15-13.25.08:036][135]LogPlayLevel: Creating play world package: /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_Two
+[2020.05.15-13.25.08:106][135]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070272s)
+[2020.05.15-13.25.08:107][135]LogAIModule: Creating AISystem for world MP_Level_Two
+[2020.05.15-13.25.08:107][135]LogPlayLevel: PIE: World Init took: (0.000475s)
+[2020.05.15-13.25.08:107][135]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Designers/Level_Maps/MP_Level_Two.MP_Level_Two to /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_Two.MP_Level_Two (0.071189s)
+[2020.05.15-13.25.08:152][135]LogInit: XAudio2 using 'Speakers (Sound Blaster Z)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.05.15-13.25.08:163][135]LogInit: FAudioDevice initialized.
+[2020.05.15-13.25.08:201][135]LogLoad: Game class is 'GameModeBase'
+[2020.05.15-13.25.08:226][135]PIE: Warning: Invalid Simulate Options: Body (MotionControllerPawn_2.Capsule) is set to simulate physics but Collision Enabled is incompatible
+[2020.05.15-13.25.08:229][135]LogWorld: Bringing World /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_Two.MP_Level_Two up for play (max tick rate 0) at 2020.05.15-14.25.08
+[2020.05.15-13.25.08:244][135]LogWorld: Bringing up level for play took: 0.042445
+[2020.05.15-13.25.08:255][135]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.05.15-13.25.08:260][135]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.05.15-13.25.08:269][135]PIE: Play in editor start time for /Game/Designers/Level_Maps/UEDPIE_0_MP_Level_Two 1.088
+[2020.05.15-13.25.08:284][135]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Designers/Level_Maps/MP_Level_Two.MP_Level_Two:PersistentLevel' has LevelScriptBlueprint '/Game/Designers/Level_Maps/MP_Level_Two.MP_Level_Two:PersistentLevel.MP_Level_Two' with GeneratedClass '/Game/Designers/Level_Maps/MP_Level_Two.MP_Level_Two_C' with ClassGeneratedBy '/Game/Designers/Level_Maps/MP_Level_Two.MP_Level_Two:PersistentLevel.MP_Level_Two'
+[2020.05.15-13.25.10:866][404]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Designers/Level_Maps/MP_Level_Two.MP_Level_Two:PersistentLevel' has LevelScriptBlueprint '/Game/Designers/Level_Maps/MP_Level_Two.MP_Level_Two:PersistentLevel.MP_Level_Two' with GeneratedClass '/Game/Designers/Level_Maps/MP_Level_Two.MP_Level_Two_C' with ClassGeneratedBy '/Game/Designers/Level_Maps/MP_Level_Two.MP_Level_Two:PersistentLevel.MP_Level_Two'
+[2020.05.15-13.25.10:867][404]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.15-13.25.10:905][404]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.15-13.25.10:906][404]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Designers/Level_Maps/MP_Level_Two.MP_Level_Two:PersistentLevel' has LevelScriptBlueprint '/Game/Designers/Level_Maps/MP_Level_Two.MP_Level_Two:PersistentLevel.MP_Level_Two' with GeneratedClass '/Game/Designers/Level_Maps/MP_Level_Two.MP_Level_Two_C' with ClassGeneratedBy '/Game/Designers/Level_Maps/MP_Level_Two.MP_Level_Two:PersistentLevel.MP_Level_Two'
+[2020.05.15-13.25.10:934][404]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.15-13.25.10:970][405]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.05.15-13.25.12:376][499]LogSlate: Window 'Message Log' being destroyed
+[2020.05.15-13.25.12:377][499]LogSlate: Window 'CastleOfTheDead - Unreal Editor' being destroyed
+[2020.05.15-13.25.12:377][499]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.15-13.25.12:550][500]Cmd: QUIT_EDITOR
+[2020.05.15-13.25.12:893][500]LogExit: Preparing to exit.
+[2020.05.15-13.25.14:010][500]LogExit: Editor shut down
+[2020.05.15-13.25.14:011][500]LogExit: Transaction tracking system shut down
+[2020.05.15-13.25.14:242][500]LogExit: Object subsystem successfully closed.
+[2020.05.15-13.25.14:258][500]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.05.15-13.25.14:261][500]LogD3D11RHI: Shutdown
+[2020.05.15-13.25.14:261][500]LogD3D11RHI: CleanupD3DDevice
+[2020.05.15-13.25.14:263][500]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.05.15-13.25.14:269][500]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (634)
+[2020.05.15-13.25.14:269][500]LogModuleManager: Shutting down and abandoning module Voice (632)
+[2020.05.15-13.25.14:269][500]LogModuleManager: Shutting down and abandoning module BlueprintGraph (630)
+[2020.05.15-13.25.14:269][500]LogModuleManager: Shutting down and abandoning module DistCurveEditor (628)
+[2020.05.15-13.25.14:269][500]LogModuleManager: Shutting down and abandoning module Cascade (626)
+[2020.05.15-13.25.14:269][500]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (624)
+[2020.05.15-13.25.14:269][500]LogModuleManager: Shutting down and abandoning module SceneOutliner (622)
+[2020.05.15-13.25.14:269][500]LogModuleManager: Shutting down and abandoning module AddContentDialog (620)
+[2020.05.15-13.25.14:270][500]LogModuleManager: Shutting down and abandoning module WidgetCarousel (619)
+[2020.05.15-13.25.14:270][500]LogModuleManager: Shutting down and abandoning module EditorWidgets (616)
+[2020.05.15-13.25.14:270][500]LogModuleManager: Shutting down and abandoning module CollectionManager (614)
+[2020.05.15-13.25.14:270][500]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (612)
+[2020.05.15-13.25.14:270][500]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2020.05.15-13.25.14:270][500]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2020.05.15-13.25.14:270][500]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2020.05.15-13.25.14:270][500]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2020.05.15-13.25.14:270][500]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2020.05.15-13.25.14:270][500]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2020.05.15-13.25.14:270][500]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2020.05.15-13.25.14:270][500]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2020.05.15-13.25.14:270][500]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2020.05.15-13.25.14:270][500]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2020.05.15-13.25.14:270][500]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2020.05.15-13.25.14:270][500]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2020.05.15-13.25.14:270][500]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2020.05.15-13.25.14:270][500]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2020.05.15-13.25.14:270][500]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2020.05.15-13.25.14:270][500]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2020.05.15-13.25.14:270][500]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2020.05.15-13.25.14:270][500]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2020.05.15-13.25.14:270][500]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2020.05.15-13.25.14:270][500]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2020.05.15-13.25.14:270][500]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2020.05.15-13.25.14:270][500]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2020.05.15-13.25.14:270][500]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2020.05.15-13.25.14:270][500]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2020.05.15-13.25.14:270][500]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2020.05.15-13.25.14:270][500]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2020.05.15-13.25.14:270][500]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2020.05.15-13.25.14:270][500]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2020.05.15-13.25.14:270][500]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2020.05.15-13.25.14:270][500]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2020.05.15-13.25.14:270][500]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2020.05.15-13.25.14:270][500]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2020.05.15-13.25.14:270][500]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2020.05.15-13.25.14:270][500]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2020.05.15-13.25.14:270][500]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2020.05.15-13.25.14:270][500]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2020.05.15-13.25.14:270][500]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2020.05.15-13.25.14:270][500]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2020.05.15-13.25.14:270][500]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2020.05.15-13.25.14:270][500]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2020.05.15-13.25.14:270][500]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2020.05.15-13.25.14:270][500]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2020.05.15-13.25.14:270][500]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2020.05.15-13.25.14:270][500]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2020.05.15-13.25.14:270][500]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2020.05.15-13.25.14:271][500]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2020.05.15-13.25.14:271][500]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2020.05.15-13.25.14:271][500]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2020.05.15-13.25.14:271][500]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2020.05.15-13.25.14:271][500]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2020.05.15-13.25.14:415][500]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2020.05.15-13.25.14:415][500]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2020.05.15-13.25.14:415][500]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2020.05.15-13.25.14:415][500]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2020.05.15-13.25.14:415][500]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2020.05.15-13.25.14:415][500]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2020.05.15-13.25.14:415][500]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2020.05.15-13.25.14:415][500]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2020.05.15-13.25.14:415][500]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2020.05.15-13.25.14:415][500]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2020.05.15-13.25.14:415][500]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2020.05.15-13.25.14:415][500]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2020.05.15-13.25.14:415][500]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2020.05.15-13.25.14:415][500]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2020.05.15-13.25.14:415][500]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2020.05.15-13.25.14:415][500]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2020.05.15-13.25.14:415][500]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2020.05.15-13.25.14:415][500]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2020.05.15-13.25.14:415][500]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2020.05.15-13.25.14:415][500]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2020.05.15-13.25.14:415][500]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2020.05.15-13.25.14:415][500]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2020.05.15-13.25.14:415][500]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2020.05.15-13.25.14:471][500]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2020.05.15-13.25.14:471][500]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2020.05.15-13.25.14:471][500]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2020.05.15-13.25.14:471][500]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2020.05.15-13.25.14:471][500]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2020.05.15-13.25.14:471][500]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2020.05.15-13.25.14:471][500]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2020.05.15-13.25.14:471][500]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2020.05.15-13.25.14:471][500]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2020.05.15-13.25.14:471][500]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2020.05.15-13.25.14:475][500]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2020.05.15-13.25.14:475][500]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2020.05.15-13.25.14:475][500]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2020.05.15-13.25.14:475][500]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2020.05.15-13.25.14:475][500]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2020.05.15-13.25.14:475][500]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2020.05.15-13.25.14:475][500]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2020.05.15-13.25.14:475][500]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2020.05.15-13.25.14:475][500]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2020.05.15-13.25.14:475][500]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2020.05.15-13.25.14:475][500]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2020.05.15-13.25.14:475][500]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2020.05.15-13.25.14:475][500]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2020.05.15-13.25.14:475][500]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2020.05.15-13.25.14:475][500]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2020.05.15-13.25.14:475][500]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2020.05.15-13.25.14:475][500]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2020.05.15-13.25.14:475][500]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2020.05.15-13.25.14:475][500]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2020.05.15-13.25.14:476][500]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2020.05.15-13.25.14:476][500]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2020.05.15-13.25.14:476][500]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2020.05.15-13.25.14:477][500]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2020.05.15-13.25.14:658][500]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2020.05.15-13.25.14:658][500]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2020.05.15-13.25.14:658][500]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2020.05.15-13.25.14:658][500]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2020.05.15-13.25.14:658][500]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2020.05.15-13.25.14:658][500]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2020.05.15-13.25.14:658][500]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2020.05.15-13.25.14:658][500]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2020.05.15-13.25.14:658][500]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2020.05.15-13.25.14:658][500]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2020.05.15-13.25.14:658][500]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2020.05.15-13.25.14:658][500]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2020.05.15-13.25.14:658][500]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2020.05.15-13.25.14:658][500]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2020.05.15-13.25.14:658][500]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2020.05.15-13.25.14:658][500]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2020.05.15-13.25.14:658][500]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2020.05.15-13.25.14:660][500]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2020.05.15-13.25.14:660][500]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2020.05.15-13.25.14:660][500]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2020.05.15-13.25.14:660][500]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2020.05.15-13.25.14:660][500]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2020.05.15-13.25.14:660][500]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2020.05.15-13.25.14:660][500]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2020.05.15-13.25.14:660][500]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2020.05.15-13.25.14:660][500]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2020.05.15-13.25.14:660][500]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2020.05.15-13.25.14:660][500]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2020.05.15-13.25.14:660][500]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2020.05.15-13.25.14:660][500]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2020.05.15-13.25.14:660][500]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2020.05.15-13.25.14:660][500]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2020.05.15-13.25.14:660][500]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2020.05.15-13.25.14:660][500]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2020.05.15-13.25.14:660][500]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2020.05.15-13.25.14:660][500]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2020.05.15-13.25.14:660][500]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2020.05.15-13.25.14:660][500]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2020.05.15-13.25.14:660][500]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2020.05.15-13.25.14:660][500]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2020.05.15-13.25.14:660][500]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2020.05.15-13.25.14:660][500]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2020.05.15-13.25.14:661][500]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2020.05.15-13.25.14:661][500]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2020.05.15-13.25.14:661][500]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2020.05.15-13.25.14:661][500]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2020.05.15-13.25.14:661][500]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2020.05.15-13.25.14:661][500]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2020.05.15-13.25.14:661][500]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2020.05.15-13.25.14:661][500]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2020.05.15-13.25.14:661][500]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2020.05.15-13.25.14:661][500]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2020.05.15-13.25.14:661][500]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2020.05.15-13.25.14:661][500]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2020.05.15-13.25.14:661][500]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2020.05.15-13.25.14:661][500]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2020.05.15-13.25.14:661][500]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2020.05.15-13.25.14:661][500]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.05.15-13.25.14:661][500]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.05.15-13.25.14:762][500]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.05.15-13.25.14:934][500]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2020.05.15-13.25.14:934][500]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2020.05.15-13.25.14:934][500]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2020.05.15-13.25.14:934][500]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2020.05.15-13.25.14:934][500]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2020.05.15-13.25.14:934][500]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2020.05.15-13.25.14:934][500]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2020.05.15-13.25.14:935][500]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2020.05.15-13.25.14:935][500]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2020.05.15-13.25.14:935][500]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2020.05.15-13.25.14:935][500]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2020.05.15-13.25.14:935][500]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2020.05.15-13.25.14:935][500]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2020.05.15-13.25.14:935][500]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2020.05.15-13.25.14:935][500]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2020.05.15-13.25.14:935][500]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2020.05.15-13.25.14:935][500]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2020.05.15-13.25.14:935][500]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2020.05.15-13.25.14:936][500]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2020.05.15-13.25.14:936][500]LogModuleManager: Shutting down and abandoning module Media (241)
+[2020.05.15-13.25.14:942][500]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2020.05.15-13.25.14:942][500]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2020.05.15-13.25.14:942][500]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2020.05.15-13.25.14:942][500]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2020.05.15-13.25.14:942][500]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2020.05.15-13.25.14:942][500]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2020.05.15-13.25.14:942][500]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2020.05.15-13.25.14:942][500]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2020.05.15-13.25.14:942][500]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2020.05.15-13.25.14:942][500]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2020.05.15-13.25.14:942][500]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2020.05.15-13.25.14:942][500]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2020.05.15-13.25.14:942][500]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2020.05.15-13.25.14:942][500]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2020.05.15-13.25.14:942][500]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2020.05.15-13.25.14:942][500]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2020.05.15-13.25.14:942][500]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2020.05.15-13.25.14:942][500]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2020.05.15-13.25.14:942][500]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2020.05.15-13.25.14:942][500]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2020.05.15-13.25.14:943][500]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2020.05.15-13.25.14:943][500]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2020.05.15-13.25.14:943][500]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2020.05.15-13.25.14:943][500]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2020.05.15-13.25.14:943][500]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2020.05.15-13.25.14:943][500]LogModuleManager: Shutting down and abandoning module Core (186)
+[2020.05.15-13.25.14:943][500]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2020.05.15-13.25.14:943][500]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2020.05.15-13.25.14:943][500]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2020.05.15-13.25.14:943][500]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2020.05.15-13.25.14:943][500]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2020.05.15-13.25.14:944][500]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2020.05.15-13.25.14:944][500]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2020.05.15-13.25.14:944][500]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2020.05.15-13.25.14:944][500]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2020.05.15-13.25.14:944][500]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2020.05.15-13.25.14:944][500]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2020.05.15-13.25.14:944][500]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2020.05.15-13.25.15:044][500]LogDerivedDataCache: Shutdown
+[2020.05.15-13.25.15:044][500]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2020.05.15-13.25.15:044][500]LogXGEController: Cleaning working directory: C:/Users/Biggy/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.05.15-13.25.15:044][500]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2020.05.15-13.25.15:044][500]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2020.05.15-13.25.15:044][500]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2020.05.15-13.25.15:044][500]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2020.05.15-13.25.15:044][500]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2020.05.15-13.25.15:044][500]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2020.05.15-13.25.15:044][500]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2020.05.15-13.25.15:044][500]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2020.05.15-13.25.15:044][500]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2020.05.15-13.25.15:044][500]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2020.05.15-13.25.15:044][500]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2020.05.15-13.25.15:044][500]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2020.05.15-13.25.15:044][500]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2020.05.15-13.25.15:044][500]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2020.05.15-13.25.15:044][500]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2020.05.15-13.25.15:044][500]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2020.05.15-13.25.15:045][500]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2020.05.15-13.25.15:045][500]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2020.05.15-13.25.15:045][500]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2020.05.15-13.25.15:045][500]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2020.05.15-13.25.15:045][500]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2020.05.15-13.25.15:045][500]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2020.05.15-13.25.15:045][500]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2020.05.15-13.25.15:045][500]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2020.05.15-13.25.15:046][500]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2020.05.15-13.25.15:046][500]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2020.05.15-13.25.15:049][500]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2020.05.15-13.25.15:049][500]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2020.05.15-13.25.15:049][500]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2020.05.15-13.25.15:049][500]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2020.05.15-13.25.15:049][500]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2020.05.15-13.25.15:049][500]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2020.05.15-13.25.15:049][500]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2020.05.15-13.25.15:049][500]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2020.05.15-13.25.15:049][500]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2020.05.15-13.25.15:049][500]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2020.05.15-13.25.15:049][500]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2020.05.15-13.25.15:049][500]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2020.05.15-13.25.15:050][500]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2020.05.15-13.25.15:050][500]LogHMD: Freeing OpenVRDLLHandle.
+[2020.05.15-13.25.15:050][500]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2020.05.15-13.25.15:050][500]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2020.05.15-13.25.15:050][500]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2020.05.15-13.25.15:050][500]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2020.05.15-13.25.15:050][500]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2020.05.15-13.25.15:050][500]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2020.05.15-13.25.15:050][500]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2020.05.15-13.25.15:055][500]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2020.05.15-13.25.15:055][500]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.05.15-13.25.15:055][500]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B66E4823B-4FD9-D49A-8F2C-38BE2BD9CC5C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=c3eea5674ea06eb59b0ad08315ec2df6%7C3bc9bae38610427c97cef256983b6085%7C43373798-76cf-4076-84ec-4f34b6c51467&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.05.15-13.25.15:083][500]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2020.05.15-13.25.15:084][500]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2020.05.15-13.25.15:084][500]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2020.05.15-13.25.15:084][500]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2020.05.15-13.25.15:084][500]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2020.05.15-13.25.15:084][500]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2020.05.15-13.25.15:084][500]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2020.05.15-13.25.15:084][500]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2020.05.15-13.25.15:084][500]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.05.15-13.25.15:084][500]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2020.05.15-13.25.15:084][500]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2020.05.15-13.25.15:085][500]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2020.05.15-13.25.15:085][500]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2020.05.15-13.25.15:085][500]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2020.05.15-13.25.15:085][500]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2020.05.15-13.25.15:085][500]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2020.05.15-13.25.15:085][500]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2020.05.15-13.25.15:085][500]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2020.05.15-13.25.15:085][500]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2020.05.15-13.25.15:085][500]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2020.05.15-13.25.15:085][500]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2020.05.15-13.25.15:085][500]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2020.05.15-13.25.15:085][500]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2020.05.15-13.25.15:085][500]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2020.05.15-13.25.15:085][500]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2020.05.15-13.25.15:085][500]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2020.05.15-13.25.15:085][500]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2020.05.15-13.25.15:085][500]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2020.05.15-13.25.15:085][500]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2020.05.15-13.25.15:091][500]LogExit: Exiting.
+[2020.05.15-13.25.15:121][500]Log file closed, 05/15/20 14:25:15
